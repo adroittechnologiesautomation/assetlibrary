@@ -1,0 +1,24 @@
+[
+  {
+    "id": "gate",
+    "name": "Gate",
+    "description": "A Gate.",
+    "fileType": "vizw",
+    "author": "Adroit Technologies",
+    "previewImageUrl": "",
+    "downloadUrl": "",
+    "industry": "",
+    "tags": []
+  },
+  {
+    "id": "4 state gate",
+    "name": "4 State Gate",
+    "description": "A 4 State Gate.",
+    "fileType": "vizw",
+    "author": "Adroit Technologies",
+    "previewImageUrl": "",
+    "downloadUrl": "",
+    "industry": "",
+    "tags": []
+  }
+]

@@ -1,0 +1,105 @@
+[
+  {
+    "id": "switch",
+    "name": "Switch",
+    "description": "A Switch.",
+    "fileType": "vizw",
+    "author": "Adroit Technologies",
+    "previewImageUrl": "",
+    "downloadUrl": "",
+    "industry": "",
+    "tags": [
+      "Switch",
+      "Control",
+      "Input",
+      "Electrical"
+    ]
+  },
+  {
+    "id": "server_vertical",
+    "name": "Server_Vertical",
+    "description": "A Server_Vertical.",
+    "fileType": "vizw",
+    "author": "Adroit Technologies",
+    "previewImageUrl": "",
+    "downloadUrl": "",
+    "industry": "",
+    "tags": []
+  },
+  {
+    "id": "db",
+    "name": "DB",
+    "description": "A DB.",
+    "fileType": "vizw",
+    "author": "Adroit Technologies",
+    "previewImageUrl": "",
+    "downloadUrl": "",
+    "industry": "",
+    "tags": []
+  },
+  {
+    "id": "serverswitchtouchdesktop",
+    "name": "ServerSwitchTouchDesktop",
+    "description": "A ServerSwitchTouchDesktop.",
+    "fileType": "viz",
+    "author": "Adroit Technologies",
+    "previewImageUrl": "",
+    "downloadUrl": "",
+    "industry": "",
+    "tags": [
+      "Switch",
+      "Control",
+      "Input",
+      "Electrical"
+    ]
+  },
+  {
+    "id": "plc",
+    "name": "PLC",
+    "description": "A PLC.",
+    "fileType": "vizw",
+    "author": "Adroit Technologies",
+    "previewImageUrl": "",
+    "downloadUrl": "",
+    "industry": "",
+    "tags": [
+      "PLC",
+      "Controller",
+      "Logic",
+      "Manufacturing"
+    ]
+  },
+  {
+    "id": "touch",
+    "name": "Touch",
+    "description": "A Touch.",
+    "fileType": "vizw",
+    "author": "Adroit Technologies",
+    "previewImageUrl": "",
+    "downloadUrl": "",
+    "industry": "",
+    "tags": []
+  },
+  {
+    "id": "server_horizontal",
+    "name": "Server_Horizontal",
+    "description": "A Server_Horizontal.",
+    "fileType": "vizw",
+    "author": "Adroit Technologies",
+    "previewImageUrl": "",
+    "downloadUrl": "",
+    "industry": "",
+    "tags": []
+  },
+  {
+    "id": "desktop",
+    "name": "Desktop",
+    "description": "A Desktop.",
+    "fileType": "vizw",
+    "author": "Adroit Technologies",
+    "previewImageUrl": "",
+    "downloadUrl": "",
+    "industry": "",
+    "tags": []
+  }
+]

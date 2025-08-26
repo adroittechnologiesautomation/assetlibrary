@@ -1,0 +1,24 @@
+[
+  {
+    "id": "simple analog",
+    "name": "Simple Analog",
+    "description": "A Simple Analog.",
+    "fileType": "vizw",
+    "author": "Adroit Technologies",
+    "previewImageUrl": "",
+    "downloadUrl": "",
+    "industry": "",
+    "tags": []
+  },
+  {
+    "id": "simple analog_1",
+    "name": "Simple Analog_1",
+    "description": "A Simple Analog_1.",
+    "fileType": "vizw",
+    "author": "Adroit Technologies",
+    "previewImageUrl": "",
+    "downloadUrl": "",
+    "industry": "",
+    "tags": []
+  }
+]

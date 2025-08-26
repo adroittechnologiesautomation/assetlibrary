@@ -1,0 +1,34 @@
+[
+  {
+    "id": "wzdvalvevertical_v01",
+    "name": "wzdValveVertical_v01",
+    "description": "A wzdValveVertical_v01.",
+    "fileType": "vizw",
+    "author": "Adroit Technologies",
+    "previewImageUrl": "",
+    "downloadUrl": "",
+    "industry": "",
+    "tags": [
+      "Valve",
+      "Flow Control",
+      "Actuator",
+      "Water"
+    ]
+  },
+  {
+    "id": "wzdvalvehorizontal_v01",
+    "name": "wzdValveHorizontal_v01",
+    "description": "A wzdValveHorizontal_v01.",
+    "fileType": "vizw",
+    "author": "Adroit Technologies",
+    "previewImageUrl": "",
+    "downloadUrl": "",
+    "industry": "",
+    "tags": [
+      "Valve",
+      "Flow Control",
+      "Actuator",
+      "Water"
+    ]
+  }
+]

@@ -1,0 +1,116 @@
+[
+  {
+    "id": "open close toggle",
+    "name": "Open Close Toggle",
+    "description": "A Open Close Toggle.",
+    "fileType": "vizw",
+    "author": "Adroit Technologies",
+    "previewImageUrl": "",
+    "downloadUrl": "",
+    "industry": "",
+    "tags": []
+  },
+  {
+    "id": "motor onoff switch",
+    "name": "Motor OnOff Switch",
+    "description": "A Motor OnOff Switch.",
+    "fileType": "vizw",
+    "author": "Adroit Technologies",
+    "previewImageUrl": "",
+    "downloadUrl": "",
+    "industry": "",
+    "tags": [
+      "Motor",
+      "Drive",
+      "Motion",
+      "Manufacturing"
+    ]
+  },
+  {
+    "id": "startstop buttons 2",
+    "name": "StartStop Buttons 2",
+    "description": "A StartStop Buttons 2.",
+    "fileType": "vizw",
+    "author": "Adroit Technologies",
+    "previewImageUrl": "",
+    "downloadUrl": "",
+    "industry": "",
+    "tags": []
+  },
+  {
+    "id": "startstop buttons 1",
+    "name": "StartStop Buttons 1",
+    "description": "A StartStop Buttons 1.",
+    "fileType": "vizw",
+    "author": "Adroit Technologies",
+    "previewImageUrl": "",
+    "downloadUrl": "",
+    "industry": "",
+    "tags": []
+  },
+  {
+    "id": "siren button",
+    "name": "Siren Button",
+    "description": "A Siren Button.",
+    "fileType": "vizw",
+    "author": "Adroit Technologies",
+    "previewImageUrl": "",
+    "downloadUrl": "",
+    "industry": "",
+    "tags": []
+  },
+  {
+    "id": "start stop toggle",
+    "name": "Start Stop Toggle",
+    "description": "A Start Stop Toggle.",
+    "fileType": "vizw",
+    "author": "Adroit Technologies",
+    "previewImageUrl": "",
+    "downloadUrl": "",
+    "industry": "",
+    "tags": []
+  },
+  {
+    "id": "emergency stop",
+    "name": "Emergency Stop",
+    "description": "A Emergency Stop.",
+    "fileType": "vizw",
+    "author": "Adroit Technologies",
+    "previewImageUrl": "",
+    "downloadUrl": "",
+    "industry": "",
+    "tags": []
+  },
+  {
+    "id": "onoff switch 1",
+    "name": "OnOff Switch 1",
+    "description": "A OnOff Switch 1.",
+    "fileType": "vizw",
+    "author": "Adroit Technologies",
+    "previewImageUrl": "",
+    "downloadUrl": "",
+    "industry": "",
+    "tags": [
+      "Switch",
+      "Control",
+      "Input",
+      "Electrical"
+    ]
+  },
+  {
+    "id": "onoff switch 2",
+    "name": "OnOff Switch 2",
+    "description": "A OnOff Switch 2.",
+    "fileType": "vizw",
+    "author": "Adroit Technologies",
+    "previewImageUrl": "",
+    "downloadUrl": "",
+    "industry": "",
+    "tags": [
+      "Switch",
+      "Control",
+      "Input",
+      "Electrical"
+    ]
+  }
+]

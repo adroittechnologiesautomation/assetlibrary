@@ -1,0 +1,35 @@
+[
+  {
+    "id": "wzdradio_digitaldisplay_priority3_v01",
+    "name": "wzdRadio_DigitalDisplay_Priority3_v01",
+    "description": "A wzdRadio_DigitalDisplay_Priority3_v01.",
+    "fileType": "vizw",
+    "author": "Adroit Technologies",
+    "previewImageUrl": "",
+    "downloadUrl": "",
+    "industry": "",
+    "tags": []
+  },
+  {
+    "id": "wzddigitaltextdisplay_nopriority_v01",
+    "name": "wzdDigitalTextDisplay_NoPriority_v01",
+    "description": "A wzdDigitalTextDisplay_NoPriority_v01.",
+    "fileType": "vizw",
+    "author": "Adroit Technologies",
+    "previewImageUrl": "",
+    "downloadUrl": "",
+    "industry": "",
+    "tags": []
+  },
+  {
+    "id": "wzdradio_digitaldisplay_nopriority_v01",
+    "name": "wzdRadio_DigitalDisplay_NoPriority_v01",
+    "description": "A wzdRadio_DigitalDisplay_NoPriority_v01.",
+    "fileType": "vizw",
+    "author": "Adroit Technologies",
+    "previewImageUrl": "",
+    "downloadUrl": "",
+    "industry": "",
+    "tags": []
+  }
+]

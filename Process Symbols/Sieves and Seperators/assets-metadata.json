@@ -1,0 +1,68 @@
+[
+  {
+    "id": "centrifugal",
+    "name": "Centrifugal",
+    "description": "A Centrifugal.",
+    "fileType": "viz",
+    "author": "Adroit Technologies",
+    "previewImageUrl": "",
+    "downloadUrl": "",
+    "industry": "",
+    "tags": []
+  },
+  {
+    "id": "seperator",
+    "name": "Seperator",
+    "description": "A Seperator.",
+    "fileType": "viz",
+    "author": "Adroit Technologies",
+    "previewImageUrl": "",
+    "downloadUrl": "",
+    "industry": "",
+    "tags": []
+  },
+  {
+    "id": "clarifier",
+    "name": "Clarifier",
+    "description": "A Clarifier.",
+    "fileType": "viz",
+    "author": "Adroit Technologies",
+    "previewImageUrl": "",
+    "downloadUrl": "",
+    "industry": "",
+    "tags": []
+  },
+  {
+    "id": "sieve",
+    "name": "Sieve",
+    "description": "A Sieve.",
+    "fileType": "viz",
+    "author": "Adroit Technologies",
+    "previewImageUrl": "",
+    "downloadUrl": "",
+    "industry": "",
+    "tags": []
+  },
+  {
+    "id": "magnetic seperator",
+    "name": "Magnetic Seperator",
+    "description": "A Magnetic Seperator.",
+    "fileType": "viz",
+    "author": "Adroit Technologies",
+    "previewImageUrl": "",
+    "downloadUrl": "",
+    "industry": "",
+    "tags": []
+  },
+  {
+    "id": "elutriator",
+    "name": "Elutriator",
+    "description": "A Elutriator.",
+    "fileType": "viz",
+    "author": "Adroit Technologies",
+    "previewImageUrl": "",
+    "downloadUrl": "",
+    "industry": "",
+    "tags": []
+  }
+]

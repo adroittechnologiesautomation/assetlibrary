@@ -1,0 +1,46 @@
+[
+  {
+    "id": "trend",
+    "name": "TREND",
+    "description": "A TREND.",
+    "fileType": "viz",
+    "author": "Adroit Technologies",
+    "previewImageUrl": "",
+    "downloadUrl": "",
+    "industry": "",
+    "tags": []
+  },
+  {
+    "id": "web",
+    "name": "WEB",
+    "description": "A WEB.",
+    "fileType": "viz",
+    "author": "Adroit Technologies",
+    "previewImageUrl": "",
+    "downloadUrl": "",
+    "industry": "",
+    "tags": []
+  },
+  {
+    "id": "alarmevent",
+    "name": "AlarmEvent",
+    "description": "A AlarmEvent.",
+    "fileType": "viz",
+    "author": "Adroit Technologies",
+    "previewImageUrl": "",
+    "downloadUrl": "",
+    "industry": "",
+    "tags": []
+  },
+  {
+    "id": "home",
+    "name": "HOME",
+    "description": "A HOME.",
+    "fileType": "viz",
+    "author": "Adroit Technologies",
+    "previewImageUrl": "",
+    "downloadUrl": "",
+    "industry": "",
+    "tags": []
+  }
+]

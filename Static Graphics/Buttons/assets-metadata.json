@@ -1,0 +1,68 @@
+[
+  {
+    "id": "scada buttons",
+    "name": "SCADA Buttons",
+    "description": "A SCADA Buttons.",
+    "fileType": "viz",
+    "author": "Adroit Technologies",
+    "previewImageUrl": "",
+    "downloadUrl": "",
+    "industry": "",
+    "tags": []
+  },
+  {
+    "id": "reset button",
+    "name": "Reset Button",
+    "description": "A Reset Button.",
+    "fileType": "viz",
+    "author": "Adroit Technologies",
+    "previewImageUrl": "",
+    "downloadUrl": "",
+    "industry": "",
+    "tags": []
+  },
+  {
+    "id": "windows buttons",
+    "name": "Windows Buttons",
+    "description": "A Windows Buttons.",
+    "fileType": "viz",
+    "author": "Adroit Technologies",
+    "previewImageUrl": "",
+    "downloadUrl": "",
+    "industry": "",
+    "tags": []
+  },
+  {
+    "id": "start button",
+    "name": "Start Button",
+    "description": "A Start Button.",
+    "fileType": "viz",
+    "author": "Adroit Technologies",
+    "previewImageUrl": "",
+    "downloadUrl": "",
+    "industry": "",
+    "tags": []
+  },
+  {
+    "id": "stop button",
+    "name": "Stop Button",
+    "description": "A Stop Button.",
+    "fileType": "viz",
+    "author": "Adroit Technologies",
+    "previewImageUrl": "",
+    "downloadUrl": "",
+    "industry": "",
+    "tags": []
+  },
+  {
+    "id": "buttons",
+    "name": "Buttons",
+    "description": "A Buttons.",
+    "fileType": "viz",
+    "author": "Adroit Technologies",
+    "previewImageUrl": "",
+    "downloadUrl": "",
+    "industry": "",
+    "tags": []
+  }
+]

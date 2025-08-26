@@ -1,0 +1,66 @@
+[
+  {
+    "id": "horizontal cement mill left",
+    "name": "Horizontal Cement Mill Left",
+    "description": "A Horizontal Cement Mill Left.",
+    "fileType": "viz",
+    "author": "Adroit Technologies",
+    "previewImageUrl": "",
+    "downloadUrl": "",
+    "industry": "",
+    "tags": [
+      "Mill",
+      "Grinding",
+      "Size Reduction",
+      "Mining"
+    ]
+  },
+  {
+    "id": "horizontal cement mill right",
+    "name": "Horizontal Cement Mill Right",
+    "description": "A Horizontal Cement Mill Right.",
+    "fileType": "viz",
+    "author": "Adroit Technologies",
+    "previewImageUrl": "",
+    "downloadUrl": "",
+    "industry": "",
+    "tags": [
+      "Mill",
+      "Grinding",
+      "Size Reduction",
+      "Mining"
+    ]
+  },
+  {
+    "id": "vertical cement mill left",
+    "name": "Vertical Cement Mill Left",
+    "description": "A Vertical Cement Mill Left.",
+    "fileType": "viz",
+    "author": "Adroit Technologies",
+    "previewImageUrl": "",
+    "downloadUrl": "",
+    "industry": "",
+    "tags": [
+      "Mill",
+      "Grinding",
+      "Size Reduction",
+      "Mining"
+    ]
+  },
+  {
+    "id": "vertical cement mill right",
+    "name": "Vertical Cement Mill Right",
+    "description": "A Vertical Cement Mill Right.",
+    "fileType": "viz",
+    "author": "Adroit Technologies",
+    "previewImageUrl": "",
+    "downloadUrl": "",
+    "industry": "",
+    "tags": [
+      "Mill",
+      "Grinding",
+      "Size Reduction",
+      "Mining"
+    ]
+  }
+]

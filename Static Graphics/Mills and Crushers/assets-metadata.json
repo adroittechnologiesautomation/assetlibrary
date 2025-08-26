@@ -1,0 +1,82 @@
+[
+  {
+    "id": "crusher 01",
+    "name": "Crusher 01",
+    "description": "A Crusher 01.",
+    "fileType": "viz",
+    "author": "Adroit Technologies",
+    "previewImageUrl": "",
+    "downloadUrl": "",
+    "industry": "",
+    "tags": [
+      "Crusher",
+      "Crushing",
+      "Size Reduction",
+      "Mining"
+    ]
+  },
+  {
+    "id": "mill 01",
+    "name": "Mill 01",
+    "description": "A Mill 01.",
+    "fileType": "viz",
+    "author": "Adroit Technologies",
+    "previewImageUrl": "",
+    "downloadUrl": "",
+    "industry": "",
+    "tags": [
+      "Mill",
+      "Grinding",
+      "Size Reduction",
+      "Mining"
+    ]
+  },
+  {
+    "id": "mill 02",
+    "name": "Mill 02",
+    "description": "A Mill 02.",
+    "fileType": "viz",
+    "author": "Adroit Technologies",
+    "previewImageUrl": "",
+    "downloadUrl": "",
+    "industry": "",
+    "tags": [
+      "Mill",
+      "Grinding",
+      "Size Reduction",
+      "Mining"
+    ]
+  },
+  {
+    "id": "mobile crusher",
+    "name": "Mobile Crusher",
+    "description": "A Mobile Crusher.",
+    "fileType": "viz",
+    "author": "Adroit Technologies",
+    "previewImageUrl": "",
+    "downloadUrl": "",
+    "industry": "",
+    "tags": [
+      "Crusher",
+      "Crushing",
+      "Size Reduction",
+      "Mining"
+    ]
+  },
+  {
+    "id": "crusher 02",
+    "name": "Crusher 02",
+    "description": "A Crusher 02.",
+    "fileType": "viz",
+    "author": "Adroit Technologies",
+    "previewImageUrl": "",
+    "downloadUrl": "",
+    "industry": "",
+    "tags": [
+      "Crusher",
+      "Crushing",
+      "Size Reduction",
+      "Mining"
+    ]
+  }
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "id": "bucketelevatorright",
+    "name": "BucketElevatorRight",
+    "description": "A BucketElevatorRight.",
+    "fileType": "viz",
+    "author": "Adroit Technologies",
+    "previewImageUrl": "",
+    "downloadUrl": "",
+    "industry": "",
+    "tags": []
+  },
+  {
+    "id": "bucketelevatorleft",
+    "name": "BucketElevatorLeft",
+    "description": "A BucketElevatorLeft.",
+    "fileType": "viz",
+    "author": "Adroit Technologies",
+    "previewImageUrl": "",
+    "downloadUrl": "",
+    "industry": "",
+    "tags": []
+  }
+]

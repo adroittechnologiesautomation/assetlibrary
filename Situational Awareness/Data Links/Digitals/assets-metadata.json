@@ -1,0 +1,24 @@
+[
+  {
+    "id": "wzddigitaldatalink_priority3_v01",
+    "name": "wzdDigitalDataLink_Priority3_v01",
+    "description": "A wzdDigitalDataLink_Priority3_v01.",
+    "fileType": "vizw",
+    "author": "Adroit Technologies",
+    "previewImageUrl": "",
+    "downloadUrl": "",
+    "industry": "",
+    "tags": []
+  },
+  {
+    "id": "wzddigitaldatalink_nopriority_v01",
+    "name": "wzdDigitalDataLink_NoPriority_v01",
+    "description": "A wzdDigitalDataLink_NoPriority_v01.",
+    "fileType": "vizw",
+    "author": "Adroit Technologies",
+    "previewImageUrl": "",
+    "downloadUrl": "",
+    "industry": "",
+    "tags": []
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "id": "pulley",
+    "name": "Pulley",
+    "description": "A Pulley.",
+    "fileType": "viz",
+    "author": "Adroit Technologies",
+    "previewImageUrl": "",
+    "downloadUrl": "",
+    "industry": "",
+    "tags": [
+      "Pulley",
+      "Transmission",
+      "Rotation",
+      "Mechanical"
+    ]
+  },
+  {
+    "id": "belt",
+    "name": "Belt",
+    "description": "A Belt.",
+    "fileType": "viz",
+    "author": "Adroit Technologies",
+    "previewImageUrl": "",
+    "downloadUrl": "",
+    "industry": "",
+    "tags": [
+      "Belt",
+      "Transmission",
+      "Material Handling",
+      "Mining"
+    ]
+  }
+]

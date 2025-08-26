@@ -1,0 +1,66 @@
+[
+  {
+    "id": "compressor1",
+    "name": "Compressor1",
+    "description": "A Compressor1.",
+    "fileType": "viz",
+    "author": "Adroit Technologies",
+    "previewImageUrl": "",
+    "downloadUrl": "",
+    "industry": "",
+    "tags": [
+      "Compressor",
+      "Air",
+      "Pressure",
+      "Industrial"
+    ]
+  },
+  {
+    "id": "compressor3",
+    "name": "Compressor3",
+    "description": "A Compressor3.",
+    "fileType": "viz",
+    "author": "Adroit Technologies",
+    "previewImageUrl": "",
+    "downloadUrl": "",
+    "industry": "",
+    "tags": [
+      "Compressor",
+      "Air",
+      "Pressure",
+      "Industrial"
+    ]
+  },
+  {
+    "id": "tankcompressor",
+    "name": "TankCompressor",
+    "description": "A TankCompressor.",
+    "fileType": "viz",
+    "author": "Adroit Technologies",
+    "previewImageUrl": "",
+    "downloadUrl": "",
+    "industry": "",
+    "tags": [
+      "Tank",
+      "Storage",
+      "Containment",
+      "Process"
+    ]
+  },
+  {
+    "id": "compressor2",
+    "name": "Compressor2",
+    "description": "A Compressor2.",
+    "fileType": "viz",
+    "author": "Adroit Technologies",
+    "previewImageUrl": "",
+    "downloadUrl": "",
+    "industry": "",
+    "tags": [
+      "Compressor",
+      "Air",
+      "Pressure",
+      "Industrial"
+    ]
+  }
+]

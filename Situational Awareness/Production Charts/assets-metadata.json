@@ -1,0 +1,35 @@
+[
+  {
+    "id": "wzdproductionchart_statictime_statictarget_v01",
+    "name": "wzdProductionChart_StaticTime_StaticTarget_v01",
+    "description": "A wzdProductionChart_StaticTime_StaticTarget_v01.",
+    "fileType": "vizw",
+    "author": "Adroit Technologies",
+    "previewImageUrl": "",
+    "downloadUrl": "",
+    "industry": "",
+    "tags": []
+  },
+  {
+    "id": "wzdproductionchart_shiftagent_dynamictarget_v01",
+    "name": "wzdProductionChart_ShiftAgent_DynamicTarget_v01",
+    "description": "A wzdProductionChart_ShiftAgent_DynamicTarget_v01.",
+    "fileType": "vizw",
+    "author": "Adroit Technologies",
+    "previewImageUrl": "",
+    "downloadUrl": "",
+    "industry": "",
+    "tags": []
+  },
+  {
+    "id": "wzdproductionchart_statictime_dynamictarget_v01",
+    "name": "wzdProductionChart_StaticTime_DynamicTarget_v01",
+    "description": "A wzdProductionChart_StaticTime_DynamicTarget_v01.",
+    "fileType": "vizw",
+    "author": "Adroit Technologies",
+    "previewImageUrl": "",
+    "downloadUrl": "",
+    "industry": "",
+    "tags": []
+  }
+]

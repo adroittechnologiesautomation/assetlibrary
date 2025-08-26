@@ -1,0 +1,50 @@
+[
+  {
+    "id": "electric motor 1",
+    "name": "Electric Motor 1",
+    "description": "A Electric Motor 1.",
+    "fileType": "viz",
+    "author": "Adroit Technologies",
+    "previewImageUrl": "",
+    "downloadUrl": "",
+    "industry": "",
+    "tags": [
+      "Motor",
+      "Drive",
+      "Motion",
+      "Manufacturing"
+    ]
+  },
+  {
+    "id": "electric motor 2",
+    "name": "Electric Motor 2",
+    "description": "A Electric Motor 2.",
+    "fileType": "viz",
+    "author": "Adroit Technologies",
+    "previewImageUrl": "",
+    "downloadUrl": "",
+    "industry": "",
+    "tags": [
+      "Motor",
+      "Drive",
+      "Motion",
+      "Manufacturing"
+    ]
+  },
+  {
+    "id": "drive",
+    "name": "Drive",
+    "description": "A Drive.",
+    "fileType": "viz",
+    "author": "Adroit Technologies",
+    "previewImageUrl": "",
+    "downloadUrl": "",
+    "industry": "",
+    "tags": [
+      "Drive",
+      "VFD",
+      "Motor Control",
+      "Manufacturing"
+    ]
+  }
+]

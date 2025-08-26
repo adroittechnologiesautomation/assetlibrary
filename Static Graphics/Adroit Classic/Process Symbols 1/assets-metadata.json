@@ -1,0 +1,180 @@
+[
+  {
+    "id": "gradient filled shapes",
+    "name": "Gradient Filled Shapes",
+    "description": "A Gradient Filled Shapes.",
+    "fileType": "viz",
+    "author": "Adroit Technologies",
+    "previewImageUrl": "",
+    "downloadUrl": "",
+    "industry": "",
+    "tags": []
+  },
+  {
+    "id": "motors",
+    "name": "Motors",
+    "description": "A Motors.",
+    "fileType": "viz",
+    "author": "Adroit Technologies",
+    "previewImageUrl": "",
+    "downloadUrl": "",
+    "industry": "",
+    "tags": [
+      "Motor",
+      "Drive",
+      "Motion",
+      "Manufacturing"
+    ]
+  },
+  {
+    "id": "vessels and seperators",
+    "name": "Vessels and Seperators",
+    "description": "A Vessels and Seperators.",
+    "fileType": "viz",
+    "author": "Adroit Technologies",
+    "previewImageUrl": "",
+    "downloadUrl": "",
+    "industry": "",
+    "tags": [
+      "Vessel",
+      "Pressure",
+      "Containment",
+      "Process"
+    ]
+  },
+  {
+    "id": "heat exchangers",
+    "name": "Heat Exchangers",
+    "description": "A Heat Exchangers.",
+    "fileType": "viz",
+    "author": "Adroit Technologies",
+    "previewImageUrl": "",
+    "downloadUrl": "",
+    "industry": "",
+    "tags": []
+  },
+  {
+    "id": "actuators",
+    "name": "Actuators",
+    "description": "A Actuators.",
+    "fileType": "viz",
+    "author": "Adroit Technologies",
+    "previewImageUrl": "",
+    "downloadUrl": "",
+    "industry": "",
+    "tags": []
+  },
+  {
+    "id": "strainers",
+    "name": "Strainers",
+    "description": "A Strainers.",
+    "fileType": "viz",
+    "author": "Adroit Technologies",
+    "previewImageUrl": "",
+    "downloadUrl": "",
+    "industry": "",
+    "tags": []
+  },
+  {
+    "id": "pipework ",
+    "name": "Pipework ",
+    "description": "A Pipework .",
+    "fileType": "viz",
+    "author": "Adroit Technologies",
+    "previewImageUrl": "",
+    "downloadUrl": "",
+    "industry": "",
+    "tags": [
+      "Pipe",
+      "Conduit",
+      "Flow",
+      "Process"
+    ]
+  },
+  {
+    "id": "mills and crushers",
+    "name": "Mills and Crushers",
+    "description": "A Mills and Crushers.",
+    "fileType": "viz",
+    "author": "Adroit Technologies",
+    "previewImageUrl": "",
+    "downloadUrl": "",
+    "industry": "",
+    "tags": [
+      "Mill",
+      "Grinding",
+      "Size Reduction",
+      "Mining"
+    ]
+  },
+  {
+    "id": "pumps and fans",
+    "name": "Pumps and Fans",
+    "description": "A Pumps and Fans.",
+    "fileType": "viz",
+    "author": "Adroit Technologies",
+    "previewImageUrl": "",
+    "downloadUrl": "",
+    "industry": "",
+    "tags": [
+      "Pump",
+      "Fluid",
+      "Actuator",
+      "Water"
+    ]
+  },
+  {
+    "id": "conveyors simple",
+    "name": "Conveyors Simple",
+    "description": "A Conveyors Simple.",
+    "fileType": "viz",
+    "author": "Adroit Technologies",
+    "previewImageUrl": "",
+    "downloadUrl": "",
+    "industry": "",
+    "tags": [
+      "Conveyor",
+      "Material Handling",
+      "Transport",
+      "Mining"
+    ]
+  },
+  {
+    "id": "instruments",
+    "name": "Instruments",
+    "description": "A Instruments.",
+    "fileType": "viz",
+    "author": "Adroit Technologies",
+    "previewImageUrl": "",
+    "downloadUrl": "",
+    "industry": "",
+    "tags": []
+  },
+  {
+    "id": "valves ",
+    "name": "Valves ",
+    "description": "A Valves .",
+    "fileType": "viz",
+    "author": "Adroit Technologies",
+    "previewImageUrl": "",
+    "downloadUrl": "",
+    "industry": "",
+    "tags": [
+      "Valve",
+      "Flow Control",
+      "Actuator",
+      "Water"
+    ]
+  },
+  {
+    "id": "material handling ",
+    "name": "Material Handling ",
+    "description": "A Material Handling .",
+    "fileType": "viz",
+    "author": "Adroit Technologies",
+    "previewImageUrl": "",
+    "downloadUrl": "",
+    "industry": "",
+    "tags": []
+  }
+]

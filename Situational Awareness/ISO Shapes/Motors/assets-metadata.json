@@ -1,0 +1,34 @@
+[
+  {
+    "id": "wzdmotorhorizontal_v01",
+    "name": "wzdMotorHorizontal_v01",
+    "description": "A wzdMotorHorizontal_v01.",
+    "fileType": "vizw",
+    "author": "Adroit Technologies",
+    "previewImageUrl": "",
+    "downloadUrl": "",
+    "industry": "",
+    "tags": [
+      "Motor",
+      "Drive",
+      "Motion",
+      "Manufacturing"
+    ]
+  },
+  {
+    "id": "wzdmotorvertical_v01",
+    "name": "wzdMotorVertical_v01",
+    "description": "A wzdMotorVertical_v01.",
+    "fileType": "vizw",
+    "author": "Adroit Technologies",
+    "previewImageUrl": "",
+    "downloadUrl": "",
+    "industry": "",
+    "tags": [
+      "Motor",
+      "Drive",
+      "Motion",
+      "Manufacturing"
+    ]
+  }
+]

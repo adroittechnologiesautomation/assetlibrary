@@ -1,0 +1,35 @@
+[
+  {
+    "id": "wzdanaloguedisplay_nopriority_v01",
+    "name": "wzdAnalogueDisplay_NoPriority_v01",
+    "description": "A wzdAnalogueDisplay_NoPriority_v01.",
+    "fileType": "vizw",
+    "author": "Adroit Technologies",
+    "previewImageUrl": "",
+    "downloadUrl": "",
+    "industry": "",
+    "tags": []
+  },
+  {
+    "id": "wzdanaloguedisplay_priority3_v01",
+    "name": "wzdAnalogueDisplay_Priority3_v01",
+    "description": "A wzdAnalogueDisplay_Priority3_v01.",
+    "fileType": "vizw",
+    "author": "Adroit Technologies",
+    "previewImageUrl": "",
+    "downloadUrl": "",
+    "industry": "",
+    "tags": []
+  },
+  {
+    "id": "wzdanaloguedisplay_priority5_v01",
+    "name": "wzdAnalogueDisplay_Priority5_v01",
+    "description": "A wzdAnalogueDisplay_Priority5_v01.",
+    "fileType": "vizw",
+    "author": "Adroit Technologies",
+    "previewImageUrl": "",
+    "downloadUrl": "",
+    "industry": "",
+    "tags": []
+  }
+]

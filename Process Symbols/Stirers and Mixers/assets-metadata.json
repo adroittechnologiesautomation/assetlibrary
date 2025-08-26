@@ -1,0 +1,24 @@
+[
+  {
+    "id": "mixer",
+    "name": "Mixer",
+    "description": "A Mixer.",
+    "fileType": "viz",
+    "author": "Adroit Technologies",
+    "previewImageUrl": "",
+    "downloadUrl": "",
+    "industry": "",
+    "tags": []
+  },
+  {
+    "id": "stirer",
+    "name": "Stirer",
+    "description": "A Stirer.",
+    "fileType": "viz",
+    "author": "Adroit Technologies",
+    "previewImageUrl": "",
+    "downloadUrl": "",
+    "industry": "",
+    "tags": []
+  }
+]

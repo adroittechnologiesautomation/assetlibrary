@@ -1,0 +1,34 @@
+[
+  {
+    "id": "wzdpumpvertical_v01",
+    "name": "wzdPumpVertical_v01",
+    "description": "A wzdPumpVertical_v01.",
+    "fileType": "vizw",
+    "author": "Adroit Technologies",
+    "previewImageUrl": "",
+    "downloadUrl": "",
+    "industry": "",
+    "tags": [
+      "Pump",
+      "Fluid",
+      "Actuator",
+      "Water"
+    ]
+  },
+  {
+    "id": "wzdpumphorizontal_v01",
+    "name": "wzdPumpHorizontal_v01",
+    "description": "A wzdPumpHorizontal_v01.",
+    "fileType": "vizw",
+    "author": "Adroit Technologies",
+    "previewImageUrl": "",
+    "downloadUrl": "",
+    "industry": "",
+    "tags": [
+      "Pump",
+      "Fluid",
+      "Actuator",
+      "Water"
+    ]
+  }
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "id": "horizontal slider",
+    "name": "Horizontal Slider",
+    "description": "A Horizontal Slider.",
+    "fileType": "vizw",
+    "author": "Adroit Technologies",
+    "previewImageUrl": "",
+    "downloadUrl": "",
+    "industry": "",
+    "tags": []
+  },
+  {
+    "id": "vertical slider",
+    "name": "Vertical Slider",
+    "description": "A Vertical Slider.",
+    "fileType": "vizw",
+    "author": "Adroit Technologies",
+    "previewImageUrl": "",
+    "downloadUrl": "",
+    "industry": "",
+    "tags": []
+  }
+]

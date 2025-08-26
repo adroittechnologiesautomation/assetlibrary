@@ -1,0 +1,294 @@
+[
+  {
+    "id": "load hopper",
+    "name": "Load Hopper",
+    "description": "A Load Hopper.",
+    "fileType": "viz",
+    "author": "Adroit Technologies",
+    "previewImageUrl": "",
+    "downloadUrl": "",
+    "industry": "",
+    "tags": []
+  },
+  {
+    "id": "feed hopper",
+    "name": "Feed Hopper",
+    "description": "A Feed Hopper.",
+    "fileType": "viz",
+    "author": "Adroit Technologies",
+    "previewImageUrl": "",
+    "downloadUrl": "",
+    "industry": "",
+    "tags": []
+  },
+  {
+    "id": "material silo 3",
+    "name": "Material Silo 3",
+    "description": "A Material Silo 3.",
+    "fileType": "viz",
+    "author": "Adroit Technologies",
+    "previewImageUrl": "",
+    "downloadUrl": "",
+    "industry": "",
+    "tags": []
+  },
+  {
+    "id": "cyclone",
+    "name": "Cyclone",
+    "description": "A Cyclone.",
+    "fileType": "viz",
+    "author": "Adroit Technologies",
+    "previewImageUrl": "",
+    "downloadUrl": "",
+    "industry": "",
+    "tags": []
+  },
+  {
+    "id": "water reservoir",
+    "name": "Water Reservoir",
+    "description": "A Water Reservoir.",
+    "fileType": "viz",
+    "author": "Adroit Technologies",
+    "previewImageUrl": "",
+    "downloadUrl": "",
+    "industry": "",
+    "tags": []
+  },
+  {
+    "id": "storage hopper",
+    "name": "Storage Hopper",
+    "description": "A Storage Hopper.",
+    "fileType": "viz",
+    "author": "Adroit Technologies",
+    "previewImageUrl": "",
+    "downloadUrl": "",
+    "industry": "",
+    "tags": []
+  },
+  {
+    "id": "shute",
+    "name": "Shute",
+    "description": "A Shute.",
+    "fileType": "viz",
+    "author": "Adroit Technologies",
+    "previewImageUrl": "",
+    "downloadUrl": "",
+    "industry": "",
+    "tags": []
+  },
+  {
+    "id": "holding tank 1",
+    "name": "Holding Tank 1",
+    "description": "A Holding Tank 1.",
+    "fileType": "viz",
+    "author": "Adroit Technologies",
+    "previewImageUrl": "",
+    "downloadUrl": "",
+    "industry": "",
+    "tags": [
+      "Tank",
+      "Storage",
+      "Containment",
+      "Process"
+    ]
+  },
+  {
+    "id": "tripod holding tank",
+    "name": "Tripod Holding Tank",
+    "description": "A Tripod Holding Tank.",
+    "fileType": "viz",
+    "author": "Adroit Technologies",
+    "previewImageUrl": "",
+    "downloadUrl": "",
+    "industry": "",
+    "tags": [
+      "Tank",
+      "Storage",
+      "Containment",
+      "Process"
+    ]
+  },
+  {
+    "id": "holding tank 2",
+    "name": "Holding Tank 2",
+    "description": "A Holding Tank 2.",
+    "fileType": "viz",
+    "author": "Adroit Technologies",
+    "previewImageUrl": "",
+    "downloadUrl": "",
+    "industry": "",
+    "tags": [
+      "Tank",
+      "Storage",
+      "Containment",
+      "Process"
+    ]
+  },
+  {
+    "id": "triangle tank with valve",
+    "name": "Triangle Tank with valve",
+    "description": "A Triangle Tank with valve.",
+    "fileType": "viz",
+    "author": "Adroit Technologies",
+    "previewImageUrl": "",
+    "downloadUrl": "",
+    "industry": "",
+    "tags": [
+      "Valve",
+      "Flow Control",
+      "Actuator",
+      "Water"
+    ]
+  },
+  {
+    "id": "sterilising tank",
+    "name": "Sterilising Tank",
+    "description": "A Sterilising Tank.",
+    "fileType": "viz",
+    "author": "Adroit Technologies",
+    "previewImageUrl": "",
+    "downloadUrl": "",
+    "industry": "",
+    "tags": [
+      "Tank",
+      "Storage",
+      "Containment",
+      "Process"
+    ]
+  },
+  {
+    "id": "triangle tank",
+    "name": "Triangle Tank",
+    "description": "A Triangle Tank.",
+    "fileType": "viz",
+    "author": "Adroit Technologies",
+    "previewImageUrl": "",
+    "downloadUrl": "",
+    "industry": "",
+    "tags": [
+      "Tank",
+      "Storage",
+      "Containment",
+      "Process"
+    ]
+  },
+  {
+    "id": "cylinder tank 1",
+    "name": "Cylinder Tank 1",
+    "description": "A Cylinder Tank 1.",
+    "fileType": "viz",
+    "author": "Adroit Technologies",
+    "previewImageUrl": "",
+    "downloadUrl": "",
+    "industry": "",
+    "tags": [
+      "Tank",
+      "Storage",
+      "Containment",
+      "Process"
+    ]
+  },
+  {
+    "id": "material silo 1",
+    "name": "Material Silo 1",
+    "description": "A Material Silo 1.",
+    "fileType": "viz",
+    "author": "Adroit Technologies",
+    "previewImageUrl": "",
+    "downloadUrl": "",
+    "industry": "",
+    "tags": []
+  },
+  {
+    "id": "cylinder tank 2",
+    "name": "Cylinder Tank 2",
+    "description": "A Cylinder Tank 2.",
+    "fileType": "viz",
+    "author": "Adroit Technologies",
+    "previewImageUrl": "",
+    "downloadUrl": "",
+    "industry": "",
+    "tags": [
+      "Tank",
+      "Storage",
+      "Containment",
+      "Process"
+    ]
+  },
+  {
+    "id": "sterilising hopper",
+    "name": "Sterilising Hopper",
+    "description": "A Sterilising Hopper.",
+    "fileType": "viz",
+    "author": "Adroit Technologies",
+    "previewImageUrl": "",
+    "downloadUrl": "",
+    "industry": "",
+    "tags": []
+  },
+  {
+    "id": "raised tank",
+    "name": "Raised Tank",
+    "description": "A Raised Tank.",
+    "fileType": "viz",
+    "author": "Adroit Technologies",
+    "previewImageUrl": "",
+    "downloadUrl": "",
+    "industry": "",
+    "tags": [
+      "Tank",
+      "Storage",
+      "Containment",
+      "Process"
+    ]
+  },
+  {
+    "id": "material silo 2",
+    "name": "Material Silo 2",
+    "description": "A Material Silo 2.",
+    "fileType": "viz",
+    "author": "Adroit Technologies",
+    "previewImageUrl": "",
+    "downloadUrl": "",
+    "industry": "",
+    "tags": []
+  },
+  {
+    "id": "flat top hopper",
+    "name": "Flat Top Hopper",
+    "description": "A Flat Top Hopper.",
+    "fileType": "viz",
+    "author": "Adroit Technologies",
+    "previewImageUrl": "",
+    "downloadUrl": "",
+    "industry": "",
+    "tags": []
+  },
+  {
+    "id": "cylinder tank 3",
+    "name": "Cylinder Tank 3",
+    "description": "A Cylinder Tank 3.",
+    "fileType": "viz",
+    "author": "Adroit Technologies",
+    "previewImageUrl": "",
+    "downloadUrl": "",
+    "industry": "",
+    "tags": [
+      "Tank",
+      "Storage",
+      "Containment",
+      "Process"
+    ]
+  },
+  {
+    "id": "raised hopper",
+    "name": "Raised Hopper",
+    "description": "A Raised Hopper.",
+    "fileType": "viz",
+    "author": "Adroit Technologies",
+    "previewImageUrl": "",
+    "downloadUrl": "",
+    "industry": "",
+    "tags": []
+  }
+]

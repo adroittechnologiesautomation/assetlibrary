@@ -1,0 +1,84 @@
+[
+  {
+    "id": "light",
+    "name": "Light",
+    "description": "A Light.",
+    "fileType": "viz",
+    "author": "Adroit Technologies",
+    "previewImageUrl": "",
+    "downloadUrl": "",
+    "industry": "",
+    "tags": []
+  },
+  {
+    "id": "levelmeter 1",
+    "name": "Levelmeter 1",
+    "description": "A Levelmeter 1.",
+    "fileType": "viz",
+    "author": "Adroit Technologies",
+    "previewImageUrl": "",
+    "downloadUrl": "",
+    "industry": "",
+    "tags": []
+  },
+  {
+    "id": "flowmeter 1",
+    "name": "Flowmeter 1",
+    "description": "A Flowmeter 1.",
+    "fileType": "viz",
+    "author": "Adroit Technologies",
+    "previewImageUrl": "",
+    "downloadUrl": "",
+    "industry": "",
+    "tags": []
+  },
+  {
+    "id": "plc",
+    "name": "PLC",
+    "description": "A PLC.",
+    "fileType": "viz",
+    "author": "Adroit Technologies",
+    "previewImageUrl": "",
+    "downloadUrl": "",
+    "industry": "",
+    "tags": [
+      "PLC",
+      "Controller",
+      "Logic",
+      "Manufacturing"
+    ]
+  },
+  {
+    "id": "levelmeter 2",
+    "name": "Levelmeter 2",
+    "description": "A Levelmeter 2.",
+    "fileType": "viz",
+    "author": "Adroit Technologies",
+    "previewImageUrl": "",
+    "downloadUrl": "",
+    "industry": "",
+    "tags": []
+  },
+  {
+    "id": "indicator",
+    "name": "Indicator",
+    "description": "A Indicator.",
+    "fileType": "viz",
+    "author": "Adroit Technologies",
+    "previewImageUrl": "",
+    "downloadUrl": "",
+    "industry": "",
+    "tags": []
+  },
+  {
+    "id": "flowmeter 2",
+    "name": "Flowmeter 2",
+    "description": "A Flowmeter 2.",
+    "fileType": "viz",
+    "author": "Adroit Technologies",
+    "previewImageUrl": "",
+    "downloadUrl": "",
+    "industry": "",
+    "tags": []
+  }
+]

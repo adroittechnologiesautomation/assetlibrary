@@ -1,0 +1,24 @@
+[
+  {
+    "id": "start button 1",
+    "name": "Start Button 1",
+    "description": "A Start Button 1.",
+    "fileType": "vizw",
+    "author": "Adroit Technologies",
+    "previewImageUrl": "",
+    "downloadUrl": "",
+    "industry": "",
+    "tags": []
+  },
+  {
+    "id": "stop button 1",
+    "name": "Stop Button 1",
+    "description": "A Stop Button 1.",
+    "fileType": "vizw",
+    "author": "Adroit Technologies",
+    "previewImageUrl": "",
+    "downloadUrl": "",
+    "industry": "",
+    "tags": []
+  }
+]

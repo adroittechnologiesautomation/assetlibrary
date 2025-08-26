@@ -1,0 +1,34 @@
+[
+  {
+    "id": "scale 2",
+    "name": "Scale 2",
+    "description": "A Scale 2.",
+    "fileType": "viz",
+    "author": "Adroit Technologies",
+    "previewImageUrl": "",
+    "downloadUrl": "",
+    "industry": "",
+    "tags": [
+      "Scale",
+      "Weight",
+      "Measurement",
+      "Manufacturing"
+    ]
+  },
+  {
+    "id": "scale 1",
+    "name": "Scale 1",
+    "description": "A Scale 1.",
+    "fileType": "viz",
+    "author": "Adroit Technologies",
+    "previewImageUrl": "",
+    "downloadUrl": "",
+    "industry": "",
+    "tags": [
+      "Scale",
+      "Weight",
+      "Measurement",
+      "Manufacturing"
+    ]
+  }
+]

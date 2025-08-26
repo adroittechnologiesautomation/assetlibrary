@@ -1,0 +1,34 @@
+[
+  {
+    "id": "belt conveyor vertical",
+    "name": "Belt Conveyor Vertical",
+    "description": "A Belt Conveyor Vertical.",
+    "fileType": "viz",
+    "author": "Adroit Technologies",
+    "previewImageUrl": "",
+    "downloadUrl": "",
+    "industry": "",
+    "tags": [
+      "Conveyor",
+      "Material Handling",
+      "Transport",
+      "Mining"
+    ]
+  },
+  {
+    "id": "belt conveyor horizontal",
+    "name": "Belt Conveyor Horizontal",
+    "description": "A Belt Conveyor Horizontal.",
+    "fileType": "viz",
+    "author": "Adroit Technologies",
+    "previewImageUrl": "",
+    "downloadUrl": "",
+    "industry": "",
+    "tags": [
+      "Conveyor",
+      "Material Handling",
+      "Transport",
+      "Mining"
+    ]
+  }
+]

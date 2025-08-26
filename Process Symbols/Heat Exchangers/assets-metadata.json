@@ -1,0 +1,101 @@
+[
+  {
+    "id": "boiler",
+    "name": "Boiler",
+    "description": "A Boiler.",
+    "fileType": "viz",
+    "author": "Adroit Technologies",
+    "previewImageUrl": "",
+    "downloadUrl": "",
+    "industry": "",
+    "tags": []
+  },
+  {
+    "id": "condenser",
+    "name": "Condenser",
+    "description": "A Condenser.",
+    "fileType": "viz",
+    "author": "Adroit Technologies",
+    "previewImageUrl": "",
+    "downloadUrl": "",
+    "industry": "",
+    "tags": []
+  },
+  {
+    "id": "heat exchanger",
+    "name": "Heat Exchanger",
+    "description": "A Heat Exchanger.",
+    "fileType": "viz",
+    "author": "Adroit Technologies",
+    "previewImageUrl": "",
+    "downloadUrl": "",
+    "industry": "",
+    "tags": []
+  },
+  {
+    "id": "heat exchanger tube",
+    "name": "Heat Exchanger Tube",
+    "description": "A Heat Exchanger Tube.",
+    "fileType": "viz",
+    "author": "Adroit Technologies",
+    "previewImageUrl": "",
+    "downloadUrl": "",
+    "industry": "",
+    "tags": []
+  },
+  {
+    "id": "fired heater",
+    "name": "Fired Heater",
+    "description": "A Fired Heater.",
+    "fileType": "viz",
+    "author": "Adroit Technologies",
+    "previewImageUrl": "",
+    "downloadUrl": "",
+    "industry": "",
+    "tags": []
+  },
+  {
+    "id": "cooling tower",
+    "name": "Cooling Tower",
+    "description": "A Cooling Tower.",
+    "fileType": "viz",
+    "author": "Adroit Technologies",
+    "previewImageUrl": "",
+    "downloadUrl": "",
+    "industry": "",
+    "tags": []
+  },
+  {
+    "id": "heat exchanger plates",
+    "name": "Heat Exchanger Plates",
+    "description": "A Heat Exchanger Plates.",
+    "fileType": "viz",
+    "author": "Adroit Technologies",
+    "previewImageUrl": "",
+    "downloadUrl": "",
+    "industry": "",
+    "tags": []
+  },
+  {
+    "id": "air cooler",
+    "name": "Air Cooler",
+    "description": "A Air Cooler.",
+    "fileType": "viz",
+    "author": "Adroit Technologies",
+    "previewImageUrl": "",
+    "downloadUrl": "",
+    "industry": "",
+    "tags": []
+  },
+  {
+    "id": "heat exchanger lines",
+    "name": "Heat Exchanger Lines",
+    "description": "A Heat Exchanger Lines.",
+    "fileType": "viz",
+    "author": "Adroit Technologies",
+    "previewImageUrl": "",
+    "downloadUrl": "",
+    "industry": "",
+    "tags": []
+  }
+]

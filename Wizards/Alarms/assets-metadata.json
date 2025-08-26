@@ -1,0 +1,24 @@
+[
+  {
+    "id": "alarm indication 1",
+    "name": "Alarm Indication 1",
+    "description": "A Alarm Indication 1.",
+    "fileType": "vizw",
+    "author": "Adroit Technologies",
+    "previewImageUrl": "",
+    "downloadUrl": "",
+    "industry": "",
+    "tags": []
+  },
+  {
+    "id": "alarm indication 2",
+    "name": "Alarm Indication 2",
+    "description": "A Alarm Indication 2.",
+    "fileType": "vizw",
+    "author": "Adroit Technologies",
+    "previewImageUrl": "",
+    "downloadUrl": "",
+    "industry": "",
+    "tags": []
+  }
+]

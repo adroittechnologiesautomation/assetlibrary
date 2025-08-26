@@ -1,0 +1,35 @@
+[
+  {
+    "id": "vehicles 3",
+    "name": "Vehicles 3",
+    "description": "A Vehicles 3.",
+    "fileType": "viz",
+    "author": "Adroit Technologies",
+    "previewImageUrl": "",
+    "downloadUrl": "",
+    "industry": "",
+    "tags": []
+  },
+  {
+    "id": "vehicles 1",
+    "name": "Vehicles 1",
+    "description": "A Vehicles 1.",
+    "fileType": "viz",
+    "author": "Adroit Technologies",
+    "previewImageUrl": "",
+    "downloadUrl": "",
+    "industry": "",
+    "tags": []
+  },
+  {
+    "id": "vehicles 2",
+    "name": "Vehicles 2",
+    "description": "A Vehicles 2.",
+    "fileType": "viz",
+    "author": "Adroit Technologies",
+    "previewImageUrl": "",
+    "downloadUrl": "",
+    "industry": "",
+    "tags": []
+  }
+]

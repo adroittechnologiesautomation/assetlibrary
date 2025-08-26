@@ -1,0 +1,34 @@
+[
+  {
+    "id": "screw conveyor motor left",
+    "name": "Screw Conveyor Motor Left",
+    "description": "A Screw Conveyor Motor Left.",
+    "fileType": "viz",
+    "author": "Adroit Technologies",
+    "previewImageUrl": "",
+    "downloadUrl": "",
+    "industry": "",
+    "tags": [
+      "Conveyor",
+      "Material Handling",
+      "Transport",
+      "Mining"
+    ]
+  },
+  {
+    "id": "screw conveyor motor right",
+    "name": "Screw Conveyor Motor Right",
+    "description": "A Screw Conveyor Motor Right.",
+    "fileType": "viz",
+    "author": "Adroit Technologies",
+    "previewImageUrl": "",
+    "downloadUrl": "",
+    "industry": "",
+    "tags": [
+      "Conveyor",
+      "Material Handling",
+      "Transport",
+      "Mining"
+    ]
+  }
+]
