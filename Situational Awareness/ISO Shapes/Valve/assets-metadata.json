@@ -13,7 +13,10 @@
       "Flow Control",
       "Actuator",
       "Water"
-    ]
+    ],
+    "averageRating": 0.0,
+    "ratingCount": 0,
+    "downloadCount": 0
   },
   {
     "id": "wzdvalvehorizontal_v01",
@@ -29,6 +32,9 @@
       "Flow Control",
       "Actuator",
       "Water"
-    ]
+    ],
+    "averageRating": 0.0,
+    "ratingCount": 0,
+    "downloadCount": 0
   }
 ]

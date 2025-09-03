@@ -8,7 +8,10 @@
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
-    "tags": []
+    "tags": [],
+    "averageRating": 0.0,
+    "ratingCount": 0,
+    "downloadCount": 0
   },
   {
     "id": "blue temperature meter large right",
@@ -19,7 +22,10 @@
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
-    "tags": []
+    "tags": [],
+    "averageRating": 0.0,
+    "ratingCount": 0,
+    "downloadCount": 0
   },
   {
     "id": "chrome temperature meter large top",
@@ -30,7 +36,10 @@
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
-    "tags": []
+    "tags": [],
+    "averageRating": 0.0,
+    "ratingCount": 0,
+    "downloadCount": 0
   },
   {
     "id": "chrome temperature meter small left",
@@ -41,7 +50,10 @@
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
-    "tags": []
+    "tags": [],
+    "averageRating": 0.0,
+    "ratingCount": 0,
+    "downloadCount": 0
   },
   {
     "id": "blue temperature meter small top",
@@ -52,7 +64,10 @@
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
-    "tags": []
+    "tags": [],
+    "averageRating": 0.0,
+    "ratingCount": 0,
+    "downloadCount": 0
   },
   {
     "id": "chrome temperature meter small right",
@@ -63,7 +78,10 @@
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
-    "tags": []
+    "tags": [],
+    "averageRating": 0.0,
+    "ratingCount": 0,
+    "downloadCount": 0
   },
   {
     "id": "chrome temperature meter large right",
@@ -74,7 +92,10 @@
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
-    "tags": []
+    "tags": [],
+    "averageRating": 0.0,
+    "ratingCount": 0,
+    "downloadCount": 0
   },
   {
     "id": "chrome temperature meter large left",
@@ -85,7 +106,10 @@
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
-    "tags": []
+    "tags": [],
+    "averageRating": 0.0,
+    "ratingCount": 0,
+    "downloadCount": 0
   },
   {
     "id": "chrome temperature meter small bottom",
@@ -96,7 +120,10 @@
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
-    "tags": []
+    "tags": [],
+    "averageRating": 0.0,
+    "ratingCount": 0,
+    "downloadCount": 0
   },
   {
     "id": "blue temperature meter large bottom",
@@ -107,7 +134,10 @@
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
-    "tags": []
+    "tags": [],
+    "averageRating": 0.0,
+    "ratingCount": 0,
+    "downloadCount": 0
   },
   {
     "id": "blue temperature meter small left",
@@ -118,7 +148,10 @@
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
-    "tags": []
+    "tags": [],
+    "averageRating": 0.0,
+    "ratingCount": 0,
+    "downloadCount": 0
   },
   {
     "id": "blue temperature meter small right",
@@ -129,7 +162,10 @@
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
-    "tags": []
+    "tags": [],
+    "averageRating": 0.0,
+    "ratingCount": 0,
+    "downloadCount": 0
   },
   {
     "id": "blue temperature meter large top",
@@ -140,7 +176,10 @@
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
-    "tags": []
+    "tags": [],
+    "averageRating": 0.0,
+    "ratingCount": 0,
+    "downloadCount": 0
   },
   {
     "id": "blue temperature meter large left",
@@ -151,7 +190,10 @@
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
-    "tags": []
+    "tags": [],
+    "averageRating": 0.0,
+    "ratingCount": 0,
+    "downloadCount": 0
   },
   {
     "id": "blue temperature meter small bottom",
@@ -162,7 +204,10 @@
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
-    "tags": []
+    "tags": [],
+    "averageRating": 0.0,
+    "ratingCount": 0,
+    "downloadCount": 0
   },
   {
     "id": "chrome temperature meter small top",
@@ -173,6 +218,9 @@
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
-    "tags": []
+    "tags": [],
+    "averageRating": 0.0,
+    "ratingCount": 0,
+    "downloadCount": 0
   }
 ]

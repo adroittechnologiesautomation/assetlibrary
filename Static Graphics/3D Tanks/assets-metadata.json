@@ -13,7 +13,10 @@
       "Storage",
       "Containment",
       "Process"
-    ]
+    ],
+    "averageRating": 0.0,
+    "ratingCount": 0,
+    "downloadCount": 0
   },
   {
     "id": "3d tank 02",
@@ -29,7 +32,10 @@
       "Storage",
       "Containment",
       "Process"
-    ]
+    ],
+    "averageRating": 0.0,
+    "ratingCount": 0,
+    "downloadCount": 0
   },
   {
     "id": "3d tank 01",
@@ -45,7 +51,10 @@
       "Storage",
       "Containment",
       "Process"
-    ]
+    ],
+    "averageRating": 0.0,
+    "ratingCount": 0,
+    "downloadCount": 0
   },
   {
     "id": "3d tank 11",
@@ -61,7 +70,10 @@
       "Storage",
       "Containment",
       "Process"
-    ]
+    ],
+    "averageRating": 0.0,
+    "ratingCount": 0,
+    "downloadCount": 0
   },
   {
     "id": "3d tank 09",
@@ -77,7 +89,10 @@
       "Storage",
       "Containment",
       "Process"
-    ]
+    ],
+    "averageRating": 0.0,
+    "ratingCount": 0,
+    "downloadCount": 0
   },
   {
     "id": "3d tank 07",
@@ -93,7 +108,10 @@
       "Storage",
       "Containment",
       "Process"
-    ]
+    ],
+    "averageRating": 0.0,
+    "ratingCount": 0,
+    "downloadCount": 0
   },
   {
     "id": "water reservoir tank",
@@ -109,7 +127,10 @@
       "Storage",
       "Containment",
       "Process"
-    ]
+    ],
+    "averageRating": 0.0,
+    "ratingCount": 0,
+    "downloadCount": 0
   },
   {
     "id": "water tower tank 2",
@@ -125,7 +146,10 @@
       "Storage",
       "Containment",
       "Process"
-    ]
+    ],
+    "averageRating": 0.0,
+    "ratingCount": 0,
+    "downloadCount": 0
   },
   {
     "id": "3d tank 03",
@@ -141,7 +165,10 @@
       "Storage",
       "Containment",
       "Process"
-    ]
+    ],
+    "averageRating": 0.0,
+    "ratingCount": 0,
+    "downloadCount": 0
   },
   {
     "id": "water tower tank 1",
@@ -157,7 +184,10 @@
       "Storage",
       "Containment",
       "Process"
-    ]
+    ],
+    "averageRating": 0.0,
+    "ratingCount": 0,
+    "downloadCount": 0
   },
   {
     "id": "3d tank 08",
@@ -173,7 +203,10 @@
       "Storage",
       "Containment",
       "Process"
-    ]
+    ],
+    "averageRating": 0.0,
+    "ratingCount": 0,
+    "downloadCount": 0
   },
   {
     "id": "3d tank 04",
@@ -189,7 +222,10 @@
       "Storage",
       "Containment",
       "Process"
-    ]
+    ],
+    "averageRating": 0.0,
+    "ratingCount": 0,
+    "downloadCount": 0
   },
   {
     "id": "3d tank 10",
@@ -205,7 +241,10 @@
       "Storage",
       "Containment",
       "Process"
-    ]
+    ],
+    "averageRating": 0.0,
+    "ratingCount": 0,
+    "downloadCount": 0
   },
   {
     "id": "3d tank 06",
@@ -221,6 +260,9 @@
       "Storage",
       "Containment",
       "Process"
-    ]
+    ],
+    "averageRating": 0.0,
+    "ratingCount": 0,
+    "downloadCount": 0
   }
 ]

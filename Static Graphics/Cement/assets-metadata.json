@@ -8,7 +8,10 @@
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
-    "tags": []
+    "tags": [],
+    "averageRating": 0.0,
+    "ratingCount": 0,
+    "downloadCount": 0
   },
   {
     "id": "screw conveyor left",
@@ -24,7 +27,10 @@
       "Material Handling",
       "Transport",
       "Mining"
-    ]
+    ],
+    "averageRating": 0.0,
+    "ratingCount": 0,
+    "downloadCount": 0
   },
   {
     "id": "coal tippler",
@@ -35,7 +41,10 @@
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
-    "tags": []
+    "tags": [],
+    "averageRating": 0.0,
+    "ratingCount": 0,
+    "downloadCount": 0
   },
   {
     "id": "bucket conveyor head pulley",
@@ -51,7 +60,10 @@
       "Material Handling",
       "Transport",
       "Mining"
-    ]
+    ],
+    "averageRating": 0.0,
+    "ratingCount": 0,
+    "downloadCount": 0
   },
   {
     "id": "vertical cyclone",
@@ -62,7 +74,10 @@
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
-    "tags": []
+    "tags": [],
+    "averageRating": 0.0,
+    "ratingCount": 0,
+    "downloadCount": 0
   },
   {
     "id": "weigh feeder",
@@ -73,7 +88,10 @@
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
-    "tags": []
+    "tags": [],
+    "averageRating": 0.0,
+    "ratingCount": 0,
+    "downloadCount": 0
   },
   {
     "id": "screw conveyor right",
@@ -89,7 +107,10 @@
       "Material Handling",
       "Transport",
       "Mining"
-    ]
+    ],
+    "averageRating": 0.0,
+    "ratingCount": 0,
+    "downloadCount": 0
   },
   {
     "id": "kiln",
@@ -100,7 +121,10 @@
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
-    "tags": []
+    "tags": [],
+    "averageRating": 0.0,
+    "ratingCount": 0,
+    "downloadCount": 0
   },
   {
     "id": "mine truck",
@@ -111,7 +135,10 @@
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
-    "tags": []
+    "tags": [],
+    "averageRating": 0.0,
+    "ratingCount": 0,
+    "downloadCount": 0
   },
   {
     "id": "preheater",
@@ -122,7 +149,10 @@
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
-    "tags": []
+    "tags": [],
+    "averageRating": 0.0,
+    "ratingCount": 0,
+    "downloadCount": 0
   },
   {
     "id": "electro filter",
@@ -133,7 +163,10 @@
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
-    "tags": []
+    "tags": [],
+    "averageRating": 0.0,
+    "ratingCount": 0,
+    "downloadCount": 0
   },
   {
     "id": "circular reclaimer",
@@ -144,7 +177,10 @@
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
-    "tags": []
+    "tags": [],
+    "averageRating": 0.0,
+    "ratingCount": 0,
+    "downloadCount": 0
   },
   {
     "id": "short base kiln",
@@ -155,7 +191,10 @@
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
-    "tags": []
+    "tags": [],
+    "averageRating": 0.0,
+    "ratingCount": 0,
+    "downloadCount": 0
   },
   {
     "id": "stacker",
@@ -166,6 +205,9 @@
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
-    "tags": []
+    "tags": [],
+    "averageRating": 0.0,
+    "ratingCount": 0,
+    "downloadCount": 0
   }
 ]

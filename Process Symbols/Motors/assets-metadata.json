@@ -13,7 +13,10 @@
       "Drive",
       "Motion",
       "Manufacturing"
-    ]
+    ],
+    "averageRating": 0.0,
+    "ratingCount": 0,
+    "downloadCount": 0
   },
   {
     "id": "electric motor 2",
@@ -29,7 +32,10 @@
       "Drive",
       "Motion",
       "Manufacturing"
-    ]
+    ],
+    "averageRating": 0.0,
+    "ratingCount": 0,
+    "downloadCount": 0
   },
   {
     "id": "drive",
@@ -45,6 +51,9 @@
       "VFD",
       "Motor Control",
       "Manufacturing"
-    ]
+    ],
+    "averageRating": 0.0,
+    "ratingCount": 0,
+    "downloadCount": 0
   }
 ]

@@ -8,7 +8,10 @@
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
-    "tags": []
+    "tags": [],
+    "averageRating": 0.0,
+    "ratingCount": 0,
+    "downloadCount": 0
   },
   {
     "id": "alarm buttons 4",
@@ -19,7 +22,10 @@
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
-    "tags": []
+    "tags": [],
+    "averageRating": 0.0,
+    "ratingCount": 0,
+    "downloadCount": 0
   },
   {
     "id": "alarm buttons 3",
@@ -30,7 +36,10 @@
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
-    "tags": []
+    "tags": [],
+    "averageRating": 0.0,
+    "ratingCount": 0,
+    "downloadCount": 0
   },
   {
     "id": "alarm buttons 2",
@@ -41,7 +50,10 @@
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
-    "tags": []
+    "tags": [],
+    "averageRating": 0.0,
+    "ratingCount": 0,
+    "downloadCount": 0
   },
   {
     "id": "alarm warning",
@@ -52,7 +64,10 @@
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
-    "tags": []
+    "tags": [],
+    "averageRating": 0.0,
+    "ratingCount": 0,
+    "downloadCount": 0
   },
   {
     "id": "alarm buttons",
@@ -63,7 +78,10 @@
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
-    "tags": []
+    "tags": [],
+    "averageRating": 0.0,
+    "ratingCount": 0,
+    "downloadCount": 0
   },
   {
     "id": "alarm buttons 5",
@@ -74,7 +92,10 @@
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
-    "tags": []
+    "tags": [],
+    "averageRating": 0.0,
+    "ratingCount": 0,
+    "downloadCount": 0
   },
   {
     "id": "alarm buttons 1",
@@ -85,6 +106,9 @@
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
-    "tags": []
+    "tags": [],
+    "averageRating": 0.0,
+    "ratingCount": 0,
+    "downloadCount": 0
   }
 ]

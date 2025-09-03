@@ -13,7 +13,10 @@
       "Storage",
       "Containment",
       "Process"
-    ]
+    ],
+    "averageRating": 0.0,
+    "ratingCount": 0,
+    "downloadCount": 0
   },
   {
     "id": "barrel",
@@ -24,7 +27,10 @@
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
-    "tags": []
+    "tags": [],
+    "averageRating": 0.0,
+    "ratingCount": 0,
+    "downloadCount": 0
   },
   {
     "id": "open tank",
@@ -40,7 +46,10 @@
       "Storage",
       "Containment",
       "Process"
-    ]
+    ],
+    "averageRating": 0.0,
+    "ratingCount": 0,
+    "downloadCount": 0
   },
   {
     "id": "classifier",
@@ -51,7 +60,10 @@
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
-    "tags": []
+    "tags": [],
+    "averageRating": 0.0,
+    "ratingCount": 0,
+    "downloadCount": 0
   },
   {
     "id": "tray column",
@@ -62,7 +74,10 @@
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
-    "tags": []
+    "tags": [],
+    "averageRating": 0.0,
+    "ratingCount": 0,
+    "downloadCount": 0
   },
   {
     "id": "gas holder",
@@ -73,7 +88,10 @@
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
-    "tags": []
+    "tags": [],
+    "averageRating": 0.0,
+    "ratingCount": 0,
+    "downloadCount": 0
   },
   {
     "id": "silo",
@@ -84,7 +102,10 @@
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
-    "tags": []
+    "tags": [],
+    "averageRating": 0.0,
+    "ratingCount": 0,
+    "downloadCount": 0
   },
   {
     "id": "carrying vessel",
@@ -100,7 +121,10 @@
       "Pressure",
       "Containment",
       "Process"
-    ]
+    ],
+    "averageRating": 0.0,
+    "ratingCount": 0,
+    "downloadCount": 0
   },
   {
     "id": "vessel",
@@ -116,7 +140,10 @@
       "Pressure",
       "Containment",
       "Process"
-    ]
+    ],
+    "averageRating": 0.0,
+    "ratingCount": 0,
+    "downloadCount": 0
   },
   {
     "id": "covered tank",
@@ -132,7 +159,10 @@
       "Storage",
       "Containment",
       "Process"
-    ]
+    ],
+    "averageRating": 0.0,
+    "ratingCount": 0,
+    "downloadCount": 0
   },
   {
     "id": "gas cylinder",
@@ -143,7 +173,10 @@
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
-    "tags": []
+    "tags": [],
+    "averageRating": 0.0,
+    "ratingCount": 0,
+    "downloadCount": 0
   },
   {
     "id": "column",
@@ -154,7 +187,10 @@
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
-    "tags": []
+    "tags": [],
+    "averageRating": 0.0,
+    "ratingCount": 0,
+    "downloadCount": 0
   },
   {
     "id": "reaction vessel",
@@ -170,7 +206,10 @@
       "Pressure",
       "Containment",
       "Process"
-    ]
+    ],
+    "averageRating": 0.0,
+    "ratingCount": 0,
+    "downloadCount": 0
   },
   {
     "id": "closed tank",
@@ -186,7 +225,10 @@
       "Storage",
       "Containment",
       "Process"
-    ]
+    ],
+    "averageRating": 0.0,
+    "ratingCount": 0,
+    "downloadCount": 0
   },
   {
     "id": "autoclave",
@@ -197,7 +239,10 @@
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
-    "tags": []
+    "tags": [],
+    "averageRating": 0.0,
+    "ratingCount": 0,
+    "downloadCount": 0
   },
   {
     "id": "fluid contacting",
@@ -208,7 +253,10 @@
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
-    "tags": []
+    "tags": [],
+    "averageRating": 0.0,
+    "ratingCount": 0,
+    "downloadCount": 0
   },
   {
     "id": "blender",
@@ -219,7 +267,10 @@
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
-    "tags": []
+    "tags": [],
+    "averageRating": 0.0,
+    "ratingCount": 0,
+    "downloadCount": 0
   },
   {
     "id": "storage sphere",
@@ -230,7 +281,10 @@
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
-    "tags": []
+    "tags": [],
+    "averageRating": 0.0,
+    "ratingCount": 0,
+    "downloadCount": 0
   },
   {
     "id": "bag",
@@ -241,6 +295,9 @@
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
-    "tags": []
+    "tags": [],
+    "averageRating": 0.0,
+    "ratingCount": 0,
+    "downloadCount": 0
   }
 ]

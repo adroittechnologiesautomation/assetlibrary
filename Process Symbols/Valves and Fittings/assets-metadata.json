@@ -13,7 +13,10 @@
       "Drive",
       "Motion",
       "Manufacturing"
-    ]
+    ],
+    "averageRating": 0.0,
+    "ratingCount": 0,
+    "downloadCount": 0
   },
   {
     "id": "diaphragm valve",
@@ -29,7 +32,10 @@
       "Flow Control",
       "Actuator",
       "Water"
-    ]
+    ],
+    "averageRating": 0.0,
+    "ratingCount": 0,
+    "downloadCount": 0
   },
   {
     "id": "level",
@@ -40,7 +46,10 @@
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
-    "tags": []
+    "tags": [],
+    "averageRating": 0.0,
+    "ratingCount": 0,
+    "downloadCount": 0
   },
   {
     "id": "3 way valve",
@@ -56,7 +65,10 @@
       "Flow Control",
       "Actuator",
       "Water"
-    ]
+    ],
+    "averageRating": 0.0,
+    "ratingCount": 0,
+    "downloadCount": 0
   },
   {
     "id": "needle valve",
@@ -72,7 +84,10 @@
       "Flow Control",
       "Actuator",
       "Water"
-    ]
+    ],
+    "averageRating": 0.0,
+    "ratingCount": 0,
+    "downloadCount": 0
   },
   {
     "id": "diverter",
@@ -83,7 +98,10 @@
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
-    "tags": []
+    "tags": [],
+    "averageRating": 0.0,
+    "ratingCount": 0,
+    "downloadCount": 0
   },
   {
     "id": "check valve",
@@ -99,7 +117,10 @@
       "Flow Control",
       "Actuator",
       "Water"
-    ]
+    ],
+    "averageRating": 0.0,
+    "ratingCount": 0,
+    "downloadCount": 0
   },
   {
     "id": "actuating drive",
@@ -115,7 +136,10 @@
       "VFD",
       "Motor Control",
       "Manufacturing"
-    ]
+    ],
+    "averageRating": 0.0,
+    "ratingCount": 0,
+    "downloadCount": 0
   },
   {
     "id": "screw down valve",
@@ -131,7 +155,10 @@
       "Flow Control",
       "Actuator",
       "Water"
-    ]
+    ],
+    "averageRating": 0.0,
+    "ratingCount": 0,
+    "downloadCount": 0
   },
   {
     "id": "inlet outlet",
@@ -142,7 +169,10 @@
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
-    "tags": []
+    "tags": [],
+    "averageRating": 0.0,
+    "ratingCount": 0,
+    "downloadCount": 0
   },
   {
     "id": "angle valve",
@@ -158,7 +188,10 @@
       "Flow Control",
       "Actuator",
       "Water"
-    ]
+    ],
+    "averageRating": 0.0,
+    "ratingCount": 0,
+    "downloadCount": 0
   },
   {
     "id": "powered valve",
@@ -174,7 +207,10 @@
       "Flow Control",
       "Actuator",
       "Water"
-    ]
+    ],
+    "averageRating": 0.0,
+    "ratingCount": 0,
+    "downloadCount": 0
   },
   {
     "id": "stop check valve",
@@ -190,7 +226,10 @@
       "Flow Control",
       "Actuator",
       "Water"
-    ]
+    ],
+    "averageRating": 0.0,
+    "ratingCount": 0,
+    "downloadCount": 0
   },
   {
     "id": "relief valve",
@@ -206,7 +245,10 @@
       "Flow Control",
       "Actuator",
       "Water"
-    ]
+    ],
+    "averageRating": 0.0,
+    "ratingCount": 0,
+    "downloadCount": 0
   },
   {
     "id": "globe valve",
@@ -222,7 +264,10 @@
       "Flow Control",
       "Actuator",
       "Water"
-    ]
+    ],
+    "averageRating": 0.0,
+    "ratingCount": 0,
+    "downloadCount": 0
   },
   {
     "id": "mixing valve",
@@ -238,7 +283,10 @@
       "Flow Control",
       "Actuator",
       "Water"
-    ]
+    ],
+    "averageRating": 0.0,
+    "ratingCount": 0,
+    "downloadCount": 0
   },
   {
     "id": "limit",
@@ -249,7 +297,10 @@
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
-    "tags": []
+    "tags": [],
+    "averageRating": 0.0,
+    "ratingCount": 0,
+    "downloadCount": 0
   },
   {
     "id": "relief angle valve",
@@ -265,7 +316,10 @@
       "Flow Control",
       "Actuator",
       "Water"
-    ]
+    ],
+    "averageRating": 0.0,
+    "ratingCount": 0,
+    "downloadCount": 0
   },
   {
     "id": "gate valve",
@@ -281,7 +335,10 @@
       "Flow Control",
       "Actuator",
       "Water"
-    ]
+    ],
+    "averageRating": 0.0,
+    "ratingCount": 0,
+    "downloadCount": 0
   },
   {
     "id": "3 way plug valve",
@@ -297,6 +354,9 @@
       "Flow Control",
       "Actuator",
       "Water"
-    ]
+    ],
+    "averageRating": 0.0,
+    "ratingCount": 0,
+    "downloadCount": 0
   }
 ]

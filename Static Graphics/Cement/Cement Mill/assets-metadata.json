@@ -13,7 +13,10 @@
       "Grinding",
       "Size Reduction",
       "Mining"
-    ]
+    ],
+    "averageRating": 0.0,
+    "ratingCount": 0,
+    "downloadCount": 0
   },
   {
     "id": "horizontal cement mill right",
@@ -29,7 +32,10 @@
       "Grinding",
       "Size Reduction",
       "Mining"
-    ]
+    ],
+    "averageRating": 0.0,
+    "ratingCount": 0,
+    "downloadCount": 0
   },
   {
     "id": "vertical cement mill left",
@@ -45,7 +51,10 @@
       "Grinding",
       "Size Reduction",
       "Mining"
-    ]
+    ],
+    "averageRating": 0.0,
+    "ratingCount": 0,
+    "downloadCount": 0
   },
   {
     "id": "vertical cement mill right",
@@ -61,6 +70,9 @@
       "Grinding",
       "Size Reduction",
       "Mining"
-    ]
+    ],
+    "averageRating": 0.0,
+    "ratingCount": 0,
+    "downloadCount": 0
   }
 ]

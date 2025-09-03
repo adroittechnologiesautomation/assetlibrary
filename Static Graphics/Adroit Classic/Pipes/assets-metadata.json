@@ -13,7 +13,10 @@
       "Conduit",
       "Flow",
       "Process"
-    ]
+    ],
+    "averageRating": 0.0,
+    "ratingCount": 0,
+    "downloadCount": 0
   },
   {
     "id": "pipes 1",
@@ -29,6 +32,9 @@
       "Conduit",
       "Flow",
       "Process"
-    ]
+    ],
+    "averageRating": 0.0,
+    "ratingCount": 0,
+    "downloadCount": 0
   }
 ]

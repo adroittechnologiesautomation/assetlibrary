@@ -13,7 +13,10 @@
       "Conduit",
       "Flow",
       "Process"
-    ]
+    ],
+    "averageRating": 0.0,
+    "ratingCount": 0,
+    "downloadCount": 0
   },
   {
     "id": "pipe_set_1_horizontal",
@@ -29,7 +32,10 @@
       "Conduit",
       "Flow",
       "Process"
-    ]
+    ],
+    "averageRating": 0.0,
+    "ratingCount": 0,
+    "downloadCount": 0
   },
   {
     "id": "pipe_set_1_flange_horizontal",
@@ -45,7 +51,10 @@
       "Conduit",
       "Flow",
       "Process"
-    ]
+    ],
+    "averageRating": 0.0,
+    "ratingCount": 0,
+    "downloadCount": 0
   },
   {
     "id": "pipe_set_1_left_t",
@@ -61,7 +70,10 @@
       "Conduit",
       "Flow",
       "Process"
-    ]
+    ],
+    "averageRating": 0.0,
+    "ratingCount": 0,
+    "downloadCount": 0
   },
   {
     "id": "pipe_set_1_left_top_corner",
@@ -77,7 +89,10 @@
       "Conduit",
       "Flow",
       "Process"
-    ]
+    ],
+    "averageRating": 0.0,
+    "ratingCount": 0,
+    "downloadCount": 0
   },
   {
     "id": "pipe_set_1_bottom_t",
@@ -93,7 +108,10 @@
       "Conduit",
       "Flow",
       "Process"
-    ]
+    ],
+    "averageRating": 0.0,
+    "ratingCount": 0,
+    "downloadCount": 0
   },
   {
     "id": "pipe_set_1_top_t",
@@ -109,7 +127,10 @@
       "Conduit",
       "Flow",
       "Process"
-    ]
+    ],
+    "averageRating": 0.0,
+    "ratingCount": 0,
+    "downloadCount": 0
   },
   {
     "id": "pipe_set_1_flange_vertical",
@@ -125,7 +146,10 @@
       "Conduit",
       "Flow",
       "Process"
-    ]
+    ],
+    "averageRating": 0.0,
+    "ratingCount": 0,
+    "downloadCount": 0
   },
   {
     "id": "pipe_set_1_right_bottom_corner",
@@ -141,7 +165,10 @@
       "Conduit",
       "Flow",
       "Process"
-    ]
+    ],
+    "averageRating": 0.0,
+    "ratingCount": 0,
+    "downloadCount": 0
   },
   {
     "id": "pipe_set_1_vertical",
@@ -157,7 +184,10 @@
       "Conduit",
       "Flow",
       "Process"
-    ]
+    ],
+    "averageRating": 0.0,
+    "ratingCount": 0,
+    "downloadCount": 0
   },
   {
     "id": "pipe_set_1_right_t",
@@ -173,7 +203,10 @@
       "Conduit",
       "Flow",
       "Process"
-    ]
+    ],
+    "averageRating": 0.0,
+    "ratingCount": 0,
+    "downloadCount": 0
   },
   {
     "id": "pipe_set_1_right_top_corner",
@@ -189,6 +222,9 @@
       "Conduit",
       "Flow",
       "Process"
-    ]
+    ],
+    "averageRating": 0.0,
+    "ratingCount": 0,
+    "downloadCount": 0
   }
 ]

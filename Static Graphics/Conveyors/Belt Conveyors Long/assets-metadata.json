@@ -13,7 +13,10 @@
       "Material Handling",
       "Transport",
       "Mining"
-    ]
+    ],
+    "averageRating": 0.0,
+    "ratingCount": 0,
+    "downloadCount": 0
   },
   {
     "id": "belt conveyor long wheels",
@@ -29,7 +32,10 @@
       "Material Handling",
       "Transport",
       "Mining"
-    ]
+    ],
+    "averageRating": 0.0,
+    "ratingCount": 0,
+    "downloadCount": 0
   },
   {
     "id": "belt conveyor long up",
@@ -45,7 +51,10 @@
       "Material Handling",
       "Transport",
       "Mining"
-    ]
+    ],
+    "averageRating": 0.0,
+    "ratingCount": 0,
+    "downloadCount": 0
   },
   {
     "id": "belt conveyor long down",
@@ -61,7 +70,10 @@
       "Material Handling",
       "Transport",
       "Mining"
-    ]
+    ],
+    "averageRating": 0.0,
+    "ratingCount": 0,
+    "downloadCount": 0
   },
   {
     "id": "belt conveyor long wheels down",
@@ -77,7 +89,10 @@
       "Material Handling",
       "Transport",
       "Mining"
-    ]
+    ],
+    "averageRating": 0.0,
+    "ratingCount": 0,
+    "downloadCount": 0
   },
   {
     "id": "belt conveyor long",
@@ -93,6 +108,9 @@
       "Material Handling",
       "Transport",
       "Mining"
-    ]
+    ],
+    "averageRating": 0.0,
+    "ratingCount": 0,
+    "downloadCount": 0
   }
 ]

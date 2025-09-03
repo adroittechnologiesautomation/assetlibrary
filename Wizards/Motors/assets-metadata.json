@@ -13,7 +13,10 @@
       "Drive",
       "Motion",
       "Manufacturing"
-    ]
+    ],
+    "averageRating": 0.0,
+    "ratingCount": 0,
+    "downloadCount": 0
   },
   {
     "id": "chrome horizontal mounted motor",
@@ -29,7 +32,10 @@
       "Drive",
       "Motion",
       "Manufacturing"
-    ]
+    ],
+    "averageRating": 0.0,
+    "ratingCount": 0,
+    "downloadCount": 0
   },
   {
     "id": "chrome horizontal flange motor",
@@ -45,7 +51,10 @@
       "Drive",
       "Motion",
       "Manufacturing"
-    ]
+    ],
+    "averageRating": 0.0,
+    "ratingCount": 0,
+    "downloadCount": 0
   },
   {
     "id": "chrome vertical flange motor",
@@ -61,7 +70,10 @@
       "Drive",
       "Motion",
       "Manufacturing"
-    ]
+    ],
+    "averageRating": 0.0,
+    "ratingCount": 0,
+    "downloadCount": 0
   },
   {
     "id": "simple motor on off",
@@ -77,6 +89,9 @@
       "Drive",
       "Motion",
       "Manufacturing"
-    ]
+    ],
+    "averageRating": 0.0,
+    "ratingCount": 0,
+    "downloadCount": 0
   }
 ]

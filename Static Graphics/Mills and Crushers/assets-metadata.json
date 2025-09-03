@@ -13,7 +13,10 @@
       "Crushing",
       "Size Reduction",
       "Mining"
-    ]
+    ],
+    "averageRating": 0.0,
+    "ratingCount": 0,
+    "downloadCount": 0
   },
   {
     "id": "mill 01",
@@ -29,7 +32,10 @@
       "Grinding",
       "Size Reduction",
       "Mining"
-    ]
+    ],
+    "averageRating": 0.0,
+    "ratingCount": 0,
+    "downloadCount": 0
   },
   {
     "id": "mill 02",
@@ -45,7 +51,10 @@
       "Grinding",
       "Size Reduction",
       "Mining"
-    ]
+    ],
+    "averageRating": 0.0,
+    "ratingCount": 0,
+    "downloadCount": 0
   },
   {
     "id": "mobile crusher",
@@ -61,7 +70,10 @@
       "Crushing",
       "Size Reduction",
       "Mining"
-    ]
+    ],
+    "averageRating": 0.0,
+    "ratingCount": 0,
+    "downloadCount": 0
   },
   {
     "id": "crusher 02",
@@ -77,6 +89,9 @@
       "Crushing",
       "Size Reduction",
       "Mining"
-    ]
+    ],
+    "averageRating": 0.0,
+    "ratingCount": 0,
+    "downloadCount": 0
   }
 ]

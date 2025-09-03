@@ -13,7 +13,10 @@
       "Pressure",
       "Containment",
       "Process"
-    ]
+    ],
+    "averageRating": 0.0,
+    "ratingCount": 0,
+    "downloadCount": 0
   },
   {
     "id": "wzdprocessvessel_large_v01",
@@ -29,7 +32,10 @@
       "Pressure",
       "Containment",
       "Process"
-    ]
+    ],
+    "averageRating": 0.0,
+    "ratingCount": 0,
+    "downloadCount": 0
   },
   {
     "id": "wzdprocessvessel_medium_v01",
@@ -45,6 +51,9 @@
       "Pressure",
       "Containment",
       "Process"
-    ]
+    ],
+    "averageRating": 0.0,
+    "ratingCount": 0,
+    "downloadCount": 0
   }
 ]

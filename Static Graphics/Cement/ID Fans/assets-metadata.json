@@ -13,7 +13,10 @@
       "Airflow",
       "Ventilation",
       "HVAC"
-    ]
+    ],
+    "averageRating": 0.0,
+    "ratingCount": 0,
+    "downloadCount": 0
   },
   {
     "id": "id fan left",
@@ -29,7 +32,10 @@
       "Airflow",
       "Ventilation",
       "HVAC"
-    ]
+    ],
+    "averageRating": 0.0,
+    "ratingCount": 0,
+    "downloadCount": 0
   },
   {
     "id": "id fan down",
@@ -45,7 +51,10 @@
       "Airflow",
       "Ventilation",
       "HVAC"
-    ]
+    ],
+    "averageRating": 0.0,
+    "ratingCount": 0,
+    "downloadCount": 0
   },
   {
     "id": "id fan right",
@@ -61,6 +70,9 @@
       "Airflow",
       "Ventilation",
       "HVAC"
-    ]
+    ],
+    "averageRating": 0.0,
+    "ratingCount": 0,
+    "downloadCount": 0
   }
 ]

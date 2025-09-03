@@ -13,7 +13,10 @@
       "Air",
       "Pressure",
       "Industrial"
-    ]
+    ],
+    "averageRating": 0.0,
+    "ratingCount": 0,
+    "downloadCount": 0
   },
   {
     "id": "compressor3",
@@ -29,7 +32,10 @@
       "Air",
       "Pressure",
       "Industrial"
-    ]
+    ],
+    "averageRating": 0.0,
+    "ratingCount": 0,
+    "downloadCount": 0
   },
   {
     "id": "tankcompressor",
@@ -45,7 +51,10 @@
       "Storage",
       "Containment",
       "Process"
-    ]
+    ],
+    "averageRating": 0.0,
+    "ratingCount": 0,
+    "downloadCount": 0
   },
   {
     "id": "compressor2",
@@ -61,6 +70,9 @@
       "Air",
       "Pressure",
       "Industrial"
-    ]
+    ],
+    "averageRating": 0.0,
+    "ratingCount": 0,
+    "downloadCount": 0
   }
 ]

@@ -13,7 +13,10 @@
       "Transmission",
       "Rotation",
       "Mechanical"
-    ]
+    ],
+    "averageRating": 0.0,
+    "ratingCount": 0,
+    "downloadCount": 0
   },
   {
     "id": "belt",
@@ -29,6 +32,9 @@
       "Transmission",
       "Material Handling",
       "Mining"
-    ]
+    ],
+    "averageRating": 0.0,
+    "ratingCount": 0,
+    "downloadCount": 0
   }
 ]
