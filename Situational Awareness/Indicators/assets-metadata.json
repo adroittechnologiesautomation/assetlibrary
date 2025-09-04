@@ -1,10 +1,12 @@
 [
   {
-    "id": "wzdanalogueindicator_large_vertical_v01",
+    "id": "5b0b924e-e210-4a7d-90a0-aaf6c55b891e",
     "name": "wzdAnalogueIndicator_Large_Vertical_v01",
     "description": "A wzdAnalogueIndicator_Large_Vertical_v01.",
     "fileType": "vizw",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -14,11 +16,13 @@
     "downloadCount": 0
   },
   {
-    "id": "wzdanalogueindicator_medium_horizontal_v01",
+    "id": "5ad6d262-9aaa-4112-aa74-33356bf43f54",
     "name": "wzdAnalogueIndicator_Medium_Horizontal_v01",
     "description": "A wzdAnalogueIndicator_Medium_Horizontal_v01.",
     "fileType": "vizw",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -28,11 +32,13 @@
     "downloadCount": 0
   },
   {
-    "id": "wzdanalogueindicator_large_horizontal_v01",
+    "id": "098e38ff-de8d-43be-9707-419cb2550c87",
     "name": "wzdAnalogueIndicator_Large_Horizontal_v01",
     "description": "A wzdAnalogueIndicator_Large_Horizontal_v01.",
     "fileType": "vizw",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -42,11 +48,13 @@
     "downloadCount": 0
   },
   {
-    "id": "wzdanalogueindicator_small_horizontal_v01",
+    "id": "e29bbadd-058b-4923-bb41-b5b8b3271f41",
     "name": "wzdAnalogueIndicator_Small_Horizontal_v01",
     "description": "A wzdAnalogueIndicator_Small_Horizontal_v01.",
     "fileType": "vizw",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -56,11 +64,13 @@
     "downloadCount": 0
   },
   {
-    "id": "wzdanalogueindicator_small_vertical_v01",
+    "id": "00efe09d-7034-453e-8e60-467dbd9bbd03",
     "name": "wzdAnalogueIndicator_Small_Vertical_v01",
     "description": "A wzdAnalogueIndicator_Small_Vertical_v01.",
     "fileType": "vizw",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -70,11 +80,13 @@
     "downloadCount": 0
   },
   {
-    "id": "wzdanalogueindicator_medium_vertical_v01",
+    "id": "cac59d1e-fb5f-467e-93f4-a3bfeff49f2a",
     "name": "wzdAnalogueIndicator_Medium_Vertical_v01",
     "description": "A wzdAnalogueIndicator_Medium_Vertical_v01.",
     "fileType": "vizw",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",

@@ -1,10 +1,12 @@
 [
   {
-    "id": "pulley",
+    "id": "309ae7a6-7fae-4b1e-9240-926153a17ad5",
     "name": "Pulley",
     "description": "A Pulley.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -19,11 +21,13 @@
     "downloadCount": 0
   },
   {
-    "id": "belt",
+    "id": "eb75f6bd-b686-472a-a3db-88b23b6837b4",
     "name": "Belt",
     "description": "A Belt.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",

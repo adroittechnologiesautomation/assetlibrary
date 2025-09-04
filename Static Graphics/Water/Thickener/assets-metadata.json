@@ -1,10 +1,12 @@
 [
   {
-    "id": "picket fence thickener",
+    "id": "01ab5f5a-32c9-4f48-a02d-8506f4b2b63b",
     "name": "Picket Fence Thickener",
     "description": "A Picket Fence Thickener.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",

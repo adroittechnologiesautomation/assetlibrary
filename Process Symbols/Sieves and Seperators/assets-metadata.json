@@ -1,10 +1,12 @@
 [
   {
-    "id": "centrifugal",
+    "id": "e9e91760-165c-4f31-ab67-8d0141d1ea56",
     "name": "Centrifugal",
     "description": "A Centrifugal.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -14,11 +16,13 @@
     "downloadCount": 0
   },
   {
-    "id": "seperator",
+    "id": "afcb2102-6208-42f3-a0be-51d742314d0c",
     "name": "Seperator",
     "description": "A Seperator.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -28,11 +32,13 @@
     "downloadCount": 0
   },
   {
-    "id": "clarifier",
+    "id": "8f91d0be-c941-41ed-8697-f10a1fcf5d8a",
     "name": "Clarifier",
     "description": "A Clarifier.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -42,11 +48,13 @@
     "downloadCount": 0
   },
   {
-    "id": "sieve",
+    "id": "f02f469e-5193-4afc-a135-4935689ff0a1",
     "name": "Sieve",
     "description": "A Sieve.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -56,11 +64,13 @@
     "downloadCount": 0
   },
   {
-    "id": "magnetic seperator",
+    "id": "aa2a35ef-f904-4fda-a712-40cacaec78c2",
     "name": "Magnetic Seperator",
     "description": "A Magnetic Seperator.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -70,11 +80,13 @@
     "downloadCount": 0
   },
   {
-    "id": "elutriator",
+    "id": "f82fbd22-8205-479a-b993-981580cbebdf",
     "name": "Elutriator",
     "description": "A Elutriator.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",

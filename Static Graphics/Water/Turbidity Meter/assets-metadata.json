@@ -1,10 +1,12 @@
 [
   {
-    "id": "blue turbidity meter top",
+    "id": "1f6fe5c0-c503-4fa8-98d7-2631302b32be",
     "name": "Blue Turbidity Meter Top",
     "description": "A Blue Turbidity Meter Top.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -14,11 +16,13 @@
     "downloadCount": 0
   },
   {
-    "id": "blue turbidity meter right",
+    "id": "229af4d4-9976-4871-bb56-ee24311ca7fe",
     "name": "Blue Turbidity Meter Right",
     "description": "A Blue Turbidity Meter Right.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -28,11 +32,13 @@
     "downloadCount": 0
   },
   {
-    "id": "chrome turbidity meter right",
+    "id": "f7110ffd-9a78-477a-9ebe-b701c67d8c84",
     "name": "Chrome Turbidity Meter Right",
     "description": "A Chrome Turbidity Meter Right.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -42,11 +48,13 @@
     "downloadCount": 0
   },
   {
-    "id": "chrome turbidity meter left",
+    "id": "fdb1d3d4-9317-4f8c-8858-a57f9e821a2a",
     "name": "Chrome Turbidity Meter Left",
     "description": "A Chrome Turbidity Meter Left.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -56,11 +64,13 @@
     "downloadCount": 0
   },
   {
-    "id": "chrome turbidity meter top",
+    "id": "b6618755-f16e-430e-a47a-3d0a28a8919c",
     "name": "Chrome Turbidity Meter Top",
     "description": "A Chrome Turbidity Meter Top.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -70,11 +80,13 @@
     "downloadCount": 0
   },
   {
-    "id": "blue turbidity meter left",
+    "id": "043ce2b0-3637-4789-bb0e-2ff1d839e544",
     "name": "Blue Turbidity Meter Left",
     "description": "A Blue Turbidity Meter Left.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",

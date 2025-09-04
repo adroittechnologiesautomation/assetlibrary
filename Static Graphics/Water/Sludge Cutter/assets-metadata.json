@@ -1,10 +1,12 @@
 [
   {
-    "id": "chrome sludge cutter",
+    "id": "6f007c31-8c1f-48be-8678-16072451fd94",
     "name": "Chrome Sludge Cutter",
     "description": "A Chrome Sludge Cutter.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -14,11 +16,13 @@
     "downloadCount": 0
   },
   {
-    "id": "chrome sludge cutter no motor",
+    "id": "42927d62-ab59-4a5d-8ef4-63ac6046f3c3",
     "name": "Chrome Sludge Cutter no motor",
     "description": "A Chrome Sludge Cutter no motor.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -33,11 +37,13 @@
     "downloadCount": 0
   },
   {
-    "id": "blue sludge cutter no motor",
+    "id": "1cefee43-7ce3-400f-a812-7db00566c934",
     "name": "Blue Sludge Cutter no motor",
     "description": "A Blue Sludge Cutter no motor.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -52,11 +58,13 @@
     "downloadCount": 0
   },
   {
-    "id": "blue sludge cutter",
+    "id": "569a3117-7bac-4391-9459-74e9cdd5e38d",
     "name": "Blue Sludge Cutter",
     "description": "A Blue Sludge Cutter.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",

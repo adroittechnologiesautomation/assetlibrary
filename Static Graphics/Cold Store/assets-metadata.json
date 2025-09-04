@@ -1,10 +1,12 @@
 [
   {
-    "id": "cold store",
+    "id": "56a402c8-8744-46cb-a849-3a76cf07e82b",
     "name": "Cold Store",
     "description": "A Cold Store.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",

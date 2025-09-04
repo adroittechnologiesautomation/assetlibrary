@@ -1,10 +1,12 @@
 [
   {
-    "id": "wzdprocessvessel_small_v01",
+    "id": "19c05ed6-6ede-4e88-8c40-871919d5152e",
     "name": "wzdProcessVessel_Small_v01",
     "description": "A wzdProcessVessel_Small_v01.",
     "fileType": "vizw",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -19,11 +21,13 @@
     "downloadCount": 0
   },
   {
-    "id": "wzdprocessvessel_large_v01",
+    "id": "a9b3134c-d474-494f-b05b-743f8d99ebf3",
     "name": "wzdProcessVessel_Large_v01",
     "description": "A wzdProcessVessel_Large_v01.",
     "fileType": "vizw",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -38,11 +42,13 @@
     "downloadCount": 0
   },
   {
-    "id": "wzdprocessvessel_medium_v01",
+    "id": "a589f887-d764-479b-b15a-836666ec1d43",
     "name": "wzdProcessVessel_Medium_v01",
     "description": "A wzdProcessVessel_Medium_v01.",
     "fileType": "vizw",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",

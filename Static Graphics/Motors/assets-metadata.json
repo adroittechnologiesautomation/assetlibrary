@@ -1,10 +1,12 @@
 [
   {
-    "id": "motor 06",
+    "id": "582f8ced-0bf3-4858-ac2d-1e9a25eb9641",
     "name": "Motor 06",
     "description": "A Motor 06.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -19,11 +21,13 @@
     "downloadCount": 0
   },
   {
-    "id": "chrome horizontal mounted motor",
+    "id": "461ed222-50ca-496f-b028-3b29343a6a45",
     "name": "Chrome Horizontal Mounted Motor",
     "description": "A Chrome Horizontal Mounted Motor.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -38,11 +42,13 @@
     "downloadCount": 0
   },
   {
-    "id": "blue vertical flange motor",
+    "id": "5a84688f-bf32-4793-9c48-7176c7bb1bf1",
     "name": "Blue Vertical Flange Motor",
     "description": "A Blue Vertical Flange Motor.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -57,11 +63,13 @@
     "downloadCount": 0
   },
   {
-    "id": "blue horizontal mounted motor",
+    "id": "b63d43d2-0f28-4441-9af8-7d225f58a7a3",
     "name": "Blue Horizontal Mounted Motor",
     "description": "A Blue Horizontal Mounted Motor.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -76,11 +84,13 @@
     "downloadCount": 0
   },
   {
-    "id": "motor 01",
+    "id": "09245b63-2260-4a3e-98f8-448d87614aaa",
     "name": "Motor 01",
     "description": "A Motor 01.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -95,11 +105,13 @@
     "downloadCount": 0
   },
   {
-    "id": "chrome vertical flange motor",
+    "id": "2fe9fbc8-2de3-4e04-b7bb-403b284ac102",
     "name": "Chrome Vertical Flange Motor",
     "description": "A Chrome Vertical Flange Motor.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -114,11 +126,13 @@
     "downloadCount": 0
   },
   {
-    "id": "blue horizontal flange motor",
+    "id": "ec9036c3-81da-4f1b-89a7-aa45390d1946",
     "name": "Blue Horizontal Flange Motor",
     "description": "A Blue Horizontal Flange Motor.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -133,11 +147,13 @@
     "downloadCount": 0
   },
   {
-    "id": "motor 03",
+    "id": "82323660-2eb9-4fea-b6e7-60b57d0c29fd",
     "name": "Motor 03",
     "description": "A Motor 03.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -152,11 +168,13 @@
     "downloadCount": 0
   },
   {
-    "id": "motor 05",
+    "id": "40d47e5d-d5d7-42eb-95de-349d0e63cd8a",
     "name": "Motor 05",
     "description": "A Motor 05.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -171,11 +189,13 @@
     "downloadCount": 0
   },
   {
-    "id": "chrome horizontal flange motor",
+    "id": "8eb24ca1-4d3f-49f0-ba07-03b364f64b6d",
     "name": "Chrome Horizontal Flange Motor",
     "description": "A Chrome Horizontal Flange Motor.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -190,11 +210,13 @@
     "downloadCount": 0
   },
   {
-    "id": "motor 02",
+    "id": "5f5d7206-cc11-4925-b41e-09f76013a54c",
     "name": "Motor 02",
     "description": "A Motor 02.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -209,11 +231,13 @@
     "downloadCount": 0
   },
   {
-    "id": "motor 04",
+    "id": "2a8d0c98-9758-41ba-9c18-bb66d54758a9",
     "name": "Motor 04",
     "description": "A Motor 04.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",

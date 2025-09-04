@@ -1,10 +1,12 @@
 [
   {
-    "id": "open close toggle",
+    "id": "180933b7-ab09-4b6f-ae83-e4626208590d",
     "name": "Open Close Toggle",
     "description": "A Open Close Toggle.",
     "fileType": "vizw",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -14,11 +16,13 @@
     "downloadCount": 0
   },
   {
-    "id": "motor onoff switch",
+    "id": "bff32f27-5914-4229-9fc9-29fb719a18e6",
     "name": "Motor OnOff Switch",
     "description": "A Motor OnOff Switch.",
     "fileType": "vizw",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -33,11 +37,13 @@
     "downloadCount": 0
   },
   {
-    "id": "startstop buttons 2",
+    "id": "a75686a6-565e-44ef-b38d-344a2f79d230",
     "name": "StartStop Buttons 2",
     "description": "A StartStop Buttons 2.",
     "fileType": "vizw",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -47,11 +53,13 @@
     "downloadCount": 0
   },
   {
-    "id": "startstop buttons 1",
+    "id": "aebb9aae-ac1c-4089-8e3f-1e0f0a6a3410",
     "name": "StartStop Buttons 1",
     "description": "A StartStop Buttons 1.",
     "fileType": "vizw",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -61,11 +69,13 @@
     "downloadCount": 0
   },
   {
-    "id": "siren button",
+    "id": "df2cf282-6593-4c2b-a979-b752f1fdadc3",
     "name": "Siren Button",
     "description": "A Siren Button.",
     "fileType": "vizw",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -75,11 +85,13 @@
     "downloadCount": 0
   },
   {
-    "id": "start stop toggle",
+    "id": "b082d447-b8a4-45f7-b4e9-85afa7ca54bd",
     "name": "Start Stop Toggle",
     "description": "A Start Stop Toggle.",
     "fileType": "vizw",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -89,11 +101,13 @@
     "downloadCount": 0
   },
   {
-    "id": "emergency stop",
+    "id": "da30d648-52a2-491e-963a-4aa5a4bfbfef",
     "name": "Emergency Stop",
     "description": "A Emergency Stop.",
     "fileType": "vizw",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -103,11 +117,13 @@
     "downloadCount": 0
   },
   {
-    "id": "onoff switch 1",
+    "id": "b6a81499-ba48-48c6-8378-3f8004fadf2f",
     "name": "OnOff Switch 1",
     "description": "A OnOff Switch 1.",
     "fileType": "vizw",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -122,11 +138,13 @@
     "downloadCount": 0
   },
   {
-    "id": "onoff switch 2",
+    "id": "5da66092-b37d-4f00-af07-c7073532865c",
     "name": "OnOff Switch 2",
     "description": "A OnOff Switch 2.",
     "fileType": "vizw",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",

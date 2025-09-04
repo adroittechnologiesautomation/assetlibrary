@@ -1,10 +1,12 @@
 [
   {
-    "id": "axial fan 1",
+    "id": "da292867-7717-4ca0-ad2e-17c7318e5667",
     "name": "Axial Fan 1",
     "description": "A Axial Fan 1.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -19,11 +21,13 @@
     "downloadCount": 0
   },
   {
-    "id": "compressor turbine",
+    "id": "687a726b-200a-451e-b711-c9349d3bd462",
     "name": "Compressor Turbine",
     "description": "A Compressor Turbine.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -38,11 +42,13 @@
     "downloadCount": 0
   },
   {
-    "id": "fan blades",
+    "id": "de2ca1fd-d67f-4e0e-acb2-5ea23a4d8c42",
     "name": "Fan Blades",
     "description": "A Fan Blades.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -57,11 +63,13 @@
     "downloadCount": 0
   },
   {
-    "id": "motor driven turbine",
+    "id": "4f14b000-d39c-4e37-9c3e-b468a7c6f2e5",
     "name": "Motor Driven Turbine",
     "description": "A Motor Driven Turbine.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -76,11 +84,13 @@
     "downloadCount": 0
   },
   {
-    "id": "selectable fan 2",
+    "id": "7f91b025-d1fa-46e7-a86d-0155a6306800",
     "name": "Selectable Fan 2",
     "description": "A Selectable Fan 2.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -95,11 +105,13 @@
     "downloadCount": 0
   },
   {
-    "id": "selectable fan 1",
+    "id": "529aa98c-6262-4766-b53c-0f9072f86837",
     "name": "Selectable Fan 1",
     "description": "A Selectable Fan 1.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -114,11 +126,13 @@
     "downloadCount": 0
   },
   {
-    "id": "triple fan blades",
+    "id": "6ca516eb-54e0-4c69-b31c-c6c42b814ffa",
     "name": "Triple Fan Blades",
     "description": "A Triple Fan Blades.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -133,11 +147,13 @@
     "downloadCount": 0
   },
   {
-    "id": "centrifugal fan",
+    "id": "f6d2aa8d-69e5-4994-85a6-c0b3ec51a476",
     "name": "Centrifugal Fan",
     "description": "A Centrifugal Fan.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -152,11 +168,13 @@
     "downloadCount": 0
   },
   {
-    "id": "axial fan 2",
+    "id": "1bba2f1b-32ce-455b-be04-ba02f80d20a7",
     "name": "Axial Fan 2",
     "description": "A Axial Fan 2.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",

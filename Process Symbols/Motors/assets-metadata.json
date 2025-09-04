@@ -1,10 +1,12 @@
 [
   {
-    "id": "electric motor 1",
+    "id": "19caa6ee-a9f8-4a2c-b040-2a45f1b72f17",
     "name": "Electric Motor 1",
     "description": "A Electric Motor 1.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -19,11 +21,13 @@
     "downloadCount": 0
   },
   {
-    "id": "electric motor 2",
+    "id": "3808c4ca-a633-400d-84f2-639a6ea5eb9e",
     "name": "Electric Motor 2",
     "description": "A Electric Motor 2.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -38,11 +42,13 @@
     "downloadCount": 0
   },
   {
-    "id": "drive",
+    "id": "1188167a-499c-4ed1-9389-e2d2a6cc685d",
     "name": "Drive",
     "description": "A Drive.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",

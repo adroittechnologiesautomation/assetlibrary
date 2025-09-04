@@ -1,10 +1,12 @@
 [
   {
-    "id": "alarm button 2",
+    "id": "bc299f9b-1a97-4630-8950-a8fb3d476b62",
     "name": "Alarm Button 2",
     "description": "A Alarm Button 2.",
     "fileType": "vizw",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -14,11 +16,13 @@
     "downloadCount": 0
   },
   {
-    "id": "alarm button 1",
+    "id": "c3495386-a864-4a8d-9e83-0c46962e7f8e",
     "name": "Alarm Button 1",
     "description": "A Alarm Button 1.",
     "fileType": "vizw",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",

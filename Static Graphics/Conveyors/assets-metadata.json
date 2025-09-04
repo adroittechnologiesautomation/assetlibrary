@@ -1,10 +1,12 @@
 [
   {
-    "id": "belt conveyor components",
+    "id": "5c39b166-80e6-4b17-9b3f-440fcc0d7199",
     "name": "Belt Conveyor Components",
     "description": "A Belt Conveyor Components.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",

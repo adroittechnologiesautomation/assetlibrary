@@ -1,10 +1,12 @@
 [
   {
-    "id": "compressor",
+    "id": "797f1f9a-53d1-425b-afc1-4f7895e7e5c5",
     "name": "Compressor",
     "description": "A Compressor.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -19,11 +21,13 @@
     "downloadCount": 0
   },
   {
-    "id": "rotary comp",
+    "id": "e062f971-2278-4a38-b3ae-b298fde9ec9c",
     "name": "Rotary Comp",
     "description": "A Rotary Comp.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -33,11 +37,13 @@
     "downloadCount": 0
   },
   {
-    "id": "selectable comp 3",
+    "id": "262334f9-28dc-4874-a2dd-35a78d5645aa",
     "name": "Selectable Comp 3",
     "description": "A Selectable Comp 3.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -47,11 +53,13 @@
     "downloadCount": 0
   },
   {
-    "id": "selectable comp 2",
+    "id": "22e1b21a-85ca-49bd-b2a7-b3cf949be882",
     "name": "Selectable Comp 2",
     "description": "A Selectable Comp 2.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -61,11 +69,13 @@
     "downloadCount": 0
   },
   {
-    "id": "selectable comp 1",
+    "id": "0520bf5f-c7ca-4fc9-b5f5-c8586ac2b8e7",
     "name": "Selectable Comp 1",
     "description": "A Selectable Comp 1.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -75,11 +85,13 @@
     "downloadCount": 0
   },
   {
-    "id": "reciprocating pump comp",
+    "id": "2571294e-b216-49c0-8079-14217dff9a4b",
     "name": "Reciprocating Pump Comp",
     "description": "A Reciprocating Pump Comp.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",

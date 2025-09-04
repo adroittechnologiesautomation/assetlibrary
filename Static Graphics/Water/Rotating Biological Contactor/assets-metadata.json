@@ -1,10 +1,12 @@
 [
   {
-    "id": "rbc unit left intake",
+    "id": "6f26dfb6-b2c9-4ea5-b75f-dced8cac0740",
     "name": "RBC Unit Left Intake",
     "description": "A RBC Unit Left Intake.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -14,11 +16,13 @@
     "downloadCount": 0
   },
   {
-    "id": "rbc unit right intake",
+    "id": "582a4b00-775c-47c9-8b0f-6910e95aa24f",
     "name": "RBC Unit Right Intake",
     "description": "A RBC Unit Right Intake.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",

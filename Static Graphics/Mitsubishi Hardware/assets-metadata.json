@@ -1,10 +1,12 @@
 [
   {
-    "id": "mitsubishi alpha",
+    "id": "bbc26cb9-3159-4bcd-8e63-0f5e421843da",
     "name": "Mitsubishi Alpha",
     "description": "A Mitsubishi Alpha.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -14,11 +16,13 @@
     "downloadCount": 0
   },
   {
-    "id": "mitsubishi a700",
+    "id": "f4633f50-e0a6-4a85-bec9-23f99db66637",
     "name": "Mitsubishi A700",
     "description": "A Mitsubishi A700.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -28,11 +32,13 @@
     "downloadCount": 0
   },
   {
-    "id": "mitsubishi e700",
+    "id": "4a00d675-278f-40f0-9b4e-ea4fc3cacc25",
     "name": "Mitsubishi E700",
     "description": "A Mitsubishi E700.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -42,11 +48,13 @@
     "downloadCount": 0
   },
   {
-    "id": "mitsubishi f700 2",
+    "id": "4fc534ab-237c-481a-8d48-3f04fad64782",
     "name": "Mitsubishi F700 2",
     "description": "A Mitsubishi F700 2.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -56,11 +64,13 @@
     "downloadCount": 0
   },
   {
-    "id": "mitsubishi f700 1",
+    "id": "d9bad2ea-c87d-4613-a622-c6ff88f393b1",
     "name": "Mitsubishi F700 1",
     "description": "A Mitsubishi F700 1.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -70,11 +80,13 @@
     "downloadCount": 0
   },
   {
-    "id": "io module-input",
+    "id": "4a45f50a-5131-4651-83ff-e753880fc191",
     "name": "IO Module-Input",
     "description": "A IO Module-Input.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -84,11 +96,13 @@
     "downloadCount": 0
   },
   {
-    "id": "mitsubishi fx 1s",
+    "id": "1633b42f-6cd6-48e3-bd3d-1d957d8e9acf",
     "name": "Mitsubishi FX 1S",
     "description": "A Mitsubishi FX 1S.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -98,11 +112,13 @@
     "downloadCount": 0
   },
   {
-    "id": "io module-output",
+    "id": "f71226ea-3a18-414f-8148-0537c541a073",
     "name": "IO Module-Output",
     "description": "A IO Module-Output.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -112,11 +128,13 @@
     "downloadCount": 0
   },
   {
-    "id": "mitsubishi a770",
+    "id": "5668e777-9299-4750-9e2e-5917440e496b",
     "name": "Mitsubishi A770",
     "description": "A Mitsubishi A770.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -126,11 +144,13 @@
     "downloadCount": 0
   },
   {
-    "id": "mitsubishi d700",
+    "id": "72771a8e-f7d0-4b61-8b27-811865255a1d",
     "name": "Mitsubishi D700",
     "description": "A Mitsubishi D700.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -140,11 +160,13 @@
     "downloadCount": 0
   },
   {
-    "id": "mitsubishi q-series",
+    "id": "921292b3-fbe7-4615-b02d-9369b8ecb260",
     "name": "Mitsubishi Q-Series",
     "description": "A Mitsubishi Q-Series.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -154,11 +176,13 @@
     "downloadCount": 0
   },
   {
-    "id": "mitsubishi fx 3g",
+    "id": "0f60a7f2-b01d-493d-863c-0c56b0df333c",
     "name": "Mitsubishi FX 3G",
     "description": "A Mitsubishi FX 3G.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -168,11 +192,13 @@
     "downloadCount": 0
   },
   {
-    "id": "mitsubishi got1000",
+    "id": "47d58462-4501-4968-a572-aa9966edb539",
     "name": "Mitsubishi GOT1000",
     "description": "A Mitsubishi GOT1000.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -182,11 +208,13 @@
     "downloadCount": 0
   },
   {
-    "id": "io module-basic",
+    "id": "2d889825-dd50-4c06-bb51-70721f5f48d1",
     "name": "IO Module-Basic",
     "description": "A IO Module-Basic.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -196,11 +224,13 @@
     "downloadCount": 0
   },
   {
-    "id": "mitsubishi l-series",
+    "id": "c535378e-6073-4c28-a1ea-0f4ae7b54fb0",
     "name": "Mitsubishi L-Series",
     "description": "A Mitsubishi L-Series.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -210,11 +240,13 @@
     "downloadCount": 0
   },
   {
-    "id": "mitsubishi fx 3u",
+    "id": "758ea620-f76f-444b-b263-e5dbd94a60ce",
     "name": "Mitsubishi FX 3U",
     "description": "A Mitsubishi FX 3U.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -224,11 +256,13 @@
     "downloadCount": 0
   },
   {
-    "id": "io module-cpu02",
+    "id": "d61b0f64-3f2f-4bf4-8532-fd34c0b2bfa0",
     "name": "IO Module-CPU02",
     "description": "A IO Module-CPU02.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -238,11 +272,13 @@
     "downloadCount": 0
   },
   {
-    "id": "mitsubishi fx 1n",
+    "id": "9075e19b-ae2e-4cff-97b1-a3f07116ddef",
     "name": "Mitsubishi FX 1N",
     "description": "A Mitsubishi FX 1N.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -252,11 +288,13 @@
     "downloadCount": 0
   },
   {
-    "id": "mitsubishi got2000",
+    "id": "a86449df-5204-45fe-9d5b-f34d0f15b118",
     "name": "Mitsubishi GOT2000",
     "description": "A Mitsubishi GOT2000.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",

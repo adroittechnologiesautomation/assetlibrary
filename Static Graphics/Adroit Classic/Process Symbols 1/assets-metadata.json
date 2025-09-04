@@ -1,10 +1,12 @@
 [
   {
-    "id": "gradient filled shapes",
+    "id": "e78d9df5-a0ea-4783-aa2f-b7018c6b87b5",
     "name": "Gradient Filled Shapes",
     "description": "A Gradient Filled Shapes.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -14,11 +16,13 @@
     "downloadCount": 0
   },
   {
-    "id": "motors",
+    "id": "ec229c9c-29ff-4fa0-a6bf-23b604a5e002",
     "name": "Motors",
     "description": "A Motors.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -33,11 +37,13 @@
     "downloadCount": 0
   },
   {
-    "id": "vessels and seperators",
+    "id": "d7b73df2-4292-4f07-95a1-04777306a628",
     "name": "Vessels and Seperators",
     "description": "A Vessels and Seperators.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -52,11 +58,13 @@
     "downloadCount": 0
   },
   {
-    "id": "heat exchangers",
+    "id": "240135db-4576-4c6b-960b-bb7898f1a344",
     "name": "Heat Exchangers",
     "description": "A Heat Exchangers.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -66,11 +74,13 @@
     "downloadCount": 0
   },
   {
-    "id": "actuators",
+    "id": "e7b3795e-0081-4ce2-b8ff-6e0e547c40b3",
     "name": "Actuators",
     "description": "A Actuators.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -80,11 +90,13 @@
     "downloadCount": 0
   },
   {
-    "id": "strainers",
+    "id": "0950399a-21e4-40c2-acce-7de6f2d6789c",
     "name": "Strainers",
     "description": "A Strainers.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -94,11 +106,13 @@
     "downloadCount": 0
   },
   {
-    "id": "pipework ",
+    "id": "cd225a07-5897-4084-87d4-df316453bd8c",
     "name": "Pipework ",
     "description": "A Pipework .",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -113,11 +127,13 @@
     "downloadCount": 0
   },
   {
-    "id": "mills and crushers",
+    "id": "ff93959a-34bb-4ab5-a33a-b5b769812e47",
     "name": "Mills and Crushers",
     "description": "A Mills and Crushers.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -132,11 +148,13 @@
     "downloadCount": 0
   },
   {
-    "id": "pumps and fans",
+    "id": "65130b5d-c4dc-4229-a756-482ae2234f97",
     "name": "Pumps and Fans",
     "description": "A Pumps and Fans.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -151,11 +169,13 @@
     "downloadCount": 0
   },
   {
-    "id": "conveyors simple",
+    "id": "59ed2572-df40-465b-a2a8-ae69a8a9a432",
     "name": "Conveyors Simple",
     "description": "A Conveyors Simple.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -170,11 +190,13 @@
     "downloadCount": 0
   },
   {
-    "id": "instruments",
+    "id": "625fd631-ccc6-4e52-9885-544a8bcd79d0",
     "name": "Instruments",
     "description": "A Instruments.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -184,11 +206,13 @@
     "downloadCount": 0
   },
   {
-    "id": "valves ",
+    "id": "836be0a6-1f83-43b8-b579-b7c9317c368a",
     "name": "Valves ",
     "description": "A Valves .",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -203,11 +227,13 @@
     "downloadCount": 0
   },
   {
-    "id": "material handling ",
+    "id": "c0ddf7c7-2247-4bca-8c32-8be26df79e88",
     "name": "Material Handling ",
     "description": "A Material Handling .",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",

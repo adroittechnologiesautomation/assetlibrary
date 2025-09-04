@@ -1,10 +1,12 @@
 [
   {
-    "id": "cyclone",
+    "id": "3586ac5b-745c-4753-a308-13fda19623ca",
     "name": "Cyclone",
     "description": "A Cyclone.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -14,11 +16,13 @@
     "downloadCount": 0
   },
   {
-    "id": "elevator 1",
+    "id": "f1fe5a84-19a5-40aa-bd0e-d22e2b20ea31",
     "name": "Elevator 1",
     "description": "A Elevator 1.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -28,11 +32,13 @@
     "downloadCount": 0
   },
   {
-    "id": "elevator 2",
+    "id": "078940c6-299c-41d0-ada3-78b41b47470b",
     "name": "Elevator 2",
     "description": "A Elevator 2.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -42,11 +48,13 @@
     "downloadCount": 0
   },
   {
-    "id": "dryer",
+    "id": "c9efd160-4ecc-421c-a040-1abb1e828df3",
     "name": "Dryer",
     "description": "A Dryer.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -56,11 +64,13 @@
     "downloadCount": 0
   },
   {
-    "id": "electromagnet",
+    "id": "f51e5aa1-6663-4ee5-ac3e-c3530adb26a0",
     "name": "Electromagnet",
     "description": "A Electromagnet.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -70,11 +80,13 @@
     "downloadCount": 0
   },
   {
-    "id": "filter",
+    "id": "01885907-2ad1-4023-ad0f-e3c2eb57e4f7",
     "name": "Filter",
     "description": "A Filter.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -84,11 +96,13 @@
     "downloadCount": 0
   },
   {
-    "id": "rotary feeder",
+    "id": "df67ec30-3af1-43e4-8250-a716c243dac0",
     "name": "Rotary Feeder",
     "description": "A Rotary Feeder.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",

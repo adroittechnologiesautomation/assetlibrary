@@ -1,10 +1,12 @@
 [
   {
-    "id": "horizontal cement mill left",
+    "id": "c0b882b2-f383-4fce-9f21-ffe83127e61d",
     "name": "Horizontal Cement Mill Left",
     "description": "A Horizontal Cement Mill Left.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -19,11 +21,13 @@
     "downloadCount": 0
   },
   {
-    "id": "horizontal cement mill right",
+    "id": "edfc7eba-a4a3-4c73-bc83-355b061cbe2a",
     "name": "Horizontal Cement Mill Right",
     "description": "A Horizontal Cement Mill Right.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -38,11 +42,13 @@
     "downloadCount": 0
   },
   {
-    "id": "vertical cement mill left",
+    "id": "83be741e-eb8c-442d-9dbc-97e76aed8eca",
     "name": "Vertical Cement Mill Left",
     "description": "A Vertical Cement Mill Left.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -57,11 +63,13 @@
     "downloadCount": 0
   },
   {
-    "id": "vertical cement mill right",
+    "id": "1744e88c-32ca-4539-a36c-90018b993e33",
     "name": "Vertical Cement Mill Right",
     "description": "A Vertical Cement Mill Right.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",

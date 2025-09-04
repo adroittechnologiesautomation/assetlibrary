@@ -1,10 +1,12 @@
 [
   {
-    "id": "light",
+    "id": "c0454e95-df09-4e21-be24-279748ae3e31",
     "name": "Light",
     "description": "A Light.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -14,11 +16,13 @@
     "downloadCount": 0
   },
   {
-    "id": "levelmeter 1",
+    "id": "511e9248-5050-4637-a08c-c863de65121a",
     "name": "Levelmeter 1",
     "description": "A Levelmeter 1.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -28,11 +32,13 @@
     "downloadCount": 0
   },
   {
-    "id": "flowmeter 1",
+    "id": "575fb092-a19e-4435-9a78-92628d5d0083",
     "name": "Flowmeter 1",
     "description": "A Flowmeter 1.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -42,11 +48,13 @@
     "downloadCount": 0
   },
   {
-    "id": "plc",
+    "id": "22388e5f-1682-40a9-915a-32faeadc459c",
     "name": "PLC",
     "description": "A PLC.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -61,11 +69,13 @@
     "downloadCount": 0
   },
   {
-    "id": "levelmeter 2",
+    "id": "9cd164d3-1237-4eb8-997d-db8ad79ce275",
     "name": "Levelmeter 2",
     "description": "A Levelmeter 2.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -75,11 +85,13 @@
     "downloadCount": 0
   },
   {
-    "id": "indicator",
+    "id": "d8e7dae3-22d8-46a6-b454-3e8cc409e4f2",
     "name": "Indicator",
     "description": "A Indicator.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -89,11 +101,13 @@
     "downloadCount": 0
   },
   {
-    "id": "flowmeter 2",
+    "id": "a23ecb5b-000e-464e-a66b-eb71c88b8673",
     "name": "Flowmeter 2",
     "description": "A Flowmeter 2.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",

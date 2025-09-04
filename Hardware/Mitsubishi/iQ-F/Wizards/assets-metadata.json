@@ -1,10 +1,12 @@
 [
   {
-    "id": "fx5uc-32m_wizard",
+    "id": "941b4788-9e26-433c-b58f-cdaa9cb3c5b0",
     "name": "FX5UC-32M_Wizard",
     "description": "A FX5UC-32M_Wizard.",
     "fileType": "vizw",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -14,11 +16,13 @@
     "downloadCount": 0
   },
   {
-    "id": "fx5-cclief_wizard",
+    "id": "348e4aaf-55f4-42fc-928d-ac03064bad96",
     "name": "FX5-CCLIEF_Wizard",
     "description": "A FX5-CCLIEF_Wizard.",
     "fileType": "vizw",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -28,11 +32,13 @@
     "downloadCount": 0
   },
   {
-    "id": "fx5-80ssc_wizard",
+    "id": "11a1adde-b97c-4afa-8c0e-8969861bf11c",
     "name": "FX5-80SSC_Wizard",
     "description": "A FX5-80SSC_Wizard.",
     "fileType": "vizw",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -42,11 +48,13 @@
     "downloadCount": 0
   },
   {
-    "id": "fx5u-80m_wizard",
+    "id": "2e984a2f-41e4-4d02-9e57-22042ef5383d",
     "name": "FX5U-80M_Wizard",
     "description": "A FX5U-80M_Wizard.",
     "fileType": "vizw",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -56,11 +64,13 @@
     "downloadCount": 0
   },
   {
-    "id": "fx5uc-96m_wizard",
+    "id": "530e1ff0-9fca-474f-98f9-76b141248940",
     "name": "FX5UC-96M_Wizard",
     "description": "A FX5UC-96M_Wizard.",
     "fileType": "vizw",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -70,11 +80,13 @@
     "downloadCount": 0
   },
   {
-    "id": "fx5uc-64m_wizard",
+    "id": "87f0ad67-738d-4f97-83e3-c2267fb6baea",
     "name": "FX5UC-64M_Wizard",
     "description": "A FX5UC-64M_Wizard.",
     "fileType": "vizw",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -84,11 +96,13 @@
     "downloadCount": 0
   },
   {
-    "id": "fx5u-64m_wizard",
+    "id": "8395c47d-1d79-4867-8c82-81bd788643ae",
     "name": "FX5U-64M_Wizard",
     "description": "A FX5U-64M_Wizard.",
     "fileType": "vizw",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -98,11 +112,13 @@
     "downloadCount": 0
   },
   {
-    "id": "fx5u-32m_wizard",
+    "id": "0dc312da-f77b-42e4-b5d2-279e44b2f33d",
     "name": "FX5U-32M_Wizard",
     "description": "A FX5U-32M_Wizard.",
     "fileType": "vizw",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",

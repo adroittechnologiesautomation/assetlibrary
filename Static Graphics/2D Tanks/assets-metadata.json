@@ -1,10 +1,12 @@
 [
   {
-    "id": "load hopper",
+    "id": "91a1c68f-57b4-4952-bb8c-38a017b480ee",
     "name": "Load Hopper",
     "description": "A Load Hopper.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -14,11 +16,13 @@
     "downloadCount": 0
   },
   {
-    "id": "feed hopper",
+    "id": "a526d14f-7c83-4bc0-88bb-9e7ba302fac9",
     "name": "Feed Hopper",
     "description": "A Feed Hopper.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -28,11 +32,13 @@
     "downloadCount": 0
   },
   {
-    "id": "material silo 3",
+    "id": "e16083b5-53f6-45c6-981f-0c7defefcaf7",
     "name": "Material Silo 3",
     "description": "A Material Silo 3.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -42,11 +48,13 @@
     "downloadCount": 0
   },
   {
-    "id": "cyclone",
+    "id": "8b1f5a86-567f-4219-afcd-d55986e563a7",
     "name": "Cyclone",
     "description": "A Cyclone.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -56,11 +64,13 @@
     "downloadCount": 0
   },
   {
-    "id": "water reservoir",
+    "id": "0b38448d-6604-4c6c-b3ee-b635946f1f9e",
     "name": "Water Reservoir",
     "description": "A Water Reservoir.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -70,11 +80,13 @@
     "downloadCount": 0
   },
   {
-    "id": "storage hopper",
+    "id": "d3e72e4b-2e58-4c6a-9297-47b035eb10c5",
     "name": "Storage Hopper",
     "description": "A Storage Hopper.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -84,11 +96,13 @@
     "downloadCount": 0
   },
   {
-    "id": "shute",
+    "id": "3a451c32-f6c2-495a-ab76-4f403424f0cf",
     "name": "Shute",
     "description": "A Shute.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -98,11 +112,13 @@
     "downloadCount": 0
   },
   {
-    "id": "holding tank 1",
+    "id": "2f8a2c0c-099c-4d7b-9429-3a4cb2d4eada",
     "name": "Holding Tank 1",
     "description": "A Holding Tank 1.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -117,11 +133,13 @@
     "downloadCount": 0
   },
   {
-    "id": "tripod holding tank",
+    "id": "04101e84-1630-468a-8860-498d7b148a55",
     "name": "Tripod Holding Tank",
     "description": "A Tripod Holding Tank.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -136,11 +154,13 @@
     "downloadCount": 0
   },
   {
-    "id": "holding tank 2",
+    "id": "32d93870-8c0d-4885-a32d-d4f9fa549fc8",
     "name": "Holding Tank 2",
     "description": "A Holding Tank 2.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -155,11 +175,13 @@
     "downloadCount": 0
   },
   {
-    "id": "triangle tank with valve",
+    "id": "38046507-76da-48e9-8c4d-666f6ac0cb95",
     "name": "Triangle Tank with valve",
     "description": "A Triangle Tank with valve.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -174,11 +196,13 @@
     "downloadCount": 0
   },
   {
-    "id": "sterilising tank",
+    "id": "25d43bf7-542c-45f8-9aac-e8cc2a1e2a24",
     "name": "Sterilising Tank",
     "description": "A Sterilising Tank.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -193,11 +217,13 @@
     "downloadCount": 0
   },
   {
-    "id": "triangle tank",
+    "id": "a8438d39-1ad1-4713-b0b0-65b6496448d1",
     "name": "Triangle Tank",
     "description": "A Triangle Tank.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -212,11 +238,13 @@
     "downloadCount": 0
   },
   {
-    "id": "cylinder tank 1",
+    "id": "1ada7e27-e26e-426b-a78a-6795cfbc73ce",
     "name": "Cylinder Tank 1",
     "description": "A Cylinder Tank 1.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -231,11 +259,13 @@
     "downloadCount": 0
   },
   {
-    "id": "material silo 1",
+    "id": "f63329c1-4533-45d5-aeae-baad2cff4c49",
     "name": "Material Silo 1",
     "description": "A Material Silo 1.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -245,11 +275,13 @@
     "downloadCount": 0
   },
   {
-    "id": "cylinder tank 2",
+    "id": "12aa7f3f-c2fd-4d33-9a6a-e54c56b9c88e",
     "name": "Cylinder Tank 2",
     "description": "A Cylinder Tank 2.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -264,11 +296,13 @@
     "downloadCount": 0
   },
   {
-    "id": "sterilising hopper",
+    "id": "55bbd9dc-2486-4b09-8b78-c85b0ffe2ef8",
     "name": "Sterilising Hopper",
     "description": "A Sterilising Hopper.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -278,11 +312,13 @@
     "downloadCount": 0
   },
   {
-    "id": "raised tank",
+    "id": "bcc3ef5c-3dc7-406e-9856-bcea31d1c587",
     "name": "Raised Tank",
     "description": "A Raised Tank.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -297,11 +333,13 @@
     "downloadCount": 0
   },
   {
-    "id": "material silo 2",
+    "id": "d48f5091-b606-439b-a337-9c7045f69eb3",
     "name": "Material Silo 2",
     "description": "A Material Silo 2.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -311,11 +349,13 @@
     "downloadCount": 0
   },
   {
-    "id": "flat top hopper",
+    "id": "e12fd530-703f-4ca7-973c-baac4abeff70",
     "name": "Flat Top Hopper",
     "description": "A Flat Top Hopper.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -325,11 +365,13 @@
     "downloadCount": 0
   },
   {
-    "id": "cylinder tank 3",
+    "id": "6297dd0c-82b1-4e12-8cbd-92d3307cae93",
     "name": "Cylinder Tank 3",
     "description": "A Cylinder Tank 3.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -344,11 +386,13 @@
     "downloadCount": 0
   },
   {
-    "id": "raised hopper",
+    "id": "ec0b4392-26e4-48e5-a8ff-aa57351c7aed",
     "name": "Raised Hopper",
     "description": "A Raised Hopper.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",

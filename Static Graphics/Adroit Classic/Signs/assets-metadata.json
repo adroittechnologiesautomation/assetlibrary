@@ -1,10 +1,12 @@
 [
   {
-    "id": "signs 3",
+    "id": "0e042fac-386f-455d-9d8c-744fd5c339ff",
     "name": "Signs 3",
     "description": "A Signs 3.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -14,11 +16,13 @@
     "downloadCount": 0
   },
   {
-    "id": "signs 4",
+    "id": "1b8172e7-1235-4348-9495-92e68e93e7c3",
     "name": "Signs 4",
     "description": "A Signs 4.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -28,11 +32,13 @@
     "downloadCount": 0
   },
   {
-    "id": "signs 2",
+    "id": "10e25628-6291-43b3-9cca-e2ab859be0c9",
     "name": "Signs 2",
     "description": "A Signs 2.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -42,11 +48,13 @@
     "downloadCount": 0
   },
   {
-    "id": "signs 1",
+    "id": "aabb37d7-ff46-468e-a354-29206068e354",
     "name": "Signs 1",
     "description": "A Signs 1.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",

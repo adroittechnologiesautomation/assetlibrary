@@ -1,10 +1,12 @@
 [
   {
-    "id": "qnudvcpu_wizard",
+    "id": "36253b97-4fbe-427d-9dd6-174270b78622",
     "name": "QNUDVCPU_Wizard",
     "description": "A QNUDVCPU_Wizard.",
     "fileType": "vizw",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -14,11 +16,13 @@
     "downloadCount": 0
   },
   {
-    "id": "qy80_wizard",
+    "id": "096a9acf-956c-454a-969d-1e0ace157944",
     "name": "QY80_Wizard",
     "description": "A QY80_Wizard.",
     "fileType": "vizw",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -28,11 +32,13 @@
     "downloadCount": 0
   },
   {
-    "id": "q64ad_wizard",
+    "id": "19ffa745-aa83-4a0a-94a6-bba241ddf1c0",
     "name": "Q64AD_Wizard",
     "description": "A Q64AD_Wizard.",
     "fileType": "vizw",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -42,11 +48,13 @@
     "downloadCount": 0
   },
   {
-    "id": "q6xp_wizard",
+    "id": "90458b08-e0e9-4d11-820d-428e32c2a0cd",
     "name": "Q6XP_Wizard",
     "description": "A Q6XP_Wizard.",
     "fileType": "vizw",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -56,11 +64,13 @@
     "downloadCount": 0
   },
   {
-    "id": "q64da_wizard",
+    "id": "39f22765-09a4-4f2d-b6b8-47e55277e1b0",
     "name": "Q64DA_Wizard",
     "description": "A Q64DA_Wizard.",
     "fileType": "vizw",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -70,11 +80,13 @@
     "downloadCount": 0
   },
   {
-    "id": "qj71e71_wizard",
+    "id": "a4101524-145b-480d-830d-1a05c01d42d7",
     "name": "QJ71E71_Wizard",
     "description": "A QJ71E71_Wizard.",
     "fileType": "vizw",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -84,11 +96,13 @@
     "downloadCount": 0
   },
   {
-    "id": "qx80_wizard",
+    "id": "95431ab7-12c7-4a22-8ca9-05389d33a3c6",
     "name": "QX80_Wizard",
     "description": "A QX80_Wizard.",
     "fileType": "vizw",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -98,11 +112,13 @@
     "downloadCount": 0
   },
   {
-    "id": "qy81p_wizard",
+    "id": "dc3579f7-ad2e-48f1-98ca-d021964a2d62",
     "name": "QY81P_Wizard",
     "description": "A QY81P_Wizard.",
     "fileType": "vizw",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -112,11 +128,13 @@
     "downloadCount": 0
   },
   {
-    "id": "qx81_wizard",
+    "id": "c2f36914-951d-4c41-b164-465d03a943a7",
     "name": "QX81_Wizard",
     "description": "A QX81_Wizard.",
     "fileType": "vizw",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",

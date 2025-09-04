@@ -1,10 +1,12 @@
 [
   {
-    "id": "air slide side 2",
+    "id": "8477f59e-4d07-42f2-b814-826dcfc1808d",
     "name": "Air Slide Side 2",
     "description": "A Air Slide Side 2.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -14,11 +16,13 @@
     "downloadCount": 0
   },
   {
-    "id": "air slide 2",
+    "id": "0cde432c-dd7e-4516-aeb0-1b2d7a099ab0",
     "name": "Air Slide 2",
     "description": "A Air Slide 2.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -28,11 +32,13 @@
     "downloadCount": 0
   },
   {
-    "id": "air slide side 1",
+    "id": "21dbdfc0-c7f5-4899-a303-e184e2d65bdf",
     "name": "Air Slide Side 1",
     "description": "A Air Slide Side 1.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -42,11 +48,13 @@
     "downloadCount": 0
   },
   {
-    "id": "air slide 1",
+    "id": "104c2eae-7fb0-4798-b51b-2357c0868641",
     "name": "Air Slide 1",
     "description": "A Air Slide 1.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",

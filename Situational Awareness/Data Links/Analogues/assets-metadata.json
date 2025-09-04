@@ -1,10 +1,12 @@
 [
   {
-    "id": "wzdanaloguedatalink_sp_priority5_v01",
+    "id": "e4e09c96-ffac-4f07-bfe5-28a4eef72b79",
     "name": "wzdAnalogueDataLink_SP_Priority5_v01",
     "description": "A wzdAnalogueDataLink_SP_Priority5_v01.",
     "fileType": "vizw",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -14,11 +16,13 @@
     "downloadCount": 0
   },
   {
-    "id": "wzdanaloguedatalink_priority5_v01",
+    "id": "24d75b5f-cbfd-458c-adb1-6538ba01fd4b",
     "name": "wzdAnalogueDataLink_Priority5_v01",
     "description": "A wzdAnalogueDataLink_Priority5_v01.",
     "fileType": "vizw",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -28,11 +32,13 @@
     "downloadCount": 0
   },
   {
-    "id": "wzdanaloguedatalink_sp_nopriority_v01",
+    "id": "6ed0a4a5-16a0-429d-b76d-5123adc92666",
     "name": "wzdAnalogueDataLink_SP_NoPriority_v01",
     "description": "A wzdAnalogueDataLink_SP_NoPriority_v01.",
     "fileType": "vizw",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -42,11 +48,13 @@
     "downloadCount": 0
   },
   {
-    "id": "wzdanaloguedatalink_priority3_v01",
+    "id": "f5dd7841-3c08-4a11-bbbc-b70d002d7232",
     "name": "wzdAnalogueDataLink_Priority3_v01",
     "description": "A wzdAnalogueDataLink_Priority3_v01.",
     "fileType": "vizw",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -56,11 +64,13 @@
     "downloadCount": 0
   },
   {
-    "id": "wzdanaloguedatalink_nopriority_v01",
+    "id": "27aa012d-d123-43f9-9d89-e8bf44cd44a1",
     "name": "wzdAnalogueDataLink_NoPriority_v01",
     "description": "A wzdAnalogueDataLink_NoPriority_v01.",
     "fileType": "vizw",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -70,11 +80,13 @@
     "downloadCount": 0
   },
   {
-    "id": "wzdanaloguedatalink_sp_priority3_v01",
+    "id": "d96fd208-bbc9-4ec5-b0b7-ac90a42bbbe0",
     "name": "wzdAnalogueDataLink_SP_Priority3_v01",
     "description": "A wzdAnalogueDataLink_SP_Priority3_v01.",
     "fileType": "vizw",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",

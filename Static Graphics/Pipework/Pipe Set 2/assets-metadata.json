@@ -1,10 +1,12 @@
 [
   {
-    "id": "pipe_set_2_flange_horizontal",
+    "id": "8e02382f-34c8-483e-aa34-c8bdb6fbb97b",
     "name": "Pipe_Set_2_Flange_Horizontal",
     "description": "A Pipe_Set_2_Flange_Horizontal.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -19,11 +21,13 @@
     "downloadCount": 0
   },
   {
-    "id": "pipe_set_2_left_t",
+    "id": "9d065dea-c434-4204-93e9-e64173f76023",
     "name": "Pipe_Set_2_Left_T",
     "description": "A Pipe_Set_2_Left_T.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -38,11 +42,13 @@
     "downloadCount": 0
   },
   {
-    "id": "pipe_set_2_top_t",
+    "id": "e2ea9758-8fe5-4fa8-8dba-885f7fcc2469",
     "name": "Pipe_Set_2_Top_T",
     "description": "A Pipe_Set_2_Top_T.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -57,11 +63,13 @@
     "downloadCount": 0
   },
   {
-    "id": "pipe_set_2_flange_vertical",
+    "id": "6bcedf91-f5c2-4abb-b511-df0f92feeb22",
     "name": "Pipe_Set_2_Flange_Vertical",
     "description": "A Pipe_Set_2_Flange_Vertical.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -76,11 +84,13 @@
     "downloadCount": 0
   },
   {
-    "id": "pipe_set_2_right_top_corner",
+    "id": "1fb881c9-47d2-4b15-9add-5bdedd0158b9",
     "name": "Pipe_Set_2_Right_Top_Corner",
     "description": "A Pipe_Set_2_Right_Top_Corner.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -95,11 +105,13 @@
     "downloadCount": 0
   },
   {
-    "id": "pipe_set_2_right_bottom_corner",
+    "id": "989490b7-686c-420e-a0bc-f653332ed55b",
     "name": "Pipe_Set_2_Right_Bottom_Corner",
     "description": "A Pipe_Set_2_Right_Bottom_Corner.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -114,11 +126,13 @@
     "downloadCount": 0
   },
   {
-    "id": "pipe_set_2_left_top_corner",
+    "id": "4d50ddd9-fa92-480c-afec-9f76dd819db8",
     "name": "Pipe_Set_2_Left_Top_Corner",
     "description": "A Pipe_Set_2_Left_Top_Corner.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -133,11 +147,13 @@
     "downloadCount": 0
   },
   {
-    "id": "pipe_set_2_bottom_t",
+    "id": "f1b24987-1325-4153-87cb-9ae55ea1e739",
     "name": "Pipe_Set_2_Bottom_T",
     "description": "A Pipe_Set_2_Bottom_T.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -152,11 +168,13 @@
     "downloadCount": 0
   },
   {
-    "id": "pipe_set_2_horizontal",
+    "id": "d9af91fe-1db8-41c4-94c0-c3636f77e774",
     "name": "Pipe_Set_2_Horizontal",
     "description": "A Pipe_Set_2_Horizontal.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -171,11 +189,13 @@
     "downloadCount": 0
   },
   {
-    "id": "pipe_set_2_left_bottom_corner",
+    "id": "b2f69603-92d4-4622-849d-d1eb0b8aa8e5",
     "name": "Pipe_Set_2_Left_Bottom_Corner",
     "description": "A Pipe_Set_2_Left_Bottom_Corner.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -190,11 +210,13 @@
     "downloadCount": 0
   },
   {
-    "id": "pipe_set_2_vertical",
+    "id": "0c72866b-e763-4385-aaa5-bf6c16a59674",
     "name": "Pipe_Set_2_Vertical",
     "description": "A Pipe_Set_2_Vertical.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -209,11 +231,13 @@
     "downloadCount": 0
   },
   {
-    "id": "pipe_set_2_right_t",
+    "id": "f04220c6-3e88-4d2f-a0de-02f05074bc8c",
     "name": "Pipe_Set_2_Right_T",
     "description": "A Pipe_Set_2_Right_T.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",

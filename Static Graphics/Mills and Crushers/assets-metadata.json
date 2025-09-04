@@ -1,10 +1,12 @@
 [
   {
-    "id": "crusher 01",
+    "id": "366c746a-87ff-4e1f-8016-147912ffecea",
     "name": "Crusher 01",
     "description": "A Crusher 01.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -19,11 +21,13 @@
     "downloadCount": 0
   },
   {
-    "id": "mill 01",
+    "id": "4140e26e-7a8c-4ed2-8094-a0e946996917",
     "name": "Mill 01",
     "description": "A Mill 01.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -38,11 +42,13 @@
     "downloadCount": 0
   },
   {
-    "id": "mill 02",
+    "id": "b70ea845-6ca8-4de6-a130-3a4ac7950efd",
     "name": "Mill 02",
     "description": "A Mill 02.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -57,11 +63,13 @@
     "downloadCount": 0
   },
   {
-    "id": "mobile crusher",
+    "id": "248baa65-ef5e-4492-b417-c7079ca553e0",
     "name": "Mobile Crusher",
     "description": "A Mobile Crusher.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -76,11 +84,13 @@
     "downloadCount": 0
   },
   {
-    "id": "crusher 02",
+    "id": "c1ae6b21-1534-4082-89d5-fd58ce5d5654",
     "name": "Crusher 02",
     "description": "A Crusher 02.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",

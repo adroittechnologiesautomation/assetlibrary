@@ -1,10 +1,12 @@
 [
   {
-    "id": "chrome skip bin",
+    "id": "158d1449-cec6-4ae9-b96d-304dbc491ee5",
     "name": "Chrome Skip bin",
     "description": "A Chrome Skip bin.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -14,11 +16,13 @@
     "downloadCount": 0
   },
   {
-    "id": "yellow skip bin",
+    "id": "79154580-bcd3-4f60-a3e7-db15fefb07b9",
     "name": "Yellow Skip bin",
     "description": "A Yellow Skip bin.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",

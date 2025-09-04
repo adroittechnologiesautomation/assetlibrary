@@ -1,10 +1,12 @@
 [
   {
-    "id": "sp toggle switch nc",
+    "id": "3c338dc7-e780-4556-867c-4cdf76cd36c9",
     "name": "SP Toggle Switch NC",
     "description": "A SP Toggle Switch NC.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -19,11 +21,13 @@
     "downloadCount": 0
   },
   {
-    "id": "mu symbol",
+    "id": "86837936-de91-468f-bf79-76273eb9ef13",
     "name": "MU Symbol",
     "description": "A MU Symbol.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -33,11 +37,13 @@
     "downloadCount": 0
   },
   {
-    "id": "microphone_jack",
+    "id": "fa10036f-6dca-4915-9728-dbd9219b77f2",
     "name": "Microphone_Jack",
     "description": "A Microphone_Jack.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -47,11 +53,13 @@
     "downloadCount": 0
   },
   {
-    "id": "photovoltaic cell",
+    "id": "da58eb49-6b69-4b5c-b563-0834c4d78d5f",
     "name": "Photovoltaic Cell",
     "description": "A Photovoltaic Cell.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -61,11 +69,13 @@
     "downloadCount": 0
   },
   {
-    "id": "polled receptacle",
+    "id": "c5487a86-0617-4db0-b8a4-4b12b8c4b545",
     "name": "Polled Receptacle",
     "description": "A Polled Receptacle.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -75,11 +85,13 @@
     "downloadCount": 0
   },
   {
-    "id": "photovoltaic cell filled",
+    "id": "be124817-847d-43a6-a466-2e4a6605844d",
     "name": "Photovoltaic Cell Filled",
     "description": "A Photovoltaic Cell Filled.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -89,11 +101,13 @@
     "downloadCount": 0
   },
   {
-    "id": "coax_jack",
+    "id": "d886d48a-9087-4f85-9794-ee4a7f55b2fc",
     "name": "Coax_Jack",
     "description": "A Coax_Jack.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -103,11 +117,13 @@
     "downloadCount": 0
   },
   {
-    "id": "alpha symbol",
+    "id": "c78e973d-03bd-42b3-adb1-1c9257172337",
     "name": "Alpha Symbol",
     "description": "A Alpha Symbol.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -117,11 +133,13 @@
     "downloadCount": 0
   },
   {
-    "id": "fuse",
+    "id": "5f3d2dd8-cf2a-479d-8500-7c2a58eb1409",
     "name": "Fuse",
     "description": "A Fuse.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -136,11 +154,13 @@
     "downloadCount": 0
   },
   {
-    "id": "thermal switch",
+    "id": "8d8fd0a3-3dba-49fa-bbf8-1adb43c8b530",
     "name": "Thermal Switch",
     "description": "A Thermal Switch.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -155,11 +175,13 @@
     "downloadCount": 0
   },
   {
-    "id": "pi symbol",
+    "id": "a78b71d8-3f1b-4e4c-ae12-e14dab410d09",
     "name": "Pi Symbol",
     "description": "A Pi Symbol.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -169,11 +191,13 @@
     "downloadCount": 0
   },
   {
-    "id": "antenna",
+    "id": "696256fc-2b59-4612-ab3c-ba28975c3d75",
     "name": "Antenna",
     "description": "A Antenna.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -183,11 +207,13 @@
     "downloadCount": 0
   },
   {
-    "id": "ohm symbol",
+    "id": "e9442717-0ef0-4cab-b21b-37efd8ceebe3",
     "name": "Ohm Symbol",
     "description": "A Ohm Symbol.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -197,11 +223,13 @@
     "downloadCount": 0
   },
   {
-    "id": "battery",
+    "id": "fccd3507-7308-419e-b898-fca101a2f35c",
     "name": "Battery",
     "description": "A Battery.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -211,11 +239,13 @@
     "downloadCount": 0
   },
   {
-    "id": "electret",
+    "id": "75c54198-bada-4486-b923-4eb0d5f55fd8",
     "name": "Electret",
     "description": "A Electret.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -225,11 +255,13 @@
     "downloadCount": 0
   },
   {
-    "id": "crystal",
+    "id": "4c5ba39f-a42d-4842-8473-ea6b5bdf6e6f",
     "name": "Crystal",
     "description": "A Crystal.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -239,11 +271,13 @@
     "downloadCount": 0
   },
   {
-    "id": "epsilon symbol",
+    "id": "66144422-a831-4255-99a8-bbba50011fb7",
     "name": "Epsilon Symbol",
     "description": "A Epsilon Symbol.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -253,11 +287,13 @@
     "downloadCount": 0
   },
   {
-    "id": "ac receptacle",
+    "id": "c5679a25-1a5f-4d13-ba04-4f27a72600de",
     "name": "AC Receptacle",
     "description": "A AC Receptacle.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -267,11 +303,13 @@
     "downloadCount": 0
   },
   {
-    "id": "crystal transducer",
+    "id": "4485fa00-09be-4b3c-8b9b-e0f4a1086ca1",
     "name": "Crystal Transducer",
     "description": "A Crystal Transducer.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -281,11 +319,13 @@
     "downloadCount": 0
   },
   {
-    "id": "sp toggle switch no",
+    "id": "d9ec1160-d8e3-4c47-b71b-d73b71e3a741",
     "name": "SP Toggle Switch NO",
     "description": "A SP Toggle Switch NO.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -300,11 +340,13 @@
     "downloadCount": 0
   },
   {
-    "id": "polled receptacle filled",
+    "id": "e3378e8e-338d-4042-9b80-de1cc055da58",
     "name": "Polled Receptacle Filled",
     "description": "A Polled Receptacle Filled.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -314,11 +356,13 @@
     "downloadCount": 0
   },
   {
-    "id": "delta symbol",
+    "id": "540e36ad-d3a9-4b8f-80ab-c4c9934e5bfb",
     "name": "Delta Symbol",
     "description": "A Delta Symbol.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -328,11 +372,13 @@
     "downloadCount": 0
   },
   {
-    "id": "rheostat",
+    "id": "5cc0fb29-1910-42f8-be38-a7d65bb2f675",
     "name": "Rheostat",
     "description": "A Rheostat.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -342,11 +388,13 @@
     "downloadCount": 0
   },
   {
-    "id": "meter",
+    "id": "5883eba3-b12c-4f8e-9174-71ba6dd0cf8c",
     "name": "Meter",
     "description": "A Meter.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -356,11 +404,13 @@
     "downloadCount": 0
   },
   {
-    "id": "ac receptacle filled",
+    "id": "f3d047b5-72e2-4f94-9508-f49ed77cea85",
     "name": "AC Receptacle Filled",
     "description": "A AC Receptacle Filled.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",

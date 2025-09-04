@@ -1,10 +1,12 @@
 [
   {
-    "id": "scale 2",
+    "id": "3d895e05-416f-4f07-b982-9b5e6fcbdcb2",
     "name": "Scale 2",
     "description": "A Scale 2.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -19,11 +21,13 @@
     "downloadCount": 0
   },
   {
-    "id": "scale 1",
+    "id": "8ed6dada-a66d-4986-a004-6a781c90bc26",
     "name": "Scale 1",
     "description": "A Scale 1.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",

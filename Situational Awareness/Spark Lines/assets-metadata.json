@@ -1,10 +1,12 @@
 [
   {
-    "id": "wzdsparkline_v01",
+    "id": "593e6504-fdf0-4903-8cd3-fc2193213cd4",
     "name": "wzdSparkLine_v01",
     "description": "A wzdSparkLine_v01.",
     "fileType": "vizw",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",

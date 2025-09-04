@@ -1,10 +1,12 @@
 [
   {
-    "id": "simple motor start-stop",
+    "id": "6baaeb45-c4af-41e0-9531-6e22e055aca5",
     "name": "Simple Motor start-stop",
     "description": "A Simple Motor start-stop.",
     "fileType": "vizw",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -19,11 +21,13 @@
     "downloadCount": 0
   },
   {
-    "id": "chrome horizontal mounted motor",
+    "id": "4481c125-6e4d-40ec-a482-73ad29294dc5",
     "name": "Chrome Horizontal Mounted Motor",
     "description": "A Chrome Horizontal Mounted Motor.",
     "fileType": "vizw",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -38,11 +42,13 @@
     "downloadCount": 0
   },
   {
-    "id": "chrome horizontal flange motor",
+    "id": "b3f84076-a90a-43f0-afe2-72346a6a881c",
     "name": "Chrome Horizontal Flange Motor",
     "description": "A Chrome Horizontal Flange Motor.",
     "fileType": "vizw",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -57,11 +63,13 @@
     "downloadCount": 0
   },
   {
-    "id": "chrome vertical flange motor",
+    "id": "cd36f026-b1fe-4475-b9a3-64b561791561",
     "name": "Chrome Vertical Flange Motor",
     "description": "A Chrome Vertical Flange Motor.",
     "fileType": "vizw",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -76,11 +84,13 @@
     "downloadCount": 0
   },
   {
-    "id": "simple motor on off",
+    "id": "26d4ee2a-8341-4074-97f3-5a24d8c2cf56",
     "name": "Simple Motor On Off",
     "description": "A Simple Motor On Off.",
     "fileType": "vizw",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",

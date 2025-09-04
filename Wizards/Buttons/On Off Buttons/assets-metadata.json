@@ -1,10 +1,12 @@
 [
   {
-    "id": "off button",
+    "id": "4608ce5a-b171-4961-98c2-d66a455c1132",
     "name": "Off Button",
     "description": "A Off Button.",
     "fileType": "vizw",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -14,11 +16,13 @@
     "downloadCount": 0
   },
   {
-    "id": "on button",
+    "id": "da000ca6-b7e2-4be4-8af6-0960f262ae45",
     "name": "On Button",
     "description": "A On Button.",
     "fileType": "vizw",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",

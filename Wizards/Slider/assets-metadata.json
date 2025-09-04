@@ -1,10 +1,12 @@
 [
   {
-    "id": "horizontal slider",
+    "id": "0fafc978-0ce2-41c5-9445-a823fe4ecf87",
     "name": "Horizontal Slider",
     "description": "A Horizontal Slider.",
     "fileType": "vizw",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -14,11 +16,13 @@
     "downloadCount": 0
   },
   {
-    "id": "vertical slider",
+    "id": "bd3a79df-f93d-46d4-ac9d-e110673ceec9",
     "name": "Vertical Slider",
     "description": "A Vertical Slider.",
     "fileType": "vizw",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",

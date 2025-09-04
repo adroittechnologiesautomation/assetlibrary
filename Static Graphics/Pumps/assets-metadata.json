@@ -1,10 +1,12 @@
 [
   {
-    "id": "filter pump (top view)",
+    "id": "d41b5321-19a7-4670-a9e9-40dc76432bd6",
     "name": "Filter Pump (top view)",
     "description": "A Filter Pump (top view).",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -19,11 +21,13 @@
     "downloadCount": 0
   },
   {
-    "id": "chrome submersible pump",
+    "id": "059c080d-727a-4443-9879-e0db3053c4dd",
     "name": "Chrome Submersible Pump",
     "description": "A Chrome Submersible Pump.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -38,11 +42,13 @@
     "downloadCount": 0
   },
   {
-    "id": "3d angled pump",
+    "id": "732f6375-36c1-42ef-b0f8-dc62c677ccb7",
     "name": "3D Angled Pump",
     "description": "A 3D Angled Pump.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -57,11 +63,13 @@
     "downloadCount": 0
   },
   {
-    "id": "3d side view pump",
+    "id": "b5db07e9-ffe7-479d-a939-f45dc86cbe41",
     "name": "3D Side View Pump",
     "description": "A 3D Side View Pump.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -76,11 +84,13 @@
     "downloadCount": 0
   },
   {
-    "id": "standard pump",
+    "id": "bc3fe120-dbc1-4a77-985d-beb4920af751",
     "name": "Standard Pump",
     "description": "A Standard Pump.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -95,11 +105,13 @@
     "downloadCount": 0
   },
   {
-    "id": "standard pump (side view)",
+    "id": "eef21b5d-befd-4943-a1a2-1f85313b0844",
     "name": "Standard Pump (side view)",
     "description": "A Standard Pump (side view).",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -114,11 +126,13 @@
     "downloadCount": 0
   },
   {
-    "id": "standard pump (without motor)",
+    "id": "ad83ba81-0524-4a67-a132-98867544f60e",
     "name": "Standard Pump (without motor)",
     "description": "A Standard Pump (without motor).",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -133,11 +147,13 @@
     "downloadCount": 0
   },
   {
-    "id": "blue submersible pump",
+    "id": "746e40c2-b207-445e-bfae-09b4e692941f",
     "name": "Blue Submersible Pump",
     "description": "A Blue Submersible Pump.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -152,11 +168,13 @@
     "downloadCount": 0
   },
   {
-    "id": "filter pump (without motor)",
+    "id": "cada6298-bb68-48a9-808f-4cb374afeddb",
     "name": "Filter Pump (without motor)",
     "description": "A Filter Pump (without motor).",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -171,11 +189,13 @@
     "downloadCount": 0
   },
   {
-    "id": "filter pump",
+    "id": "b8876e49-1bbb-499a-bfe1-c6c563302b1b",
     "name": "Filter Pump",
     "description": "A Filter Pump.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",

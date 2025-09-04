@@ -1,10 +1,12 @@
 [
   {
-    "id": "trend",
+    "id": "da307539-6408-4fab-98b4-29727e867daf",
     "name": "TREND",
     "description": "A TREND.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -14,11 +16,13 @@
     "downloadCount": 0
   },
   {
-    "id": "web",
+    "id": "dd555196-0333-44e0-b403-e8547c6b2f5d",
     "name": "WEB",
     "description": "A WEB.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -28,11 +32,13 @@
     "downloadCount": 0
   },
   {
-    "id": "alarmevent",
+    "id": "3ed385cd-517a-4be4-b82a-060993468db8",
     "name": "AlarmEvent",
     "description": "A AlarmEvent.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -42,11 +48,13 @@
     "downloadCount": 0
   },
   {
-    "id": "home",
+    "id": "f1ff89f7-cda7-4a87-a000-053ed4c3ca55",
     "name": "HOME",
     "description": "A HOME.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",

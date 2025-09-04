@@ -1,10 +1,12 @@
 [
   {
-    "id": "globevalvevertical",
+    "id": "faabf73c-934a-4231-a497-692ef6e40a64",
     "name": "GlobeValveVertical",
     "description": "A GlobeValveVertical.",
     "fileType": "vizw",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -19,11 +21,13 @@
     "downloadCount": 0
   },
   {
-    "id": "globevalvevertical_flat",
+    "id": "ab78ef75-4d3d-4c70-a24b-6208dfe6a0ae",
     "name": "GlobeValveVertical_Flat",
     "description": "A GlobeValveVertical_Flat.",
     "fileType": "vizw",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -38,11 +42,13 @@
     "downloadCount": 0
   },
   {
-    "id": "globevalvehorizontal",
+    "id": "a24cf213-0414-46d2-8760-3c9746fbcb10",
     "name": "GlobeValveHorizontal",
     "description": "A GlobeValveHorizontal.",
     "fileType": "vizw",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -57,11 +63,13 @@
     "downloadCount": 0
   },
   {
-    "id": "3dsolenoidvalvehorizontal",
+    "id": "e568fccf-d047-40f2-b44f-9ae33a65c483",
     "name": "3DSolenoidValveHorizontal",
     "description": "A 3DSolenoidValveHorizontal.",
     "fileType": "vizw",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -76,11 +84,13 @@
     "downloadCount": 0
   },
   {
-    "id": "isovalvehorizontal",
+    "id": "f31db9dc-e200-4fa7-90a4-f8ff4cc02b69",
     "name": "ISOValveHorizontal",
     "description": "A ISOValveHorizontal.",
     "fileType": "vizw",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -95,11 +105,13 @@
     "downloadCount": 0
   },
   {
-    "id": "solenoidvalvehorizontal_flat",
+    "id": "4a9d24cd-591e-4cbe-ae8c-f9ae9fb40119",
     "name": "SolenoidValveHorizontal_Flat",
     "description": "A SolenoidValveHorizontal_Flat.",
     "fileType": "vizw",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -114,11 +126,13 @@
     "downloadCount": 0
   },
   {
-    "id": "3dsolenoidvalvevertical",
+    "id": "5ce7636c-9725-4784-b9bd-c3b5cbca52a7",
     "name": "3DSolenoidValveVertical",
     "description": "A 3DSolenoidValveVertical.",
     "fileType": "vizw",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -133,11 +147,13 @@
     "downloadCount": 0
   },
   {
-    "id": "solenoidvalvehorizontal",
+    "id": "a5b9f9de-7eda-48fb-9c1c-8c31e8daff94",
     "name": "SolenoidValveHorizontal",
     "description": "A SolenoidValveHorizontal.",
     "fileType": "vizw",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -152,11 +168,13 @@
     "downloadCount": 0
   },
   {
-    "id": "isovalvevertical_flat",
+    "id": "3295718d-5e60-495c-86cf-2f83db3eaf37",
     "name": "ISOValveVertical_Flat",
     "description": "A ISOValveVertical_Flat.",
     "fileType": "vizw",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -171,11 +189,13 @@
     "downloadCount": 0
   },
   {
-    "id": "globevalvehorizontal_flat",
+    "id": "3d841903-1c4c-4042-83d6-cd4fa7f61511",
     "name": "GlobeValveHorizontal_Flat",
     "description": "A GlobeValveHorizontal_Flat.",
     "fileType": "vizw",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -190,11 +210,13 @@
     "downloadCount": 0
   },
   {
-    "id": "solenoidvalvevertical",
+    "id": "6e0fb582-f270-4742-998b-d39f71f6c94b",
     "name": "SolenoidValveVertical",
     "description": "A SolenoidValveVertical.",
     "fileType": "vizw",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -209,11 +231,13 @@
     "downloadCount": 0
   },
   {
-    "id": "isovalvehorizontal_flat",
+    "id": "c06905e2-6c53-426c-ae83-7f881000f7e3",
     "name": "ISOValveHorizontal_Flat",
     "description": "A ISOValveHorizontal_Flat.",
     "fileType": "vizw",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -228,11 +252,13 @@
     "downloadCount": 0
   },
   {
-    "id": "solenoidvalvevertical_flat",
+    "id": "d2049200-e0ee-4ecc-a914-ba7aab071c9f",
     "name": "SolenoidValveVertical_Flat",
     "description": "A SolenoidValveVertical_Flat.",
     "fileType": "vizw",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -247,11 +273,13 @@
     "downloadCount": 0
   },
   {
-    "id": "isovalvevertical",
+    "id": "697ed9bf-d412-496b-a4a3-f5e15b4e30eb",
     "name": "ISOValveVertical",
     "description": "A ISOValveVertical.",
     "fileType": "vizw",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",

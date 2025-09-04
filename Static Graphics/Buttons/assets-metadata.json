@@ -1,10 +1,12 @@
 [
   {
-    "id": "scada buttons",
+    "id": "0dcd8506-7a97-4e75-a634-6a958a78f20f",
     "name": "SCADA Buttons",
     "description": "A SCADA Buttons.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -14,11 +16,13 @@
     "downloadCount": 0
   },
   {
-    "id": "reset button",
+    "id": "d133a6ae-7e32-46d5-a13c-14810e9076d8",
     "name": "Reset Button",
     "description": "A Reset Button.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -28,11 +32,13 @@
     "downloadCount": 0
   },
   {
-    "id": "windows buttons",
+    "id": "327ce294-5671-4c75-9067-0a4ac3aef86e",
     "name": "Windows Buttons",
     "description": "A Windows Buttons.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -42,11 +48,13 @@
     "downloadCount": 0
   },
   {
-    "id": "start button",
+    "id": "aee5f98d-9743-4d5b-b668-1de5037a5dde",
     "name": "Start Button",
     "description": "A Start Button.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -56,11 +64,13 @@
     "downloadCount": 0
   },
   {
-    "id": "stop button",
+    "id": "320cca36-f22f-4ac8-ba06-699d6264e196",
     "name": "Stop Button",
     "description": "A Stop Button.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -70,11 +80,13 @@
     "downloadCount": 0
   },
   {
-    "id": "buttons",
+    "id": "4a47b7cc-08e1-417e-9c42-c9f944a4f361",
     "name": "Buttons",
     "description": "A Buttons.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",

@@ -1,10 +1,12 @@
 [
   {
-    "id": "belt conveyor",
+    "id": "c86218ef-628b-440b-a447-3f4798b90d05",
     "name": "Belt Conveyor",
     "description": "A Belt Conveyor.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -19,11 +21,13 @@
     "downloadCount": 0
   },
   {
-    "id": "vibration conveyor",
+    "id": "3e0fc8d7-8266-458f-9a6a-2e9435e4193b",
     "name": "Vibration Conveyor",
     "description": "A Vibration Conveyor.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -38,11 +42,13 @@
     "downloadCount": 0
   },
   {
-    "id": "scraper conveyor",
+    "id": "755c3d20-7bea-4f7b-9772-42a8046e95ed",
     "name": "Scraper Conveyor",
     "description": "A Scraper Conveyor.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -57,11 +63,13 @@
     "downloadCount": 0
   },
   {
-    "id": "screw conveyor",
+    "id": "423797f6-506e-42c0-812c-90715c5a2962",
     "name": "Screw Conveyor",
     "description": "A Screw Conveyor.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",

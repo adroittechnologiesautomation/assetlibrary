@@ -1,10 +1,12 @@
 [
   {
-    "id": "motors1",
+    "id": "60e3d2bd-7d25-4db3-8bb2-60307421a507",
     "name": "Motors1",
     "description": "A Motors1.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -19,11 +21,13 @@
     "downloadCount": 0
   },
   {
-    "id": "motors2",
+    "id": "7d6e15fb-8762-42ea-9874-70d55bbfee2e",
     "name": "Motors2",
     "description": "A Motors2.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",

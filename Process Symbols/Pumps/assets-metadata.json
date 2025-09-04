@@ -1,10 +1,12 @@
 [
   {
-    "id": "centrifugal pump 1",
+    "id": "8ed7cc32-01bf-4371-ac58-665caebd18f9",
     "name": "Centrifugal Pump 1",
     "description": "A Centrifugal Pump 1.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -19,11 +21,13 @@
     "downloadCount": 0
   },
   {
-    "id": "positive disp",
+    "id": "78fa04a1-2c8c-4e0d-bf09-b3cb198c5e12",
     "name": "Positive Disp",
     "description": "A Positive Disp.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -33,11 +37,13 @@
     "downloadCount": 0
   },
   {
-    "id": "diaphragm pump",
+    "id": "86ca50c5-d951-43a3-b338-d88903984a5d",
     "name": "Diaphragm Pump",
     "description": "A Diaphragm Pump.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -52,11 +58,13 @@
     "downloadCount": 0
   },
   {
-    "id": "screw pump",
+    "id": "181c5dcf-b5d9-4562-8fe1-4b0a894acd12",
     "name": "Screw Pump",
     "description": "A Screw Pump.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -71,11 +79,13 @@
     "downloadCount": 0
   },
   {
-    "id": "injector ejector",
+    "id": "16b6a05c-3a02-4e3d-888c-6a46862df374",
     "name": "Injector Ejector",
     "description": "A Injector Ejector.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -85,11 +95,13 @@
     "downloadCount": 0
   },
   {
-    "id": "selectable pump 2",
+    "id": "305225f2-10cf-4c03-abef-f1ecf39bdd98",
     "name": "Selectable Pump 2",
     "description": "A Selectable Pump 2.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -104,11 +116,13 @@
     "downloadCount": 0
   },
   {
-    "id": "rotary pump 1",
+    "id": "4940e0e5-0b9b-4e93-9cdb-28ddd6c6b36b",
     "name": "Rotary Pump 1",
     "description": "A Rotary Pump 1.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -123,11 +137,13 @@
     "downloadCount": 0
   },
   {
-    "id": "proportional pump",
+    "id": "51d0ecdb-153d-48c7-9345-f54fbabe733a",
     "name": "Proportional Pump",
     "description": "A Proportional Pump.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -142,11 +158,13 @@
     "downloadCount": 0
   },
   {
-    "id": "helical rotor pump",
+    "id": "3fbfd4bb-8831-45cd-8bfb-35836fc34d2b",
     "name": "Helical Rotor Pump",
     "description": "A Helical Rotor Pump.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -161,11 +179,13 @@
     "downloadCount": 0
   },
   {
-    "id": "reciprocating pump 1",
+    "id": "8a29f176-3f7b-466c-a0f3-5990dad75d8a",
     "name": "Reciprocating Pump 1",
     "description": "A Reciprocating Pump 1.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -180,11 +200,13 @@
     "downloadCount": 0
   },
   {
-    "id": "positive disp pump",
+    "id": "e632ec35-3ea1-43bf-abfd-a424ae8ce3c0",
     "name": "Positive Disp Pump",
     "description": "A Positive Disp Pump.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -199,11 +221,13 @@
     "downloadCount": 0
   },
   {
-    "id": "reciprocating pump 2",
+    "id": "56b33ffb-8c4e-4401-b35e-79c744c103bd",
     "name": "Reciprocating Pump 2",
     "description": "A Reciprocating Pump 2.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -218,11 +242,13 @@
     "downloadCount": 0
   },
   {
-    "id": "rotary pump 2",
+    "id": "ce7d9e8d-faf1-4963-a43d-9c8193890d89",
     "name": "Rotary Pump 2",
     "description": "A Rotary Pump 2.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -237,11 +263,13 @@
     "downloadCount": 0
   },
   {
-    "id": "spray",
+    "id": "207f630f-30f3-4127-9973-99738051441a",
     "name": "Spray",
     "description": "A Spray.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -251,11 +279,13 @@
     "downloadCount": 0
   },
   {
-    "id": "selectable pump 1",
+    "id": "d6f569e6-336b-46c8-8c6e-e6e04d3bd3de",
     "name": "Selectable Pump 1",
     "description": "A Selectable Pump 1.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -270,11 +300,13 @@
     "downloadCount": 0
   },
   {
-    "id": "liquid jet pump",
+    "id": "093d48bf-9047-4cf1-84a8-0995183ebeed",
     "name": "Liquid Jet Pump",
     "description": "A Liquid Jet Pump.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -289,11 +321,13 @@
     "downloadCount": 0
   },
   {
-    "id": "centrifugal pump 2",
+    "id": "49568739-6641-4bd1-b764-4bf826b5fff0",
     "name": "Centrifugal Pump 2",
     "description": "A Centrifugal Pump 2.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -308,11 +342,13 @@
     "downloadCount": 0
   },
   {
-    "id": "inline pump",
+    "id": "35df7963-fb98-42e2-a1f4-9a01b05a4502",
     "name": "Inline Pump",
     "description": "A Inline Pump.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -327,11 +363,13 @@
     "downloadCount": 0
   },
   {
-    "id": "pump",
+    "id": "46ed1612-b8a4-49d2-a437-f517cf64d674",
     "name": "Pump",
     "description": "A Pump.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -346,11 +384,13 @@
     "downloadCount": 0
   },
   {
-    "id": "gear pump",
+    "id": "c7d3fd05-b5f2-415d-b48e-d0e7d27366fc",
     "name": "Gear Pump",
     "description": "A Gear Pump.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",

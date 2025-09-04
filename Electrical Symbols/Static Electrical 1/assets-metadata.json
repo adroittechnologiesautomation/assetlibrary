@@ -1,10 +1,12 @@
 [
   {
-    "id": "transformer with on load tap changer",
+    "id": "7a7152c7-8549-4759-ba82-8a273c0cbfdc",
     "name": "Transformer With On Load Tap Changer",
     "description": "A Transformer With On Load Tap Changer.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -19,11 +21,13 @@
     "downloadCount": 0
   },
   {
-    "id": "star connected winding",
+    "id": "2793600f-fa83-4925-8503-ac2d0efb594e",
     "name": "Star Connected Winding",
     "description": "A Star Connected Winding.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -33,11 +37,13 @@
     "downloadCount": 0
   },
   {
-    "id": "ac generator or alternator",
+    "id": "4a4ab739-6e77-4eb4-8685-975dfb05c4ed",
     "name": "AC Generator or Alternator",
     "description": "A AC Generator or Alternator.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -47,11 +53,13 @@
     "downloadCount": 0
   },
   {
-    "id": "artificial neutral or earthing transformer",
+    "id": "3ef2a98e-2ffa-40a5-9f99-1d855177fe73",
     "name": "Artificial Neutral or Earthing Transformer",
     "description": "A Artificial Neutral or Earthing Transformer.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -66,11 +74,13 @@
     "downloadCount": 0
   },
   {
-    "id": "metering",
+    "id": "aee74a57-cb33-4e65-b51f-587542b48266",
     "name": "Metering",
     "description": "A Metering.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -80,11 +90,13 @@
     "downloadCount": 0
   },
   {
-    "id": "spark gap or overvoltage limiter",
+    "id": "1e3a959f-bbc4-4fa7-b63c-9235e637c96a",
     "name": "Spark Gap or Overvoltage Limiter",
     "description": "A Spark Gap or Overvoltage Limiter.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -94,11 +106,13 @@
     "downloadCount": 0
   },
   {
-    "id": "earth electrode",
+    "id": "df41ddfa-68d4-4e79-9c92-18826b470316",
     "name": "Earth Electrode",
     "description": "A Earth Electrode.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -108,11 +122,13 @@
     "downloadCount": 0
   },
   {
-    "id": "current transformer",
+    "id": "ebb48548-32bf-4902-9f94-31ac5128253f",
     "name": "Current Transformer",
     "description": "A Current Transformer.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -127,11 +143,13 @@
     "downloadCount": 0
   },
   {
-    "id": "impedance",
+    "id": "3156a6b3-8714-4564-94ef-fee543d2f449",
     "name": "Impedance",
     "description": "A Impedance.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -141,11 +159,13 @@
     "downloadCount": 0
   },
   {
-    "id": "thyristor",
+    "id": "fb35e859-8464-4733-810b-ec0dc6d90684",
     "name": "Thyristor",
     "description": "A Thyristor.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -155,11 +175,13 @@
     "downloadCount": 0
   },
   {
-    "id": "source of current",
+    "id": "c4e65106-15d8-49c4-8387-1a712ee50bed",
     "name": "Source of Current",
     "description": "A Source of Current.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -169,11 +191,13 @@
     "downloadCount": 0
   },
   {
-    "id": "asychronous generator",
+    "id": "fd4f7c2e-cefc-4bd3-9517-9d2d2d3c6ca0",
     "name": "Asychronous Generator",
     "description": "A Asychronous Generator.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -183,11 +207,13 @@
     "downloadCount": 0
   },
   {
-    "id": "rectifier",
+    "id": "9283352e-76d4-4f4c-b1cf-fc70a9d96b75",
     "name": "Rectifier",
     "description": "A Rectifier.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -197,11 +223,13 @@
     "downloadCount": 0
   },
   {
-    "id": "short circuit",
+    "id": "0594f494-9247-4adc-98b2-456fd06f1859",
     "name": "Short Circuit",
     "description": "A Short Circuit.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -211,11 +239,13 @@
     "downloadCount": 0
   },
   {
-    "id": "delta connected winding",
+    "id": "f2acd826-8c68-4b41-9164-29cc3a83272f",
     "name": "Delta Connected Winding",
     "description": "A Delta Connected Winding.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -225,11 +255,13 @@
     "downloadCount": 0
   },
   {
-    "id": "transformer",
+    "id": "d15dd14c-9fb5-4d97-8c00-fc2c4029a922",
     "name": "Transformer",
     "description": "A Transformer.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -244,11 +276,13 @@
     "downloadCount": 0
   },
   {
-    "id": "supply incoming feeder",
+    "id": "ee745dd0-86b9-4d18-a7b7-45dd95d7a9e3",
     "name": "Supply Incoming Feeder",
     "description": "A Supply Incoming Feeder.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -258,11 +292,13 @@
     "downloadCount": 0
   },
   {
-    "id": "three-phase line or cable",
+    "id": "c56fbb93-a27e-4b86-a909-f53d9102180a",
     "name": "Three-Phase Line or Cable",
     "description": "A Three-Phase Line or Cable.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -277,11 +313,13 @@
     "downloadCount": 0
   },
   {
-    "id": "outgoing feeder",
+    "id": "d3355caf-0274-4d0f-938e-f5de0a2581c9",
     "name": "Outgoing Feeder",
     "description": "A Outgoing Feeder.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -291,11 +329,13 @@
     "downloadCount": 0
   },
   {
-    "id": "electrical power outlet",
+    "id": "7f268f73-4a75-4738-acd5-21f15f3b54cf",
     "name": "Electrical Power Outlet",
     "description": "A Electrical Power Outlet.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -305,11 +345,13 @@
     "downloadCount": 0
   },
   {
-    "id": "single-phase line or cable",
+    "id": "87be2a8a-61e7-4caf-a34d-d50154a7996e",
     "name": "Single-Phase Line or Cable",
     "description": "A Single-Phase Line or Cable.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -324,11 +366,13 @@
     "downloadCount": 0
   },
   {
-    "id": "iron ore reactor",
+    "id": "031c6200-ad38-451c-8340-f815c9134ff0",
     "name": "Iron Ore Reactor",
     "description": "A Iron Ore Reactor.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -338,11 +382,13 @@
     "downloadCount": 0
   },
   {
-    "id": "varistor or surge arrester",
+    "id": "038ee7cf-a548-4da4-886a-4df7574ca8bb",
     "name": "Varistor or Surge Arrester",
     "description": "A Varistor or Surge Arrester.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -352,11 +398,13 @@
     "downloadCount": 0
   },
   {
-    "id": "measuring device",
+    "id": "5fe45712-ad2b-49eb-9fac-4613b9bdebfc",
     "name": "Measuring Device",
     "description": "A Measuring Device.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -366,11 +414,13 @@
     "downloadCount": 0
   },
   {
-    "id": "capacitor",
+    "id": "9b9b5ed2-6b87-43d7-b9d2-db3a4856c57f",
     "name": "Capacitor",
     "description": "A Capacitor.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -380,11 +430,13 @@
     "downloadCount": 0
   },
   {
-    "id": "voltage transformer",
+    "id": "8fa72497-c2e1-498b-b647-a8ba8f1b045a",
     "name": "Voltage Transformer",
     "description": "A Voltage Transformer.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -399,11 +451,13 @@
     "downloadCount": 0
   },
   {
-    "id": "variable resistor",
+    "id": "570c7e67-3e46-4a7f-91b4-ecc7bbd61b25",
     "name": "Variable Resistor",
     "description": "A Variable Resistor.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -418,11 +472,13 @@
     "downloadCount": 0
   },
   {
-    "id": "resistor",
+    "id": "2912ef91-154b-4e4d-8f2c-fe0e0388646f",
     "name": "Resistor",
     "description": "A Resistor.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -437,11 +493,13 @@
     "downloadCount": 0
   },
   {
-    "id": "inverter",
+    "id": "85557da7-3874-4b15-9281-7cb37a8df397",
     "name": "Inverter",
     "description": "A Inverter.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -456,11 +514,13 @@
     "downloadCount": 0
   },
   {
-    "id": "battery",
+    "id": "015d5e1c-71be-4b30-b1e8-c8956426eed5",
     "name": "Battery",
     "description": "A Battery.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -470,11 +530,13 @@
     "downloadCount": 0
   },
   {
-    "id": "reactor or transformer",
+    "id": "97d01427-2cf5-41f6-a1cd-c79c4ac6ad94",
     "name": "Reactor or Transformer",
     "description": "A Reactor or Transformer.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -489,11 +551,13 @@
     "downloadCount": 0
   },
   {
-    "id": "motor",
+    "id": "08e523dd-8356-4d65-b7ac-c1bdfb0febb7",
     "name": "Motor",
     "description": "A Motor.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -508,11 +572,13 @@
     "downloadCount": 0
   },
   {
-    "id": "diode",
+    "id": "0eccc8ba-a28f-4281-a9b1-99a0aca66026",
     "name": "Diode",
     "description": "A Diode.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -522,11 +588,13 @@
     "downloadCount": 0
   },
   {
-    "id": "fuse",
+    "id": "5885254b-4026-4b5d-91d0-b9459d2c8ac2",
     "name": "Fuse",
     "description": "A Fuse.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",

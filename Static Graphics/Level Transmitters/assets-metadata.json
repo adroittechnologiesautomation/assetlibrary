@@ -1,10 +1,12 @@
 [
   {
-    "id": "chrome ultra sonic level small",
+    "id": "b8d05f54-1f1d-4f40-8110-3126715acec3",
     "name": "Chrome Ultra Sonic Level Small",
     "description": "A Chrome Ultra Sonic Level Small.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -14,11 +16,13 @@
     "downloadCount": 0
   },
   {
-    "id": "blue ultra sonic level small",
+    "id": "0774dc37-890e-43c9-a66b-0d8f7ccb1af6",
     "name": "Blue Ultra Sonic Level Small",
     "description": "A Blue Ultra Sonic Level Small.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -28,11 +32,13 @@
     "downloadCount": 0
   },
   {
-    "id": "blue ultra sonic level large",
+    "id": "a74af124-8b81-43e2-9cef-3ea30bcfd4cc",
     "name": "Blue Ultra Sonic Level Large",
     "description": "A Blue Ultra Sonic Level Large.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -42,11 +48,13 @@
     "downloadCount": 0
   },
   {
-    "id": "chrome ultra sonic level large",
+    "id": "855f9443-4cd9-4464-9073-a8e20087f730",
     "name": "Chrome Ultra Sonic Level Large",
     "description": "A Chrome Ultra Sonic Level Large.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",

@@ -1,10 +1,12 @@
 [
   {
-    "id": "application target 2",
+    "id": "ce379357-9831-47da-b533-badbcb933a03",
     "name": "Application Target 2",
     "description": "A Application Target 2.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -14,11 +16,13 @@
     "downloadCount": 0
   },
   {
-    "id": "application target 1",
+    "id": "99ec7c40-06ae-4409-83ab-f60ba6ea9652",
     "name": "Application Target 1",
     "description": "A Application Target 1.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -28,11 +32,13 @@
     "downloadCount": 0
   },
   {
-    "id": "all spiders",
+    "id": "a6b4a7c1-18a5-4fa1-907c-2bfe4063842e",
     "name": "All Spiders",
     "description": "A All Spiders.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",

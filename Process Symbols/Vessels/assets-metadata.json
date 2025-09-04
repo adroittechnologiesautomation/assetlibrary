@@ -1,10 +1,12 @@
 [
   {
-    "id": "tank",
+    "id": "17604a3d-d3dc-463f-85cb-47f685513faf",
     "name": "Tank",
     "description": "A Tank.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -19,11 +21,13 @@
     "downloadCount": 0
   },
   {
-    "id": "barrel",
+    "id": "dc144adc-9218-4dcf-8007-f98e145a4131",
     "name": "Barrel",
     "description": "A Barrel.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -33,11 +37,13 @@
     "downloadCount": 0
   },
   {
-    "id": "open tank",
+    "id": "712abe82-6fbb-4a26-ba7a-0e9047e012db",
     "name": "Open Tank",
     "description": "A Open Tank.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -52,11 +58,13 @@
     "downloadCount": 0
   },
   {
-    "id": "classifier",
+    "id": "d1671be6-b93b-4a0b-9e05-526461e452d2",
     "name": "Classifier",
     "description": "A Classifier.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -66,11 +74,13 @@
     "downloadCount": 0
   },
   {
-    "id": "tray column",
+    "id": "6f775c8b-c042-4487-b476-cf6b44c64db6",
     "name": "Tray Column",
     "description": "A Tray Column.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -80,11 +90,13 @@
     "downloadCount": 0
   },
   {
-    "id": "gas holder",
+    "id": "4637e2db-cab6-4874-af89-61964fcd7d2e",
     "name": "Gas Holder",
     "description": "A Gas Holder.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -94,11 +106,13 @@
     "downloadCount": 0
   },
   {
-    "id": "silo",
+    "id": "d8702842-ff93-4175-bd53-b43b93e57a5d",
     "name": "Silo",
     "description": "A Silo.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -108,11 +122,13 @@
     "downloadCount": 0
   },
   {
-    "id": "carrying vessel",
+    "id": "0b303b8e-3eac-4f9b-a19a-56f720d3dd08",
     "name": "Carrying Vessel",
     "description": "A Carrying Vessel.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -127,11 +143,13 @@
     "downloadCount": 0
   },
   {
-    "id": "vessel",
+    "id": "03cf04f0-e6cf-43df-9a9d-fda2e51dc6f9",
     "name": "Vessel",
     "description": "A Vessel.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -146,11 +164,13 @@
     "downloadCount": 0
   },
   {
-    "id": "covered tank",
+    "id": "02156231-a7a1-460c-b296-bb81be815c53",
     "name": "Covered Tank",
     "description": "A Covered Tank.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -165,11 +185,13 @@
     "downloadCount": 0
   },
   {
-    "id": "gas cylinder",
+    "id": "04687cce-e363-414c-aac4-6b1f5d446411",
     "name": "Gas Cylinder",
     "description": "A Gas Cylinder.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -179,11 +201,13 @@
     "downloadCount": 0
   },
   {
-    "id": "column",
+    "id": "42c2c169-9861-4b25-a579-c62c09bfd5ce",
     "name": "Column",
     "description": "A Column.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -193,11 +217,13 @@
     "downloadCount": 0
   },
   {
-    "id": "reaction vessel",
+    "id": "aef19f02-e049-4d55-9a28-fe03a6e546df",
     "name": "Reaction Vessel",
     "description": "A Reaction Vessel.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -212,11 +238,13 @@
     "downloadCount": 0
   },
   {
-    "id": "closed tank",
+    "id": "270733fa-ef83-4294-8eca-f8e6cbe6c09c",
     "name": "Closed Tank",
     "description": "A Closed Tank.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -231,11 +259,13 @@
     "downloadCount": 0
   },
   {
-    "id": "autoclave",
+    "id": "a0ecb403-2854-45ca-9de8-70b56b63517e",
     "name": "Autoclave",
     "description": "A Autoclave.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -245,11 +275,13 @@
     "downloadCount": 0
   },
   {
-    "id": "fluid contacting",
+    "id": "3622c067-6ec0-48e5-9b8b-52a88b7d0d37",
     "name": "Fluid Contacting",
     "description": "A Fluid Contacting.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -259,11 +291,13 @@
     "downloadCount": 0
   },
   {
-    "id": "blender",
+    "id": "327e970b-c7a0-4328-a847-14c4f80d2db3",
     "name": "Blender",
     "description": "A Blender.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -273,11 +307,13 @@
     "downloadCount": 0
   },
   {
-    "id": "storage sphere",
+    "id": "f856f88d-0ca9-4180-9302-466dec5e1ebe",
     "name": "Storage Sphere",
     "description": "A Storage Sphere.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -287,11 +323,13 @@
     "downloadCount": 0
   },
   {
-    "id": "bag",
+    "id": "4e7e9bbc-df31-4948-a65d-bc9b43661847",
     "name": "Bag",
     "description": "A Bag.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",

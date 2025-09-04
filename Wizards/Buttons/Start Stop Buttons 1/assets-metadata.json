@@ -1,10 +1,12 @@
 [
   {
-    "id": "start button 1",
+    "id": "fb582393-2d3c-4535-8494-f21f6c61c57a",
     "name": "Start Button 1",
     "description": "A Start Button 1.",
     "fileType": "vizw",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -14,11 +16,13 @@
     "downloadCount": 0
   },
   {
-    "id": "stop button 1",
+    "id": "3af41f68-d033-4cf8-b5ad-578a252c0779",
     "name": "Stop Button 1",
     "description": "A Stop Button 1.",
     "fileType": "vizw",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",

@@ -1,10 +1,12 @@
 [
   {
-    "id": "water screen left inlet",
+    "id": "55c204c2-9921-45f0-b9ea-18b4bfd03e38",
     "name": "Water Screen Left Inlet",
     "description": "A Water Screen Left Inlet.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -14,11 +16,13 @@
     "downloadCount": 0
   },
   {
-    "id": "water screen right inlet",
+    "id": "cef6e7ef-d895-40c3-9e76-a323673e34cc",
     "name": "Water Screen Right Inlet",
     "description": "A Water Screen Right Inlet.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",

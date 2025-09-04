@@ -1,10 +1,12 @@
 [
   {
-    "id": "cement bag palletizer",
+    "id": "cf2602d2-98df-425e-93b9-62545fb56503",
     "name": "Cement Bag Palletizer",
     "description": "A Cement Bag Palletizer.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -14,11 +16,13 @@
     "downloadCount": 0
   },
   {
-    "id": "screw conveyor left",
+    "id": "95677b72-5d51-4e9b-9fe1-ce03a8e2c4b7",
     "name": "Screw Conveyor Left",
     "description": "A Screw Conveyor Left.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -33,11 +37,13 @@
     "downloadCount": 0
   },
   {
-    "id": "coal tippler",
+    "id": "bfb6df8b-6fb6-45ca-8a96-76c6cb8b712f",
     "name": "Coal Tippler",
     "description": "A Coal Tippler.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -47,11 +53,13 @@
     "downloadCount": 0
   },
   {
-    "id": "bucket conveyor head pulley",
+    "id": "adbdddc5-1e2b-468c-913a-47c64d72875c",
     "name": "Bucket Conveyor Head Pulley",
     "description": "A Bucket Conveyor Head Pulley.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -66,11 +74,13 @@
     "downloadCount": 0
   },
   {
-    "id": "vertical cyclone",
+    "id": "2e4b551d-9803-4bc8-96d8-861af4936b23",
     "name": "Vertical Cyclone",
     "description": "A Vertical Cyclone.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -80,11 +90,13 @@
     "downloadCount": 0
   },
   {
-    "id": "weigh feeder",
+    "id": "d4ff6b57-137b-4695-8923-ca4d69f76eca",
     "name": "Weigh Feeder",
     "description": "A Weigh Feeder.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -94,11 +106,13 @@
     "downloadCount": 0
   },
   {
-    "id": "screw conveyor right",
+    "id": "45d1cb1d-4ccf-4e66-b80a-03a38c05c6b5",
     "name": "Screw Conveyor Right",
     "description": "A Screw Conveyor Right.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -113,11 +127,13 @@
     "downloadCount": 0
   },
   {
-    "id": "kiln",
+    "id": "02d3a142-e943-43af-b036-e10af89c4a5b",
     "name": "Kiln",
     "description": "A Kiln.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -127,11 +143,13 @@
     "downloadCount": 0
   },
   {
-    "id": "mine truck",
+    "id": "f1048665-ff84-4c6f-83ca-2970a3ca5e24",
     "name": "Mine Truck",
     "description": "A Mine Truck.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -141,11 +159,13 @@
     "downloadCount": 0
   },
   {
-    "id": "preheater",
+    "id": "38d701e3-66e0-42cb-bfb1-64247b8911ce",
     "name": "Preheater",
     "description": "A Preheater.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -155,11 +175,13 @@
     "downloadCount": 0
   },
   {
-    "id": "electro filter",
+    "id": "15f89930-716a-478f-9e2f-a51f34744403",
     "name": "Electro Filter",
     "description": "A Electro Filter.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -169,11 +191,13 @@
     "downloadCount": 0
   },
   {
-    "id": "circular reclaimer",
+    "id": "54ec28b5-786b-45dc-b7d3-4443186d7180",
     "name": "Circular Reclaimer",
     "description": "A Circular Reclaimer.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -183,11 +207,13 @@
     "downloadCount": 0
   },
   {
-    "id": "short base kiln",
+    "id": "399540b2-6cf1-44d3-b9a9-b13107de97f7",
     "name": "Short Base Kiln",
     "description": "A Short Base Kiln.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -197,11 +223,13 @@
     "downloadCount": 0
   },
   {
-    "id": "stacker",
+    "id": "e9a390a1-da26-4854-938b-e352a1e41a23",
     "name": "Stacker",
     "description": "A Stacker.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",

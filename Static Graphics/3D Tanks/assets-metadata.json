@@ -1,10 +1,12 @@
 [
   {
-    "id": "3d tank 05",
+    "id": "805e65fe-f7b8-473d-addc-73a9bc68daa5",
     "name": "3D Tank 05",
     "description": "A 3D Tank 05.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -19,11 +21,13 @@
     "downloadCount": 0
   },
   {
-    "id": "3d tank 02",
+    "id": "82f8ffca-8009-4d19-af97-0c9d2746bbed",
     "name": "3D Tank 02",
     "description": "A 3D Tank 02.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -38,11 +42,13 @@
     "downloadCount": 0
   },
   {
-    "id": "3d tank 01",
+    "id": "214c1968-dbad-435d-8e00-99edeb7f1fda",
     "name": "3D Tank 01",
     "description": "A 3D Tank 01.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -57,11 +63,13 @@
     "downloadCount": 0
   },
   {
-    "id": "3d tank 11",
+    "id": "b98ca8e4-d227-4294-9119-c943d63e86f1",
     "name": "3D Tank 11",
     "description": "A 3D Tank 11.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -76,11 +84,13 @@
     "downloadCount": 0
   },
   {
-    "id": "3d tank 09",
+    "id": "a18ce086-b194-4250-82bc-5685de420baa",
     "name": "3D Tank 09",
     "description": "A 3D Tank 09.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -95,11 +105,13 @@
     "downloadCount": 0
   },
   {
-    "id": "3d tank 07",
+    "id": "4abd324e-acf5-40ff-ba92-7b2d688f993b",
     "name": "3D Tank 07",
     "description": "A 3D Tank 07.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -114,11 +126,13 @@
     "downloadCount": 0
   },
   {
-    "id": "water reservoir tank",
+    "id": "eaa76372-6aaa-4085-a569-d93724ccfa13",
     "name": "Water Reservoir Tank",
     "description": "A Water Reservoir Tank.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -133,11 +147,13 @@
     "downloadCount": 0
   },
   {
-    "id": "water tower tank 2",
+    "id": "a29e9bb2-7b2d-4aba-80a7-bb117809fc14",
     "name": "Water Tower Tank 2",
     "description": "A Water Tower Tank 2.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -152,11 +168,13 @@
     "downloadCount": 0
   },
   {
-    "id": "3d tank 03",
+    "id": "ba49b231-9754-481e-b769-a08462fb005f",
     "name": "3D Tank 03",
     "description": "A 3D Tank 03.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -171,11 +189,13 @@
     "downloadCount": 0
   },
   {
-    "id": "water tower tank 1",
+    "id": "c5732ff9-c806-48f5-a669-8931a0b76c53",
     "name": "Water Tower Tank 1",
     "description": "A Water Tower Tank 1.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -190,11 +210,13 @@
     "downloadCount": 0
   },
   {
-    "id": "3d tank 08",
+    "id": "5ff82b05-30a1-4cd3-9c83-3fa611f0af06",
     "name": "3D Tank 08",
     "description": "A 3D Tank 08.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -209,11 +231,13 @@
     "downloadCount": 0
   },
   {
-    "id": "3d tank 04",
+    "id": "46787d25-fb49-4e40-83fa-1d524451f93b",
     "name": "3D Tank 04",
     "description": "A 3D Tank 04.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -228,11 +252,13 @@
     "downloadCount": 0
   },
   {
-    "id": "3d tank 10",
+    "id": "ba88868b-7608-492b-a778-d1f8c0c3c3db",
     "name": "3D Tank 10",
     "description": "A 3D Tank 10.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -247,11 +273,13 @@
     "downloadCount": 0
   },
   {
-    "id": "3d tank 06",
+    "id": "830e21df-b165-4921-8cd0-797936070f6a",
     "name": "3D Tank 06",
     "description": "A 3D Tank 06.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",

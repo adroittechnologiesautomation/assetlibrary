@@ -1,10 +1,12 @@
 [
   {
-    "id": "heat exchanger 04",
+    "id": "b778d755-16f0-4280-bf8d-c154a3fc7da4",
     "name": "Heat Exchanger 04",
     "description": "A Heat Exchanger 04.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -14,11 +16,13 @@
     "downloadCount": 0
   },
   {
-    "id": "heat exchanger 06",
+    "id": "3428e356-9bde-46d7-9413-e95d76227fde",
     "name": "Heat Exchanger 06",
     "description": "A Heat Exchanger 06.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -28,11 +32,13 @@
     "downloadCount": 0
   },
   {
-    "id": "heat exchanger 03",
+    "id": "c90037d8-1450-4215-b024-8b87c355d5a8",
     "name": "Heat Exchanger 03",
     "description": "A Heat Exchanger 03.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -42,11 +48,13 @@
     "downloadCount": 0
   },
   {
-    "id": "heat exchanger 05",
+    "id": "a1bbb264-ac50-4885-a42c-9d7814147907",
     "name": "Heat Exchanger 05",
     "description": "A Heat Exchanger 05.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -56,11 +64,13 @@
     "downloadCount": 0
   },
   {
-    "id": "heat exchanger 01",
+    "id": "d146c591-c77f-4cdf-81ac-30a37f356148",
     "name": "Heat Exchanger 01",
     "description": "A Heat Exchanger 01.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -70,11 +80,13 @@
     "downloadCount": 0
   },
   {
-    "id": "heat exchanger 02",
+    "id": "6203e6e1-7426-450a-9797-43608c38ab26",
     "name": "Heat Exchanger 02",
     "description": "A Heat Exchanger 02.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",

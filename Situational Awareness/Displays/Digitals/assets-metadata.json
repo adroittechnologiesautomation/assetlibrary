@@ -1,10 +1,12 @@
 [
   {
-    "id": "wzdradio_digitaldisplay_priority3_v01",
+    "id": "02cf48f5-3442-4936-95e8-2e11918dfd07",
     "name": "wzdRadio_DigitalDisplay_Priority3_v01",
     "description": "A wzdRadio_DigitalDisplay_Priority3_v01.",
     "fileType": "vizw",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -14,11 +16,13 @@
     "downloadCount": 0
   },
   {
-    "id": "wzddigitaltextdisplay_nopriority_v01",
+    "id": "0c610a9a-8d7a-435e-9450-2ec074edd286",
     "name": "wzdDigitalTextDisplay_NoPriority_v01",
     "description": "A wzdDigitalTextDisplay_NoPriority_v01.",
     "fileType": "vizw",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -28,11 +32,13 @@
     "downloadCount": 0
   },
   {
-    "id": "wzdradio_digitaldisplay_nopriority_v01",
+    "id": "6067237a-7830-439b-bb45-8c57d8469bfe",
     "name": "wzdRadio_DigitalDisplay_NoPriority_v01",
     "description": "A wzdRadio_DigitalDisplay_NoPriority_v01.",
     "fileType": "vizw",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",

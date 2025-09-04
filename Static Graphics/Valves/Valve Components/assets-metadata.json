@@ -1,10 +1,12 @@
 [
   {
-    "id": "vent",
+    "id": "9eafa50b-4eb2-40c0-97d4-8b5fa519b571",
     "name": "Vent",
     "description": "A Vent.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -14,11 +16,13 @@
     "downloadCount": 0
   },
   {
-    "id": "valve component 06",
+    "id": "32f35da0-6aa9-4b60-ba23-d86e6859eeab",
     "name": "Valve Component 06",
     "description": "A Valve Component 06.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -33,11 +37,13 @@
     "downloadCount": 0
   },
   {
-    "id": "valve component 02",
+    "id": "80b29d89-1878-4db1-a11d-725ab315cc63",
     "name": "Valve Component 02",
     "description": "A Valve Component 02.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -52,11 +58,13 @@
     "downloadCount": 0
   },
   {
-    "id": "flange 01",
+    "id": "b1b15f93-81ca-4314-9924-9ad55b8c5057",
     "name": "Flange 01",
     "description": "A Flange 01.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -66,11 +74,13 @@
     "downloadCount": 0
   },
   {
-    "id": "panel",
+    "id": "726f6c4c-2e58-4c1e-a22e-91de8a9e209a",
     "name": "Panel",
     "description": "A Panel.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -80,11 +90,13 @@
     "downloadCount": 0
   },
   {
-    "id": "flange 02",
+    "id": "cdcafce9-d0f4-48f9-ade2-d764c184cc52",
     "name": "Flange 02",
     "description": "A Flange 02.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -94,11 +106,13 @@
     "downloadCount": 0
   },
   {
-    "id": "valve component 05",
+    "id": "4ac11896-2763-4962-bd89-eff399781170",
     "name": "Valve Component 05",
     "description": "A Valve Component 05.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -113,11 +127,13 @@
     "downloadCount": 0
   },
   {
-    "id": "valve component 04",
+    "id": "78237be8-0818-419e-8fe8-a86198cd4020",
     "name": "Valve Component 04",
     "description": "A Valve Component 04.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -132,11 +148,13 @@
     "downloadCount": 0
   },
   {
-    "id": "switch",
+    "id": "2f91349a-34df-427e-a09c-d3115cde7b15",
     "name": "Switch",
     "description": "A Switch.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -151,11 +169,13 @@
     "downloadCount": 0
   },
   {
-    "id": "valve component 03",
+    "id": "09c1c7aa-8dca-4cab-984e-3c89228980bf",
     "name": "Valve Component 03",
     "description": "A Valve Component 03.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -170,11 +190,13 @@
     "downloadCount": 0
   },
   {
-    "id": "flange 03",
+    "id": "e194d54a-bef3-4fdb-a530-16fde2fd300d",
     "name": "Flange 03",
     "description": "A Flange 03.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -184,11 +206,13 @@
     "downloadCount": 0
   },
   {
-    "id": "valve component 01",
+    "id": "bf582081-f229-409f-80ce-ec6f37064576",
     "name": "Valve Component 01",
     "description": "A Valve Component 01.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",

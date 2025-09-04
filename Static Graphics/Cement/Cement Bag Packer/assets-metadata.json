@@ -1,10 +1,12 @@
 [
   {
-    "id": "bag packer",
+    "id": "184a6486-fe69-4361-a11e-9ea48b29d8c6",
     "name": "Bag Packer",
     "description": "A Bag Packer.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",

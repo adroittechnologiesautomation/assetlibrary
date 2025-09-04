@@ -1,10 +1,12 @@
 [
   {
-    "id": "qj71e71_template",
+    "id": "b03c3e7f-749a-4d1e-ab16-b23c92704adb",
     "name": "QJ71E71_Template",
     "description": "A QJ71E71_Template.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -14,11 +16,13 @@
     "downloadCount": 0
   },
   {
-    "id": "qnudvcpu_template",
+    "id": "62ca60b5-d876-4aaf-b4df-e899ce4b44ac",
     "name": "QNUDVCPU_Template",
     "description": "A QNUDVCPU_Template.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -28,11 +32,13 @@
     "downloadCount": 0
   },
   {
-    "id": "q64da_template",
+    "id": "27a10b90-0a78-41a0-8fb5-2050649ad272",
     "name": "Q64DA_Template",
     "description": "A Q64DA_Template.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -42,11 +48,13 @@
     "downloadCount": 0
   },
   {
-    "id": "qy81p_template",
+    "id": "7c3baf11-255f-45f4-bda1-99c332091750",
     "name": "QY81P_Template",
     "description": "A QY81P_Template.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -56,11 +64,13 @@
     "downloadCount": 0
   },
   {
-    "id": "qx80_template",
+    "id": "1c476275-297d-417d-bdf6-965ac3cdae7b",
     "name": "QX80_Template",
     "description": "A QX80_Template.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -70,11 +80,13 @@
     "downloadCount": 0
   },
   {
-    "id": "qy80_template",
+    "id": "3bbb791e-fc36-4887-8197-58c068d7caac",
     "name": "QY80_Template",
     "description": "A QY80_Template.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -84,11 +96,13 @@
     "downloadCount": 0
   },
   {
-    "id": "qx81_template",
+    "id": "5d5de824-a0e8-42b2-8fd6-343e3da409f8",
     "name": "QX81_Template",
     "description": "A QX81_Template.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -98,11 +112,13 @@
     "downloadCount": 0
   },
   {
-    "id": "q64ad_template",
+    "id": "e367ebbc-3249-4661-84a2-ad74f1ed7fe1",
     "name": "Q64AD_Template",
     "description": "A Q64AD_Template.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",

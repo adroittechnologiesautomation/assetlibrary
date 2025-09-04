@@ -1,10 +1,12 @@
 [
   {
-    "id": "coolers",
+    "id": "02c78cf2-39a3-4a41-a900-a4a1451e7d2c",
     "name": "Coolers",
     "description": "A Coolers.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",

@@ -1,10 +1,12 @@
 [
   {
-    "id": "q03udvcpudetails",
+    "id": "de007bf7-46fc-4b92-961d-91f115090662",
     "name": "Q03UDVCPUDetails",
     "description": "A Q03UDVCPUDetails.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",

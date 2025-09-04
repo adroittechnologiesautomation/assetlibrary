@@ -1,10 +1,12 @@
 [
   {
-    "id": "skip",
+    "id": "e0de5655-4d5b-4371-a0ac-0a15f822f9f5",
     "name": "Skip",
     "description": "A Skip.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",

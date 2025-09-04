@@ -1,10 +1,12 @@
 [
   {
-    "id": "manual valve top",
+    "id": "140f0ea8-e6f8-4ef6-9cd5-6999c4274e28",
     "name": "Manual Valve Top",
     "description": "A Manual Valve Top.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -19,11 +21,13 @@
     "downloadCount": 0
   },
   {
-    "id": "simple manual valve",
+    "id": "4adb5786-b9f1-41b2-9eea-c9f977179792",
     "name": "Simple Manual Valve",
     "description": "A Simple Manual Valve.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -38,11 +42,13 @@
     "downloadCount": 0
   },
   {
-    "id": "manual valve angle left",
+    "id": "d33c266f-9ad4-4cc0-8382-558834b1e87b",
     "name": "Manual Valve Angle Left",
     "description": "A Manual Valve Angle Left.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -57,11 +63,13 @@
     "downloadCount": 0
   },
   {
-    "id": "blue solenoid valve",
+    "id": "c9267c79-c516-4257-a848-a818b2f352ce",
     "name": "Blue Solenoid Valve",
     "description": "A Blue Solenoid Valve.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -76,11 +84,13 @@
     "downloadCount": 0
   },
   {
-    "id": "manual valve angle right",
+    "id": "c627dcbb-eb47-49c4-89cf-a902491a998e",
     "name": "Manual Valve Angle Right",
     "description": "A Manual Valve Angle Right.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -95,11 +105,13 @@
     "downloadCount": 0
   },
   {
-    "id": "blue motorised valve",
+    "id": "6b44fe79-117a-4ea8-9db6-ec94d97783b9",
     "name": "Blue Motorised Valve",
     "description": "A Blue Motorised Valve.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -114,11 +126,13 @@
     "downloadCount": 0
   },
   {
-    "id": "manual valve side",
+    "id": "ea4a9a3d-7735-49ab-9d8b-a90b611246ff",
     "name": "Manual Valve Side",
     "description": "A Manual Valve Side.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",

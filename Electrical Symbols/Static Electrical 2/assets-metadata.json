@@ -1,10 +1,12 @@
 [
   {
-    "id": "neon lamp",
+    "id": "554198be-1733-4181-8620-d653820dbd99",
     "name": "Neon Lamp",
     "description": "A Neon Lamp.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -14,11 +16,13 @@
     "downloadCount": 0
   },
   {
-    "id": "spdt toggle switch",
+    "id": "25cd219b-11f4-4cd8-9f93-d5f836528f73",
     "name": "SPDT Toggle Switch",
     "description": "A SPDT Toggle Switch.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -33,11 +37,13 @@
     "downloadCount": 0
   },
   {
-    "id": "variable capacitor",
+    "id": "b85f36f2-3123-493c-9c7a-457876f205ab",
     "name": "Variable Capacitor",
     "description": "A Variable Capacitor.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -47,11 +53,13 @@
     "downloadCount": 0
   },
   {
-    "id": "transformer",
+    "id": "fb784722-7220-4cd7-b7f0-a2e4fb2aec47",
     "name": "Transformer",
     "description": "A Transformer.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -66,11 +74,13 @@
     "downloadCount": 0
   },
   {
-    "id": "circuit breaker",
+    "id": "0513c713-8ecb-42c2-942a-895ff3adf384",
     "name": "Circuit Breaker",
     "description": "A Circuit Breaker.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -80,11 +90,13 @@
     "downloadCount": 0
   },
   {
-    "id": "electrostatic speaker",
+    "id": "465da667-56ab-452b-9357-31dea335df2a",
     "name": "Electrostatic Speaker",
     "description": "A Electrostatic Speaker.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -94,11 +106,13 @@
     "downloadCount": 0
   },
   {
-    "id": "sp momentary nc",
+    "id": "4befa9a2-b909-4a4b-93df-bf23e16bea95",
     "name": "SP Momentary NC",
     "description": "A SP Momentary NC.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -108,11 +122,13 @@
     "downloadCount": 0
   },
   {
-    "id": "motor",
+    "id": "f6141fe7-3887-4246-b871-e7eadb812586",
     "name": "Motor",
     "description": "A Motor.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -127,11 +143,13 @@
     "downloadCount": 0
   },
   {
-    "id": "inductor",
+    "id": "55fbaedb-2be3-4f2e-bd16-1edb084ecf7f",
     "name": "Inductor",
     "description": "A Inductor.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -141,11 +159,13 @@
     "downloadCount": 0
   },
   {
-    "id": "photo resistor filled",
+    "id": "c4ee04f6-4146-47e9-8076-ef5937f5e914",
     "name": "Photo Resistor Filled",
     "description": "A Photo Resistor Filled.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -160,11 +180,13 @@
     "downloadCount": 0
   },
   {
-    "id": "momentary switch 2-ckt",
+    "id": "cf101eaf-6fdb-4208-b896-7b9af06796e6",
     "name": "Momentary Switch 2-Ckt",
     "description": "A Momentary Switch 2-Ckt.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -179,11 +201,13 @@
     "downloadCount": 0
   },
   {
-    "id": "ac generator",
+    "id": "64210dda-9a41-431b-b514-0fa465c3fd55",
     "name": "AC Generator",
     "description": "A AC Generator.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -193,11 +217,13 @@
     "downloadCount": 0
   },
   {
-    "id": "lamp 1",
+    "id": "55f1b585-5bbe-4d0f-9ea7-d67f1048e3cd",
     "name": "Lamp 1",
     "description": "A Lamp 1.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -207,11 +233,13 @@
     "downloadCount": 0
   },
   {
-    "id": "lamp 2",
+    "id": "610d4dcf-2206-492b-83d4-74955c948ab1",
     "name": "Lamp 2",
     "description": "A Lamp 2.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -221,11 +249,13 @@
     "downloadCount": 0
   },
   {
-    "id": "lamp 3",
+    "id": "a92024d6-d034-4857-8e83-88b1f9595440",
     "name": "Lamp 3",
     "description": "A Lamp 3.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -235,11 +265,13 @@
     "downloadCount": 0
   },
   {
-    "id": "photo resistor",
+    "id": "42cdb1aa-d8b5-48f3-a636-7fc3ec9daf76",
     "name": "Photo Resistor",
     "description": "A Photo Resistor.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -254,11 +286,13 @@
     "downloadCount": 0
   },
   {
-    "id": "polled capacitor",
+    "id": "89af9f15-3887-474d-8a87-3562b2ed6e77",
     "name": "Polled Capacitor",
     "description": "A Polled Capacitor.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -268,11 +302,13 @@
     "downloadCount": 0
   },
   {
-    "id": "momentary switch nc",
+    "id": "dbdad83b-1241-45c8-bc59-63f3158b9a3f",
     "name": "Momentary Switch NC",
     "description": "A Momentary Switch NC.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -287,11 +323,13 @@
     "downloadCount": 0
   },
   {
-    "id": "if transformer",
+    "id": "02f7b0cc-4be1-44ae-9b12-c9c897e9618b",
     "name": "IF Transformer",
     "description": "A IF Transformer.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -306,11 +344,13 @@
     "downloadCount": 0
   },
   {
-    "id": "closed contactor",
+    "id": "1b63ec68-ddbd-4ebd-a6b7-aad982e06932",
     "name": "Closed Contactor",
     "description": "A Closed Contactor.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -320,11 +360,13 @@
     "downloadCount": 0
   },
   {
-    "id": "variable resistor",
+    "id": "bba3df29-d0ff-417e-a3e1-40618dda5986",
     "name": "Variable Resistor",
     "description": "A Variable Resistor.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -339,11 +381,13 @@
     "downloadCount": 0
   },
   {
-    "id": "variable capacitor filled",
+    "id": "b47b4ab0-420f-418b-a9ab-a49d2eeb312f",
     "name": "Variable Capacitor Filled",
     "description": "A Variable Capacitor Filled.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -353,11 +397,13 @@
     "downloadCount": 0
   },
   {
-    "id": "coil transformer",
+    "id": "95214efd-92a6-4656-9b52-7ed01a328598",
     "name": "Coil Transformer",
     "description": "A Coil Transformer.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -372,11 +418,13 @@
     "downloadCount": 0
   },
   {
-    "id": "momentary switch no",
+    "id": "1e6f61f7-205a-4266-8096-9906fd787a9a",
     "name": "Momentary Switch NO",
     "description": "A Momentary Switch NO.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -391,11 +439,13 @@
     "downloadCount": 0
   },
   {
-    "id": "open contactor",
+    "id": "e8557826-d35f-4ae4-b85e-3247bcd232f2",
     "name": "Open Contactor",
     "description": "A Open Contactor.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -405,11 +455,13 @@
     "downloadCount": 0
   },
   {
-    "id": "capacitor",
+    "id": "a13f6418-443a-4fba-afba-e4cd213b8878",
     "name": "Capacitor",
     "description": "A Capacitor.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -419,11 +471,13 @@
     "downloadCount": 0
   },
   {
-    "id": "speaker",
+    "id": "a9f9cca6-ca71-4a4a-b8ea-a0d9c2fdc283",
     "name": "Speaker",
     "description": "A Speaker.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -433,11 +487,13 @@
     "downloadCount": 0
   },
   {
-    "id": "dc generator",
+    "id": "4231a243-de3b-4f9a-8950-e358625a7900",
     "name": "DC Generator",
     "description": "A DC Generator.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -447,11 +503,13 @@
     "downloadCount": 0
   },
   {
-    "id": "variable resistor filled",
+    "id": "8c003a00-758d-47ba-acc8-d4e904ea1d48",
     "name": "Variable Resistor Filled",
     "description": "A Variable Resistor Filled.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -466,11 +524,13 @@
     "downloadCount": 0
   },
   {
-    "id": "sp momentary no",
+    "id": "8f78e1b8-646f-4f1d-8963-0300588bb43b",
     "name": "SP Momentary NO",
     "description": "A SP Momentary NO.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",

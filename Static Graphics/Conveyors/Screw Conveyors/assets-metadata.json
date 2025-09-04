@@ -1,10 +1,12 @@
 [
   {
-    "id": "screw conveyor motor left",
+    "id": "f244cd5d-06cb-4bae-9ca9-7feb9c85725c",
     "name": "Screw Conveyor Motor Left",
     "description": "A Screw Conveyor Motor Left.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -19,11 +21,13 @@
     "downloadCount": 0
   },
   {
-    "id": "screw conveyor motor right",
+    "id": "6df3b9d2-cd21-4a6b-a5bb-9932f4a1188d",
     "name": "Screw Conveyor Motor Right",
     "description": "A Screw Conveyor Motor Right.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",

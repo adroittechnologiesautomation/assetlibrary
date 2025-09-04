@@ -1,10 +1,12 @@
 [
   {
-    "id": "water reservoir tank 1",
+    "id": "c0603b27-cad2-4d6e-96ff-32e9b5d5b996",
     "name": "Water Reservoir Tank 1",
     "description": "A Water Reservoir Tank 1.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -19,11 +21,13 @@
     "downloadCount": 0
   },
   {
-    "id": "water tower tank 2",
+    "id": "d9c8291d-56ba-42ab-8818-981f87c329a9",
     "name": "Water Tower Tank 2",
     "description": "A Water Tower Tank 2.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -38,11 +42,13 @@
     "downloadCount": 0
   },
   {
-    "id": "water tower tank 3",
+    "id": "9ff62d78-fc73-441f-81fc-8f916bb141aa",
     "name": "Water Tower Tank 3",
     "description": "A Water Tower Tank 3.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -57,11 +63,13 @@
     "downloadCount": 0
   },
   {
-    "id": "reservoir dam wall",
+    "id": "a564ad0e-7c2c-43e9-83e7-ba8cbabea547",
     "name": "Reservoir Dam Wall",
     "description": "A Reservoir Dam Wall.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -71,11 +79,13 @@
     "downloadCount": 0
   },
   {
-    "id": "water tower tank 4",
+    "id": "ad8449d5-65f1-461d-a7e0-1d1d37b917f6",
     "name": "Water Tower Tank 4",
     "description": "A Water Tower Tank 4.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -90,11 +100,13 @@
     "downloadCount": 0
   },
   {
-    "id": "reservoir round dam",
+    "id": "ee4ef840-77b5-49d6-b7b2-34b6b330492d",
     "name": "Reservoir Round Dam",
     "description": "A Reservoir Round Dam.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -104,11 +116,13 @@
     "downloadCount": 0
   },
   {
-    "id": "reservoir dam",
+    "id": "f9dac4c1-9ba5-4712-a091-8dc3ccf21789",
     "name": "Reservoir Dam",
     "description": "A Reservoir Dam.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -118,11 +132,13 @@
     "downloadCount": 0
   },
   {
-    "id": "water reservoir tank 2",
+    "id": "2b2f3926-3f3c-4438-84cb-736cea40e588",
     "name": "Water Reservoir Tank 2",
     "description": "A Water Reservoir Tank 2.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -137,11 +153,13 @@
     "downloadCount": 0
   },
   {
-    "id": "water tower tank 1",
+    "id": "1df340cf-50e7-4a9e-98d3-6c803e1fded7",
     "name": "Water Tower Tank 1",
     "description": "A Water Tower Tank 1.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",

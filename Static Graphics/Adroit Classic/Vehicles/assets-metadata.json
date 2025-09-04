@@ -1,10 +1,12 @@
 [
   {
-    "id": "vehicles 3",
+    "id": "87bf9307-6266-4f1f-b950-78c5e55849c3",
     "name": "Vehicles 3",
     "description": "A Vehicles 3.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -14,11 +16,13 @@
     "downloadCount": 0
   },
   {
-    "id": "vehicles 1",
+    "id": "db16fe86-fdcd-40e1-80cd-60463681cc67",
     "name": "Vehicles 1",
     "description": "A Vehicles 1.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -28,11 +32,13 @@
     "downloadCount": 0
   },
   {
-    "id": "vehicles 2",
+    "id": "4b8198a0-7bdf-42c5-8cbb-05559d2832fc",
     "name": "Vehicles 2",
     "description": "A Vehicles 2.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",

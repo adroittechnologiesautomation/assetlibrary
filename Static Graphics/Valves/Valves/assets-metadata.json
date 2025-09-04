@@ -1,10 +1,12 @@
 [
   {
-    "id": "valve 10",
+    "id": "95352eb7-c324-45d8-86bb-62b7357db0d3",
     "name": "Valve 10",
     "description": "A Valve 10.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -19,11 +21,13 @@
     "downloadCount": 0
   },
   {
-    "id": "valve 18",
+    "id": "2d7ab7c5-c126-48ed-b1ff-c7e92867580e",
     "name": "Valve 18",
     "description": "A Valve 18.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -38,11 +42,13 @@
     "downloadCount": 0
   },
   {
-    "id": "valve 08",
+    "id": "f6624f3e-ebc1-4de9-9d83-13f0286779da",
     "name": "Valve 08",
     "description": "A Valve 08.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -57,11 +63,13 @@
     "downloadCount": 0
   },
   {
-    "id": "valve 28",
+    "id": "287adef7-5708-4bd9-92ed-37b826f7776d",
     "name": "Valve 28",
     "description": "A Valve 28.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -76,11 +84,13 @@
     "downloadCount": 0
   },
   {
-    "id": "valve 19",
+    "id": "bdc45c5d-faac-4531-941b-3e8eb2cedaaa",
     "name": "Valve 19",
     "description": "A Valve 19.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -95,11 +105,13 @@
     "downloadCount": 0
   },
   {
-    "id": "valve 09",
+    "id": "6a180d60-a4fa-4623-934b-7cdba653c284",
     "name": "Valve 09",
     "description": "A Valve 09.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -114,11 +126,13 @@
     "downloadCount": 0
   },
   {
-    "id": "valve 29",
+    "id": "e5e86ce2-0a50-42b0-b08a-db80c0f30b45",
     "name": "Valve 29",
     "description": "A Valve 29.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -133,11 +147,13 @@
     "downloadCount": 0
   },
   {
-    "id": "valve 16",
+    "id": "96455319-d03d-4ef3-9376-e76de9ef3843",
     "name": "Valve 16",
     "description": "A Valve 16.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -152,11 +168,13 @@
     "downloadCount": 0
   },
   {
-    "id": "valve 06",
+    "id": "ea7a759b-51d8-4516-82ee-865fcbeb2c74",
     "name": "Valve 06",
     "description": "A Valve 06.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -171,11 +189,13 @@
     "downloadCount": 0
   },
   {
-    "id": "valve 26",
+    "id": "53e27ca4-5977-4802-8054-f415ad6d3483",
     "name": "Valve 26",
     "description": "A Valve 26.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -190,11 +210,13 @@
     "downloadCount": 0
   },
   {
-    "id": "valve 17",
+    "id": "071914f6-b370-46ca-9827-ebb62735280a",
     "name": "Valve 17",
     "description": "A Valve 17.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -209,11 +231,13 @@
     "downloadCount": 0
   },
   {
-    "id": "valve 07",
+    "id": "7ed782d8-7522-4bff-acba-602f555f5a81",
     "name": "Valve 07",
     "description": "A Valve 07.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -228,11 +252,13 @@
     "downloadCount": 0
   },
   {
-    "id": "valve 27",
+    "id": "6f427fcf-ce39-4aa4-bbbb-3c2b8271b1dd",
     "name": "Valve 27",
     "description": "A Valve 27.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -247,11 +273,13 @@
     "downloadCount": 0
   },
   {
-    "id": "valve 14",
+    "id": "56bb0f18-f50c-4991-bda9-a34268144509",
     "name": "Valve 14",
     "description": "A Valve 14.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -266,11 +294,13 @@
     "downloadCount": 0
   },
   {
-    "id": "valve 04",
+    "id": "43f03f22-70c9-4153-882f-444359d22ee0",
     "name": "Valve 04",
     "description": "A Valve 04.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -285,11 +315,13 @@
     "downloadCount": 0
   },
   {
-    "id": "valve 24",
+    "id": "9a307e88-35ef-4511-a20a-17e9357ab2be",
     "name": "Valve 24",
     "description": "A Valve 24.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -304,11 +336,13 @@
     "downloadCount": 0
   },
   {
-    "id": "valve 13",
+    "id": "97d27f9e-ee45-471b-a051-4a683aaeffe4",
     "name": "Valve 13",
     "description": "A Valve 13.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -323,11 +357,13 @@
     "downloadCount": 0
   },
   {
-    "id": "valve 25",
+    "id": "814efc4d-fe0b-4782-aa52-d94fea8d7d33",
     "name": "Valve 25",
     "description": "A Valve 25.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -342,11 +378,13 @@
     "downloadCount": 0
   },
   {
-    "id": "valve 05",
+    "id": "7205efea-6980-4638-95e6-3d881ae9e5f5",
     "name": "Valve 05",
     "description": "A Valve 05.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -361,11 +399,13 @@
     "downloadCount": 0
   },
   {
-    "id": "valve 15",
+    "id": "406f486b-56e7-40e9-a345-61e055f91165",
     "name": "Valve 15",
     "description": "A Valve 15.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -380,11 +420,13 @@
     "downloadCount": 0
   },
   {
-    "id": "valve 12",
+    "id": "f051e7c1-a93d-48c2-899a-d12dd51a9591",
     "name": "Valve 12",
     "description": "A Valve 12.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -399,11 +441,13 @@
     "downloadCount": 0
   },
   {
-    "id": "valve 02",
+    "id": "8a6e2493-5c2e-4d59-9e82-a5e13d760078",
     "name": "Valve 02",
     "description": "A Valve 02.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -418,11 +462,13 @@
     "downloadCount": 0
   },
   {
-    "id": "valve 22",
+    "id": "7f081471-3006-4c6c-87f0-8609af397f55",
     "name": "Valve 22",
     "description": "A Valve 22.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -437,11 +483,13 @@
     "downloadCount": 0
   },
   {
-    "id": "valve 03",
+    "id": "0617000a-170a-4375-ac8b-b23c4764e28e",
     "name": "Valve 03",
     "description": "A Valve 03.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -456,11 +504,13 @@
     "downloadCount": 0
   },
   {
-    "id": "valve 23",
+    "id": "c854874f-1fea-412c-9ee2-5d45874ad565",
     "name": "Valve 23",
     "description": "A Valve 23.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -475,11 +525,13 @@
     "downloadCount": 0
   },
   {
-    "id": "valve 30",
+    "id": "a73d7677-5ff0-4c94-862a-ea86dd010b8d",
     "name": "Valve 30",
     "description": "A Valve 30.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -494,11 +546,13 @@
     "downloadCount": 0
   },
   {
-    "id": "valve 20",
+    "id": "0ee55842-5334-41ec-8a1d-95eabb6a3b0e",
     "name": "Valve 20",
     "description": "A Valve 20.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -513,11 +567,13 @@
     "downloadCount": 0
   },
   {
-    "id": "valve 11",
+    "id": "69e33709-8522-4e83-bb35-6e435d209c1f",
     "name": "Valve 11",
     "description": "A Valve 11.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -532,11 +588,13 @@
     "downloadCount": 0
   },
   {
-    "id": "valve 01",
+    "id": "06061c40-6312-4fca-9949-54e512b2feb2",
     "name": "Valve 01",
     "description": "A Valve 01.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -551,11 +609,13 @@
     "downloadCount": 0
   },
   {
-    "id": "valve 31",
+    "id": "4f31bc31-4247-4401-84d0-54afcb0399b4",
     "name": "Valve 31",
     "description": "A Valve 31.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -570,11 +630,13 @@
     "downloadCount": 0
   },
   {
-    "id": "valve 21",
+    "id": "d0e60e4a-69eb-43ee-bdb6-c89ae89a7e76",
     "name": "Valve 21",
     "description": "A Valve 21.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",

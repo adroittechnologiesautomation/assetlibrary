@@ -1,10 +1,12 @@
 [
   {
-    "id": "wzdanaloguedisplay_nopriority_v01",
+    "id": "65d81fec-50db-4f29-b4c7-12fb7c553e39",
     "name": "wzdAnalogueDisplay_NoPriority_v01",
     "description": "A wzdAnalogueDisplay_NoPriority_v01.",
     "fileType": "vizw",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -14,11 +16,13 @@
     "downloadCount": 0
   },
   {
-    "id": "wzdanaloguedisplay_priority3_v01",
+    "id": "3670db9d-5b21-49b6-a495-100473e987a2",
     "name": "wzdAnalogueDisplay_Priority3_v01",
     "description": "A wzdAnalogueDisplay_Priority3_v01.",
     "fileType": "vizw",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -28,11 +32,13 @@
     "downloadCount": 0
   },
   {
-    "id": "wzdanaloguedisplay_priority5_v01",
+    "id": "9e1f6bd8-dd3a-44d9-839f-d95dab757bf8",
     "name": "wzdAnalogueDisplay_Priority5_v01",
     "description": "A wzdAnalogueDisplay_Priority5_v01.",
     "fileType": "vizw",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",

@@ -1,10 +1,12 @@
 [
   {
-    "id": "vertical axis agitator",
+    "id": "4fad6258-a980-47e3-8a8f-762033633af2",
     "name": "Vertical Axis Agitator",
     "description": "A Vertical Axis Agitator.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -14,11 +16,13 @@
     "downloadCount": 0
   },
   {
-    "id": "horizontal axis agitator",
+    "id": "f4e3dc6d-95a4-4403-bc02-893f65cd1d41",
     "name": "Horizontal Axis Agitator",
     "description": "A Horizontal Axis Agitator.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -28,11 +32,13 @@
     "downloadCount": 0
   },
   {
-    "id": "blue water aerator",
+    "id": "81abdca4-ba7a-4e78-a871-4e9b126223b8",
     "name": "Blue Water Aerator",
     "description": "A Blue Water Aerator.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -42,11 +48,13 @@
     "downloadCount": 0
   },
   {
-    "id": "chrome water aerator",
+    "id": "ca1c7d24-b1d6-4649-9846-c712d77b040d",
     "name": "Chrome Water Aerator",
     "description": "A Chrome Water Aerator.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",

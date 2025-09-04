@@ -1,10 +1,12 @@
 [
   {
-    "id": "belt conveyor long wheels up",
+    "id": "810c3a78-6016-43b7-a792-fd8e6da3b9c2",
     "name": "Belt Conveyor Long Wheels Up",
     "description": "A Belt Conveyor Long Wheels Up.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -19,11 +21,13 @@
     "downloadCount": 0
   },
   {
-    "id": "belt conveyor long wheels",
+    "id": "844d647d-34fd-4758-b242-364a7abedf78",
     "name": "Belt Conveyor Long Wheels",
     "description": "A Belt Conveyor Long Wheels.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -38,11 +42,13 @@
     "downloadCount": 0
   },
   {
-    "id": "belt conveyor long up",
+    "id": "5743da44-9d3e-48da-8da1-50c0ae14faf7",
     "name": "Belt Conveyor Long Up",
     "description": "A Belt Conveyor Long Up.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -57,11 +63,13 @@
     "downloadCount": 0
   },
   {
-    "id": "belt conveyor long down",
+    "id": "d1a86073-5a80-4139-85f5-a24fad28af1b",
     "name": "Belt Conveyor Long Down",
     "description": "A Belt Conveyor Long Down.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -76,11 +84,13 @@
     "downloadCount": 0
   },
   {
-    "id": "belt conveyor long wheels down",
+    "id": "93dd6e9d-847c-4ac0-9fbe-647e892750b0",
     "name": "Belt Conveyor Long Wheels Down",
     "description": "A Belt Conveyor Long Wheels Down.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -95,11 +105,13 @@
     "downloadCount": 0
   },
   {
-    "id": "belt conveyor long",
+    "id": "229a6e3f-7190-4fdd-80dd-835c45634b4f",
     "name": "Belt Conveyor Long",
     "description": "A Belt Conveyor Long.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",

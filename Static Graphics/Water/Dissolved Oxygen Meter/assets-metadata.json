@@ -1,10 +1,12 @@
 [
   {
-    "id": "chrome do meter left",
+    "id": "a08a8a05-1dfa-4d14-b1d9-367bd859d095",
     "name": "Chrome DO Meter Left",
     "description": "A Chrome DO Meter Left.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -14,11 +16,13 @@
     "downloadCount": 0
   },
   {
-    "id": "blue do meter left",
+    "id": "99fbc2ab-69ca-4c49-a0e5-c1a1a3100223",
     "name": "Blue DO Meter Left",
     "description": "A Blue DO Meter Left.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -28,11 +32,13 @@
     "downloadCount": 0
   },
   {
-    "id": "blue do meter top",
+    "id": "dfe7153d-ce12-41ee-8e39-40fb1e6b4b02",
     "name": "Blue DO Meter Top",
     "description": "A Blue DO Meter Top.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -42,11 +48,13 @@
     "downloadCount": 0
   },
   {
-    "id": "chrome do meter right",
+    "id": "5a711011-9881-434d-9e7c-68c9fb7f1bef",
     "name": "Chrome DO Meter Right",
     "description": "A Chrome DO Meter Right.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -56,11 +64,13 @@
     "downloadCount": 0
   },
   {
-    "id": "blue do meter right",
+    "id": "bee15e43-82b0-4baa-8207-2b5b2c05762b",
     "name": "Blue DO Meter Right",
     "description": "A Blue DO Meter Right.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -70,11 +80,13 @@
     "downloadCount": 0
   },
   {
-    "id": "chrome do meter top",
+    "id": "f5ff6e4e-8041-4c99-a223-60767dc3975e",
     "name": "Chrome DO Meter Top",
     "description": "A Chrome DO Meter Top.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",

@@ -1,10 +1,12 @@
 [
   {
-    "id": "isa shapes",
+    "id": "5493b2f3-94a0-434e-93da-c110d286bca5",
     "name": "ISA Shapes",
     "description": "A ISA Shapes.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",

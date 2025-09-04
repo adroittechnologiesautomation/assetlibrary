@@ -1,10 +1,12 @@
 [
   {
-    "id": "switch",
+    "id": "3fab790a-78f4-4fd3-9f59-a52b3cb5d519",
     "name": "Switch",
     "description": "A Switch.",
     "fileType": "vizw",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -19,11 +21,13 @@
     "downloadCount": 0
   },
   {
-    "id": "server_vertical",
+    "id": "c08cdad9-8290-40fe-b499-73b2db6d6e1b",
     "name": "Server_Vertical",
     "description": "A Server_Vertical.",
     "fileType": "vizw",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -33,11 +37,13 @@
     "downloadCount": 0
   },
   {
-    "id": "db",
+    "id": "d5200293-996b-42d3-b4d9-097abf05341e",
     "name": "DB",
     "description": "A DB.",
     "fileType": "vizw",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -47,11 +53,13 @@
     "downloadCount": 0
   },
   {
-    "id": "serverswitchtouchdesktop",
+    "id": "ac42fb49-9e8a-4cc8-b387-c319a29d0d5c",
     "name": "ServerSwitchTouchDesktop",
     "description": "A ServerSwitchTouchDesktop.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -66,11 +74,13 @@
     "downloadCount": 0
   },
   {
-    "id": "plc",
+    "id": "6d7c1d32-c58c-4360-8ba6-39622cac2119",
     "name": "PLC",
     "description": "A PLC.",
     "fileType": "vizw",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -85,11 +95,13 @@
     "downloadCount": 0
   },
   {
-    "id": "touch",
+    "id": "db4cb765-ddb5-4c5d-b1f7-14f90255c98d",
     "name": "Touch",
     "description": "A Touch.",
     "fileType": "vizw",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -99,11 +111,13 @@
     "downloadCount": 0
   },
   {
-    "id": "server_horizontal",
+    "id": "d19189a3-7e68-41bd-a55e-a76d1d7240d0",
     "name": "Server_Horizontal",
     "description": "A Server_Horizontal.",
     "fileType": "vizw",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -113,11 +127,13 @@
     "downloadCount": 0
   },
   {
-    "id": "desktop",
+    "id": "5d51b5a0-5448-4d15-addf-96262112ed7a",
     "name": "Desktop",
     "description": "A Desktop.",
     "fileType": "vizw",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",

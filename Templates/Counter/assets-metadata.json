@@ -1,10 +1,12 @@
 [
   {
-    "id": "counter faceplate template",
+    "id": "2de5b4fe-efd0-42dc-bb3d-14a5cf47209d",
     "name": "Counter Faceplate Template",
     "description": "A Counter Faceplate Template.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",

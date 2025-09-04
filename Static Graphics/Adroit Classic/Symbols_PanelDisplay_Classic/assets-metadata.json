@@ -1,10 +1,12 @@
 [
   {
-    "id": "symbols1",
+    "id": "550dfdf0-5120-4045-b2cc-b863577ff3fe",
     "name": "Symbols1",
     "description": "A Symbols1.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -14,11 +16,13 @@
     "downloadCount": 0
   },
   {
-    "id": "panel displays",
+    "id": "078a4376-0e54-4481-b6a8-c832b8dc4357",
     "name": "Panel Displays",
     "description": "A Panel Displays.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",

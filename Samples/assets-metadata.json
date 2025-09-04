@@ -1,10 +1,12 @@
 [
   {
-    "id": "passinput",
+    "id": "2aaa3fd9-f74e-420c-a833-967d28b4bc2c",
     "name": "PassInput",
     "description": "A PassInput.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -14,11 +16,13 @@
     "downloadCount": 0
   },
   {
-    "id": "find tag reference in project",
+    "id": "a9b32e32-2fd5-4516-85b4-ac22a5aa2370",
     "name": "Find Tag Reference In Project",
     "description": "A Find Tag Reference In Project.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -28,11 +32,13 @@
     "downloadCount": 0
   },
   {
-    "id": "gf_numericalkeypad_template_call",
+    "id": "5a8143bf-205f-43e2-8481-986366b99d3d",
     "name": "GF_NumericalKeypad_Template_Call",
     "description": "A GF_NumericalKeypad_Template_Call.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -42,11 +48,13 @@
     "downloadCount": 0
   },
   {
-    "id": "setpointchg",
+    "id": "3bd63211-aaf1-431c-a3f4-8fa7aa9a4995",
     "name": "SetpointChg",
     "description": "A SetpointChg.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -56,11 +64,13 @@
     "downloadCount": 0
   },
   {
-    "id": "numericalinputkeyboard2",
+    "id": "cc2a0bbc-66b1-4f3d-8216-4e97b45af2e8",
     "name": "NumericalInputKeyboard2",
     "description": "A NumericalInputKeyboard2.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -70,11 +80,13 @@
     "downloadCount": 0
   },
   {
-    "id": "demo plant",
+    "id": "b18ad576-5efe-4178-8b7c-b19ef063ddd4",
     "name": "Demo Plant",
     "description": "A Demo Plant.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -84,11 +96,13 @@
     "downloadCount": 0
   },
   {
-    "id": "login",
+    "id": "e7cdc076-e2de-4253-8b0c-3ef47f037e8c",
     "name": "Login",
     "description": "A Login.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -98,11 +112,13 @@
     "downloadCount": 0
   },
   {
-    "id": "graphic form publishing",
+    "id": "0128694f-c7fd-468b-989e-51043f86bab1",
     "name": "Graphic Form Publishing",
     "description": "A Graphic Form Publishing.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -112,11 +128,13 @@
     "downloadCount": 0
   },
   {
-    "id": "numericalinput",
+    "id": "fc04504d-7274-4d13-9e04-da68d66d75d2",
     "name": "NumericalInput",
     "description": "A NumericalInput.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",

@@ -1,10 +1,12 @@
 [
   {
-    "id": "chrome temperature meter large bottom",
+    "id": "2848c22d-b8cb-449c-ad03-729f5db5c5e5",
     "name": "Chrome Temperature Meter Large Bottom",
     "description": "A Chrome Temperature Meter Large Bottom.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -14,11 +16,13 @@
     "downloadCount": 0
   },
   {
-    "id": "blue temperature meter large right",
+    "id": "f8a6746b-ce8d-4f6c-83e2-dec9efad941b",
     "name": "Blue Temperature Meter Large Right",
     "description": "A Blue Temperature Meter Large Right.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -28,11 +32,13 @@
     "downloadCount": 0
   },
   {
-    "id": "chrome temperature meter large top",
+    "id": "70db30a0-f1fa-4e0e-8cf2-26848602f87b",
     "name": "Chrome Temperature Meter Large Top",
     "description": "A Chrome Temperature Meter Large Top.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -42,11 +48,13 @@
     "downloadCount": 0
   },
   {
-    "id": "chrome temperature meter small left",
+    "id": "146e61a6-8d68-4a7a-87bd-688a3486cca6",
     "name": "Chrome Temperature Meter Small Left",
     "description": "A Chrome Temperature Meter Small Left.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -56,11 +64,13 @@
     "downloadCount": 0
   },
   {
-    "id": "blue temperature meter small top",
+    "id": "71cef393-9e22-4542-ab76-d5c340a23a57",
     "name": "Blue Temperature Meter Small Top",
     "description": "A Blue Temperature Meter Small Top.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -70,11 +80,13 @@
     "downloadCount": 0
   },
   {
-    "id": "chrome temperature meter small right",
+    "id": "f78deade-170b-477c-a39e-941ca2793ee8",
     "name": "Chrome Temperature Meter Small Right",
     "description": "A Chrome Temperature Meter Small Right.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -84,11 +96,13 @@
     "downloadCount": 0
   },
   {
-    "id": "chrome temperature meter large right",
+    "id": "2613facd-67cf-40e3-82db-2f48a6a01495",
     "name": "Chrome Temperature Meter Large Right",
     "description": "A Chrome Temperature Meter Large Right.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -98,11 +112,13 @@
     "downloadCount": 0
   },
   {
-    "id": "chrome temperature meter large left",
+    "id": "fb433411-23cc-4e67-85f5-b9cebb9687a6",
     "name": "Chrome Temperature Meter Large Left",
     "description": "A Chrome Temperature Meter Large Left.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -112,11 +128,13 @@
     "downloadCount": 0
   },
   {
-    "id": "chrome temperature meter small bottom",
+    "id": "64702a0e-5b3e-4588-a189-f23256f3fc26",
     "name": "Chrome Temperature Meter Small Bottom",
     "description": "A Chrome Temperature Meter Small Bottom.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -126,11 +144,13 @@
     "downloadCount": 0
   },
   {
-    "id": "blue temperature meter large bottom",
+    "id": "d7046fb5-975e-43aa-87ec-6cb2f63da560",
     "name": "Blue Temperature Meter Large Bottom",
     "description": "A Blue Temperature Meter Large Bottom.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -140,11 +160,13 @@
     "downloadCount": 0
   },
   {
-    "id": "blue temperature meter small left",
+    "id": "1da432c7-258e-4dd6-bb15-3f65d9e53bd6",
     "name": "Blue Temperature Meter Small Left",
     "description": "A Blue Temperature Meter Small Left.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -154,11 +176,13 @@
     "downloadCount": 0
   },
   {
-    "id": "blue temperature meter small right",
+    "id": "11e0b397-ea04-4e7d-8df1-a6d18dcf7344",
     "name": "Blue Temperature Meter Small Right",
     "description": "A Blue Temperature Meter Small Right.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -168,11 +192,13 @@
     "downloadCount": 0
   },
   {
-    "id": "blue temperature meter large top",
+    "id": "c750396f-98ec-4e5a-a178-577b1617d8b8",
     "name": "Blue Temperature Meter Large Top",
     "description": "A Blue Temperature Meter Large Top.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -182,11 +208,13 @@
     "downloadCount": 0
   },
   {
-    "id": "blue temperature meter large left",
+    "id": "35778a07-bb16-4d2e-9a50-aac6591fd68f",
     "name": "Blue Temperature Meter Large Left",
     "description": "A Blue Temperature Meter Large Left.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -196,11 +224,13 @@
     "downloadCount": 0
   },
   {
-    "id": "blue temperature meter small bottom",
+    "id": "efce25da-a5e0-4495-b594-73fd0efe49fc",
     "name": "Blue Temperature Meter Small Bottom",
     "description": "A Blue Temperature Meter Small Bottom.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -210,11 +240,13 @@
     "downloadCount": 0
   },
   {
-    "id": "chrome temperature meter small top",
+    "id": "92af220e-9970-4e9a-80d1-0de4f76605e9",
     "name": "Chrome Temperature Meter Small Top",
     "description": "A Chrome Temperature Meter Small Top.",
     "fileType": "viz",
     "author": "Adroit Technologies",
+    "ownerType": "official",
+    "licenseType": "free",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
