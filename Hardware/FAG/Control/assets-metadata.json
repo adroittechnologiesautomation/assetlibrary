@@ -1,12 +1,13 @@
 [
   {
-    "id": "da307539-6408-4fab-98b4-29727e867daf",
+    "id": "d5c2962f-647b-4bcb-b717-dca73198ba53",
     "name": "TREND",
     "description": "A TREND.",
     "fileType": "viz",
     "author": "Adroit Technologies",
     "ownerType": "official",
     "licenseType": "free",
+    "currency": "ZAR",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -16,13 +17,14 @@
     "downloadCount": 0
   },
   {
-    "id": "dd555196-0333-44e0-b403-e8547c6b2f5d",
+    "id": "d0c935b6-2d29-40d6-8f20-19959175f30d",
     "name": "WEB",
     "description": "A WEB.",
     "fileType": "viz",
     "author": "Adroit Technologies",
     "ownerType": "official",
     "licenseType": "free",
+    "currency": "ZAR",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -32,13 +34,14 @@
     "downloadCount": 0
   },
   {
-    "id": "3ed385cd-517a-4be4-b82a-060993468db8",
+    "id": "34e67f3a-72eb-4d95-89c5-69badbe23682",
     "name": "AlarmEvent",
     "description": "A AlarmEvent.",
     "fileType": "viz",
     "author": "Adroit Technologies",
     "ownerType": "official",
     "licenseType": "free",
+    "currency": "ZAR",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -48,13 +51,14 @@
     "downloadCount": 0
   },
   {
-    "id": "f1ff89f7-cda7-4a87-a000-053ed4c3ca55",
+    "id": "68c97bfb-a3e9-4d1d-99d0-0b226565504c",
     "name": "HOME",
     "description": "A HOME.",
     "fileType": "viz",
     "author": "Adroit Technologies",
     "ownerType": "official",
     "licenseType": "free",
+    "currency": "ZAR",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",

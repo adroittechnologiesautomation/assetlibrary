@@ -1,12 +1,13 @@
 [
   {
-    "id": "530ed068-3448-4bae-a288-b0c37eb3b8e5",
+    "id": "54690ba0-f57e-4832-9ddf-aab9193c5e65",
     "name": "O_Chart_OEE",
     "description": "A O_Chart_OEE.",
     "fileType": "vizw",
     "author": "Adroit Technologies",
     "ownerType": "official",
     "licenseType": "free",
+    "currency": "ZAR",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",

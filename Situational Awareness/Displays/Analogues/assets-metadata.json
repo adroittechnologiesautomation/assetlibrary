@@ -1,12 +1,13 @@
 [
   {
-    "id": "65d81fec-50db-4f29-b4c7-12fb7c553e39",
+    "id": "3f64952d-59b5-46d7-a2bd-db2b4df743e9",
     "name": "wzdAnalogueDisplay_NoPriority_v01",
     "description": "A wzdAnalogueDisplay_NoPriority_v01.",
     "fileType": "vizw",
     "author": "Adroit Technologies",
     "ownerType": "official",
     "licenseType": "free",
+    "currency": "ZAR",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -16,13 +17,14 @@
     "downloadCount": 0
   },
   {
-    "id": "3670db9d-5b21-49b6-a495-100473e987a2",
+    "id": "7270198b-f7fb-4bdf-b87f-e302efc9a533",
     "name": "wzdAnalogueDisplay_Priority3_v01",
     "description": "A wzdAnalogueDisplay_Priority3_v01.",
     "fileType": "vizw",
     "author": "Adroit Technologies",
     "ownerType": "official",
     "licenseType": "free",
+    "currency": "ZAR",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -32,13 +34,14 @@
     "downloadCount": 0
   },
   {
-    "id": "9e1f6bd8-dd3a-44d9-839f-d95dab757bf8",
+    "id": "4172e531-1c21-4632-80cd-6269b316acd2",
     "name": "wzdAnalogueDisplay_Priority5_v01",
     "description": "A wzdAnalogueDisplay_Priority5_v01.",
     "fileType": "vizw",
     "author": "Adroit Technologies",
     "ownerType": "official",
     "licenseType": "free",
+    "currency": "ZAR",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",

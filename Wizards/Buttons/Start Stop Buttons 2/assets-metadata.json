@@ -1,12 +1,13 @@
 [
   {
-    "id": "9f5a2e04-887b-474e-9881-5f95598c00f2",
+    "id": "6e10cc93-14c9-46d3-a211-74fe9b31e232",
     "name": "Start Button 2",
     "description": "A Start Button 2.",
     "fileType": "vizw",
     "author": "Adroit Technologies",
     "ownerType": "official",
     "licenseType": "free",
+    "currency": "ZAR",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -16,13 +17,14 @@
     "downloadCount": 0
   },
   {
-    "id": "fc5dc938-2996-4f91-ba3a-2002a24fe0ad",
+    "id": "c9030a7c-9c10-442e-a5e7-734b0ba4b03f",
     "name": "Stop Button 2",
     "description": "A Stop Button 2.",
     "fileType": "vizw",
     "author": "Adroit Technologies",
     "ownerType": "official",
     "licenseType": "free",
+    "currency": "ZAR",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",

@@ -1,12 +1,13 @@
 [
   {
-    "id": "366c746a-87ff-4e1f-8016-147912ffecea",
+    "id": "f5538d8a-3e5d-4640-aa03-a83f8fce2228",
     "name": "Crusher 01",
     "description": "A Crusher 01.",
     "fileType": "viz",
     "author": "Adroit Technologies",
     "ownerType": "official",
     "licenseType": "free",
+    "currency": "ZAR",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -21,13 +22,14 @@
     "downloadCount": 0
   },
   {
-    "id": "4140e26e-7a8c-4ed2-8094-a0e946996917",
+    "id": "0c5a11fc-486b-42b4-af84-c32f1530317f",
     "name": "Mill 01",
     "description": "A Mill 01.",
     "fileType": "viz",
     "author": "Adroit Technologies",
     "ownerType": "official",
     "licenseType": "free",
+    "currency": "ZAR",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -42,13 +44,14 @@
     "downloadCount": 0
   },
   {
-    "id": "b70ea845-6ca8-4de6-a130-3a4ac7950efd",
+    "id": "e09ec904-f98b-431d-a054-eda62c907d45",
     "name": "Mill 02",
     "description": "A Mill 02.",
     "fileType": "viz",
     "author": "Adroit Technologies",
     "ownerType": "official",
     "licenseType": "free",
+    "currency": "ZAR",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -63,13 +66,14 @@
     "downloadCount": 0
   },
   {
-    "id": "248baa65-ef5e-4492-b417-c7079ca553e0",
+    "id": "c186fb3d-632c-48e3-a1b3-7ebe49618504",
     "name": "Mobile Crusher",
     "description": "A Mobile Crusher.",
     "fileType": "viz",
     "author": "Adroit Technologies",
     "ownerType": "official",
     "licenseType": "free",
+    "currency": "ZAR",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -84,13 +88,14 @@
     "downloadCount": 0
   },
   {
-    "id": "c1ae6b21-1534-4082-89d5-fd58ce5d5654",
+    "id": "b7da844d-6b11-4466-b240-914ffb962683",
     "name": "Crusher 02",
     "description": "A Crusher 02.",
     "fileType": "viz",
     "author": "Adroit Technologies",
     "ownerType": "official",
     "licenseType": "free",
+    "currency": "ZAR",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",

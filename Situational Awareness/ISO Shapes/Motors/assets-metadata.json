@@ -1,12 +1,13 @@
 [
   {
-    "id": "9e22b234-aa93-4c2d-b804-13b14695a06a",
+    "id": "c8fcf7ab-7c4b-4440-90e6-a1e923b06f3d",
     "name": "wzdMotorHorizontal_v01",
     "description": "A wzdMotorHorizontal_v01.",
     "fileType": "vizw",
     "author": "Adroit Technologies",
     "ownerType": "official",
     "licenseType": "free",
+    "currency": "ZAR",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -21,13 +22,14 @@
     "downloadCount": 0
   },
   {
-    "id": "11bd6ef6-1f3d-42a3-971f-7f9b0ff89ad7",
+    "id": "ba53169b-0028-46a5-8b21-3913d326f132",
     "name": "wzdMotorVertical_v01",
     "description": "A wzdMotorVertical_v01.",
     "fileType": "vizw",
     "author": "Adroit Technologies",
     "ownerType": "official",
     "licenseType": "free",
+    "currency": "ZAR",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",

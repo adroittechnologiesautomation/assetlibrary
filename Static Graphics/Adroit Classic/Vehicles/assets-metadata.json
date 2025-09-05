@@ -1,12 +1,13 @@
 [
   {
-    "id": "87bf9307-6266-4f1f-b950-78c5e55849c3",
+    "id": "5a7d8417-6dba-4c32-8b70-72adb9eba274",
     "name": "Vehicles 3",
     "description": "A Vehicles 3.",
     "fileType": "viz",
     "author": "Adroit Technologies",
     "ownerType": "official",
     "licenseType": "free",
+    "currency": "ZAR",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -16,13 +17,14 @@
     "downloadCount": 0
   },
   {
-    "id": "db16fe86-fdcd-40e1-80cd-60463681cc67",
+    "id": "b1471101-1aef-44c7-892f-4f3eb4fc611f",
     "name": "Vehicles 1",
     "description": "A Vehicles 1.",
     "fileType": "viz",
     "author": "Adroit Technologies",
     "ownerType": "official",
     "licenseType": "free",
+    "currency": "ZAR",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -32,13 +34,14 @@
     "downloadCount": 0
   },
   {
-    "id": "4b8198a0-7bdf-42c5-8cbb-05559d2832fc",
+    "id": "aa1b5690-daf2-47b8-a7da-1379d8ea056f",
     "name": "Vehicles 2",
     "description": "A Vehicles 2.",
     "fileType": "viz",
     "author": "Adroit Technologies",
     "ownerType": "official",
     "licenseType": "free",
+    "currency": "ZAR",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",

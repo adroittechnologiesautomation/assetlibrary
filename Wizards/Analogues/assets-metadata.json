@@ -1,12 +1,13 @@
 [
   {
-    "id": "3f917844-a664-443e-b4ed-7ee2680f2369",
+    "id": "e6d14ac5-3a58-4115-886a-1dd04bae9a66",
     "name": "Simple Analog",
     "description": "A Simple Analog.",
     "fileType": "vizw",
     "author": "Adroit Technologies",
     "ownerType": "official",
     "licenseType": "free",
+    "currency": "ZAR",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -16,13 +17,14 @@
     "downloadCount": 0
   },
   {
-    "id": "e955c18a-1d15-411c-86e7-3dbf9447ad2a",
+    "id": "47aab22b-2e14-471a-a631-04e5e52696de",
     "name": "Simple Analog_1",
     "description": "A Simple Analog_1.",
     "fileType": "vizw",
     "author": "Adroit Technologies",
     "ownerType": "official",
     "licenseType": "free",
+    "currency": "ZAR",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",

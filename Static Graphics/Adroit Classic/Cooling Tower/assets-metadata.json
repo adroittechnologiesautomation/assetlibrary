@@ -1,12 +1,13 @@
 [
   {
-    "id": "02c78cf2-39a3-4a41-a900-a4a1451e7d2c",
+    "id": "a7d879b1-e45b-406a-970c-ccc54ec423cb",
     "name": "Coolers",
     "description": "A Coolers.",
     "fileType": "viz",
     "author": "Adroit Technologies",
     "ownerType": "official",
     "licenseType": "free",
+    "currency": "ZAR",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",

@@ -1,12 +1,13 @@
 [
   {
-    "id": "ea438fad-6055-4813-b614-c5a048f30785",
+    "id": "b5ff65b4-49b6-444c-849f-752de398442d",
     "name": "PID Faceplate Template",
     "description": "A PID Faceplate Template.",
     "fileType": "viz",
     "author": "Adroit Technologies",
     "ownerType": "official",
     "licenseType": "free",
+    "currency": "ZAR",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",

@@ -1,12 +1,13 @@
 [
   {
-    "id": "855ec9c4-8839-4968-b724-e48bd63620b8",
+    "id": "4dd1a0e6-04f6-4c71-9469-2696546b6be3",
     "name": "MAPS_Batching_Plant_Statics",
     "description": "A MAPS_Batching_Plant_Statics.",
     "fileType": "viz",
     "author": "Adroit Technologies",
     "ownerType": "official",
     "licenseType": "free",
+    "currency": "ZAR",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",

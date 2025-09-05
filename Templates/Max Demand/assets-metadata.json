@@ -1,12 +1,13 @@
 [
   {
-    "id": "c1f3c85e-1dbc-4142-a807-8ec5688897d7",
+    "id": "bfc1a5bf-8863-4dfe-8ff6-388c0aa4f753",
     "name": "Max Demand Time Schedule",
     "description": "A Max Demand Time Schedule.",
     "fileType": "viz",
     "author": "Adroit Technologies",
     "ownerType": "official",
     "licenseType": "free",
+    "currency": "ZAR",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -16,13 +17,14 @@
     "downloadCount": 0
   },
   {
-    "id": "a6ed7318-ece3-4482-87aa-8f95f4565793",
+    "id": "f294905a-e026-4632-b14a-6b7c53e8c2bc",
     "name": "Max Demand Faceplate Template",
     "description": "A Max Demand Faceplate Template.",
     "fileType": "viz",
     "author": "Adroit Technologies",
     "ownerType": "official",
     "licenseType": "free",
+    "currency": "ZAR",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",

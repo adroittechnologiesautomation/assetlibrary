@@ -1,12 +1,13 @@
 [
   {
-    "id": "c4ab619f-268e-421a-b872-5b42c370fbf1",
+    "id": "e44747a4-b345-427f-b6b6-8ce2a0d30b21",
     "name": "Mixer",
     "description": "A Mixer.",
     "fileType": "viz",
     "author": "Adroit Technologies",
     "ownerType": "official",
     "licenseType": "free",
+    "currency": "ZAR",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -16,13 +17,14 @@
     "downloadCount": 0
   },
   {
-    "id": "b2ede296-5c64-43f5-8edc-cfb6166702a5",
+    "id": "6ac8d1f7-06bf-4eed-90d7-024f2161f9b2",
     "name": "Stirer",
     "description": "A Stirer.",
     "fileType": "viz",
     "author": "Adroit Technologies",
     "ownerType": "official",
     "licenseType": "free",
+    "currency": "ZAR",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",

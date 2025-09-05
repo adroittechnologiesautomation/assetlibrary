@@ -1,12 +1,13 @@
 [
   {
-    "id": "c69fa4a1-d2be-42c4-99b5-2e78b8fe49d3",
+    "id": "b2e24305-d7ed-4055-a66f-ca85f28ff2e7",
     "name": "Date_and_Time",
     "description": "A Date_and_Time.",
     "fileType": "vizw",
     "author": "Adroit Technologies",
     "ownerType": "official",
     "licenseType": "free",
+    "currency": "ZAR",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",

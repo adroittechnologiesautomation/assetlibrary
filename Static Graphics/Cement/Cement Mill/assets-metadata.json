@@ -1,12 +1,13 @@
 [
   {
-    "id": "c0b882b2-f383-4fce-9f21-ffe83127e61d",
+    "id": "7d6062ce-dce5-4a40-b2e0-18eab523f372",
     "name": "Horizontal Cement Mill Left",
     "description": "A Horizontal Cement Mill Left.",
     "fileType": "viz",
     "author": "Adroit Technologies",
     "ownerType": "official",
     "licenseType": "free",
+    "currency": "ZAR",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -21,13 +22,14 @@
     "downloadCount": 0
   },
   {
-    "id": "edfc7eba-a4a3-4c73-bc83-355b061cbe2a",
+    "id": "89d8f780-ec9f-4d4d-ae40-04447686aced",
     "name": "Horizontal Cement Mill Right",
     "description": "A Horizontal Cement Mill Right.",
     "fileType": "viz",
     "author": "Adroit Technologies",
     "ownerType": "official",
     "licenseType": "free",
+    "currency": "ZAR",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -42,13 +44,14 @@
     "downloadCount": 0
   },
   {
-    "id": "83be741e-eb8c-442d-9dbc-97e76aed8eca",
+    "id": "38a2bc74-a807-4088-9957-47e738f23649",
     "name": "Vertical Cement Mill Left",
     "description": "A Vertical Cement Mill Left.",
     "fileType": "viz",
     "author": "Adroit Technologies",
     "ownerType": "official",
     "licenseType": "free",
+    "currency": "ZAR",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -63,13 +66,14 @@
     "downloadCount": 0
   },
   {
-    "id": "1744e88c-32ca-4539-a36c-90018b993e33",
+    "id": "ddec4559-18a4-4d09-9dad-42ac28c3bdd6",
     "name": "Vertical Cement Mill Right",
     "description": "A Vertical Cement Mill Right.",
     "fileType": "viz",
     "author": "Adroit Technologies",
     "ownerType": "official",
     "licenseType": "free",
+    "currency": "ZAR",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",

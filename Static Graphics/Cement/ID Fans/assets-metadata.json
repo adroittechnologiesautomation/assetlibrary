@@ -1,12 +1,13 @@
 [
   {
-    "id": "f8d09612-0da8-4323-a5f7-f567a02b3024",
+    "id": "b82ea6dd-747c-4be8-9f29-995c175c230d",
     "name": "ID Fan Up",
     "description": "A ID Fan Up.",
     "fileType": "viz",
     "author": "Adroit Technologies",
     "ownerType": "official",
     "licenseType": "free",
+    "currency": "ZAR",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -21,13 +22,14 @@
     "downloadCount": 0
   },
   {
-    "id": "c320bc21-620b-428d-9104-7361ec9dbd85",
+    "id": "31004441-0e31-4a9c-8d80-0072ec82d0ee",
     "name": "ID Fan Left",
     "description": "A ID Fan Left.",
     "fileType": "viz",
     "author": "Adroit Technologies",
     "ownerType": "official",
     "licenseType": "free",
+    "currency": "ZAR",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -42,13 +44,14 @@
     "downloadCount": 0
   },
   {
-    "id": "fad2d5db-090e-4ff3-9f39-05d5954a6bf3",
+    "id": "f48e4ff6-9dfc-4fec-8905-add1aa26c695",
     "name": "ID Fan Down",
     "description": "A ID Fan Down.",
     "fileType": "viz",
     "author": "Adroit Technologies",
     "ownerType": "official",
     "licenseType": "free",
+    "currency": "ZAR",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -63,13 +66,14 @@
     "downloadCount": 0
   },
   {
-    "id": "8a07aed0-26a1-45ef-81ca-f616fbf08366",
+    "id": "68d4258f-ff45-4ebf-83af-073ee44bdba1",
     "name": "ID Fan Right",
     "description": "A ID Fan Right.",
     "fileType": "viz",
     "author": "Adroit Technologies",
     "ownerType": "official",
     "licenseType": "free",
+    "currency": "ZAR",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",

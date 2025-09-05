@@ -1,12 +1,13 @@
 [
   {
-    "id": "6baaeb45-c4af-41e0-9531-6e22e055aca5",
+    "id": "bc760960-3e24-4d01-b203-e31c2922430b",
     "name": "Simple Motor start-stop",
     "description": "A Simple Motor start-stop.",
     "fileType": "vizw",
     "author": "Adroit Technologies",
     "ownerType": "official",
     "licenseType": "free",
+    "currency": "ZAR",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -21,13 +22,14 @@
     "downloadCount": 0
   },
   {
-    "id": "4481c125-6e4d-40ec-a482-73ad29294dc5",
+    "id": "8dcb0670-6528-4f94-956d-e990cd50d720",
     "name": "Chrome Horizontal Mounted Motor",
     "description": "A Chrome Horizontal Mounted Motor.",
     "fileType": "vizw",
     "author": "Adroit Technologies",
     "ownerType": "official",
     "licenseType": "free",
+    "currency": "ZAR",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -42,13 +44,14 @@
     "downloadCount": 0
   },
   {
-    "id": "b3f84076-a90a-43f0-afe2-72346a6a881c",
+    "id": "33c9bef0-6ab3-4434-95bc-42650ef17dcc",
     "name": "Chrome Horizontal Flange Motor",
     "description": "A Chrome Horizontal Flange Motor.",
     "fileType": "vizw",
     "author": "Adroit Technologies",
     "ownerType": "official",
     "licenseType": "free",
+    "currency": "ZAR",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -63,13 +66,14 @@
     "downloadCount": 0
   },
   {
-    "id": "cd36f026-b1fe-4475-b9a3-64b561791561",
+    "id": "e4520dfb-ccde-4ab4-8e95-5e6a5d5412c2",
     "name": "Chrome Vertical Flange Motor",
     "description": "A Chrome Vertical Flange Motor.",
     "fileType": "vizw",
     "author": "Adroit Technologies",
     "ownerType": "official",
     "licenseType": "free",
+    "currency": "ZAR",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -84,13 +88,14 @@
     "downloadCount": 0
   },
   {
-    "id": "26d4ee2a-8341-4074-97f3-5a24d8c2cf56",
+    "id": "516c1df2-58bf-446d-8b0c-5298b56cc5b7",
     "name": "Simple Motor On Off",
     "description": "A Simple Motor On Off.",
     "fileType": "vizw",
     "author": "Adroit Technologies",
     "ownerType": "official",
     "licenseType": "free",
+    "currency": "ZAR",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",

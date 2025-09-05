@@ -1,12 +1,13 @@
 [
   {
-    "id": "fde8a25c-23da-4a7c-b7fb-74af6113389d",
+    "id": "991a1367-0ce9-439f-abe6-87c83c10f528",
     "name": "FX5CPU",
     "description": "A FX5CPU.",
     "fileType": "vizw",
     "author": "Adroit Technologies",
     "ownerType": "official",
     "licenseType": "free",
+    "currency": "ZAR",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -16,13 +17,14 @@
     "downloadCount": 0
   },
   {
-    "id": "7209dff3-0587-4911-baab-f0ea0d6db9e6",
+    "id": "be880767-841e-4492-b509-462c3d4aae77",
     "name": "Q03UDVCPU",
     "description": "A Q03UDVCPU.",
     "fileType": "vizw",
     "author": "Adroit Technologies",
     "ownerType": "official",
     "licenseType": "free",
+    "currency": "ZAR",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",

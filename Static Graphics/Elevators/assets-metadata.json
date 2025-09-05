@@ -1,12 +1,13 @@
 [
   {
-    "id": "7c442f2d-3448-4650-aa8d-a0272ef4dee5",
+    "id": "0a80d989-d338-42e1-b89b-d520a851a48e",
     "name": "BucketElevatorRight",
     "description": "A BucketElevatorRight.",
     "fileType": "viz",
     "author": "Adroit Technologies",
     "ownerType": "official",
     "licenseType": "free",
+    "currency": "ZAR",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -16,13 +17,14 @@
     "downloadCount": 0
   },
   {
-    "id": "c9f41860-1674-497d-a42c-d1e879a538bd",
+    "id": "46d5c97f-68c5-4c20-956d-71b1c43ca13c",
     "name": "BucketElevatorLeft",
     "description": "A BucketElevatorLeft.",
     "fileType": "viz",
     "author": "Adroit Technologies",
     "ownerType": "official",
     "licenseType": "free",
+    "currency": "ZAR",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",

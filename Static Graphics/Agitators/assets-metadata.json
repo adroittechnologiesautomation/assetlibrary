@@ -1,12 +1,13 @@
 [
   {
-    "id": "4fad6258-a980-47e3-8a8f-762033633af2",
+    "id": "a619e481-8cf9-4f88-bc05-ea84fae2630f",
     "name": "Vertical Axis Agitator",
     "description": "A Vertical Axis Agitator.",
     "fileType": "viz",
     "author": "Adroit Technologies",
     "ownerType": "official",
     "licenseType": "free",
+    "currency": "ZAR",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -16,13 +17,14 @@
     "downloadCount": 0
   },
   {
-    "id": "f4e3dc6d-95a4-4403-bc02-893f65cd1d41",
+    "id": "9be728c4-1b35-4d51-b415-528eed425cc3",
     "name": "Horizontal Axis Agitator",
     "description": "A Horizontal Axis Agitator.",
     "fileType": "viz",
     "author": "Adroit Technologies",
     "ownerType": "official",
     "licenseType": "free",
+    "currency": "ZAR",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -32,13 +34,14 @@
     "downloadCount": 0
   },
   {
-    "id": "81abdca4-ba7a-4e78-a871-4e9b126223b8",
+    "id": "7fdf3623-c314-407e-ba2d-67463bd8ce75",
     "name": "Blue Water Aerator",
     "description": "A Blue Water Aerator.",
     "fileType": "viz",
     "author": "Adroit Technologies",
     "ownerType": "official",
     "licenseType": "free",
+    "currency": "ZAR",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -48,13 +51,14 @@
     "downloadCount": 0
   },
   {
-    "id": "ca1c7d24-b1d6-4649-9846-c712d77b040d",
+    "id": "b4f1b97a-df17-43c8-b492-77ac2734872d",
     "name": "Chrome Water Aerator",
     "description": "A Chrome Water Aerator.",
     "fileType": "viz",
     "author": "Adroit Technologies",
     "ownerType": "official",
     "licenseType": "free",
+    "currency": "ZAR",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",

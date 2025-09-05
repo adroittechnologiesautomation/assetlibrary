@@ -1,12 +1,13 @@
 [
   {
-    "id": "a51821c7-6b04-47c6-985f-d90fc1d81965",
+    "id": "0b35356f-3cc7-464d-b340-0a32243cb0f4",
     "name": "wzdRadarPlot_3_v01",
     "description": "A wzdRadarPlot_3_v01.",
     "fileType": "vizw",
     "author": "Adroit Technologies",
     "ownerType": "official",
     "licenseType": "free",
+    "currency": "ZAR",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -16,13 +17,14 @@
     "downloadCount": 0
   },
   {
-    "id": "21036ce8-28f1-4d63-a254-0b6e02125b22",
+    "id": "36aabdaf-c5dc-4b27-9500-db9179169798",
     "name": "wzdRadarPlot_6_v01",
     "description": "A wzdRadarPlot_6_v01.",
     "fileType": "vizw",
     "author": "Adroit Technologies",
     "ownerType": "official",
     "licenseType": "free",
+    "currency": "ZAR",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",

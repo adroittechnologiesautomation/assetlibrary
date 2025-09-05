@@ -1,12 +1,13 @@
 [
   {
-    "id": "57d606df-1467-4117-9887-673dd3dc4dfe",
+    "id": "47515e76-38cb-4fb6-b7de-c5f710130b80",
     "name": "Gate",
     "description": "A Gate.",
     "fileType": "vizw",
     "author": "Adroit Technologies",
     "ownerType": "official",
     "licenseType": "free",
+    "currency": "ZAR",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -16,13 +17,14 @@
     "downloadCount": 0
   },
   {
-    "id": "3e5a9a41-6e20-4a94-895c-8314b4827619",
+    "id": "dee973ad-3290-4469-b64c-4538899709cf",
     "name": "4 State Gate",
     "description": "A 4 State Gate.",
     "fileType": "vizw",
     "author": "Adroit Technologies",
     "ownerType": "official",
     "licenseType": "free",
+    "currency": "ZAR",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",

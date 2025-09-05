@@ -1,12 +1,13 @@
 [
   {
-    "id": "2e339b78-2bb7-4c79-bce1-6c24ab28169c",
+    "id": "8fd82b5e-bc0d-40f4-93b6-75ccb2aa5440",
     "name": "Pump01",
     "description": "A Pump01.",
     "fileType": "vizw",
     "author": "Adroit Technologies",
     "ownerType": "official",
     "licenseType": "free",
+    "currency": "ZAR",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -21,13 +22,14 @@
     "downloadCount": 0
   },
   {
-    "id": "06cefe4d-92e0-4078-8999-40e6bff18ba4",
+    "id": "77bcf3a1-396b-41a4-a9eb-d238ee532981",
     "name": "Pump02",
     "description": "A Pump02.",
     "fileType": "vizw",
     "author": "Adroit Technologies",
     "ownerType": "official",
     "licenseType": "free",
+    "currency": "ZAR",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -42,13 +44,14 @@
     "downloadCount": 0
   },
   {
-    "id": "8f8d3b78-9e94-445c-a435-132d271939d2",
+    "id": "fa08cc28-ca7b-4c67-aef5-302f34b34fe0",
     "name": "Pump03",
     "description": "A Pump03.",
     "fileType": "vizw",
     "author": "Adroit Technologies",
     "ownerType": "official",
     "licenseType": "free",
+    "currency": "ZAR",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -63,13 +66,14 @@
     "downloadCount": 0
   },
   {
-    "id": "7014a70e-5924-4ce4-a35a-911750ecb718",
+    "id": "14a0d408-00f1-413e-a488-2c00d5fe7bbf",
     "name": "Simple Pump start-stop",
     "description": "A Simple Pump start-stop.",
     "fileType": "vizw",
     "author": "Adroit Technologies",
     "ownerType": "official",
     "licenseType": "free",
+    "currency": "ZAR",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -84,13 +88,14 @@
     "downloadCount": 0
   },
   {
-    "id": "49ed4233-0478-48ca-9ee6-e2f61eb8a240",
+    "id": "85dee12d-7ee6-4fe1-9f16-e539344c7644",
     "name": "Pump04",
     "description": "A Pump04.",
     "fileType": "vizw",
     "author": "Adroit Technologies",
     "ownerType": "official",
     "licenseType": "free",
+    "currency": "ZAR",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",

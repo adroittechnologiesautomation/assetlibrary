@@ -1,12 +1,13 @@
 [
   {
-    "id": "19c05ed6-6ede-4e88-8c40-871919d5152e",
+    "id": "93c2ecd0-574f-480b-b4a0-60333eca4db9",
     "name": "wzdProcessVessel_Small_v01",
     "description": "A wzdProcessVessel_Small_v01.",
     "fileType": "vizw",
     "author": "Adroit Technologies",
     "ownerType": "official",
     "licenseType": "free",
+    "currency": "ZAR",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -21,13 +22,14 @@
     "downloadCount": 0
   },
   {
-    "id": "a9b3134c-d474-494f-b05b-743f8d99ebf3",
+    "id": "6a815367-16e5-4de0-975b-6806eefc940d",
     "name": "wzdProcessVessel_Large_v01",
     "description": "A wzdProcessVessel_Large_v01.",
     "fileType": "vizw",
     "author": "Adroit Technologies",
     "ownerType": "official",
     "licenseType": "free",
+    "currency": "ZAR",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -42,13 +44,14 @@
     "downloadCount": 0
   },
   {
-    "id": "a589f887-d764-479b-b15a-836666ec1d43",
+    "id": "7aa2d8ef-ddfd-43e4-bf12-b5babf692542",
     "name": "wzdProcessVessel_Medium_v01",
     "description": "A wzdProcessVessel_Medium_v01.",
     "fileType": "vizw",
     "author": "Adroit Technologies",
     "ownerType": "official",
     "licenseType": "free",
+    "currency": "ZAR",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",

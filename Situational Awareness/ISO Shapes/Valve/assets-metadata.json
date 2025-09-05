@@ -1,12 +1,13 @@
 [
   {
-    "id": "1385c28f-0742-4221-b28d-8026c155a91a",
+    "id": "f849026a-c4d1-472b-819c-d895231717b1",
     "name": "wzdValveVertical_v01",
     "description": "A wzdValveVertical_v01.",
     "fileType": "vizw",
     "author": "Adroit Technologies",
     "ownerType": "official",
     "licenseType": "free",
+    "currency": "ZAR",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -21,13 +22,14 @@
     "downloadCount": 0
   },
   {
-    "id": "381f477f-5259-428f-9291-a2b6de636dfb",
+    "id": "5650f8aa-1b86-4a88-94fc-fb5f21a625bb",
     "name": "wzdValveHorizontal_v01",
     "description": "A wzdValveHorizontal_v01.",
     "fileType": "vizw",
     "author": "Adroit Technologies",
     "ownerType": "official",
     "licenseType": "free",
+    "currency": "ZAR",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",

@@ -1,12 +1,13 @@
 [
   {
-    "id": "5f459dd5-72f3-4d3f-8430-a6d24afdf3ef",
+    "id": "0f26db8a-17e3-47fa-a588-ac8ee04e5433",
     "name": "Analog Dial 1",
     "description": "A Analog Dial 1.",
     "fileType": "vizw",
     "author": "Adroit Technologies",
     "ownerType": "official",
     "licenseType": "free",
+    "currency": "ZAR",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -16,13 +17,14 @@
     "downloadCount": 0
   },
   {
-    "id": "8360032c-6934-47a5-a1c0-1ddd53455f58",
+    "id": "fc284e09-6b97-4667-9086-e1f52c474c21",
     "name": "Analog Dial 2",
     "description": "A Analog Dial 2.",
     "fileType": "vizw",
     "author": "Adroit Technologies",
     "ownerType": "official",
     "licenseType": "free",
+    "currency": "ZAR",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -32,13 +34,14 @@
     "downloadCount": 0
   },
   {
-    "id": "40add0a3-19c4-423d-911e-8484216491e9",
+    "id": "129bdbd7-9dfb-44fa-b03d-168d978eb192",
     "name": "Analog Dial 3",
     "description": "A Analog Dial 3.",
     "fileType": "vizw",
     "author": "Adroit Technologies",
     "ownerType": "official",
     "licenseType": "free",
+    "currency": "ZAR",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",

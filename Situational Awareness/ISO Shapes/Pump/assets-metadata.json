@@ -1,12 +1,13 @@
 [
   {
-    "id": "87d807c1-f455-4b20-bf16-56a9bb8531ce",
+    "id": "910f202e-0770-4388-8f11-84cffe9c4527",
     "name": "wzdPumpVertical_v01",
     "description": "A wzdPumpVertical_v01.",
     "fileType": "vizw",
     "author": "Adroit Technologies",
     "ownerType": "official",
     "licenseType": "free",
+    "currency": "ZAR",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
@@ -21,13 +22,14 @@
     "downloadCount": 0
   },
   {
-    "id": "e0b11b86-8a43-4b22-97d4-02dd2897f1a2",
+    "id": "0a9cac2e-b323-4987-85af-74879a5304e1",
     "name": "wzdPumpHorizontal_v01",
     "description": "A wzdPumpHorizontal_v01.",
     "fileType": "vizw",
     "author": "Adroit Technologies",
     "ownerType": "official",
     "licenseType": "free",
+    "currency": "ZAR",
     "previewImageUrl": "",
     "downloadUrl": "",
     "industry": "",
