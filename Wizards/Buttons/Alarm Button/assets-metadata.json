@@ -1,10 +1,12 @@
 [
   {
-    "id": "94c471d0-e4f1-4fc3-835e-7685a0e9b566",
+    "id": "221907dc-193e-4322-8aed-136d1a1b1420",
     "name": "Alarm Button 2",
     "description": "A Alarm Button 2.",
-    "fileType": "vizw",
     "author": "Adroit Technologies",
+    "fileName": "Alarm Button 2.vizw",
+    "fileType": "Wizard",
+    "previewImage": "Alarm Button 2.png",
     "ownerType": "official",
     "licenseType": "free",
     "currency": "ZAR",
@@ -17,11 +19,13 @@
     "downloadCount": 0
   },
   {
-    "id": "0ce9361e-f805-420c-8c11-b7de8ecbd862",
+    "id": "0c2faca3-ffa0-4508-a5c9-78588495ef25",
     "name": "Alarm Button 1",
     "description": "A Alarm Button 1.",
-    "fileType": "vizw",
     "author": "Adroit Technologies",
+    "fileName": "Alarm Button 1.vizw",
+    "fileType": "Wizard",
+    "previewImage": "Alarm Button 1.png",
     "ownerType": "official",
     "licenseType": "free",
     "currency": "ZAR",

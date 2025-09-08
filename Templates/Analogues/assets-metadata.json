@@ -1,10 +1,12 @@
 [
   {
-    "id": "521b52a5-4b22-44d8-b4c6-09de2a34f21f",
+    "id": "1dd5e4ce-af0b-490b-ab90-404dd4972557",
     "name": "Analogue Faceplate Template",
     "description": "A Analogue Faceplate Template.",
-    "fileType": "viz",
     "author": "Adroit Technologies",
+    "fileName": "Analogue Faceplate Template.viz",
+    "fileType": "Graphic Form",
+    "previewImage": "Analogue Faceplate Template.png",
     "ownerType": "official",
     "licenseType": "free",
     "currency": "ZAR",

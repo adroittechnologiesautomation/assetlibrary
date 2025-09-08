@@ -1,10 +1,12 @@
 [
   {
-    "id": "8736885b-0097-4a48-8067-92b0591890d4",
+    "id": "f8dafb67-b09a-4258-a212-686808bd50e8",
     "name": "Alarm Indication 1",
     "description": "A Alarm Indication 1.",
-    "fileType": "vizw",
     "author": "Adroit Technologies",
+    "fileName": "Alarm Indication 1.vizw",
+    "fileType": "Wizard",
+    "previewImage": "Alarm Indication 1.png",
     "ownerType": "official",
     "licenseType": "free",
     "currency": "ZAR",
@@ -17,11 +19,13 @@
     "downloadCount": 0
   },
   {
-    "id": "c33a5164-84e5-4984-8f39-059decd3eed2",
+    "id": "91219250-2ea5-47cf-ab35-528c9cdc106c",
     "name": "Alarm Indication 2",
     "description": "A Alarm Indication 2.",
-    "fileType": "vizw",
     "author": "Adroit Technologies",
+    "fileName": "Alarm Indication 2.vizw",
+    "fileType": "Wizard",
+    "previewImage": "Alarm Indication 2.png",
     "ownerType": "official",
     "licenseType": "free",
     "currency": "ZAR",

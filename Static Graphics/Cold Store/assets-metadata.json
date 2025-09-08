@@ -1,10 +1,12 @@
 [
   {
-    "id": "15579739-186d-4389-9a39-1e265d25152a",
+    "id": "9102ee33-0a1d-4553-b8bc-e32e26e6e119",
     "name": "Cold Store",
     "description": "A Cold Store.",
-    "fileType": "viz",
     "author": "Adroit Technologies",
+    "fileName": "Cold Store.viz",
+    "fileType": "Graphic Form",
+    "previewImage": "Cold Store.png",
     "ownerType": "official",
     "licenseType": "free",
     "currency": "ZAR",

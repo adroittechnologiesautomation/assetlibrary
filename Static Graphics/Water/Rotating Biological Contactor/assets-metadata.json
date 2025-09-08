@@ -1,10 +1,12 @@
 [
   {
-    "id": "ed4af619-a398-4888-9d7e-5d8bb9d100aa",
+    "id": "b66b68c0-d31c-4d8d-bae6-5b6d015fe61f",
     "name": "RBC Unit Left Intake",
     "description": "A RBC Unit Left Intake.",
-    "fileType": "viz",
     "author": "Adroit Technologies",
+    "fileName": "RBC Unit Left Intake.viz",
+    "fileType": "Graphic Form",
+    "previewImage": "RBC Unit Left Intake.png",
     "ownerType": "official",
     "licenseType": "free",
     "currency": "ZAR",
@@ -17,11 +19,13 @@
     "downloadCount": 0
   },
   {
-    "id": "79abe24b-6b43-42fe-855d-4087b3ad1345",
+    "id": "d0530bb9-03f1-46ad-aca3-c2802f51d8db",
     "name": "RBC Unit Right Intake",
     "description": "A RBC Unit Right Intake.",
-    "fileType": "viz",
     "author": "Adroit Technologies",
+    "fileName": "RBC Unit Right Intake.viz",
+    "fileType": "Graphic Form",
+    "previewImage": "RBC Unit Right Intake.png",
     "ownerType": "official",
     "licenseType": "free",
     "currency": "ZAR",

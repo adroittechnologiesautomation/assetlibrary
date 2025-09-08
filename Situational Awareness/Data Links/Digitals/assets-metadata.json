@@ -1,10 +1,12 @@
 [
   {
-    "id": "fc2f233d-f307-4d69-87cc-73a37967f597",
+    "id": "d7e6e030-73da-4841-923e-ff8e7edbfa69",
     "name": "wzdDigitalDataLink_Priority3_v01",
     "description": "A wzdDigitalDataLink_Priority3_v01.",
-    "fileType": "vizw",
     "author": "Adroit Technologies",
+    "fileName": "wzdDigitalDataLink_Priority3_v01.vizw",
+    "fileType": "Wizard",
+    "previewImage": "wzdDigitalDataLink_Priority3_v01.png",
     "ownerType": "official",
     "licenseType": "free",
     "currency": "ZAR",
@@ -17,11 +19,13 @@
     "downloadCount": 0
   },
   {
-    "id": "08513b1b-3f51-4994-8366-3ea9383b5c5c",
+    "id": "1cd08749-be62-45e0-9d4f-f9da45d162fe",
     "name": "wzdDigitalDataLink_NoPriority_v01",
     "description": "A wzdDigitalDataLink_NoPriority_v01.",
-    "fileType": "vizw",
     "author": "Adroit Technologies",
+    "fileName": "wzdDigitalDataLink_NoPriority_v01.vizw",
+    "fileType": "Wizard",
+    "previewImage": "wzdDigitalDataLink_NoPriority_v01.png",
     "ownerType": "official",
     "licenseType": "free",
     "currency": "ZAR",

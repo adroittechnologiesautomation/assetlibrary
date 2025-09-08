@@ -1,10 +1,12 @@
 [
   {
-    "id": "90f1b175-35ad-4228-be3f-2efcaa5a4ffc",
+    "id": "b4d763bd-e9ad-494b-a1e5-71771636fb58",
     "name": "wzdWSFAG",
     "description": "A wzdWSFAG.",
-    "fileType": "vizw",
     "author": "Adroit Technologies",
+    "fileName": "wzdWSFAG.vizw",
+    "fileType": "Wizard",
+    "previewImage": "wzdWSFAG.png",
     "ownerType": "official",
     "licenseType": "free",
     "currency": "ZAR",
@@ -17,11 +19,13 @@
     "downloadCount": 0
   },
   {
-    "id": "802d63d8-dccc-4dc2-aa5d-6126bfd3f784",
+    "id": "5f997208-dda6-4f40-8dee-fa3a57723986",
     "name": "wzdFAG",
     "description": "A wzdFAG.",
-    "fileType": "vizw",
     "author": "Adroit Technologies",
+    "fileName": "wzdFAG.vizw",
+    "fileType": "Wizard",
+    "previewImage": "wzdFAG.png",
     "ownerType": "official",
     "licenseType": "free",
     "currency": "ZAR",

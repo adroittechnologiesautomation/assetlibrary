@@ -1,10 +1,12 @@
 [
   {
-    "id": "173022a6-d343-4ae0-9ae8-cdacd8c7e687",
+    "id": "5fbb2574-f329-4081-8fee-89047e305202",
     "name": "Symbols1",
     "description": "A Symbols1.",
-    "fileType": "viz",
     "author": "Adroit Technologies",
+    "fileName": "Symbols1.viz",
+    "fileType": "Graphic Form",
+    "previewImage": "Symbols1.png",
     "ownerType": "official",
     "licenseType": "free",
     "currency": "ZAR",
@@ -17,11 +19,13 @@
     "downloadCount": 0
   },
   {
-    "id": "23e5d8fe-0a1f-4012-942b-cee6d99ffdb5",
+    "id": "f4dca12b-1c2e-4d6b-ba82-5f03c4f74846",
     "name": "Panel Displays",
     "description": "A Panel Displays.",
-    "fileType": "viz",
     "author": "Adroit Technologies",
+    "fileName": "Panel Displays.viz",
+    "fileType": "Graphic Form",
+    "previewImage": "Panel Displays.png",
     "ownerType": "official",
     "licenseType": "free",
     "currency": "ZAR",

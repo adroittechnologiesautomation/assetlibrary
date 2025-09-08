@@ -1,10 +1,12 @@
 [
   {
-    "id": "cce47cd4-8756-4f81-a50c-fc27a2856a2f",
+    "id": "b6e62ed9-1c22-458f-8bfb-0c39b75ea34a",
     "name": "Signs 3",
     "description": "A Signs 3.",
-    "fileType": "viz",
     "author": "Adroit Technologies",
+    "fileName": "Signs 3.viz",
+    "fileType": "Graphic Form",
+    "previewImage": "Signs 3.png",
     "ownerType": "official",
     "licenseType": "free",
     "currency": "ZAR",
@@ -17,11 +19,13 @@
     "downloadCount": 0
   },
   {
-    "id": "647ac29f-f742-4a5f-b868-b1e323c16eb6",
+    "id": "0c06af3e-bdab-4dab-801e-c92dbf7c830b",
     "name": "Signs 4",
     "description": "A Signs 4.",
-    "fileType": "viz",
     "author": "Adroit Technologies",
+    "fileName": "Signs 4.viz",
+    "fileType": "Graphic Form",
+    "previewImage": "Signs 4.png",
     "ownerType": "official",
     "licenseType": "free",
     "currency": "ZAR",
@@ -34,11 +38,13 @@
     "downloadCount": 0
   },
   {
-    "id": "b4e83e95-530d-40c0-b642-b8fcfcc94932",
+    "id": "76134a40-209f-4a52-8081-b47c856546ad",
     "name": "Signs 2",
     "description": "A Signs 2.",
-    "fileType": "viz",
     "author": "Adroit Technologies",
+    "fileName": "Signs 2.viz",
+    "fileType": "Graphic Form",
+    "previewImage": "Signs 2.png",
     "ownerType": "official",
     "licenseType": "free",
     "currency": "ZAR",
@@ -51,11 +57,13 @@
     "downloadCount": 0
   },
   {
-    "id": "730d83ec-7910-423a-8047-69a214368107",
+    "id": "b9d2622f-2c8b-40a9-9345-d0bf59e0f23e",
     "name": "Signs 1",
     "description": "A Signs 1.",
-    "fileType": "viz",
     "author": "Adroit Technologies",
+    "fileName": "Signs 1.viz",
+    "fileType": "Graphic Form",
+    "previewImage": "Signs 1.png",
     "ownerType": "official",
     "licenseType": "free",
     "currency": "ZAR",

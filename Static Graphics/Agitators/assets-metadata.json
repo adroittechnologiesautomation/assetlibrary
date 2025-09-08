@@ -1,10 +1,12 @@
 [
   {
-    "id": "a619e481-8cf9-4f88-bc05-ea84fae2630f",
+    "id": "499ca73b-644b-4661-b39d-ea59d57e7e2d",
     "name": "Vertical Axis Agitator",
     "description": "A Vertical Axis Agitator.",
-    "fileType": "viz",
     "author": "Adroit Technologies",
+    "fileName": "Vertical Axis Agitator.viz",
+    "fileType": "Graphic Form",
+    "previewImage": "Vertical Axis Agitator.png",
     "ownerType": "official",
     "licenseType": "free",
     "currency": "ZAR",
@@ -17,11 +19,13 @@
     "downloadCount": 0
   },
   {
-    "id": "9be728c4-1b35-4d51-b415-528eed425cc3",
+    "id": "b642ac0b-3f30-4954-b47d-c836f935a94b",
     "name": "Horizontal Axis Agitator",
     "description": "A Horizontal Axis Agitator.",
-    "fileType": "viz",
     "author": "Adroit Technologies",
+    "fileName": "Horizontal Axis Agitator.viz",
+    "fileType": "Graphic Form",
+    "previewImage": "Horizontal Axis Agitator.png",
     "ownerType": "official",
     "licenseType": "free",
     "currency": "ZAR",
@@ -34,11 +38,13 @@
     "downloadCount": 0
   },
   {
-    "id": "7fdf3623-c314-407e-ba2d-67463bd8ce75",
+    "id": "2329bb33-d21f-45a8-87cd-45dad1ea88d8",
     "name": "Blue Water Aerator",
     "description": "A Blue Water Aerator.",
-    "fileType": "viz",
     "author": "Adroit Technologies",
+    "fileName": "Blue Water Aerator.viz",
+    "fileType": "Graphic Form",
+    "previewImage": "Blue Water Aerator.png",
     "ownerType": "official",
     "licenseType": "free",
     "currency": "ZAR",
@@ -51,11 +57,13 @@
     "downloadCount": 0
   },
   {
-    "id": "b4f1b97a-df17-43c8-b492-77ac2734872d",
+    "id": "f83ea897-fe7b-470a-aea6-ef038ac38016",
     "name": "Chrome Water Aerator",
     "description": "A Chrome Water Aerator.",
-    "fileType": "viz",
     "author": "Adroit Technologies",
+    "fileName": "Chrome Water Aerator.viz",
+    "fileType": "Graphic Form",
+    "previewImage": "Chrome Water Aerator.png",
     "ownerType": "official",
     "licenseType": "free",
     "currency": "ZAR",

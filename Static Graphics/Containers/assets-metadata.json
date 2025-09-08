@@ -1,10 +1,12 @@
 [
   {
-    "id": "b391d8c0-390b-4f29-ba3e-b84a3cf95607",
+    "id": "6329d475-92b8-4e1d-b2d4-ea29b9829113",
     "name": "Skip",
     "description": "A Skip.",
-    "fileType": "viz",
     "author": "Adroit Technologies",
+    "fileName": "Skip.viz",
+    "fileType": "Graphic Form",
+    "previewImage": "Skip.png",
     "ownerType": "official",
     "licenseType": "free",
     "currency": "ZAR",

@@ -1,10 +1,12 @@
 [
   {
-    "id": "2f850b62-2809-402d-b107-0242978858f7",
+    "id": "c341ede3-a780-4dfc-bdf2-ff21c139a2ef",
     "name": "Computers 2",
     "description": "A Computers 2.",
-    "fileType": "viz",
     "author": "Adroit Technologies",
+    "fileName": "Computers 2.viz",
+    "fileType": "Graphic Form",
+    "previewImage": "Computers 2.png",
     "ownerType": "official",
     "licenseType": "free",
     "currency": "ZAR",
@@ -17,11 +19,13 @@
     "downloadCount": 0
   },
   {
-    "id": "5ddcfbbf-fffd-407f-ac28-35695fce65fd",
+    "id": "d756d410-33ae-4aa1-8d6e-987ebefc787a",
     "name": "Computers 1",
     "description": "A Computers 1.",
-    "fileType": "viz",
     "author": "Adroit Technologies",
+    "fileName": "Computers 1.viz",
+    "fileType": "Graphic Form",
+    "previewImage": "Computers 1.png",
     "ownerType": "official",
     "licenseType": "free",
     "currency": "ZAR",

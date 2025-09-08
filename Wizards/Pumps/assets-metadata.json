@@ -1,10 +1,12 @@
 [
   {
-    "id": "8fd82b5e-bc0d-40f4-93b6-75ccb2aa5440",
+    "id": "d040a7f9-c8cc-4a21-9012-19ccbf8776d2",
     "name": "Pump01",
     "description": "A Pump01.",
-    "fileType": "vizw",
     "author": "Adroit Technologies",
+    "fileName": "Pump01.vizw",
+    "fileType": "Wizard",
+    "previewImage": "Pump01.png",
     "ownerType": "official",
     "licenseType": "free",
     "currency": "ZAR",
@@ -22,11 +24,13 @@
     "downloadCount": 0
   },
   {
-    "id": "77bcf3a1-396b-41a4-a9eb-d238ee532981",
+    "id": "31d176e9-5aea-4e16-972a-5b285ff07428",
     "name": "Pump02",
     "description": "A Pump02.",
-    "fileType": "vizw",
     "author": "Adroit Technologies",
+    "fileName": "Pump02.vizw",
+    "fileType": "Wizard",
+    "previewImage": "Pump02.png",
     "ownerType": "official",
     "licenseType": "free",
     "currency": "ZAR",
@@ -44,11 +48,13 @@
     "downloadCount": 0
   },
   {
-    "id": "fa08cc28-ca7b-4c67-aef5-302f34b34fe0",
+    "id": "aee72a1a-e98f-4400-8e1b-2932d3418287",
     "name": "Pump03",
     "description": "A Pump03.",
-    "fileType": "vizw",
     "author": "Adroit Technologies",
+    "fileName": "Pump03.vizw",
+    "fileType": "Wizard",
+    "previewImage": "Pump03.png",
     "ownerType": "official",
     "licenseType": "free",
     "currency": "ZAR",
@@ -66,11 +72,13 @@
     "downloadCount": 0
   },
   {
-    "id": "14a0d408-00f1-413e-a488-2c00d5fe7bbf",
+    "id": "8fc5e636-892e-45eb-be47-37df77f3d878",
     "name": "Simple Pump start-stop",
     "description": "A Simple Pump start-stop.",
-    "fileType": "vizw",
     "author": "Adroit Technologies",
+    "fileName": "Simple Pump start-stop.vizw",
+    "fileType": "Wizard",
+    "previewImage": "Simple Pump start-stop.png",
     "ownerType": "official",
     "licenseType": "free",
     "currency": "ZAR",
@@ -88,11 +96,13 @@
     "downloadCount": 0
   },
   {
-    "id": "85dee12d-7ee6-4fe1-9f16-e539344c7644",
+    "id": "8bdd387e-1566-47ab-846a-cbb0558b2c7e",
     "name": "Pump04",
     "description": "A Pump04.",
-    "fileType": "vizw",
     "author": "Adroit Technologies",
+    "fileName": "Pump04.vizw",
+    "fileType": "Wizard",
+    "previewImage": "Pump04.png",
     "ownerType": "official",
     "licenseType": "free",
     "currency": "ZAR",

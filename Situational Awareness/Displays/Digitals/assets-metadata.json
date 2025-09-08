@@ -1,10 +1,12 @@
 [
   {
-    "id": "664ca244-f2d8-47cc-b233-d0cfa5996fbf",
+    "id": "be0ceb87-be48-4980-88c0-7c187e0fd321",
     "name": "wzdRadio_DigitalDisplay_Priority3_v01",
     "description": "A wzdRadio_DigitalDisplay_Priority3_v01.",
-    "fileType": "vizw",
     "author": "Adroit Technologies",
+    "fileName": "wzdRadio_DigitalDisplay_Priority3_v01.vizw",
+    "fileType": "Wizard",
+    "previewImage": "wzdRadio_DigitalDisplay_Priority3_v01.png",
     "ownerType": "official",
     "licenseType": "free",
     "currency": "ZAR",
@@ -17,11 +19,13 @@
     "downloadCount": 0
   },
   {
-    "id": "9f7b87fb-cd7f-4514-bbcd-5c2d186ffa0c",
+    "id": "adf7a19b-338b-40e5-aacb-e50ce5c6da31",
     "name": "wzdDigitalTextDisplay_NoPriority_v01",
     "description": "A wzdDigitalTextDisplay_NoPriority_v01.",
-    "fileType": "vizw",
     "author": "Adroit Technologies",
+    "fileName": "wzdDigitalTextDisplay_NoPriority_v01.vizw",
+    "fileType": "Wizard",
+    "previewImage": "wzdDigitalTextDisplay_NoPriority_v01.png",
     "ownerType": "official",
     "licenseType": "free",
     "currency": "ZAR",
@@ -34,11 +38,13 @@
     "downloadCount": 0
   },
   {
-    "id": "9112fc5a-367e-4a8d-857b-b11dc444f881",
+    "id": "cded6d68-0efc-480c-8b79-116c013c6964",
     "name": "wzdRadio_DigitalDisplay_NoPriority_v01",
     "description": "A wzdRadio_DigitalDisplay_NoPriority_v01.",
-    "fileType": "vizw",
     "author": "Adroit Technologies",
+    "fileName": "wzdRadio_DigitalDisplay_NoPriority_v01.vizw",
+    "fileType": "Wizard",
+    "previewImage": "wzdRadio_DigitalDisplay_NoPriority_v01.png",
     "ownerType": "official",
     "licenseType": "free",
     "currency": "ZAR",

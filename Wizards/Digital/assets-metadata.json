@@ -1,10 +1,12 @@
 [
   {
-    "id": "f8b765ed-d45a-437d-9498-256eeb4bca61",
+    "id": "ac4951ba-2a54-43bb-a188-0649d889965c",
     "name": "Simple Digital",
     "description": "A Simple Digital.",
-    "fileType": "vizw",
     "author": "Adroit Technologies",
+    "fileName": "Simple Digital.vizw",
+    "fileType": "Wizard",
+    "previewImage": "Simple Digital.png",
     "ownerType": "official",
     "licenseType": "free",
     "currency": "ZAR",

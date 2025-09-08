@@ -1,10 +1,12 @@
 [
   {
-    "id": "44a4eaf9-4c6c-4804-bfe5-af9049b2cc14",
+    "id": "0ad19aaf-21c9-4b22-866e-fe70ddd50ab6",
     "name": "Q03UDVCPUDetails",
     "description": "A Q03UDVCPUDetails.",
-    "fileType": "viz",
     "author": "Adroit Technologies",
+    "fileName": "Q03UDVCPUDetails.viz",
+    "fileType": "Graphic Form",
+    "previewImage": "Q03UDVCPUDetails.png",
     "ownerType": "official",
     "licenseType": "free",
     "currency": "ZAR",

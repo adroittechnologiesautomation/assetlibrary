@@ -1,10 +1,12 @@
 [
   {
-    "id": "a6a19aaf-a74d-4d2a-b81c-d0ce261e7546",
+    "id": "d290684b-ecc0-4147-8f82-b5f888320413",
     "name": "Motors1",
     "description": "A Motors1.",
-    "fileType": "viz",
     "author": "Adroit Technologies",
+    "fileName": "Motors1.viz",
+    "fileType": "Graphic Form",
+    "previewImage": "Motors1.png",
     "ownerType": "official",
     "licenseType": "free",
     "currency": "ZAR",
@@ -22,11 +24,13 @@
     "downloadCount": 0
   },
   {
-    "id": "dee07fe5-fef3-4f06-ae42-4635d3403dc9",
+    "id": "34aa43df-55e6-4566-966e-d8cc26cc8fdc",
     "name": "Motors2",
     "description": "A Motors2.",
-    "fileType": "viz",
     "author": "Adroit Technologies",
+    "fileName": "Motors2.viz",
+    "fileType": "Graphic Form",
+    "previewImage": "Motors2.png",
     "ownerType": "official",
     "licenseType": "free",
     "currency": "ZAR",

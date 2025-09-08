@@ -1,10 +1,12 @@
 [
   {
-    "id": "3b0739a3-7f93-4259-bba5-124fcec4c0bc",
+    "id": "dcc1882c-2b7b-438a-9862-4ad92736d23a",
     "name": "Pulley",
     "description": "A Pulley.",
-    "fileType": "viz",
     "author": "Adroit Technologies",
+    "fileName": "Pulley.viz",
+    "fileType": "Graphic Form",
+    "previewImage": "Pulley.png",
     "ownerType": "official",
     "licenseType": "free",
     "currency": "ZAR",
@@ -22,11 +24,13 @@
     "downloadCount": 0
   },
   {
-    "id": "92996c0e-55b3-42cb-9d23-ee775b0ccab4",
+    "id": "7d2994d3-d020-4036-b531-5c657e64dfdf",
     "name": "Belt",
     "description": "A Belt.",
-    "fileType": "viz",
     "author": "Adroit Technologies",
+    "fileName": "Belt.viz",
+    "fileType": "Graphic Form",
+    "previewImage": "Belt.png",
     "ownerType": "official",
     "licenseType": "free",
     "currency": "ZAR",

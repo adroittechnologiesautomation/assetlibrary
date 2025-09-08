@@ -1,10 +1,12 @@
 [
   {
-    "id": "2e8b9873-0a92-4680-91a1-5233a7a5b11a",
+    "id": "5282595c-269f-4c50-aa83-9e910507572e",
     "name": "Analog Half Dial 1",
     "description": "A Analog Half Dial 1.",
-    "fileType": "vizw",
     "author": "Adroit Technologies",
+    "fileName": "Analog Half Dial 1.vizw",
+    "fileType": "Wizard",
+    "previewImage": "Analog Half Dial 1.png",
     "ownerType": "official",
     "licenseType": "free",
     "currency": "ZAR",
@@ -17,11 +19,13 @@
     "downloadCount": 0
   },
   {
-    "id": "94fa1021-7f5c-4e64-a211-2a5eb2aa2e41",
+    "id": "522259f6-3381-48c1-84e9-7531711c6f28",
     "name": "Analog Half Dial 3",
     "description": "A Analog Half Dial 3.",
-    "fileType": "vizw",
     "author": "Adroit Technologies",
+    "fileName": "Analog Half Dial 3.vizw",
+    "fileType": "Wizard",
+    "previewImage": "Analog Half Dial 3.png",
     "ownerType": "official",
     "licenseType": "free",
     "currency": "ZAR",
@@ -34,11 +38,13 @@
     "downloadCount": 0
   },
   {
-    "id": "4474e6d3-6fe5-4f81-9246-b3a52d0cd698",
+    "id": "a68b7b02-2630-4373-ad26-1f3d8f97a9aa",
     "name": "Analog Half Dial 2",
     "description": "A Analog Half Dial 2.",
-    "fileType": "vizw",
     "author": "Adroit Technologies",
+    "fileName": "Analog Half Dial 2.vizw",
+    "fileType": "Wizard",
+    "previewImage": "Analog Half Dial 2.png",
     "ownerType": "official",
     "licenseType": "free",
     "currency": "ZAR",

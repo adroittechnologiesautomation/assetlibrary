@@ -1,10 +1,12 @@
 [
   {
-    "id": "ae9b52e4-f78f-4242-86e7-19aa2a5d1195",
+    "id": "9e84ad30-793a-48d2-8100-12e9487159e0",
     "name": "Simple Temperature Meter",
     "description": "A Simple Temperature Meter.",
-    "fileType": "vizw",
     "author": "Adroit Technologies",
+    "fileName": "Simple Temperature Meter.vizw",
+    "fileType": "Wizard",
+    "previewImage": "Simple Temperature Meter.png",
     "ownerType": "official",
     "licenseType": "free",
     "currency": "ZAR",

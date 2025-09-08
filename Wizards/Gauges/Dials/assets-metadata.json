@@ -1,10 +1,12 @@
 [
   {
-    "id": "0f26db8a-17e3-47fa-a588-ac8ee04e5433",
+    "id": "7986c647-ef31-4ada-a4e4-0525efc5ed60",
     "name": "Analog Dial 1",
     "description": "A Analog Dial 1.",
-    "fileType": "vizw",
     "author": "Adroit Technologies",
+    "fileName": "Analog Dial 1.vizw",
+    "fileType": "Wizard",
+    "previewImage": "Analog Dial 1.png",
     "ownerType": "official",
     "licenseType": "free",
     "currency": "ZAR",
@@ -17,11 +19,13 @@
     "downloadCount": 0
   },
   {
-    "id": "fc284e09-6b97-4667-9086-e1f52c474c21",
+    "id": "98c458ea-cd25-4b35-9cff-1529dfffdaf2",
     "name": "Analog Dial 2",
     "description": "A Analog Dial 2.",
-    "fileType": "vizw",
     "author": "Adroit Technologies",
+    "fileName": "Analog Dial 2.vizw",
+    "fileType": "Wizard",
+    "previewImage": "Analog Dial 2.png",
     "ownerType": "official",
     "licenseType": "free",
     "currency": "ZAR",
@@ -34,11 +38,13 @@
     "downloadCount": 0
   },
   {
-    "id": "129bdbd7-9dfb-44fa-b03d-168d978eb192",
+    "id": "ab1cdba7-07c9-4f03-913a-c93286ac966b",
     "name": "Analog Dial 3",
     "description": "A Analog Dial 3.",
-    "fileType": "vizw",
     "author": "Adroit Technologies",
+    "fileName": "Analog Dial 3.vizw",
+    "fileType": "Wizard",
+    "previewImage": "Analog Dial 3.png",
     "ownerType": "official",
     "licenseType": "free",
     "currency": "ZAR",

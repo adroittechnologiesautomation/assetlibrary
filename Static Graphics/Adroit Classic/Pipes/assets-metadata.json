@@ -1,10 +1,12 @@
 [
   {
-    "id": "6618c39c-0e86-4c3c-a9c5-756d0c58f954",
+    "id": "08ccdd61-cce3-4b41-9723-60e5c7c9f5ab",
     "name": "Pipes 2",
     "description": "A Pipes 2.",
-    "fileType": "viz",
     "author": "Adroit Technologies",
+    "fileName": "Pipes 2.viz",
+    "fileType": "Graphic Form",
+    "previewImage": "Pipes 2.png",
     "ownerType": "official",
     "licenseType": "free",
     "currency": "ZAR",
@@ -22,11 +24,13 @@
     "downloadCount": 0
   },
   {
-    "id": "2d31d2a7-052d-4c50-a9c7-22579c2ca434",
+    "id": "eb852f2b-b40c-465c-85fa-a123a8d0991f",
     "name": "Pipes 1",
     "description": "A Pipes 1.",
-    "fileType": "viz",
     "author": "Adroit Technologies",
+    "fileName": "Pipes 1.viz",
+    "fileType": "Graphic Form",
+    "previewImage": "Pipes 1.png",
     "ownerType": "official",
     "licenseType": "free",
     "currency": "ZAR",

@@ -1,10 +1,12 @@
 [
   {
-    "id": "f53d861d-a319-4340-bd1f-e5692509bcd1",
+    "id": "31bdf770-9e1d-4515-9e6d-f039d06eaa49",
     "name": "Marshal Faceplate Template Read Only",
     "description": "A Marshal Faceplate Template Read Only.",
-    "fileType": "viz",
     "author": "Adroit Technologies",
+    "fileName": "Marshal Faceplate Template Read Only.viz",
+    "fileType": "Graphic Form",
+    "previewImage": "Marshal Faceplate Template Read Only.png",
     "ownerType": "official",
     "licenseType": "free",
     "currency": "ZAR",
@@ -17,11 +19,13 @@
     "downloadCount": 0
   },
   {
-    "id": "78ca0e51-d796-4f88-8293-04eab1bc6b33",
+    "id": "25615743-1d65-497a-ae43-cd5f6a0b26ea",
     "name": "Marshal Faceplate Template Read Write",
     "description": "A Marshal Faceplate Template Read Write.",
-    "fileType": "viz",
     "author": "Adroit Technologies",
+    "fileName": "Marshal Faceplate Template Read Write.viz",
+    "fileType": "Graphic Form",
+    "previewImage": "Marshal Faceplate Template Read Write.png",
     "ownerType": "official",
     "licenseType": "free",
     "currency": "ZAR",

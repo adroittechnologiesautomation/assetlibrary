@@ -1,10 +1,12 @@
 [
   {
-    "id": "d5c2962f-647b-4bcb-b717-dca73198ba53",
+    "id": "5cb01e23-c58b-44da-9c99-20dc42857d23",
     "name": "TREND",
     "description": "A TREND.",
-    "fileType": "viz",
     "author": "Adroit Technologies",
+    "fileName": "TREND.viz",
+    "fileType": "Graphic Form",
+    "previewImage": "TREND.png",
     "ownerType": "official",
     "licenseType": "free",
     "currency": "ZAR",
@@ -17,11 +19,13 @@
     "downloadCount": 0
   },
   {
-    "id": "d0c935b6-2d29-40d6-8f20-19959175f30d",
+    "id": "c0d1165c-9044-43bd-9f5f-f556210aa103",
     "name": "WEB",
     "description": "A WEB.",
-    "fileType": "viz",
     "author": "Adroit Technologies",
+    "fileName": "WEB.viz",
+    "fileType": "Graphic Form",
+    "previewImage": "WEB.png",
     "ownerType": "official",
     "licenseType": "free",
     "currency": "ZAR",
@@ -34,11 +38,13 @@
     "downloadCount": 0
   },
   {
-    "id": "34e67f3a-72eb-4d95-89c5-69badbe23682",
+    "id": "7d273abf-aa41-41a5-bf6b-f8c40b72e43d",
     "name": "AlarmEvent",
     "description": "A AlarmEvent.",
-    "fileType": "viz",
     "author": "Adroit Technologies",
+    "fileName": "AlarmEvent.viz",
+    "fileType": "Graphic Form",
+    "previewImage": "AlarmEvent.png",
     "ownerType": "official",
     "licenseType": "free",
     "currency": "ZAR",
@@ -51,11 +57,13 @@
     "downloadCount": 0
   },
   {
-    "id": "68c97bfb-a3e9-4d1d-99d0-0b226565504c",
+    "id": "320e6f93-13d3-4718-b40f-515d8f4442e0",
     "name": "HOME",
     "description": "A HOME.",
-    "fileType": "viz",
     "author": "Adroit Technologies",
+    "fileName": "HOME.viz",
+    "fileType": "Graphic Form",
+    "previewImage": "HOME.png",
     "ownerType": "official",
     "licenseType": "free",
     "currency": "ZAR",

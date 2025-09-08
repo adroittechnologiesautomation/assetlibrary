@@ -1,10 +1,12 @@
 [
   {
-    "id": "33948ee8-65b2-48f7-8d77-d784bfe49ee8",
+    "id": "91bfc648-33d3-41a5-89e2-01c68ef5d733",
     "name": "Bag Packer",
     "description": "A Bag Packer.",
-    "fileType": "viz",
     "author": "Adroit Technologies",
+    "fileName": "Bag Packer.viz",
+    "fileType": "Graphic Form",
+    "previewImage": "Bag Packer.png",
     "ownerType": "official",
     "licenseType": "free",
     "currency": "ZAR",

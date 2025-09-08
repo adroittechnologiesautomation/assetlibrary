@@ -1,10 +1,12 @@
 [
   {
-    "id": "94ef518b-a6bc-4167-8b22-7fb257bcb1b3",
+    "id": "323967a8-4f78-47ec-add7-3ea82953b605",
     "name": "Digital Faceplate Template",
     "description": "A Digital Faceplate Template.",
-    "fileType": "viz",
     "author": "Adroit Technologies",
+    "fileName": "Digital Faceplate Template.viz",
+    "fileType": "Graphic Form",
+    "previewImage": "Digital Faceplate Template.png",
     "ownerType": "official",
     "licenseType": "free",
     "currency": "ZAR",

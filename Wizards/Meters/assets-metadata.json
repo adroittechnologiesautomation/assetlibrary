@@ -1,10 +1,12 @@
 [
   {
-    "id": "b0233fd3-6c29-4918-8360-32d62d3b4646",
+    "id": "7fa52f18-0296-4659-a5f0-3ec19084b3c2",
     "name": "Simple Temperature Meter_1",
     "description": "A Simple Temperature Meter_1.",
-    "fileType": "vizw",
     "author": "Adroit Technologies",
+    "fileName": "Simple Temperature Meter_1.vizw",
+    "fileType": "Wizard",
+    "previewImage": "Simple Temperature Meter_1.png",
     "ownerType": "official",
     "licenseType": "free",
     "currency": "ZAR",
@@ -17,11 +19,13 @@
     "downloadCount": 0
   },
   {
-    "id": "1e4f2a29-27e6-4e26-a72d-f6c5deefa237",
+    "id": "df720c7d-7695-489f-a99b-062e155c4b2e",
     "name": "Simple Temperature Meter",
     "description": "A Simple Temperature Meter.",
-    "fileType": "vizw",
     "author": "Adroit Technologies",
+    "fileName": "Simple Temperature Meter.vizw",
+    "fileType": "Wizard",
+    "previewImage": "Simple Temperature Meter.png",
     "ownerType": "official",
     "licenseType": "free",
     "currency": "ZAR",

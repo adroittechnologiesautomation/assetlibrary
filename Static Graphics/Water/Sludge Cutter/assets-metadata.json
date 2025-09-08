@@ -1,10 +1,12 @@
 [
   {
-    "id": "3a9de322-cbf8-4e8c-bb39-29ca6e5d216a",
+    "id": "c8c6d694-097c-40bd-beb7-c30a1ef2d484",
     "name": "Chrome Sludge Cutter",
     "description": "A Chrome Sludge Cutter.",
-    "fileType": "viz",
     "author": "Adroit Technologies",
+    "fileName": "Chrome Sludge Cutter.viz",
+    "fileType": "Graphic Form",
+    "previewImage": "Chrome Sludge Cutter.png",
     "ownerType": "official",
     "licenseType": "free",
     "currency": "ZAR",
@@ -17,11 +19,13 @@
     "downloadCount": 0
   },
   {
-    "id": "73533654-1d6e-4300-952c-5f34a8b1b1b8",
+    "id": "a41ea88b-724e-457f-9809-d576ca91a989",
     "name": "Chrome Sludge Cutter no motor",
     "description": "A Chrome Sludge Cutter no motor.",
-    "fileType": "viz",
     "author": "Adroit Technologies",
+    "fileName": "Chrome Sludge Cutter no motor.viz",
+    "fileType": "Graphic Form",
+    "previewImage": "Chrome Sludge Cutter no motor.png",
     "ownerType": "official",
     "licenseType": "free",
     "currency": "ZAR",
@@ -39,11 +43,13 @@
     "downloadCount": 0
   },
   {
-    "id": "36c3f578-fb1f-4419-8bcf-9e3b1c08955a",
+    "id": "7b0d3595-bbe9-48cb-ada2-7a841a046589",
     "name": "Blue Sludge Cutter no motor",
     "description": "A Blue Sludge Cutter no motor.",
-    "fileType": "viz",
     "author": "Adroit Technologies",
+    "fileName": "Blue Sludge Cutter no motor.viz",
+    "fileType": "Graphic Form",
+    "previewImage": "Blue Sludge Cutter no motor.png",
     "ownerType": "official",
     "licenseType": "free",
     "currency": "ZAR",
@@ -61,11 +67,13 @@
     "downloadCount": 0
   },
   {
-    "id": "a40d7683-4b5d-41d4-805a-916756d5e560",
+    "id": "f96e6844-a3f1-4321-8d1d-b1487a5f0e8e",
     "name": "Blue Sludge Cutter",
     "description": "A Blue Sludge Cutter.",
-    "fileType": "viz",
     "author": "Adroit Technologies",
+    "fileName": "Blue Sludge Cutter.viz",
+    "fileType": "Graphic Form",
+    "previewImage": "Blue Sludge Cutter.png",
     "ownerType": "official",
     "licenseType": "free",
     "currency": "ZAR",

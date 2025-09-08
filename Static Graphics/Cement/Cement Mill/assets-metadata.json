@@ -1,10 +1,12 @@
 [
   {
-    "id": "7d6062ce-dce5-4a40-b2e0-18eab523f372",
+    "id": "1eef5d11-c97d-40ae-adf6-5561f659e512",
     "name": "Horizontal Cement Mill Left",
     "description": "A Horizontal Cement Mill Left.",
-    "fileType": "viz",
     "author": "Adroit Technologies",
+    "fileName": "Horizontal Cement Mill Left.viz",
+    "fileType": "Graphic Form",
+    "previewImage": "Horizontal Cement Mill Left.png",
     "ownerType": "official",
     "licenseType": "free",
     "currency": "ZAR",
@@ -22,11 +24,13 @@
     "downloadCount": 0
   },
   {
-    "id": "89d8f780-ec9f-4d4d-ae40-04447686aced",
+    "id": "cc2c0a03-3aaa-4e8d-b7b6-34513e237157",
     "name": "Horizontal Cement Mill Right",
     "description": "A Horizontal Cement Mill Right.",
-    "fileType": "viz",
     "author": "Adroit Technologies",
+    "fileName": "Horizontal Cement Mill Right.viz",
+    "fileType": "Graphic Form",
+    "previewImage": "Horizontal Cement Mill Right.png",
     "ownerType": "official",
     "licenseType": "free",
     "currency": "ZAR",
@@ -44,11 +48,13 @@
     "downloadCount": 0
   },
   {
-    "id": "38a2bc74-a807-4088-9957-47e738f23649",
+    "id": "91d983af-8c9d-47c2-86c3-1adc7546777c",
     "name": "Vertical Cement Mill Left",
     "description": "A Vertical Cement Mill Left.",
-    "fileType": "viz",
     "author": "Adroit Technologies",
+    "fileName": "Vertical Cement Mill Left.viz",
+    "fileType": "Graphic Form",
+    "previewImage": "Vertical Cement Mill Left.png",
     "ownerType": "official",
     "licenseType": "free",
     "currency": "ZAR",
@@ -66,11 +72,13 @@
     "downloadCount": 0
   },
   {
-    "id": "ddec4559-18a4-4d09-9dad-42ac28c3bdd6",
+    "id": "606a4546-6d3d-40f5-b74a-cdb4b8155aab",
     "name": "Vertical Cement Mill Right",
     "description": "A Vertical Cement Mill Right.",
-    "fileType": "viz",
     "author": "Adroit Technologies",
+    "fileName": "Vertical Cement Mill Right.viz",
+    "fileType": "Graphic Form",
+    "previewImage": "Vertical Cement Mill Right.png",
     "ownerType": "official",
     "licenseType": "free",
     "currency": "ZAR",

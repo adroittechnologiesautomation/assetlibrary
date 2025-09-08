@@ -1,10 +1,12 @@
 [
   {
-    "id": "947f048a-9ca7-4829-bc23-47288b1bf76c",
+    "id": "85d9eb71-8d44-4498-a47e-94f8520dc07e",
     "name": "wzdProductionChart_StaticTime_StaticTarget_v01",
     "description": "A wzdProductionChart_StaticTime_StaticTarget_v01.",
-    "fileType": "vizw",
     "author": "Adroit Technologies",
+    "fileName": "wzdProductionChart_StaticTime_StaticTarget_v01.vizw",
+    "fileType": "Wizard",
+    "previewImage": "wzdProductionChart_StaticTime_StaticTarget_v01.png",
     "ownerType": "official",
     "licenseType": "free",
     "currency": "ZAR",
@@ -17,11 +19,13 @@
     "downloadCount": 0
   },
   {
-    "id": "937e2eda-8f37-49bf-8710-507333373bed",
+    "id": "05d57c2f-129d-444c-8be6-a4f7c2151a64",
     "name": "wzdProductionChart_ShiftAgent_DynamicTarget_v01",
     "description": "A wzdProductionChart_ShiftAgent_DynamicTarget_v01.",
-    "fileType": "vizw",
     "author": "Adroit Technologies",
+    "fileName": "wzdProductionChart_ShiftAgent_DynamicTarget_v01.vizw",
+    "fileType": "Wizard",
+    "previewImage": "wzdProductionChart_ShiftAgent_DynamicTarget_v01.png",
     "ownerType": "official",
     "licenseType": "free",
     "currency": "ZAR",
@@ -34,11 +38,13 @@
     "downloadCount": 0
   },
   {
-    "id": "00347e71-e044-425c-b13a-6855a85de257",
+    "id": "a58e662c-b35d-48d5-8c3c-3ef4c5d6861f",
     "name": "wzdProductionChart_StaticTime_DynamicTarget_v01",
     "description": "A wzdProductionChart_StaticTime_DynamicTarget_v01.",
-    "fileType": "vizw",
     "author": "Adroit Technologies",
+    "fileName": "wzdProductionChart_StaticTime_DynamicTarget_v01.vizw",
+    "fileType": "Wizard",
+    "previewImage": "wzdProductionChart_StaticTime_DynamicTarget_v01.png",
     "ownerType": "official",
     "licenseType": "free",
     "currency": "ZAR",

@@ -1,10 +1,12 @@
 [
   {
-    "id": "8c0914cc-c791-4ccf-a5e9-9ca913c3db4d",
+    "id": "dc3046c0-0942-4ca7-baa2-3c474806314c",
     "name": "Belt Conveyor Vertical",
     "description": "A Belt Conveyor Vertical.",
-    "fileType": "viz",
     "author": "Adroit Technologies",
+    "fileName": "Belt Conveyor Vertical.viz",
+    "fileType": "Graphic Form",
+    "previewImage": "Belt Conveyor Vertical.png",
     "ownerType": "official",
     "licenseType": "free",
     "currency": "ZAR",
@@ -22,11 +24,13 @@
     "downloadCount": 0
   },
   {
-    "id": "b7021576-f1f9-4028-8308-05c916e83ecc",
+    "id": "07b6f275-0960-4eb8-b633-19f877c7bc58",
     "name": "Belt Conveyor Horizontal",
     "description": "A Belt Conveyor Horizontal.",
-    "fileType": "viz",
     "author": "Adroit Technologies",
+    "fileName": "Belt Conveyor Horizontal.viz",
+    "fileType": "Graphic Form",
+    "previewImage": "Belt Conveyor Horizontal.png",
     "ownerType": "official",
     "licenseType": "free",
     "currency": "ZAR",

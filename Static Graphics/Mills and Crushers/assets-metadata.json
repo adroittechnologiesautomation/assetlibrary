@@ -1,10 +1,12 @@
 [
   {
-    "id": "f5538d8a-3e5d-4640-aa03-a83f8fce2228",
+    "id": "fbe8126e-3d60-4f59-a941-45e3ebcbe522",
     "name": "Crusher 01",
     "description": "A Crusher 01.",
-    "fileType": "viz",
     "author": "Adroit Technologies",
+    "fileName": "Crusher 01.viz",
+    "fileType": "Graphic Form",
+    "previewImage": "Crusher 01.png",
     "ownerType": "official",
     "licenseType": "free",
     "currency": "ZAR",
@@ -22,11 +24,13 @@
     "downloadCount": 0
   },
   {
-    "id": "0c5a11fc-486b-42b4-af84-c32f1530317f",
+    "id": "cf5c57df-b0d7-44a7-9ae6-8810fbe0ed56",
     "name": "Mill 01",
     "description": "A Mill 01.",
-    "fileType": "viz",
     "author": "Adroit Technologies",
+    "fileName": "Mill 01.viz",
+    "fileType": "Graphic Form",
+    "previewImage": "Mill 01.png",
     "ownerType": "official",
     "licenseType": "free",
     "currency": "ZAR",
@@ -44,11 +48,13 @@
     "downloadCount": 0
   },
   {
-    "id": "e09ec904-f98b-431d-a054-eda62c907d45",
+    "id": "38c0bc36-d5af-41fc-8bc7-88bd3b42bbd3",
     "name": "Mill 02",
     "description": "A Mill 02.",
-    "fileType": "viz",
     "author": "Adroit Technologies",
+    "fileName": "Mill 02.viz",
+    "fileType": "Graphic Form",
+    "previewImage": "Mill 02.png",
     "ownerType": "official",
     "licenseType": "free",
     "currency": "ZAR",
@@ -66,11 +72,13 @@
     "downloadCount": 0
   },
   {
-    "id": "c186fb3d-632c-48e3-a1b3-7ebe49618504",
+    "id": "a13efa4b-6b97-4497-aaab-bc7949afc9bc",
     "name": "Mobile Crusher",
     "description": "A Mobile Crusher.",
-    "fileType": "viz",
     "author": "Adroit Technologies",
+    "fileName": "Mobile Crusher.viz",
+    "fileType": "Graphic Form",
+    "previewImage": "Mobile Crusher.png",
     "ownerType": "official",
     "licenseType": "free",
     "currency": "ZAR",
@@ -88,11 +96,13 @@
     "downloadCount": 0
   },
   {
-    "id": "b7da844d-6b11-4466-b240-914ffb962683",
+    "id": "dfdfa208-fd98-4d5b-a553-e2f44419420a",
     "name": "Crusher 02",
     "description": "A Crusher 02.",
-    "fileType": "viz",
     "author": "Adroit Technologies",
+    "fileName": "Crusher 02.viz",
+    "fileType": "Graphic Form",
+    "previewImage": "Crusher 02.png",
     "ownerType": "official",
     "licenseType": "free",
     "currency": "ZAR",

@@ -1,10 +1,12 @@
 [
   {
-    "id": "1349589e-ae6a-4511-b2f5-5314beb03d29",
+    "id": "17a66236-bf0b-4f48-8155-7c03cdbd2346",
     "name": "Off Button",
     "description": "A Off Button.",
-    "fileType": "vizw",
     "author": "Adroit Technologies",
+    "fileName": "Off Button.vizw",
+    "fileType": "Wizard",
+    "previewImage": "Off Button.png",
     "ownerType": "official",
     "licenseType": "free",
     "currency": "ZAR",
@@ -17,11 +19,13 @@
     "downloadCount": 0
   },
   {
-    "id": "bac4e510-aa46-4c1f-a2ec-3d5badd44655",
+    "id": "37b764bc-c5dc-42b5-a094-e29974dee7fe",
     "name": "On Button",
     "description": "A On Button.",
-    "fileType": "vizw",
     "author": "Adroit Technologies",
+    "fileName": "On Button.vizw",
+    "fileType": "Wizard",
+    "previewImage": "On Button.png",
     "ownerType": "official",
     "licenseType": "free",
     "currency": "ZAR",

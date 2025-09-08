@@ -1,10 +1,12 @@
 [
   {
-    "id": "e3fcba3d-bf73-4df5-8b06-ce94c6c306af",
+    "id": "6a13c9c1-164c-4dc6-a00b-3c9d6c9ea04b",
     "name": "Compressor1",
     "description": "A Compressor1.",
-    "fileType": "viz",
     "author": "Adroit Technologies",
+    "fileName": "Compressor1.viz",
+    "fileType": "Graphic Form",
+    "previewImage": "Compressor1.png",
     "ownerType": "official",
     "licenseType": "free",
     "currency": "ZAR",
@@ -22,11 +24,13 @@
     "downloadCount": 0
   },
   {
-    "id": "78e95cf3-e8e2-42f1-9a81-db555b1a727f",
+    "id": "aecdf5e6-a7c3-4238-ad4e-65df3de1f146",
     "name": "Compressor3",
     "description": "A Compressor3.",
-    "fileType": "viz",
     "author": "Adroit Technologies",
+    "fileName": "Compressor3.viz",
+    "fileType": "Graphic Form",
+    "previewImage": "Compressor3.png",
     "ownerType": "official",
     "licenseType": "free",
     "currency": "ZAR",
@@ -44,11 +48,13 @@
     "downloadCount": 0
   },
   {
-    "id": "e3090bd9-817e-4a45-a7e5-d7098cbe0359",
+    "id": "579bfe4c-6d31-4947-9ee0-1197a03ef0c9",
     "name": "TankCompressor",
     "description": "A TankCompressor.",
-    "fileType": "viz",
     "author": "Adroit Technologies",
+    "fileName": "TankCompressor.viz",
+    "fileType": "Graphic Form",
+    "previewImage": "TankCompressor.png",
     "ownerType": "official",
     "licenseType": "free",
     "currency": "ZAR",
@@ -66,11 +72,13 @@
     "downloadCount": 0
   },
   {
-    "id": "cffeddd2-2a71-4c83-81cc-542ac5f1a5f0",
+    "id": "fc555ad0-000a-4f05-9133-c4ce4222d714",
     "name": "Compressor2",
     "description": "A Compressor2.",
-    "fileType": "viz",
     "author": "Adroit Technologies",
+    "fileName": "Compressor2.viz",
+    "fileType": "Graphic Form",
+    "previewImage": "Compressor2.png",
     "ownerType": "official",
     "licenseType": "free",
     "currency": "ZAR",

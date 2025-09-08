@@ -1,10 +1,12 @@
 [
   {
-    "id": "b82ea6dd-747c-4be8-9f29-995c175c230d",
+    "id": "5ea23bce-be45-452f-a5f7-1977e821ac12",
     "name": "ID Fan Up",
     "description": "A ID Fan Up.",
-    "fileType": "viz",
     "author": "Adroit Technologies",
+    "fileName": "ID Fan Up.viz",
+    "fileType": "Graphic Form",
+    "previewImage": "ID Fan Up.png",
     "ownerType": "official",
     "licenseType": "free",
     "currency": "ZAR",
@@ -22,11 +24,13 @@
     "downloadCount": 0
   },
   {
-    "id": "31004441-0e31-4a9c-8d80-0072ec82d0ee",
+    "id": "e21696a0-cc72-4e90-9831-353d7f9e41db",
     "name": "ID Fan Left",
     "description": "A ID Fan Left.",
-    "fileType": "viz",
     "author": "Adroit Technologies",
+    "fileName": "ID Fan Left.viz",
+    "fileType": "Graphic Form",
+    "previewImage": "ID Fan Left.png",
     "ownerType": "official",
     "licenseType": "free",
     "currency": "ZAR",
@@ -44,11 +48,13 @@
     "downloadCount": 0
   },
   {
-    "id": "f48e4ff6-9dfc-4fec-8905-add1aa26c695",
+    "id": "d8ea5afa-9d90-4b4b-b6bb-1b2a16b04c17",
     "name": "ID Fan Down",
     "description": "A ID Fan Down.",
-    "fileType": "viz",
     "author": "Adroit Technologies",
+    "fileName": "ID Fan Down.viz",
+    "fileType": "Graphic Form",
+    "previewImage": "ID Fan Down.png",
     "ownerType": "official",
     "licenseType": "free",
     "currency": "ZAR",
@@ -66,11 +72,13 @@
     "downloadCount": 0
   },
   {
-    "id": "68d4258f-ff45-4ebf-83af-073ee44bdba1",
+    "id": "3c1f793b-c6c8-48d1-8ca4-73221fbd61a2",
     "name": "ID Fan Right",
     "description": "A ID Fan Right.",
-    "fileType": "viz",
     "author": "Adroit Technologies",
+    "fileName": "ID Fan Right.viz",
+    "fileType": "Graphic Form",
+    "previewImage": "ID Fan Right.png",
     "ownerType": "official",
     "licenseType": "free",
     "currency": "ZAR",
