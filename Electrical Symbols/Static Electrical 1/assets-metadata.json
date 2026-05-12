@@ -48,6 +48,7 @@
     "name": "AC Generator or Alternator",
     "description": "A AC Generator or Alternator.",
     "author": "Adroit Technologies",
+    "version": "1.0.1",
     "fileName": "AC Generator or Alternator.viz",
     "fileType": "Graphic Form",
     "previewImage": "AC Generator or Alternator.png",
