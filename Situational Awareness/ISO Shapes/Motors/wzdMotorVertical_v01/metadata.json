@@ -1,0 +1,27 @@
+{
+  "id": "60a87f93-c846-4952-b14e-29094bb7e8b0",
+  "name": "wzdMotorVertical_v01",
+  "description": "A wzdMotorVertical_v01.",
+  "author": "Adroit Technologies",
+  "version": null,
+  "fileName": "wzdMotorVertical_v01.vizw",
+  "fileType": "Wizard",
+  "previewImages": [
+    "wzdMotorVertical_v01.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "previewImageUrls": [],
+  "downloadUrl": "",
+  "industries": [],
+  "tags": [
+    "Motor",
+    "Drive",
+    "Motion",
+    "Manufacturing"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

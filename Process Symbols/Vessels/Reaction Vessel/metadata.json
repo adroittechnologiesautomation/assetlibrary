@@ -1,0 +1,27 @@
+{
+  "id": "15e8af75-b3d1-4d44-a796-a22bfc1d82d5",
+  "name": "Reaction Vessel",
+  "description": "A Reaction Vessel.",
+  "author": "Adroit Technologies",
+  "version": null,
+  "fileName": "Reaction Vessel.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Reaction Vessel.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "previewImageUrls": [],
+  "downloadUrl": "",
+  "industries": [],
+  "tags": [
+    "Vessel",
+    "Pressure",
+    "Containment",
+    "Process"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

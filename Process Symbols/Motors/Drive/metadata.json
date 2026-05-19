@@ -1,0 +1,27 @@
+{
+  "id": "890c3b14-e94c-425c-98c0-9d9f847b97fd",
+  "name": "Drive",
+  "description": "A Drive.",
+  "author": "Adroit Technologies",
+  "version": null,
+  "fileName": "Drive.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Drive.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "previewImageUrls": [],
+  "downloadUrl": "",
+  "industries": [],
+  "tags": [
+    "Drive",
+    "VFD",
+    "Motor Control",
+    "Manufacturing"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

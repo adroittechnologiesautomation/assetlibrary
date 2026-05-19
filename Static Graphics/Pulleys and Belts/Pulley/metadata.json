@@ -1,0 +1,27 @@
+{
+  "id": "cac8dd72-0eed-4e8b-89eb-195651c779f4",
+  "name": "Pulley",
+  "description": "A Pulley.",
+  "author": "Adroit Technologies",
+  "version": null,
+  "fileName": "Pulley.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Pulley.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "previewImageUrls": [],
+  "downloadUrl": "",
+  "industries": [],
+  "tags": [
+    "Pulley",
+    "Transmission",
+    "Rotation",
+    "Mechanical"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

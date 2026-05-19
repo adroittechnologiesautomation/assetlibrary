@@ -1,0 +1,27 @@
+{
+  "id": "d1f6e550-4a76-4bae-a8a9-a3d5d6b9fdb5",
+  "name": "Valve 28",
+  "description": "A Valve 28.",
+  "author": "Adroit Technologies",
+  "version": null,
+  "fileName": "Valve 28.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Valve 28.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "previewImageUrls": [],
+  "downloadUrl": "",
+  "industries": [],
+  "tags": [
+    "Valve",
+    "Flow Control",
+    "Actuator",
+    "Water"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

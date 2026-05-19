@@ -1,0 +1,22 @@
+{
+  "id": "2e4ff3b9-bd49-40de-b77c-fe9ddf56db2f",
+  "name": "Light",
+  "description": "A Light.",
+  "author": "Adroit Technologies",
+  "version": null,
+  "fileName": "Light.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Light.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "previewImageUrls": [],
+  "downloadUrl": "",
+  "industries": [],
+  "tags": [],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

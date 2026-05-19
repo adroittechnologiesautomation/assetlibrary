@@ -1,0 +1,27 @@
+{
+  "id": "ceec62e7-ec98-4cae-8e1e-6160833c2a09",
+  "name": "Angle Valve",
+  "description": "A Angle Valve.",
+  "author": "Adroit Technologies",
+  "version": null,
+  "fileName": "Angle Valve.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Angle Valve.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "previewImageUrls": [],
+  "downloadUrl": "",
+  "industries": [],
+  "tags": [
+    "Valve",
+    "Flow Control",
+    "Actuator",
+    "Water"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

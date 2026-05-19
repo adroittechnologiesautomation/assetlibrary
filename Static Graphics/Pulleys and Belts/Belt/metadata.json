@@ -1,0 +1,27 @@
+{
+  "id": "50a04c84-8576-4bf8-9772-3345997ed295",
+  "name": "Belt",
+  "description": "A Belt.",
+  "author": "Adroit Technologies",
+  "version": null,
+  "fileName": "Belt.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Belt.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "previewImageUrls": [],
+  "downloadUrl": "",
+  "industries": [],
+  "tags": [
+    "Belt",
+    "Transmission",
+    "Material Handling",
+    "Mining"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

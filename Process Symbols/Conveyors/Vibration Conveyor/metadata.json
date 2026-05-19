@@ -1,0 +1,27 @@
+{
+  "id": "dc11e9e0-4d03-4743-959f-75fff53f2015",
+  "name": "Vibration Conveyor",
+  "description": "A Vibration Conveyor.",
+  "author": "Adroit Technologies",
+  "version": null,
+  "fileName": "Vibration Conveyor.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Vibration Conveyor.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "previewImageUrls": [],
+  "downloadUrl": "",
+  "industries": [],
+  "tags": [
+    "Conveyor",
+    "Material Handling",
+    "Transport",
+    "Mining"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

@@ -1,0 +1,27 @@
+{
+  "id": "e9be2bd4-9f71-4a63-8d96-63eddf1d2a87",
+  "name": "Roller Crusher",
+  "description": "A Roller Crusher.",
+  "author": "Adroit Technologies",
+  "version": null,
+  "fileName": "Roller Crusher.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Roller Crusher.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "previewImageUrls": [],
+  "downloadUrl": "",
+  "industries": [],
+  "tags": [
+    "Crusher",
+    "Crushing",
+    "Size Reduction",
+    "Mining"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

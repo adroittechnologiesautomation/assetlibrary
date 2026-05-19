@@ -1,0 +1,27 @@
+{
+  "id": "9af25d0e-d008-4648-bb13-97cdec4a7f59",
+  "name": "Sterilising Tank",
+  "description": "A Sterilising Tank.",
+  "author": "Adroit Technologies",
+  "version": null,
+  "fileName": "Sterilising Tank.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Sterilising Tank.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "previewImageUrls": [],
+  "downloadUrl": "",
+  "industries": [],
+  "tags": [
+    "Tank",
+    "Storage",
+    "Containment",
+    "Process"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

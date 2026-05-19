@@ -1,0 +1,27 @@
+{
+  "id": "d5bdb6bb-d624-40cc-ab3b-1ebfe21f3738",
+  "name": "Positive Disp Pump",
+  "description": "A Positive Disp Pump.",
+  "author": "Adroit Technologies",
+  "version": null,
+  "fileName": "Positive Disp Pump.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Positive Disp Pump.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "previewImageUrls": [],
+  "downloadUrl": "",
+  "industries": [],
+  "tags": [
+    "Pump",
+    "Fluid",
+    "Actuator",
+    "Water"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

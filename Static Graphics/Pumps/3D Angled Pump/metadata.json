@@ -1,0 +1,27 @@
+{
+  "id": "818abee6-8253-4dc5-8502-e155cc292ec7",
+  "name": "3D Angled Pump",
+  "description": "A 3D Angled Pump.",
+  "author": "Adroit Technologies",
+  "version": null,
+  "fileName": "3D Angled Pump.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "3D Angled Pump.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "previewImageUrls": [],
+  "downloadUrl": "",
+  "industries": [],
+  "tags": [
+    "Pump",
+    "Fluid",
+    "Actuator",
+    "Water"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

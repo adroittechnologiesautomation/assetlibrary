@@ -1,0 +1,27 @@
+{
+  "id": "8e007224-0b40-4058-8fac-0ed3aecfe611",
+  "name": "Vessel",
+  "description": "A Vessel.",
+  "author": "Adroit Technologies",
+  "version": null,
+  "fileName": "Vessel.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Vessel.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "previewImageUrls": [],
+  "downloadUrl": "",
+  "industries": [],
+  "tags": [
+    "Vessel",
+    "Pressure",
+    "Containment",
+    "Process"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

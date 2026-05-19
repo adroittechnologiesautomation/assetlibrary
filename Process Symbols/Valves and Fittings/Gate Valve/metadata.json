@@ -1,0 +1,27 @@
+{
+  "id": "03c27a5f-1688-4a36-a299-94a025e8f024",
+  "name": "Gate Valve",
+  "description": "A Gate Valve.",
+  "author": "Adroit Technologies",
+  "version": null,
+  "fileName": "Gate Valve.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Gate Valve.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "previewImageUrls": [],
+  "downloadUrl": "",
+  "industries": [],
+  "tags": [
+    "Valve",
+    "Flow Control",
+    "Actuator",
+    "Water"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

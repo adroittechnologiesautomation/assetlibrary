@@ -1,0 +1,27 @@
+{
+  "id": "3a200050-d96a-48e9-a67c-62acdd9a1e2b",
+  "name": "Pipe_Set_1_Flange_Horizontal",
+  "description": "A Pipe_Set_1_Flange_Horizontal.",
+  "author": "Adroit Technologies",
+  "version": null,
+  "fileName": "Pipe_Set_1_Flange_Horizontal.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Pipe_Set_1_Flange_Horizontal.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "previewImageUrls": [],
+  "downloadUrl": "",
+  "industries": [],
+  "tags": [
+    "Pipe",
+    "Conduit",
+    "Flow",
+    "Process"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

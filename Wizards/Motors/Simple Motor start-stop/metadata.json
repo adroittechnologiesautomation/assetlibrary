@@ -1,0 +1,27 @@
+{
+  "id": "2286dcc8-d62e-4059-8957-c5e4a783baae",
+  "name": "Simple Motor start-stop",
+  "description": "A Simple Motor start-stop.",
+  "author": "Adroit Technologies",
+  "version": null,
+  "fileName": "Simple Motor start-stop.vizw",
+  "fileType": "Wizard",
+  "previewImages": [
+    "Simple Motor start-stop.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "previewImageUrls": [],
+  "downloadUrl": "",
+  "industries": [],
+  "tags": [
+    "Motor",
+    "Drive",
+    "Motion",
+    "Manufacturing"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

@@ -1,0 +1,27 @@
+{
+  "id": "f2ded688-9ff3-45ee-805d-67abe57ae311",
+  "name": "Valve 30",
+  "description": "A Valve 30.",
+  "author": "Adroit Technologies",
+  "version": null,
+  "fileName": "Valve 30.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Valve 30.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "previewImageUrls": [],
+  "downloadUrl": "",
+  "industries": [],
+  "tags": [
+    "Valve",
+    "Flow Control",
+    "Actuator",
+    "Water"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

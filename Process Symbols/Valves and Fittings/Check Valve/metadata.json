@@ -1,0 +1,27 @@
+{
+  "id": "cb3d6006-5eb6-40ca-b8cb-81c28046e1fa",
+  "name": "Check Valve",
+  "description": "A Check Valve.",
+  "author": "Adroit Technologies",
+  "version": null,
+  "fileName": "Check Valve.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Check Valve.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "previewImageUrls": [],
+  "downloadUrl": "",
+  "industries": [],
+  "tags": [
+    "Valve",
+    "Flow Control",
+    "Actuator",
+    "Water"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

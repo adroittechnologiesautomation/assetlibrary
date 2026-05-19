@@ -1,0 +1,27 @@
+{
+  "id": "7c4220c8-b6ba-4114-879b-90dcc219f573",
+  "name": "Mixing Valve",
+  "description": "A Mixing Valve.",
+  "author": "Adroit Technologies",
+  "version": null,
+  "fileName": "Mixing Valve.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Mixing Valve.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "previewImageUrls": [],
+  "downloadUrl": "",
+  "industries": [],
+  "tags": [
+    "Valve",
+    "Flow Control",
+    "Actuator",
+    "Water"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

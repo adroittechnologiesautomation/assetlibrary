@@ -1,0 +1,27 @@
+{
+  "id": "2ac06977-eb84-4b80-bd67-f5efcf4b4d72",
+  "name": "Raised Tank",
+  "description": "A Raised Tank.",
+  "author": "Adroit Technologies",
+  "version": null,
+  "fileName": "Raised Tank.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Raised Tank.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "previewImageUrls": [],
+  "downloadUrl": "",
+  "industries": [],
+  "tags": [
+    "Tank",
+    "Storage",
+    "Containment",
+    "Process"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

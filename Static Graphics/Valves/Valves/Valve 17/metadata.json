@@ -1,0 +1,27 @@
+{
+  "id": "4acf0655-93e9-43e5-af2b-00865c47b0a8",
+  "name": "Valve 17",
+  "description": "A Valve 17.",
+  "author": "Adroit Technologies",
+  "version": null,
+  "fileName": "Valve 17.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Valve 17.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "previewImageUrls": [],
+  "downloadUrl": "",
+  "industries": [],
+  "tags": [
+    "Valve",
+    "Flow Control",
+    "Actuator",
+    "Water"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

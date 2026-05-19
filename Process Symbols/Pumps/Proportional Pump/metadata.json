@@ -1,0 +1,27 @@
+{
+  "id": "6f65f3af-9209-45a9-8720-455f86f54ab5",
+  "name": "Proportional Pump",
+  "description": "A Proportional Pump.",
+  "author": "Adroit Technologies",
+  "version": null,
+  "fileName": "Proportional Pump.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Proportional Pump.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "previewImageUrls": [],
+  "downloadUrl": "",
+  "industries": [],
+  "tags": [
+    "Pump",
+    "Fluid",
+    "Actuator",
+    "Water"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

@@ -1,0 +1,27 @@
+{
+  "id": "90cb6af6-c38b-42e0-b06f-5fd7bb3b533f",
+  "name": "Water Reservoir Tank 1",
+  "description": "A Water Reservoir Tank 1.",
+  "author": "Adroit Technologies",
+  "version": null,
+  "fileName": "Water Reservoir Tank 1.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Water Reservoir Tank 1.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "previewImageUrls": [],
+  "downloadUrl": "",
+  "industries": [],
+  "tags": [
+    "Tank",
+    "Storage",
+    "Containment",
+    "Process"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

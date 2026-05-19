@@ -1,0 +1,27 @@
+{
+  "id": "af192874-7a68-4931-8c0e-e071f3ef28cc",
+  "name": "ServerSwitchTouchDesktop",
+  "description": "A ServerSwitchTouchDesktop.",
+  "author": "Adroit Technologies",
+  "version": null,
+  "fileName": "ServerSwitchTouchDesktop.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "ServerSwitchTouchDesktop.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "previewImageUrls": [],
+  "downloadUrl": "",
+  "industries": [],
+  "tags": [
+    "Switch",
+    "Control",
+    "Input",
+    "Electrical"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

@@ -1,0 +1,27 @@
+{
+  "id": "8566b779-3f74-42d1-9db4-997263dd7be8",
+  "name": "SolenoidValveVertical",
+  "description": "A SolenoidValveVertical.",
+  "author": "Adroit Technologies",
+  "version": null,
+  "fileName": "SolenoidValveVertical.vizw",
+  "fileType": "Wizard",
+  "previewImages": [
+    "SolenoidValveVertical.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "previewImageUrls": [],
+  "downloadUrl": "",
+  "industries": [],
+  "tags": [
+    "Valve",
+    "Flow Control",
+    "Actuator",
+    "Water"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

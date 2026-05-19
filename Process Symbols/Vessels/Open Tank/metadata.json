@@ -1,0 +1,27 @@
+{
+  "id": "a5bb36c0-9d31-4b56-b42c-0f896a57dbe2",
+  "name": "Open Tank",
+  "description": "A Open Tank.",
+  "author": "Adroit Technologies",
+  "version": null,
+  "fileName": "Open Tank.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Open Tank.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "previewImageUrls": [],
+  "downloadUrl": "",
+  "industries": [],
+  "tags": [
+    "Tank",
+    "Storage",
+    "Containment",
+    "Process"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

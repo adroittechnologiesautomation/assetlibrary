@@ -1,0 +1,22 @@
+{
+  "id": "a8be0abb-5d4d-4163-a3a6-925cc2666eee",
+  "name": "Boiler",
+  "description": "A Boiler.",
+  "author": "Adroit Technologies",
+  "version": null,
+  "fileName": "Boiler.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Boiler.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "previewImageUrls": [],
+  "downloadUrl": "",
+  "industries": [],
+  "tags": [],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

@@ -1,0 +1,27 @@
+{
+  "id": "581dce55-aea3-4030-9a27-50070565ad10",
+  "name": "Relief Angle Valve",
+  "description": "A Relief Angle Valve.",
+  "author": "Adroit Technologies",
+  "version": null,
+  "fileName": "Relief Angle Valve.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Relief Angle Valve.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "previewImageUrls": [],
+  "downloadUrl": "",
+  "industries": [],
+  "tags": [
+    "Valve",
+    "Flow Control",
+    "Actuator",
+    "Water"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

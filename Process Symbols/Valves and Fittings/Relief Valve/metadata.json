@@ -1,0 +1,27 @@
+{
+  "id": "c633b69a-cba2-4896-9b0b-350aefb8cf97",
+  "name": "Relief Valve",
+  "description": "A Relief Valve.",
+  "author": "Adroit Technologies",
+  "version": null,
+  "fileName": "Relief Valve.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Relief Valve.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "previewImageUrls": [],
+  "downloadUrl": "",
+  "industries": [],
+  "tags": [
+    "Valve",
+    "Flow Control",
+    "Actuator",
+    "Water"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

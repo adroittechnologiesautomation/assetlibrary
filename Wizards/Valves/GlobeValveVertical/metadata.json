@@ -1,0 +1,27 @@
+{
+  "id": "b814c47a-934b-4997-84f8-3d9daf16f018",
+  "name": "GlobeValveVertical",
+  "description": "A GlobeValveVertical.",
+  "author": "Adroit Technologies",
+  "version": null,
+  "fileName": "GlobeValveVertical.vizw",
+  "fileType": "Wizard",
+  "previewImages": [
+    "GlobeValveVertical.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "previewImageUrls": [],
+  "downloadUrl": "",
+  "industries": [],
+  "tags": [
+    "Valve",
+    "Flow Control",
+    "Actuator",
+    "Water"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

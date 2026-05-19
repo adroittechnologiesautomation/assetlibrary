@@ -1,0 +1,22 @@
+{
+  "id": "0c3eb31f-4d32-43a6-acf3-587585d7c8d1",
+  "name": "Gate",
+  "description": "A Gate.",
+  "author": "Adroit Technologies",
+  "version": null,
+  "fileName": "Gate.vizw",
+  "fileType": "Wizard",
+  "previewImages": [
+    "Gate.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "previewImageUrls": [],
+  "downloadUrl": "",
+  "industries": [],
+  "tags": [],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

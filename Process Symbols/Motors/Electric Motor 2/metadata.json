@@ -1,0 +1,27 @@
+{
+  "id": "6ccf49a3-df59-4929-8839-d3284ff431c9",
+  "name": "Electric Motor 2",
+  "description": "A Electric Motor 2.",
+  "author": "Adroit Technologies",
+  "version": null,
+  "fileName": "Electric Motor 2.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Electric Motor 2.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "previewImageUrls": [],
+  "downloadUrl": "",
+  "industries": [],
+  "tags": [
+    "Motor",
+    "Drive",
+    "Motion",
+    "Manufacturing"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

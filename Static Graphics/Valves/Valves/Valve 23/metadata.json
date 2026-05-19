@@ -1,0 +1,27 @@
+{
+  "id": "82d75bad-0f32-4401-aeb0-c4be4eaba232",
+  "name": "Valve 23",
+  "description": "A Valve 23.",
+  "author": "Adroit Technologies",
+  "version": null,
+  "fileName": "Valve 23.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Valve 23.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "previewImageUrls": [],
+  "downloadUrl": "",
+  "industries": [],
+  "tags": [
+    "Valve",
+    "Flow Control",
+    "Actuator",
+    "Water"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

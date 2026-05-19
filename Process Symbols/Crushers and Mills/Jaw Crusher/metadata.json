@@ -1,0 +1,27 @@
+{
+  "id": "930d7275-7476-4724-91f2-88163a40f5f9",
+  "name": "Jaw Crusher",
+  "description": "A Jaw Crusher.",
+  "author": "Adroit Technologies",
+  "version": null,
+  "fileName": "Jaw Crusher.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Jaw Crusher.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "previewImageUrls": [],
+  "downloadUrl": "",
+  "industries": [],
+  "tags": [
+    "Crusher",
+    "Crushing",
+    "Size Reduction",
+    "Mining"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

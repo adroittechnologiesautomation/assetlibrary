@@ -1,0 +1,22 @@
+{
+  "id": "31111bb1-af38-42ef-bc64-bf4e3e2c7a5c",
+  "name": "DB",
+  "description": "A DB.",
+  "author": "Adroit Technologies",
+  "version": null,
+  "fileName": "DB.vizw",
+  "fileType": "Wizard",
+  "previewImages": [
+    "DB.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "previewImageUrls": [],
+  "downloadUrl": "",
+  "industries": [],
+  "tags": [],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

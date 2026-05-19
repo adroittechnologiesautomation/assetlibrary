@@ -1,0 +1,27 @@
+{
+  "id": "454c2da1-1087-42f9-bb5e-0e04d9561fc3",
+  "name": "PLC",
+  "description": "A PLC.",
+  "author": "Adroit Technologies",
+  "version": null,
+  "fileName": "PLC.vizw",
+  "fileType": "Wizard",
+  "previewImages": [
+    "PLC.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "previewImageUrls": [],
+  "downloadUrl": "",
+  "industries": [],
+  "tags": [
+    "PLC",
+    "Controller",
+    "Logic",
+    "Manufacturing"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

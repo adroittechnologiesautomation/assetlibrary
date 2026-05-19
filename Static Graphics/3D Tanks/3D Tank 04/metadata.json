@@ -1,0 +1,27 @@
+{
+  "id": "749ef5ff-b2f2-4df6-a16b-50b27afb5869",
+  "name": "3D Tank 04",
+  "description": "A 3D Tank 04.",
+  "author": "Adroit Technologies",
+  "version": null,
+  "fileName": "3D Tank 04.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "3D Tank 04.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "previewImageUrls": [],
+  "downloadUrl": "",
+  "industries": [],
+  "tags": [
+    "Tank",
+    "Storage",
+    "Containment",
+    "Process"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

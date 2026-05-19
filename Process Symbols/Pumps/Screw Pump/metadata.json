@@ -1,0 +1,27 @@
+{
+  "id": "2cca5057-135e-43fe-93b1-e4b2030edcf2",
+  "name": "Screw Pump",
+  "description": "A Screw Pump.",
+  "author": "Adroit Technologies",
+  "version": null,
+  "fileName": "Screw Pump.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Screw Pump.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "previewImageUrls": [],
+  "downloadUrl": "",
+  "industries": [],
+  "tags": [
+    "Pump",
+    "Fluid",
+    "Actuator",
+    "Water"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

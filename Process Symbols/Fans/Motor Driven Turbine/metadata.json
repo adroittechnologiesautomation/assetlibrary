@@ -1,0 +1,27 @@
+{
+  "id": "43fa417e-0605-4561-8e82-e3526d6ddb9c",
+  "name": "Motor Driven Turbine",
+  "description": "A Motor Driven Turbine.",
+  "author": "Adroit Technologies",
+  "version": null,
+  "fileName": "Motor Driven Turbine.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Motor Driven Turbine.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "previewImageUrls": [],
+  "downloadUrl": "",
+  "industries": [],
+  "tags": [
+    "Motor",
+    "Drive",
+    "Motion",
+    "Manufacturing"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

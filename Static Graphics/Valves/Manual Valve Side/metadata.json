@@ -1,0 +1,27 @@
+{
+  "id": "eb3a7985-1de1-4e77-a022-f55f27ceebe3",
+  "name": "Manual Valve Side",
+  "description": "A Manual Valve Side.",
+  "author": "Adroit Technologies",
+  "version": null,
+  "fileName": "Manual Valve Side.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Manual Valve Side.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "previewImageUrls": [],
+  "downloadUrl": "",
+  "industries": [],
+  "tags": [
+    "Valve",
+    "Flow Control",
+    "Actuator",
+    "Water"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

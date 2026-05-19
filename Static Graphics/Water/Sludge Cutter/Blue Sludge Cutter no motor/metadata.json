@@ -1,0 +1,27 @@
+{
+  "id": "f327e57a-2864-4473-bc0a-0bc35b137ca8",
+  "name": "Blue Sludge Cutter no motor",
+  "description": "A Blue Sludge Cutter no motor.",
+  "author": "Adroit Technologies",
+  "version": null,
+  "fileName": "Blue Sludge Cutter no motor.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Blue Sludge Cutter no motor.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "previewImageUrls": [],
+  "downloadUrl": "",
+  "industries": [],
+  "tags": [
+    "Motor",
+    "Drive",
+    "Motion",
+    "Manufacturing"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

@@ -1,0 +1,27 @@
+{
+  "id": "4fe8ea1a-c78d-437b-b524-f91471d1289f",
+  "name": "Reciprocating Pump 1",
+  "description": "A Reciprocating Pump 1.",
+  "author": "Adroit Technologies",
+  "version": null,
+  "fileName": "Reciprocating Pump 1.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Reciprocating Pump 1.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "previewImageUrls": [],
+  "downloadUrl": "",
+  "industries": [],
+  "tags": [
+    "Pump",
+    "Fluid",
+    "Actuator",
+    "Water"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

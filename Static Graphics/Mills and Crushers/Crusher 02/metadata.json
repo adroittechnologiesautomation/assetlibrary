@@ -1,0 +1,27 @@
+{
+  "id": "2e91df04-2dc6-4883-b2e5-6f3074c4d565",
+  "name": "Crusher 02",
+  "description": "A Crusher 02.",
+  "author": "Adroit Technologies",
+  "version": null,
+  "fileName": "Crusher 02.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Crusher 02.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "previewImageUrls": [],
+  "downloadUrl": "",
+  "industries": [],
+  "tags": [
+    "Crusher",
+    "Crushing",
+    "Size Reduction",
+    "Mining"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

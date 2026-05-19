@@ -1,0 +1,27 @@
+{
+  "id": "efb25d0c-3c07-4f71-8174-139e772c31c6",
+  "name": "Simple Pump start-stop",
+  "description": "A Simple Pump start-stop.",
+  "author": "Adroit Technologies",
+  "version": null,
+  "fileName": "Simple Pump start-stop.vizw",
+  "fileType": "Wizard",
+  "previewImages": [
+    "Simple Pump start-stop.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "previewImageUrls": [],
+  "downloadUrl": "",
+  "industries": [],
+  "tags": [
+    "Pump",
+    "Fluid",
+    "Actuator",
+    "Water"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

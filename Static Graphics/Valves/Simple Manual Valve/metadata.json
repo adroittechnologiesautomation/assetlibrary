@@ -1,0 +1,27 @@
+{
+  "id": "c3146848-2930-47be-abfe-ff229361e2e5",
+  "name": "Simple Manual Valve",
+  "description": "A Simple Manual Valve.",
+  "author": "Adroit Technologies",
+  "version": null,
+  "fileName": "Simple Manual Valve.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Simple Manual Valve.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "previewImageUrls": [],
+  "downloadUrl": "",
+  "industries": [],
+  "tags": [
+    "Valve",
+    "Flow Control",
+    "Actuator",
+    "Water"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

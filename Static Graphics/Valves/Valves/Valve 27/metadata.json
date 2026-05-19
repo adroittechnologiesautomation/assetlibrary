@@ -1,0 +1,27 @@
+{
+  "id": "69cdfbd6-91c6-484f-9402-24e05bcd4a45",
+  "name": "Valve 27",
+  "description": "A Valve 27.",
+  "author": "Adroit Technologies",
+  "version": null,
+  "fileName": "Valve 27.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Valve 27.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "previewImageUrls": [],
+  "downloadUrl": "",
+  "industries": [],
+  "tags": [
+    "Valve",
+    "Flow Control",
+    "Actuator",
+    "Water"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

@@ -1,0 +1,27 @@
+{
+  "id": "516be935-138a-466c-869b-51ac45f11905",
+  "name": "Inline Pump",
+  "description": "A Inline Pump.",
+  "author": "Adroit Technologies",
+  "version": null,
+  "fileName": "Inline Pump.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Inline Pump.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "previewImageUrls": [],
+  "downloadUrl": "",
+  "industries": [],
+  "tags": [
+    "Pump",
+    "Fluid",
+    "Actuator",
+    "Water"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

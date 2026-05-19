@@ -1,0 +1,27 @@
+{
+  "id": "70ef36b9-03d3-4f36-a718-55e7e6e838c2",
+  "name": "ID Fan Up",
+  "description": "A ID Fan Up.",
+  "author": "Adroit Technologies",
+  "version": null,
+  "fileName": "ID Fan Up.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "ID Fan Up.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "previewImageUrls": [],
+  "downloadUrl": "",
+  "industries": [],
+  "tags": [
+    "Fan",
+    "Airflow",
+    "Ventilation",
+    "HVAC"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

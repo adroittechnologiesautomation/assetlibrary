@@ -1,0 +1,27 @@
+{
+  "id": "ddd7d156-47ea-4268-be09-f0cc899ecce5",
+  "name": "Motor Drive",
+  "description": "A Motor Drive.",
+  "author": "Adroit Technologies",
+  "version": null,
+  "fileName": "Motor Drive.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Motor Drive.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "previewImageUrls": [],
+  "downloadUrl": "",
+  "industries": [],
+  "tags": [
+    "Motor",
+    "Drive",
+    "Motion",
+    "Manufacturing"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

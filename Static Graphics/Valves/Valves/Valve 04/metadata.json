@@ -1,0 +1,27 @@
+{
+  "id": "aac2771e-dffe-4943-b53a-7b459ff4235f",
+  "name": "Valve 04",
+  "description": "A Valve 04.",
+  "author": "Adroit Technologies",
+  "version": null,
+  "fileName": "Valve 04.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Valve 04.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "previewImageUrls": [],
+  "downloadUrl": "",
+  "industries": [],
+  "tags": [
+    "Valve",
+    "Flow Control",
+    "Actuator",
+    "Water"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

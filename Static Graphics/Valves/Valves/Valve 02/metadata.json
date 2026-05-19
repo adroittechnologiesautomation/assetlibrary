@@ -1,0 +1,27 @@
+{
+  "id": "9b1d5e4b-73ee-4738-ac39-f4bfe1621b72",
+  "name": "Valve 02",
+  "description": "A Valve 02.",
+  "author": "Adroit Technologies",
+  "version": null,
+  "fileName": "Valve 02.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Valve 02.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "previewImageUrls": [],
+  "downloadUrl": "",
+  "industries": [],
+  "tags": [
+    "Valve",
+    "Flow Control",
+    "Actuator",
+    "Water"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

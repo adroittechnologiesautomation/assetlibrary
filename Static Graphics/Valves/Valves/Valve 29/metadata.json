@@ -1,0 +1,27 @@
+{
+  "id": "3784c418-98f6-4f32-8669-34252bc05812",
+  "name": "Valve 29",
+  "description": "A Valve 29.",
+  "author": "Adroit Technologies",
+  "version": null,
+  "fileName": "Valve 29.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Valve 29.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "previewImageUrls": [],
+  "downloadUrl": "",
+  "industries": [],
+  "tags": [
+    "Valve",
+    "Flow Control",
+    "Actuator",
+    "Water"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

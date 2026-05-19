@@ -1,0 +1,27 @@
+{
+  "id": "25624fe7-362e-4309-b7ee-2ed5ff088d49",
+  "name": "Valve 15",
+  "description": "A Valve 15.",
+  "author": "Adroit Technologies",
+  "version": null,
+  "fileName": "Valve 15.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Valve 15.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "previewImageUrls": [],
+  "downloadUrl": "",
+  "industries": [],
+  "tags": [
+    "Valve",
+    "Flow Control",
+    "Actuator",
+    "Water"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

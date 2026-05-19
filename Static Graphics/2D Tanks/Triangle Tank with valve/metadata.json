@@ -1,0 +1,27 @@
+{
+  "id": "64c8fbd9-da81-43e4-8fe1-ef093d524c75",
+  "name": "Triangle Tank with valve",
+  "description": "A Triangle Tank with valve.",
+  "author": "Adroit Technologies",
+  "version": null,
+  "fileName": "Triangle Tank with valve.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Triangle Tank with valve.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "previewImageUrls": [],
+  "downloadUrl": "",
+  "industries": [],
+  "tags": [
+    "Valve",
+    "Flow Control",
+    "Actuator",
+    "Water"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

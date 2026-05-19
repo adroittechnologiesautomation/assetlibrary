@@ -1,0 +1,27 @@
+{
+  "id": "aae807e0-270d-47ab-955e-7d843c2e4e0a",
+  "name": "Valve 25",
+  "description": "A Valve 25.",
+  "author": "Adroit Technologies",
+  "version": null,
+  "fileName": "Valve 25.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Valve 25.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "previewImageUrls": [],
+  "downloadUrl": "",
+  "industries": [],
+  "tags": [
+    "Valve",
+    "Flow Control",
+    "Actuator",
+    "Water"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

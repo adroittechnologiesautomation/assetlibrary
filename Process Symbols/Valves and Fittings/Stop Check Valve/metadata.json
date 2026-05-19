@@ -1,0 +1,27 @@
+{
+  "id": "c972d933-feb3-4736-af4b-4ee9842d8d14",
+  "name": "Stop Check Valve",
+  "description": "A Stop Check Valve.",
+  "author": "Adroit Technologies",
+  "version": null,
+  "fileName": "Stop Check Valve.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Stop Check Valve.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "previewImageUrls": [],
+  "downloadUrl": "",
+  "industries": [],
+  "tags": [
+    "Valve",
+    "Flow Control",
+    "Actuator",
+    "Water"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

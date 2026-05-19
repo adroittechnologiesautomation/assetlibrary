@@ -1,0 +1,27 @@
+{
+  "id": "52971df8-23fc-4ccd-b980-13f0f1e5d3c7",
+  "name": "Filter Pump (top view)",
+  "description": "A Filter Pump (top view).",
+  "author": "Adroit Technologies",
+  "version": null,
+  "fileName": "Filter Pump (top view).viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Filter Pump (top view).png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "previewImageUrls": [],
+  "downloadUrl": "",
+  "industries": [],
+  "tags": [
+    "Pump",
+    "Fluid",
+    "Actuator",
+    "Water"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

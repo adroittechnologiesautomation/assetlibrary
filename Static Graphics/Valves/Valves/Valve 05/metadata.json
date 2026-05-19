@@ -1,0 +1,27 @@
+{
+  "id": "d700c49f-22aa-4545-894b-148c7eea2a9c",
+  "name": "Valve 05",
+  "description": "A Valve 05.",
+  "author": "Adroit Technologies",
+  "version": null,
+  "fileName": "Valve 05.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Valve 05.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "previewImageUrls": [],
+  "downloadUrl": "",
+  "industries": [],
+  "tags": [
+    "Valve",
+    "Flow Control",
+    "Actuator",
+    "Water"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

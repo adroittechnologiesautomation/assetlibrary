@@ -1,0 +1,27 @@
+{
+  "id": "9c8e845f-44d9-455c-b894-f8b88146a609",
+  "name": "Tank",
+  "description": "A Tank.",
+  "author": "Adroit Technologies",
+  "version": null,
+  "fileName": "Tank.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Tank.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "previewImageUrls": [],
+  "downloadUrl": "",
+  "industries": [],
+  "tags": [
+    "Tank",
+    "Storage",
+    "Containment",
+    "Process"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

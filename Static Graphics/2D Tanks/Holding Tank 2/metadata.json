@@ -1,0 +1,27 @@
+{
+  "id": "054a2d72-0181-4797-bc5f-e07d16fa1e6a",
+  "name": "Holding Tank 2",
+  "description": "A Holding Tank 2.",
+  "author": "Adroit Technologies",
+  "version": null,
+  "fileName": "Holding Tank 2.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Holding Tank 2.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "previewImageUrls": [],
+  "downloadUrl": "",
+  "industries": [],
+  "tags": [
+    "Tank",
+    "Storage",
+    "Containment",
+    "Process"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

@@ -1,0 +1,27 @@
+{
+  "id": "64a7993f-49ed-4af1-9b09-37b58df0911e",
+  "name": "Standard Pump (without motor)",
+  "description": "A Standard Pump (without motor).",
+  "author": "Adroit Technologies",
+  "version": null,
+  "fileName": "Standard Pump (without motor).viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Standard Pump (without motor).png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "previewImageUrls": [],
+  "downloadUrl": "",
+  "industries": [],
+  "tags": [
+    "Motor",
+    "Drive",
+    "Motion",
+    "Manufacturing"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

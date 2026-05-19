@@ -1,0 +1,27 @@
+{
+  "id": "9580f79a-cfe6-4b01-ab60-54004a315b4e",
+  "name": "Valve 20",
+  "description": "A Valve 20.",
+  "author": "Adroit Technologies",
+  "version": null,
+  "fileName": "Valve 20.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Valve 20.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "previewImageUrls": [],
+  "downloadUrl": "",
+  "industries": [],
+  "tags": [
+    "Valve",
+    "Flow Control",
+    "Actuator",
+    "Water"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

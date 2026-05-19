@@ -1,0 +1,27 @@
+{
+  "id": "c45ad5d7-c4f8-45b0-bf35-6d1c9054be58",
+  "name": "Manual Valve Angle Left",
+  "description": "A Manual Valve Angle Left.",
+  "author": "Adroit Technologies",
+  "version": null,
+  "fileName": "Manual Valve Angle Left.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Manual Valve Angle Left.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "previewImageUrls": [],
+  "downloadUrl": "",
+  "industries": [],
+  "tags": [
+    "Valve",
+    "Flow Control",
+    "Actuator",
+    "Water"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

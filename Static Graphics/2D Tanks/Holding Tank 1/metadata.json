@@ -1,0 +1,27 @@
+{
+  "id": "96c8acc9-03c2-4066-809f-4291e7ef26c5",
+  "name": "Holding Tank 1",
+  "description": "A Holding Tank 1.",
+  "author": "Adroit Technologies",
+  "version": null,
+  "fileName": "Holding Tank 1.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Holding Tank 1.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "previewImageUrls": [],
+  "downloadUrl": "",
+  "industries": [],
+  "tags": [
+    "Tank",
+    "Storage",
+    "Containment",
+    "Process"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

@@ -1,0 +1,27 @@
+{
+  "id": "332607ff-42d5-4c90-b1dd-380da15e3fbc",
+  "name": "GlobeValveHorizontal",
+  "description": "A GlobeValveHorizontal.",
+  "author": "Adroit Technologies",
+  "version": null,
+  "fileName": "GlobeValveHorizontal.vizw",
+  "fileType": "Wizard",
+  "previewImages": [
+    "GlobeValveHorizontal.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "previewImageUrls": [],
+  "downloadUrl": "",
+  "industries": [],
+  "tags": [
+    "Valve",
+    "Flow Control",
+    "Actuator",
+    "Water"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

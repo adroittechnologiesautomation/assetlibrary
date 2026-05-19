@@ -1,0 +1,27 @@
+{
+  "id": "ce8ef226-bb0e-489e-a8a6-64299bb536ac",
+  "name": "Fan Blades",
+  "description": "A Fan Blades.",
+  "author": "Adroit Technologies",
+  "version": null,
+  "fileName": "Fan Blades.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Fan Blades.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "previewImageUrls": [],
+  "downloadUrl": "",
+  "industries": [],
+  "tags": [
+    "Fan",
+    "Airflow",
+    "Ventilation",
+    "HVAC"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

@@ -1,0 +1,27 @@
+{
+  "id": "841d8468-108c-4626-8e39-d20a08f63f4f",
+  "name": "ISOValveVertical",
+  "description": "A ISOValveVertical.",
+  "author": "Adroit Technologies",
+  "version": null,
+  "fileName": "ISOValveVertical.vizw",
+  "fileType": "Wizard",
+  "previewImages": [
+    "ISOValveVertical.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "previewImageUrls": [],
+  "downloadUrl": "",
+  "industries": [],
+  "tags": [
+    "Valve",
+    "Flow Control",
+    "Actuator",
+    "Water"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

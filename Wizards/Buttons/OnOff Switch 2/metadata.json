@@ -1,0 +1,27 @@
+{
+  "id": "105aca0f-687c-430e-a04a-91908448529f",
+  "name": "OnOff Switch 2",
+  "description": "A OnOff Switch 2.",
+  "author": "Adroit Technologies",
+  "version": null,
+  "fileName": "OnOff Switch 2.vizw",
+  "fileType": "Wizard",
+  "previewImages": [
+    "OnOff Switch 2.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "previewImageUrls": [],
+  "downloadUrl": "",
+  "industries": [],
+  "tags": [
+    "Switch",
+    "Control",
+    "Input",
+    "Electrical"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

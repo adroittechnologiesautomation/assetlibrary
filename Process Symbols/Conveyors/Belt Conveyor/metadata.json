@@ -1,0 +1,27 @@
+{
+  "id": "5cdd28a0-112a-476f-a433-cc38b6802563",
+  "name": "Belt Conveyor",
+  "description": "A Belt Conveyor.",
+  "author": "Adroit Technologies",
+  "version": null,
+  "fileName": "Belt Conveyor.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Belt Conveyor.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "previewImageUrls": [],
+  "downloadUrl": "",
+  "industries": [],
+  "tags": [
+    "Conveyor",
+    "Material Handling",
+    "Transport",
+    "Mining"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

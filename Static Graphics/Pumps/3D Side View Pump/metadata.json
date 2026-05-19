@@ -1,0 +1,27 @@
+{
+  "id": "abbf9947-3da4-4ed5-88c2-9e5a4ff5cf3a",
+  "name": "3D Side View Pump",
+  "description": "A 3D Side View Pump.",
+  "author": "Adroit Technologies",
+  "version": null,
+  "fileName": "3D Side View Pump.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "3D Side View Pump.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "previewImageUrls": [],
+  "downloadUrl": "",
+  "industries": [],
+  "tags": [
+    "Pump",
+    "Fluid",
+    "Actuator",
+    "Water"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

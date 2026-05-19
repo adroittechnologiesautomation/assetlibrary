@@ -1,0 +1,27 @@
+{
+  "id": "d1d46f21-2208-4c15-ac9d-811fee32f742",
+  "name": "Ball Mill",
+  "description": "A Ball Mill.",
+  "author": "Adroit Technologies",
+  "version": null,
+  "fileName": "Ball Mill.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Ball Mill.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "previewImageUrls": [],
+  "downloadUrl": "",
+  "industries": [],
+  "tags": [
+    "Mill",
+    "Grinding",
+    "Size Reduction",
+    "Mining"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

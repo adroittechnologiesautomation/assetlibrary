@@ -1,0 +1,22 @@
+{
+  "id": "b82b3035-b5d4-4dd0-9650-3714f074fd39",
+  "name": "O_Chart_OEE",
+  "description": "A O_Chart_OEE.",
+  "author": "Adroit Technologies",
+  "version": null,
+  "fileName": "O_Chart_OEE.vizw",
+  "fileType": "Wizard",
+  "previewImages": [
+    "O_Chart_OEE.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "previewImageUrls": [],
+  "downloadUrl": "",
+  "industries": [],
+  "tags": [],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

@@ -1,0 +1,27 @@
+{
+  "id": "a94fccb0-3ade-4f62-bcae-db8494c121ee",
+  "name": "Valve 18",
+  "description": "A Valve 18.",
+  "author": "Adroit Technologies",
+  "version": null,
+  "fileName": "Valve 18.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Valve 18.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "previewImageUrls": [],
+  "downloadUrl": "",
+  "industries": [],
+  "tags": [
+    "Valve",
+    "Flow Control",
+    "Actuator",
+    "Water"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

@@ -1,0 +1,27 @@
+{
+  "id": "f5b3744e-1ea2-438c-85fe-1e615f04e8c8",
+  "name": "TankCompressor",
+  "description": "A TankCompressor.",
+  "author": "Adroit Technologies",
+  "version": null,
+  "fileName": "TankCompressor.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "TankCompressor.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "previewImageUrls": [],
+  "downloadUrl": "",
+  "industries": [],
+  "tags": [
+    "Tank",
+    "Storage",
+    "Containment",
+    "Process"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

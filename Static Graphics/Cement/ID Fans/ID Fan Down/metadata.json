@@ -1,0 +1,27 @@
+{
+  "id": "4f343a23-d440-4ce7-bbe3-85cfea8cfd2a",
+  "name": "ID Fan Down",
+  "description": "A ID Fan Down.",
+  "author": "Adroit Technologies",
+  "version": null,
+  "fileName": "ID Fan Down.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "ID Fan Down.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "previewImageUrls": [],
+  "downloadUrl": "",
+  "industries": [],
+  "tags": [
+    "Fan",
+    "Airflow",
+    "Ventilation",
+    "HVAC"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

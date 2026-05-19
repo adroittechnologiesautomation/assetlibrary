@@ -1,0 +1,27 @@
+{
+  "id": "b81ee58c-56e6-45df-bf17-e18838fc6a3e",
+  "name": "Liquid Jet Pump",
+  "description": "A Liquid Jet Pump.",
+  "author": "Adroit Technologies",
+  "version": null,
+  "fileName": "Liquid Jet Pump.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Liquid Jet Pump.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "previewImageUrls": [],
+  "downloadUrl": "",
+  "industries": [],
+  "tags": [
+    "Pump",
+    "Fluid",
+    "Actuator",
+    "Water"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

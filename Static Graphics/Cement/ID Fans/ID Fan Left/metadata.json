@@ -1,0 +1,27 @@
+{
+  "id": "b550ebdd-9f5a-43a3-bfd6-0cc09f218e0f",
+  "name": "ID Fan Left",
+  "description": "A ID Fan Left.",
+  "author": "Adroit Technologies",
+  "version": null,
+  "fileName": "ID Fan Left.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "ID Fan Left.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "previewImageUrls": [],
+  "downloadUrl": "",
+  "industries": [],
+  "tags": [
+    "Fan",
+    "Airflow",
+    "Ventilation",
+    "HVAC"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

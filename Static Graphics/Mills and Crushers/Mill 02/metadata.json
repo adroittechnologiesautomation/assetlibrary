@@ -1,0 +1,27 @@
+{
+  "id": "a9699a30-b6b1-43e9-b2c6-bed420c16d5b",
+  "name": "Mill 02",
+  "description": "A Mill 02.",
+  "author": "Adroit Technologies",
+  "version": null,
+  "fileName": "Mill 02.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Mill 02.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "previewImageUrls": [],
+  "downloadUrl": "",
+  "industries": [],
+  "tags": [
+    "Mill",
+    "Grinding",
+    "Size Reduction",
+    "Mining"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

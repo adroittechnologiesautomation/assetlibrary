@@ -1,0 +1,27 @@
+{
+  "id": "50c50898-e5a6-4ccf-befe-2120b4a964d4",
+  "name": "Triangle Tank",
+  "description": "A Triangle Tank.",
+  "author": "Adroit Technologies",
+  "version": null,
+  "fileName": "Triangle Tank.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Triangle Tank.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "previewImageUrls": [],
+  "downloadUrl": "",
+  "industries": [],
+  "tags": [
+    "Tank",
+    "Storage",
+    "Containment",
+    "Process"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

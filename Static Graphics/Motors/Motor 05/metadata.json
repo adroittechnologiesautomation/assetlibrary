@@ -1,0 +1,27 @@
+{
+  "id": "88889964-7b7c-4e43-9639-88210bb87608",
+  "name": "Motor 05",
+  "description": "A Motor 05.",
+  "author": "Adroit Technologies",
+  "version": null,
+  "fileName": "Motor 05.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Motor 05.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "previewImageUrls": [],
+  "downloadUrl": "",
+  "industries": [],
+  "tags": [
+    "Motor",
+    "Drive",
+    "Motion",
+    "Manufacturing"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

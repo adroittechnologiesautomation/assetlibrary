@@ -1,0 +1,22 @@
+{
+  "id": "09f704e2-4e46-4424-9255-f81952abac3a",
+  "name": "Blender",
+  "description": "A Blender.",
+  "author": "Adroit Technologies",
+  "version": null,
+  "fileName": "Blender.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Blender.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "previewImageUrls": [],
+  "downloadUrl": "",
+  "industries": [],
+  "tags": [],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

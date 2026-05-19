@@ -1,0 +1,27 @@
+{
+  "id": "3304074b-61d1-4b4b-884f-32ff00a09016",
+  "name": "Screw Down Valve",
+  "description": "A Screw Down Valve.",
+  "author": "Adroit Technologies",
+  "version": null,
+  "fileName": "Screw Down Valve.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Screw Down Valve.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "previewImageUrls": [],
+  "downloadUrl": "",
+  "industries": [],
+  "tags": [
+    "Valve",
+    "Flow Control",
+    "Actuator",
+    "Water"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

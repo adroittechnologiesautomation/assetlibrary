@@ -1,0 +1,27 @@
+{
+  "id": "89717639-4233-4771-87c8-0fd11fd6cb64",
+  "name": "Diaphragm Valve",
+  "description": "A Diaphragm Valve.",
+  "author": "Adroit Technologies",
+  "version": null,
+  "fileName": "Diaphragm Valve.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Diaphragm Valve.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "previewImageUrls": [],
+  "downloadUrl": "",
+  "industries": [],
+  "tags": [
+    "Valve",
+    "Flow Control",
+    "Actuator",
+    "Water"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

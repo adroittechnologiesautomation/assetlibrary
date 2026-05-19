@@ -1,0 +1,27 @@
+{
+  "id": "b46dc5a9-58b6-4a2a-8ca4-44df59c84150",
+  "name": "Chrome Vertical Flange Motor",
+  "description": "A Chrome Vertical Flange Motor.",
+  "author": "Adroit Technologies",
+  "version": null,
+  "fileName": "Chrome Vertical Flange Motor.vizw",
+  "fileType": "Wizard",
+  "previewImages": [
+    "Chrome Vertical Flange Motor.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "previewImageUrls": [],
+  "downloadUrl": "",
+  "industries": [],
+  "tags": [
+    "Motor",
+    "Drive",
+    "Motion",
+    "Manufacturing"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

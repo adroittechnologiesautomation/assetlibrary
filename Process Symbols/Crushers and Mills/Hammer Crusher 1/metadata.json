@@ -1,0 +1,27 @@
+{
+  "id": "1305fdad-fe8c-4cf2-86a9-31bcd11793e3",
+  "name": "Hammer Crusher 1",
+  "description": "A Hammer Crusher 1.",
+  "author": "Adroit Technologies",
+  "version": null,
+  "fileName": "Hammer Crusher 1.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Hammer Crusher 1.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "previewImageUrls": [],
+  "downloadUrl": "",
+  "industries": [],
+  "tags": [
+    "Crusher",
+    "Crushing",
+    "Size Reduction",
+    "Mining"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

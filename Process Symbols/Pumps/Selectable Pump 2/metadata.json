@@ -1,0 +1,27 @@
+{
+  "id": "13902447-ef48-40c5-a2b6-9485fe9d514a",
+  "name": "Selectable Pump 2",
+  "description": "A Selectable Pump 2.",
+  "author": "Adroit Technologies",
+  "version": null,
+  "fileName": "Selectable Pump 2.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Selectable Pump 2.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "previewImageUrls": [],
+  "downloadUrl": "",
+  "industries": [],
+  "tags": [
+    "Pump",
+    "Fluid",
+    "Actuator",
+    "Water"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

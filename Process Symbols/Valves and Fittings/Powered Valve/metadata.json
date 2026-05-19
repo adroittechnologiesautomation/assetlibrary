@@ -1,0 +1,27 @@
+{
+  "id": "3a826a78-1e1c-4fb1-9c7d-5df918feedd1",
+  "name": "Powered Valve",
+  "description": "A Powered Valve.",
+  "author": "Adroit Technologies",
+  "version": null,
+  "fileName": "Powered Valve.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Powered Valve.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "previewImageUrls": [],
+  "downloadUrl": "",
+  "industries": [],
+  "tags": [
+    "Valve",
+    "Flow Control",
+    "Actuator",
+    "Water"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

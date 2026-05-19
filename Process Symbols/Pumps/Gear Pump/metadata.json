@@ -1,0 +1,27 @@
+{
+  "id": "8bbd0c76-6019-466f-bea1-e182548d3597",
+  "name": "Gear Pump",
+  "description": "A Gear Pump.",
+  "author": "Adroit Technologies",
+  "version": null,
+  "fileName": "Gear Pump.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Gear Pump.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "previewImageUrls": [],
+  "downloadUrl": "",
+  "industries": [],
+  "tags": [
+    "Pump",
+    "Fluid",
+    "Actuator",
+    "Water"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

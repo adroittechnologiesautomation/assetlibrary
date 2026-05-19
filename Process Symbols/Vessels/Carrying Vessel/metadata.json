@@ -1,0 +1,27 @@
+{
+  "id": "e5ffcec1-6727-4e52-ae78-42f43baa6f0f",
+  "name": "Carrying Vessel",
+  "description": "A Carrying Vessel.",
+  "author": "Adroit Technologies",
+  "version": null,
+  "fileName": "Carrying Vessel.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Carrying Vessel.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "previewImageUrls": [],
+  "downloadUrl": "",
+  "industries": [],
+  "tags": [
+    "Vessel",
+    "Pressure",
+    "Containment",
+    "Process"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

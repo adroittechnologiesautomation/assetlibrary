@@ -1,0 +1,27 @@
+{
+  "id": "2153cea4-caec-4040-a9b9-50b328f86995",
+  "name": "Compressor Turbine",
+  "description": "A Compressor Turbine.",
+  "author": "Adroit Technologies",
+  "version": null,
+  "fileName": "Compressor Turbine.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Compressor Turbine.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "previewImageUrls": [],
+  "downloadUrl": "",
+  "industries": [],
+  "tags": [
+    "Compressor",
+    "Air",
+    "Pressure",
+    "Industrial"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

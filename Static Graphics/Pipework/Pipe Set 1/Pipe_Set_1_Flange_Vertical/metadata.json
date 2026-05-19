@@ -1,0 +1,27 @@
+{
+  "id": "5088ab69-b29c-43f5-80fa-c2c9971204aa",
+  "name": "Pipe_Set_1_Flange_Vertical",
+  "description": "A Pipe_Set_1_Flange_Vertical.",
+  "author": "Adroit Technologies",
+  "version": null,
+  "fileName": "Pipe_Set_1_Flange_Vertical.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Pipe_Set_1_Flange_Vertical.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "previewImageUrls": [],
+  "downloadUrl": "",
+  "industries": [],
+  "tags": [
+    "Pipe",
+    "Conduit",
+    "Flow",
+    "Process"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

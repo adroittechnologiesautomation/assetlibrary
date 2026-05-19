@@ -1,0 +1,27 @@
+{
+  "id": "f0700b21-ac90-4163-92ae-15dfe13fbecc",
+  "name": "Valve 19",
+  "description": "A Valve 19.",
+  "author": "Adroit Technologies",
+  "version": null,
+  "fileName": "Valve 19.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Valve 19.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "previewImageUrls": [],
+  "downloadUrl": "",
+  "industries": [],
+  "tags": [
+    "Valve",
+    "Flow Control",
+    "Actuator",
+    "Water"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

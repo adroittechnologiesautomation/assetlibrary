@@ -1,0 +1,27 @@
+{
+  "id": "08f9b96c-dc11-415f-979e-9b36f674e472",
+  "name": "Centrifugal Fan",
+  "description": "A Centrifugal Fan.",
+  "author": "Adroit Technologies",
+  "version": null,
+  "fileName": "Centrifugal Fan.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Centrifugal Fan.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "previewImageUrls": [],
+  "downloadUrl": "",
+  "industries": [],
+  "tags": [
+    "Fan",
+    "Airflow",
+    "Ventilation",
+    "HVAC"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

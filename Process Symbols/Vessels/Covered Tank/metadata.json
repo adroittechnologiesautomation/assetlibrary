@@ -1,0 +1,27 @@
+{
+  "id": "cd7400f6-8242-40c0-a455-8c8e9ba58922",
+  "name": "Covered Tank",
+  "description": "A Covered Tank.",
+  "author": "Adroit Technologies",
+  "version": null,
+  "fileName": "Covered Tank.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Covered Tank.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "previewImageUrls": [],
+  "downloadUrl": "",
+  "industries": [],
+  "tags": [
+    "Tank",
+    "Storage",
+    "Containment",
+    "Process"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

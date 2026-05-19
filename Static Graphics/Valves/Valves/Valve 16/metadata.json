@@ -1,0 +1,27 @@
+{
+  "id": "28569f12-2f7d-4fb7-9bc3-60dc0478f97c",
+  "name": "Valve 16",
+  "description": "A Valve 16.",
+  "author": "Adroit Technologies",
+  "version": null,
+  "fileName": "Valve 16.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Valve 16.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "previewImageUrls": [],
+  "downloadUrl": "",
+  "industries": [],
+  "tags": [
+    "Valve",
+    "Flow Control",
+    "Actuator",
+    "Water"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

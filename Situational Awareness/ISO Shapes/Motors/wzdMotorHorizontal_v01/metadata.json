@@ -1,0 +1,27 @@
+{
+  "id": "f5b7656c-9013-4739-a5b8-c05e6dc0f09b",
+  "name": "wzdMotorHorizontal_v01",
+  "description": "A wzdMotorHorizontal_v01.",
+  "author": "Adroit Technologies",
+  "version": null,
+  "fileName": "wzdMotorHorizontal_v01.vizw",
+  "fileType": "Wizard",
+  "previewImages": [
+    "wzdMotorHorizontal_v01.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "previewImageUrls": [],
+  "downloadUrl": "",
+  "industries": [],
+  "tags": [
+    "Motor",
+    "Drive",
+    "Motion",
+    "Manufacturing"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

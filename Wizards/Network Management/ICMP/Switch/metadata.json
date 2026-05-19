@@ -1,0 +1,27 @@
+{
+  "id": "90c6221b-0324-4438-b017-6bd81d5caa32",
+  "name": "Switch",
+  "description": "A Switch.",
+  "author": "Adroit Technologies",
+  "version": null,
+  "fileName": "Switch.vizw",
+  "fileType": "Wizard",
+  "previewImages": [
+    "Switch.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "previewImageUrls": [],
+  "downloadUrl": "",
+  "industries": [],
+  "tags": [
+    "Switch",
+    "Control",
+    "Input",
+    "Electrical"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

@@ -1,0 +1,27 @@
+{
+  "id": "b00a57ee-d89c-4529-836d-59c22bb87087",
+  "name": "Water Tower Tank 1",
+  "description": "A Water Tower Tank 1.",
+  "author": "Adroit Technologies",
+  "version": null,
+  "fileName": "Water Tower Tank 1.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Water Tower Tank 1.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "previewImageUrls": [],
+  "downloadUrl": "",
+  "industries": [],
+  "tags": [
+    "Tank",
+    "Storage",
+    "Containment",
+    "Process"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

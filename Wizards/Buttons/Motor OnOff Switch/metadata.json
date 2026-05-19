@@ -1,0 +1,27 @@
+{
+  "id": "f6b7fbf9-fa4a-4af8-8360-1d83c3a5a769",
+  "name": "Motor OnOff Switch",
+  "description": "A Motor OnOff Switch.",
+  "author": "Adroit Technologies",
+  "version": null,
+  "fileName": "Motor OnOff Switch.vizw",
+  "fileType": "Wizard",
+  "previewImages": [
+    "Motor OnOff Switch.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "previewImageUrls": [],
+  "downloadUrl": "",
+  "industries": [],
+  "tags": [
+    "Motor",
+    "Drive",
+    "Motion",
+    "Manufacturing"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

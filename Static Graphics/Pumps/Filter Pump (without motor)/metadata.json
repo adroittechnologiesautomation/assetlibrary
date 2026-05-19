@@ -1,0 +1,27 @@
+{
+  "id": "908a6896-d346-47a8-81b7-35b22b4bffe5",
+  "name": "Filter Pump (without motor)",
+  "description": "A Filter Pump (without motor).",
+  "author": "Adroit Technologies",
+  "version": null,
+  "fileName": "Filter Pump (without motor).viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Filter Pump (without motor).png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "previewImageUrls": [],
+  "downloadUrl": "",
+  "industries": [],
+  "tags": [
+    "Motor",
+    "Drive",
+    "Motion",
+    "Manufacturing"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

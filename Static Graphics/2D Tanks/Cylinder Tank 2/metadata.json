@@ -1,0 +1,27 @@
+{
+  "id": "f1a92168-74ab-4d74-9f51-571c761d1e4a",
+  "name": "Cylinder Tank 2",
+  "description": "A Cylinder Tank 2.",
+  "author": "Adroit Technologies",
+  "version": null,
+  "fileName": "Cylinder Tank 2.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Cylinder Tank 2.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "previewImageUrls": [],
+  "downloadUrl": "",
+  "industries": [],
+  "tags": [
+    "Tank",
+    "Storage",
+    "Containment",
+    "Process"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

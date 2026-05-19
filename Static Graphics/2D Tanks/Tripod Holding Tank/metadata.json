@@ -1,0 +1,27 @@
+{
+  "id": "537a4f9a-77c4-4e29-9571-58c495bc1319",
+  "name": "Tripod Holding Tank",
+  "description": "A Tripod Holding Tank.",
+  "author": "Adroit Technologies",
+  "version": null,
+  "fileName": "Tripod Holding Tank.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Tripod Holding Tank.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "previewImageUrls": [],
+  "downloadUrl": "",
+  "industries": [],
+  "tags": [
+    "Tank",
+    "Storage",
+    "Containment",
+    "Process"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

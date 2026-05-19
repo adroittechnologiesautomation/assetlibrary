@@ -1,0 +1,27 @@
+{
+  "id": "af7c4013-67e0-4dab-b95e-c8e83ea55962",
+  "name": "Triple Fan Blades",
+  "description": "A Triple Fan Blades.",
+  "author": "Adroit Technologies",
+  "version": null,
+  "fileName": "Triple Fan Blades.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Triple Fan Blades.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "previewImageUrls": [],
+  "downloadUrl": "",
+  "industries": [],
+  "tags": [
+    "Fan",
+    "Airflow",
+    "Ventilation",
+    "HVAC"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

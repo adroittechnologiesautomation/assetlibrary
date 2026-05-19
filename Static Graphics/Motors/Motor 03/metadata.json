@@ -1,0 +1,27 @@
+{
+  "id": "707702a4-c0df-43f4-99a3-98b1ad17bef2",
+  "name": "Motor 03",
+  "description": "A Motor 03.",
+  "author": "Adroit Technologies",
+  "version": null,
+  "fileName": "Motor 03.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Motor 03.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "previewImageUrls": [],
+  "downloadUrl": "",
+  "industries": [],
+  "tags": [
+    "Motor",
+    "Drive",
+    "Motion",
+    "Manufacturing"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

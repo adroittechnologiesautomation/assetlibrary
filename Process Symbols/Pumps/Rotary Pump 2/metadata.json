@@ -1,0 +1,27 @@
+{
+  "id": "3a2f9e26-83bc-414e-a2f2-589e020d2b5e",
+  "name": "Rotary Pump 2",
+  "description": "A Rotary Pump 2.",
+  "author": "Adroit Technologies",
+  "version": null,
+  "fileName": "Rotary Pump 2.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Rotary Pump 2.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "previewImageUrls": [],
+  "downloadUrl": "",
+  "industries": [],
+  "tags": [
+    "Pump",
+    "Fluid",
+    "Actuator",
+    "Water"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

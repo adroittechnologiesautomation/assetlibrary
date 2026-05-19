@@ -1,0 +1,22 @@
+{
+  "id": "7c0cc314-fbeb-4579-a7de-b4b05239f100",
+  "name": "Desktop",
+  "description": "A Desktop.",
+  "author": "Adroit Technologies",
+  "version": null,
+  "fileName": "Desktop.vizw",
+  "fileType": "Wizard",
+  "previewImages": [
+    "Desktop.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "previewImageUrls": [],
+  "downloadUrl": "",
+  "industries": [],
+  "tags": [],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

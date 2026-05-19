@@ -1,0 +1,27 @@
+{
+  "id": "c0919517-1b8a-4be3-bac8-731294c3ed9a",
+  "name": "Standard Pump",
+  "description": "A Standard Pump.",
+  "author": "Adroit Technologies",
+  "version": null,
+  "fileName": "Standard Pump.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Standard Pump.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "previewImageUrls": [],
+  "downloadUrl": "",
+  "industries": [],
+  "tags": [
+    "Pump",
+    "Fluid",
+    "Actuator",
+    "Water"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}
