@@ -1,0 +1,25 @@
+{
+  "id": "6fc028dd-2fb4-492e-854e-7611e2eedc12",
+  "name": "Valve 26",
+  "description": "A Valve 26.",
+  "author": "Adroit Technologies",
+  "version": null,
+  "fileName": "Valve 26.viz",
+  "fileType": "Graphic",
+  "previewImage": "Valve 26.png",
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "previewImageUrl": "",
+  "downloadUrl": "",
+  "industry": "",
+  "tags": [
+    "Valve",
+    "Flow Control",
+    "Actuator",
+    "Water"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

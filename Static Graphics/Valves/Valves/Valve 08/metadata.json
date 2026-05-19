@@ -1,0 +1,25 @@
+{
+  "id": "5d34c7d6-771c-4d42-89b3-f946c1b36dff",
+  "name": "Valve 08",
+  "description": "A Valve 08.",
+  "author": "Adroit Technologies",
+  "version": null,
+  "fileName": "Valve 08.viz",
+  "fileType": "Graphic",
+  "previewImage": "Valve 08.png",
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "previewImageUrl": "",
+  "downloadUrl": "",
+  "industry": "",
+  "tags": [
+    "Valve",
+    "Flow Control",
+    "Actuator",
+    "Water"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

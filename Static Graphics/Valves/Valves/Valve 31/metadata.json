@@ -1,0 +1,25 @@
+{
+  "id": "14edf515-1607-45dd-b9f8-03b5568d45c0",
+  "name": "Valve 31",
+  "description": "A Valve 31.",
+  "author": "Adroit Technologies",
+  "version": null,
+  "fileName": "Valve 31.viz",
+  "fileType": "Graphic",
+  "previewImage": "Valve 31.png",
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "previewImageUrl": "",
+  "downloadUrl": "",
+  "industry": "",
+  "tags": [
+    "Valve",
+    "Flow Control",
+    "Actuator",
+    "Water"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

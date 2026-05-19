@@ -1,0 +1,25 @@
+{
+  "id": "1963c2c6-362b-4da4-a2c5-202db127f0a8",
+  "name": "Impact Crusher",
+  "description": "A Impact Crusher.",
+  "author": "Adroit Technologies",
+  "version": null,
+  "fileName": "Impact Crusher.viz",
+  "fileType": "Graphic",
+  "previewImage": "Impact Crusher.png",
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "previewImageUrl": "",
+  "downloadUrl": "",
+  "industry": "",
+  "tags": [
+    "Crusher",
+    "Crushing",
+    "Size Reduction",
+    "Mining"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

@@ -1,0 +1,25 @@
+{
+  "id": "7f7ac8e7-7f2c-4a03-a3a9-55c4a90d97fc",
+  "name": "wzdPumpVertical_v01",
+  "description": "A wzdPumpVertical_v01.",
+  "author": "Adroit Technologies",
+  "version": null,
+  "fileName": "wzdPumpVertical_v01.vizw",
+  "fileType": "Wizard",
+  "previewImage": "wzdPumpVertical_v01.png",
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "previewImageUrl": "",
+  "downloadUrl": "",
+  "industry": "",
+  "tags": [
+    "Pump",
+    "Fluid",
+    "Actuator",
+    "Water"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

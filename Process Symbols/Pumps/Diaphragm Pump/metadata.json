@@ -1,0 +1,25 @@
+{
+  "id": "0a2b19ea-8e9e-4926-995b-efc2bec48a16",
+  "name": "Diaphragm Pump",
+  "description": "A Diaphragm Pump.",
+  "author": "Adroit Technologies",
+  "version": null,
+  "fileName": "Diaphragm Pump.viz",
+  "fileType": "Graphic",
+  "previewImage": "Diaphragm Pump.png",
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "previewImageUrl": "",
+  "downloadUrl": "",
+  "industry": "",
+  "tags": [
+    "Pump",
+    "Fluid",
+    "Actuator",
+    "Water"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

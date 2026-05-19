@@ -1,0 +1,25 @@
+{
+  "id": "8cbe4c19-894e-4147-8561-cae7733dc1c0",
+  "name": "ISOValveVertical_Flat",
+  "description": "A ISOValveVertical_Flat.",
+  "author": "Adroit Technologies",
+  "version": null,
+  "fileName": "ISOValveVertical_Flat.vizw",
+  "fileType": "Wizard",
+  "previewImage": "ISOValveVertical_Flat.png",
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "previewImageUrl": "",
+  "downloadUrl": "",
+  "industry": "",
+  "tags": [
+    "Valve",
+    "Flow Control",
+    "Actuator",
+    "Water"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

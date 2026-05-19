@@ -1,0 +1,25 @@
+{
+  "id": "afd259d7-2bef-46f7-8f24-e2eda3378b5c",
+  "name": "Needle Valve",
+  "description": "A Needle Valve.",
+  "author": "Adroit Technologies",
+  "version": null,
+  "fileName": "Needle Valve.viz",
+  "fileType": "Graphic",
+  "previewImage": "Needle Valve.png",
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "previewImageUrl": "",
+  "downloadUrl": "",
+  "industry": "",
+  "tags": [
+    "Valve",
+    "Flow Control",
+    "Actuator",
+    "Water"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

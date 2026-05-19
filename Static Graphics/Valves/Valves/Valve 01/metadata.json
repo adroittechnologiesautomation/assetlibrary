@@ -1,0 +1,25 @@
+{
+  "id": "2323437c-838a-43dd-9f43-0db8abab399a",
+  "name": "Valve 01",
+  "description": "A Valve 01.",
+  "author": "Adroit Technologies",
+  "version": null,
+  "fileName": "Valve 01.viz",
+  "fileType": "Graphic",
+  "previewImage": "Valve 01.png",
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "previewImageUrl": "",
+  "downloadUrl": "",
+  "industry": "",
+  "tags": [
+    "Valve",
+    "Flow Control",
+    "Actuator",
+    "Water"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

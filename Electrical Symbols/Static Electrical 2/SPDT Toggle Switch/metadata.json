@@ -1,0 +1,25 @@
+{
+  "id": "6a20bd9d-2f86-44c8-81ac-71e2bd5b25f3",
+  "name": "SPDT Toggle Switch",
+  "description": "A SPDT Toggle Switch.",
+  "author": "Adroit Technologies",
+  "version": null,
+  "fileName": "SPDT Toggle Switch.viz",
+  "fileType": "Graphic",
+  "previewImage": "SPDT Toggle Switch.png",
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "previewImageUrl": "",
+  "downloadUrl": "",
+  "industry": "",
+  "tags": [
+    "Switch",
+    "Control",
+    "Input",
+    "Electrical"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

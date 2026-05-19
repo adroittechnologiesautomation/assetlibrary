@@ -1,0 +1,25 @@
+{
+  "id": "6a96d3be-3d98-4ed1-903d-ae2915026af2",
+  "name": "Resistor",
+  "description": "A Resistor.",
+  "author": "Adroit Technologies",
+  "version": null,
+  "fileName": "Resistor.viz",
+  "fileType": "Graphic",
+  "previewImage": "Resistor.png",
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "previewImageUrl": "",
+  "downloadUrl": "",
+  "industry": "",
+  "tags": [
+    "Resistor",
+    "Resistance",
+    "Component",
+    "Electrical"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

@@ -1,0 +1,25 @@
+{
+  "id": "dd1f6694-46f8-42a8-826b-854ce70a1ad7",
+  "name": "Photo Resistor",
+  "description": "A Photo Resistor.",
+  "author": "Adroit Technologies",
+  "version": null,
+  "fileName": "Photo Resistor.viz",
+  "fileType": "Graphic",
+  "previewImage": "Photo Resistor.png",
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "previewImageUrl": "",
+  "downloadUrl": "",
+  "industry": "",
+  "tags": [
+    "Resistor",
+    "Resistance",
+    "Component",
+    "Electrical"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

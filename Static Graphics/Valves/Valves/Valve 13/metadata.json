@@ -1,0 +1,25 @@
+{
+  "id": "496b7a17-57db-42a5-9ba6-9f5e0b87f95f",
+  "name": "Valve 13",
+  "description": "A Valve 13.",
+  "author": "Adroit Technologies",
+  "version": null,
+  "fileName": "Valve 13.viz",
+  "fileType": "Graphic",
+  "previewImage": "Valve 13.png",
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "previewImageUrl": "",
+  "downloadUrl": "",
+  "industry": "",
+  "tags": [
+    "Valve",
+    "Flow Control",
+    "Actuator",
+    "Water"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

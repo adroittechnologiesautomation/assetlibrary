@@ -1,0 +1,25 @@
+{
+  "id": "dea2004a-7758-4d07-9be7-d5d5aca9c100",
+  "name": "wzdProcessVessel_Small_v01",
+  "description": "A wzdProcessVessel_Small_v01.",
+  "author": "Adroit Technologies",
+  "version": null,
+  "fileName": "wzdProcessVessel_Small_v01.vizw",
+  "fileType": "Wizard",
+  "previewImage": "wzdProcessVessel_Small_v01.png",
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "previewImageUrl": "",
+  "downloadUrl": "",
+  "industry": "",
+  "tags": [
+    "Vessel",
+    "Pressure",
+    "Containment",
+    "Process"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

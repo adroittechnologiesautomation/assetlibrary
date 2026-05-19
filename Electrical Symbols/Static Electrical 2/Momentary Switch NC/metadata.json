@@ -1,0 +1,25 @@
+{
+  "id": "5b1688b3-42f4-4c73-a420-42aac53f79b9",
+  "name": "Momentary Switch NC",
+  "description": "A Momentary Switch NC.",
+  "author": "Adroit Technologies",
+  "version": null,
+  "fileName": "Momentary Switch NC.viz",
+  "fileType": "Graphic",
+  "previewImage": "Momentary Switch NC.png",
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "previewImageUrl": "",
+  "downloadUrl": "",
+  "industry": "",
+  "tags": [
+    "Switch",
+    "Control",
+    "Input",
+    "Electrical"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

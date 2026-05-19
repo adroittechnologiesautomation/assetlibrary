@@ -1,0 +1,25 @@
+{
+  "id": "d5dc141b-55ec-4ec3-8df3-2e23e011166d",
+  "name": "ISOValveHorizontal",
+  "description": "A ISOValveHorizontal.",
+  "author": "Adroit Technologies",
+  "version": null,
+  "fileName": "ISOValveHorizontal.vizw",
+  "fileType": "Wizard",
+  "previewImage": "ISOValveHorizontal.png",
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "previewImageUrl": "",
+  "downloadUrl": "",
+  "industry": "",
+  "tags": [
+    "Valve",
+    "Flow Control",
+    "Actuator",
+    "Water"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

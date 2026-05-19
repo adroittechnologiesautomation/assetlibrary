@@ -1,0 +1,25 @@
+{
+  "id": "fa213af6-a22f-450a-9af2-0a2e970e3603",
+  "name": "Compressor",
+  "description": "A Compressor.",
+  "author": "Adroit Technologies",
+  "version": null,
+  "fileName": "Compressor.viz",
+  "fileType": "Graphic",
+  "previewImage": "Compressor.png",
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "previewImageUrl": "",
+  "downloadUrl": "",
+  "industry": "",
+  "tags": [
+    "Compressor",
+    "Air",
+    "Pressure",
+    "Industrial"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

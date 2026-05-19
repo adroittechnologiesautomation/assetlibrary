@@ -1,0 +1,25 @@
+{
+  "id": "48184948-6b91-4415-ab80-bcde57f530ce",
+  "name": "Globe Valve",
+  "description": "A Globe Valve.",
+  "author": "Adroit Technologies",
+  "version": null,
+  "fileName": "Globe Valve.viz",
+  "fileType": "Graphic",
+  "previewImage": "Globe Valve.png",
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "previewImageUrl": "",
+  "downloadUrl": "",
+  "industry": "",
+  "tags": [
+    "Valve",
+    "Flow Control",
+    "Actuator",
+    "Water"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

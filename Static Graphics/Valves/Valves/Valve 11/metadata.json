@@ -1,0 +1,25 @@
+{
+  "id": "bccbbe92-5514-4332-bcbf-2000ea851f89",
+  "name": "Valve 11",
+  "description": "A Valve 11.",
+  "author": "Adroit Technologies",
+  "version": null,
+  "fileName": "Valve 11.viz",
+  "fileType": "Graphic",
+  "previewImage": "Valve 11.png",
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "previewImageUrl": "",
+  "downloadUrl": "",
+  "industry": "",
+  "tags": [
+    "Valve",
+    "Flow Control",
+    "Actuator",
+    "Water"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

@@ -1,0 +1,25 @@
+{
+  "id": "69bb2a92-1f6b-4df3-8cb9-2af844418ada",
+  "name": "Closed Tank",
+  "description": "A Closed Tank.",
+  "author": "Adroit Technologies",
+  "version": null,
+  "fileName": "Closed Tank.viz",
+  "fileType": "Graphic",
+  "previewImage": "Closed Tank.png",
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "previewImageUrl": "",
+  "downloadUrl": "",
+  "industry": "",
+  "tags": [
+    "Tank",
+    "Storage",
+    "Containment",
+    "Process"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

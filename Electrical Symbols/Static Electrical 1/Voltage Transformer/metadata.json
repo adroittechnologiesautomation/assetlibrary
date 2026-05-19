@@ -1,0 +1,25 @@
+{
+  "id": "c8ed7585-6bc4-425a-985a-5c6958776ec4",
+  "name": "Voltage Transformer",
+  "description": "A Voltage Transformer.",
+  "author": "Adroit Technologies",
+  "version": null,
+  "fileName": "Voltage Transformer.viz",
+  "fileType": "Graphic",
+  "previewImage": "Voltage Transformer.png",
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "previewImageUrl": "",
+  "downloadUrl": "",
+  "industry": "",
+  "tags": [
+    "Transformer",
+    "Voltage",
+    "Electrical",
+    "Power"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

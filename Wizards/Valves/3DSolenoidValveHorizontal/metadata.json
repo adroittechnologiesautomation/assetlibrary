@@ -1,0 +1,25 @@
+{
+  "id": "acab845f-89f1-4bf2-a6de-934a4a8a3670",
+  "name": "3DSolenoidValveHorizontal",
+  "description": "A 3DSolenoidValveHorizontal.",
+  "author": "Adroit Technologies",
+  "version": null,
+  "fileName": "3DSolenoidValveHorizontal.vizw",
+  "fileType": "Wizard",
+  "previewImage": "3DSolenoidValveHorizontal.png",
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "previewImageUrl": "",
+  "downloadUrl": "",
+  "industry": "",
+  "tags": [
+    "Valve",
+    "Flow Control",
+    "Actuator",
+    "Water"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

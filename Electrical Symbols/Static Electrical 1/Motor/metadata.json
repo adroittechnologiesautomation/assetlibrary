@@ -1,0 +1,25 @@
+{
+  "id": "45a42c12-af0b-4a13-93ae-8b2e451fc26b",
+  "name": "Motor",
+  "description": "A Motor.",
+  "author": "Adroit Technologies",
+  "version": null,
+  "fileName": "Motor.viz",
+  "fileType": "Graphic",
+  "previewImage": "Motor.png",
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "previewImageUrl": "",
+  "downloadUrl": "",
+  "industry": "",
+  "tags": [
+    "Motor",
+    "Drive",
+    "Motion",
+    "Manufacturing"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

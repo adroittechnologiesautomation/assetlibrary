@@ -1,0 +1,25 @@
+{
+  "id": "771255c0-6535-4d54-aaa9-e1ceb4145d48",
+  "name": "Pump02",
+  "description": "A Pump02.",
+  "author": "Adroit Technologies",
+  "version": null,
+  "fileName": "Pump02.vizw",
+  "fileType": "Wizard",
+  "previewImage": "Pump02.png",
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "previewImageUrl": "",
+  "downloadUrl": "",
+  "industry": "",
+  "tags": [
+    "Pump",
+    "Fluid",
+    "Actuator",
+    "Water"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

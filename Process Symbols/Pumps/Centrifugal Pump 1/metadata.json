@@ -1,0 +1,25 @@
+{
+  "id": "de0d2f19-6f5a-4ed8-8632-954337b8d1cd",
+  "name": "Centrifugal Pump 1",
+  "description": "A Centrifugal Pump 1.",
+  "author": "Adroit Technologies",
+  "version": null,
+  "fileName": "Centrifugal Pump 1.viz",
+  "fileType": "Graphic",
+  "previewImage": "Centrifugal Pump 1.png",
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "previewImageUrl": "",
+  "downloadUrl": "",
+  "industry": "",
+  "tags": [
+    "Pump",
+    "Fluid",
+    "Actuator",
+    "Water"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

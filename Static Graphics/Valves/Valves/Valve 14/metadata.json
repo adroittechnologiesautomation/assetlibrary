@@ -1,0 +1,25 @@
+{
+  "id": "380b5f3d-f4c3-4dc7-9ca8-8002abdaf4a9",
+  "name": "Valve 14",
+  "description": "A Valve 14.",
+  "author": "Adroit Technologies",
+  "version": null,
+  "fileName": "Valve 14.viz",
+  "fileType": "Graphic",
+  "previewImage": "Valve 14.png",
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "previewImageUrl": "",
+  "downloadUrl": "",
+  "industry": "",
+  "tags": [
+    "Valve",
+    "Flow Control",
+    "Actuator",
+    "Water"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

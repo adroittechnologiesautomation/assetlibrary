@@ -1,0 +1,25 @@
+{
+  "id": "2b486d44-f20b-483b-aec0-0ec7179087ac",
+  "name": "Valve 22",
+  "description": "A Valve 22.",
+  "author": "Adroit Technologies",
+  "version": null,
+  "fileName": "Valve 22.viz",
+  "fileType": "Graphic",
+  "previewImage": "Valve 22.png",
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "previewImageUrl": "",
+  "downloadUrl": "",
+  "industry": "",
+  "tags": [
+    "Valve",
+    "Flow Control",
+    "Actuator",
+    "Water"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

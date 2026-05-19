@@ -1,0 +1,25 @@
+{
+  "id": "fb36c223-c68e-48d3-8705-49dbc9aa021c",
+  "name": "Blue Solenoid Valve",
+  "description": "A Blue Solenoid Valve.",
+  "author": "Adroit Technologies",
+  "version": null,
+  "fileName": "Blue Solenoid Valve.viz",
+  "fileType": "Graphic",
+  "previewImage": "Blue Solenoid Valve.png",
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "previewImageUrl": "",
+  "downloadUrl": "",
+  "industry": "",
+  "tags": [
+    "Valve",
+    "Flow Control",
+    "Actuator",
+    "Water"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

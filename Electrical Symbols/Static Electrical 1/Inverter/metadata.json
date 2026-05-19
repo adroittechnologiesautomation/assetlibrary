@@ -1,0 +1,25 @@
+{
+  "id": "a26aea44-81ca-45c4-a77d-2c5bb699ab22",
+  "name": "Inverter",
+  "description": "A Inverter.",
+  "author": "Adroit Technologies",
+  "version": null,
+  "fileName": "Inverter.viz",
+  "fileType": "Graphic",
+  "previewImage": "Inverter.png",
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "previewImageUrl": "",
+  "downloadUrl": "",
+  "industry": "",
+  "tags": [
+    "Inverter",
+    "DC/AC",
+    "Conversion",
+    "Power"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

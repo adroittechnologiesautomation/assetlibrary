@@ -1,0 +1,25 @@
+{
+  "id": "a1761fb2-dfca-4f43-a800-612f4c00e940",
+  "name": "Valve 21",
+  "description": "A Valve 21.",
+  "author": "Adroit Technologies",
+  "version": null,
+  "fileName": "Valve 21.viz",
+  "fileType": "Graphic",
+  "previewImage": "Valve 21.png",
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "previewImageUrl": "",
+  "downloadUrl": "",
+  "industry": "",
+  "tags": [
+    "Valve",
+    "Flow Control",
+    "Actuator",
+    "Water"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

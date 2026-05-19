@@ -1,0 +1,25 @@
+{
+  "id": "40272bfa-8fc3-4290-9a84-91a849a27eaf",
+  "name": "Valve 12",
+  "description": "A Valve 12.",
+  "author": "Adroit Technologies",
+  "version": null,
+  "fileName": "Valve 12.viz",
+  "fileType": "Graphic",
+  "previewImage": "Valve 12.png",
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "previewImageUrl": "",
+  "downloadUrl": "",
+  "industry": "",
+  "tags": [
+    "Valve",
+    "Flow Control",
+    "Actuator",
+    "Water"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

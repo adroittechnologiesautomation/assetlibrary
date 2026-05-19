@@ -1,0 +1,25 @@
+{
+  "id": "ebc8c329-5fe9-457a-97ef-7f100cff7ba7",
+  "name": "Blue Submersible Pump",
+  "description": "A Blue Submersible Pump.",
+  "author": "Adroit Technologies",
+  "version": null,
+  "fileName": "Blue Submersible Pump.viz",
+  "fileType": "Graphic",
+  "previewImage": "Blue Submersible Pump.png",
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "previewImageUrl": "",
+  "downloadUrl": "",
+  "industry": "",
+  "tags": [
+    "Pump",
+    "Fluid",
+    "Actuator",
+    "Water"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

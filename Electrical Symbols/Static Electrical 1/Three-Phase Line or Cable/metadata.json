@@ -1,0 +1,25 @@
+{
+  "id": "c128fcab-8151-4b9c-9e22-07b4fda63a4d",
+  "name": "Three-Phase Line or Cable",
+  "description": "A Three-Phase Line or Cable.",
+  "author": "Adroit Technologies",
+  "version": null,
+  "fileName": "Three-Phase Line or Cable.viz",
+  "fileType": "Graphic",
+  "previewImage": "Three-Phase Line or Cable.png",
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "previewImageUrl": "",
+  "downloadUrl": "",
+  "industry": "",
+  "tags": [
+    "Cable",
+    "Conductor",
+    "Electrical",
+    "Power"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

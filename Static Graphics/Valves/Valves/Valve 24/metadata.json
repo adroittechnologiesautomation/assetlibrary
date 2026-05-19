@@ -1,0 +1,25 @@
+{
+  "id": "5c51aee3-01b8-45c9-922a-3d320976e22d",
+  "name": "Valve 24",
+  "description": "A Valve 24.",
+  "author": "Adroit Technologies",
+  "version": null,
+  "fileName": "Valve 24.viz",
+  "fileType": "Graphic",
+  "previewImage": "Valve 24.png",
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "previewImageUrl": "",
+  "downloadUrl": "",
+  "industry": "",
+  "tags": [
+    "Valve",
+    "Flow Control",
+    "Actuator",
+    "Water"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

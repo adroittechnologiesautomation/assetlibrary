@@ -1,0 +1,25 @@
+{
+  "id": "b25b48ac-2739-4b35-8570-0f3780dd6fac",
+  "name": "Axial Fan 2",
+  "description": "A Axial Fan 2.",
+  "author": "Adroit Technologies",
+  "version": null,
+  "fileName": "Axial Fan 2.viz",
+  "fileType": "Graphic",
+  "previewImage": "Axial Fan 2.png",
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "previewImageUrl": "",
+  "downloadUrl": "",
+  "industry": "",
+  "tags": [
+    "Fan",
+    "Airflow",
+    "Ventilation",
+    "HVAC"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

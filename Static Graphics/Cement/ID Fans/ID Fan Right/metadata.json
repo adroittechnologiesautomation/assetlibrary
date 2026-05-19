@@ -1,0 +1,25 @@
+{
+  "id": "9e355848-c007-44ae-b200-d023a3e24946",
+  "name": "ID Fan Right",
+  "description": "A ID Fan Right.",
+  "author": "Adroit Technologies",
+  "version": null,
+  "fileName": "ID Fan Right.viz",
+  "fileType": "Graphic",
+  "previewImage": "ID Fan Right.png",
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "previewImageUrl": "",
+  "downloadUrl": "",
+  "industry": "",
+  "tags": [
+    "Fan",
+    "Airflow",
+    "Ventilation",
+    "HVAC"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

@@ -1,0 +1,25 @@
+{
+  "id": "9367e555-e162-4122-aa1d-a3f650c13309",
+  "name": "Actuating Drive",
+  "description": "A Actuating Drive.",
+  "author": "Adroit Technologies",
+  "version": null,
+  "fileName": "Actuating Drive.viz",
+  "fileType": "Graphic",
+  "previewImage": "Actuating Drive.png",
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "previewImageUrl": "",
+  "downloadUrl": "",
+  "industry": "",
+  "tags": [
+    "Drive",
+    "VFD",
+    "Motor Control",
+    "Manufacturing"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

@@ -1,0 +1,25 @@
+{
+  "id": "fc1ff5c9-8175-45ee-9145-99ec2c8fe3d9",
+  "name": "wzdValveVertical_v01",
+  "description": "A wzdValveVertical_v01.",
+  "author": "Adroit Technologies",
+  "version": null,
+  "fileName": "wzdValveVertical_v01.vizw",
+  "fileType": "Wizard",
+  "previewImage": "wzdValveVertical_v01.png",
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "previewImageUrl": "",
+  "downloadUrl": "",
+  "industry": "",
+  "tags": [
+    "Valve",
+    "Flow Control",
+    "Actuator",
+    "Water"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

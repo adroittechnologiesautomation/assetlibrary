@@ -1,0 +1,25 @@
+{
+  "id": "3f01f90f-6b94-4dae-900d-8ea395a1e069",
+  "name": "Manual Valve Top",
+  "description": "A Manual Valve Top.",
+  "author": "Adroit Technologies",
+  "version": null,
+  "fileName": "Manual Valve Top.viz",
+  "fileType": "Graphic",
+  "previewImage": "Manual Valve Top.png",
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "previewImageUrl": "",
+  "downloadUrl": "",
+  "industry": "",
+  "tags": [
+    "Valve",
+    "Flow Control",
+    "Actuator",
+    "Water"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

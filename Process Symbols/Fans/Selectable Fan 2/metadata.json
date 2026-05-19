@@ -1,0 +1,25 @@
+{
+  "id": "cfe1afd0-f790-4b72-a9f0-cb79edcb2900",
+  "name": "Selectable Fan 2",
+  "description": "A Selectable Fan 2.",
+  "author": "Adroit Technologies",
+  "version": null,
+  "fileName": "Selectable Fan 2.viz",
+  "fileType": "Graphic",
+  "previewImage": "Selectable Fan 2.png",
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "previewImageUrl": "",
+  "downloadUrl": "",
+  "industry": "",
+  "tags": [
+    "Fan",
+    "Airflow",
+    "Ventilation",
+    "HVAC"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}
