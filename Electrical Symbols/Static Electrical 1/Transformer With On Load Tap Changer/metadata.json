@@ -1,18 +1,20 @@
 {
-  "id": "78fdbd19-92c9-4311-822f-292aae5dd84b",
+  "id": "ff76659b-7d07-4b82-88e1-623bdea6d4b3",
   "name": "Transformer With On Load Tap Changer",
   "description": "A Transformer With On Load Tap Changer.",
   "author": "Adroit Technologies",
   "version": null,
   "fileName": "Transformer With On Load Tap Changer.viz",
   "fileType": "Graphic",
-  "previewImage": "Transformer With On Load Tap Changer.png",
+  "previewImages": [
+    "Transformer With On Load Tap Changer.png"
+  ],
   "ownerType": "official",
   "licenseType": "free",
   "currency": "ZAR",
-  "previewImageUrl": "",
+  "previewImageUrls": [],
   "downloadUrl": "",
-  "industry": "",
+  "industries": [],
   "tags": [
     "Transformer",
     "Voltage",

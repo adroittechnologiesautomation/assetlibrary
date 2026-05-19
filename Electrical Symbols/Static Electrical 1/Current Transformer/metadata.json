@@ -1,18 +1,20 @@
 {
-  "id": "df5663e5-51ce-4fd1-b81a-60a5ab583945",
+  "id": "e3b88196-186d-4eac-ab9e-4a5a2b49f7d3",
   "name": "Current Transformer",
   "description": "A Current Transformer.",
   "author": "Adroit Technologies",
   "version": null,
   "fileName": "Current Transformer.viz",
   "fileType": "Graphic",
-  "previewImage": "Current Transformer.png",
+  "previewImages": [
+    "Current Transformer.png"
+  ],
   "ownerType": "official",
   "licenseType": "free",
   "currency": "ZAR",
-  "previewImageUrl": "",
+  "previewImageUrls": [],
   "downloadUrl": "",
-  "industry": "",
+  "industries": [],
   "tags": [
     "Transformer",
     "Voltage",

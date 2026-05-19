@@ -1,18 +1,20 @@
 {
-  "id": "b6810e98-2b5d-4e6e-a06d-992d5abea718",
+  "id": "6cfa135e-0ae8-43d8-990e-284cea023448",
   "name": "Reciprocating Pump Comp",
   "description": "A Reciprocating Pump Comp.",
   "author": "Adroit Technologies",
   "version": null,
   "fileName": "Reciprocating Pump Comp.viz",
   "fileType": "Graphic",
-  "previewImage": "Reciprocating Pump Comp.png",
+  "previewImages": [
+    "Reciprocating Pump Comp.png"
+  ],
   "ownerType": "official",
   "licenseType": "free",
   "currency": "ZAR",
-  "previewImageUrl": "",
+  "previewImageUrls": [],
   "downloadUrl": "",
-  "industry": "",
+  "industries": [],
   "tags": [
     "Pump",
     "Fluid",

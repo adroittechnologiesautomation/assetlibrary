@@ -1,18 +1,20 @@
 {
-  "id": "ea0da6ff-acb2-49e5-b9e1-dacf3d478001",
+  "id": "18754d6e-847e-48c8-98d0-77f49de066f2",
   "name": "Reactor or Transformer",
   "description": "A Reactor or Transformer.",
   "author": "Adroit Technologies",
   "version": null,
   "fileName": "Reactor or Transformer.viz",
   "fileType": "Graphic",
-  "previewImage": "Reactor or Transformer.png",
+  "previewImages": [
+    "Reactor or Transformer.png"
+  ],
   "ownerType": "official",
   "licenseType": "free",
   "currency": "ZAR",
-  "previewImageUrl": "",
+  "previewImageUrls": [],
   "downloadUrl": "",
-  "industry": "",
+  "industries": [],
   "tags": [
     "Transformer",
     "Voltage",

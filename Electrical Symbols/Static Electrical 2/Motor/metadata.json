@@ -1,18 +1,20 @@
 {
-  "id": "3773f03f-1ff3-4877-a233-0b9e69eae62d",
+  "id": "192de18e-a9fb-4928-9e07-fd0760f14661",
   "name": "Motor",
   "description": "A Motor.",
   "author": "Adroit Technologies",
   "version": null,
   "fileName": "Motor.viz",
   "fileType": "Graphic",
-  "previewImage": "Motor.png",
+  "previewImages": [
+    "Motor.png"
+  ],
   "ownerType": "official",
   "licenseType": "free",
   "currency": "ZAR",
-  "previewImageUrl": "",
+  "previewImageUrls": [],
   "downloadUrl": "",
-  "industry": "",
+  "industries": [],
   "tags": [
     "Motor",
     "Drive",

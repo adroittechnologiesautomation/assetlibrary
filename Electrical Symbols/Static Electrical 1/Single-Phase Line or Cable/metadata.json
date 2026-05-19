@@ -1,18 +1,20 @@
 {
-  "id": "4759f5ac-40b4-40ed-a157-9fc02855a338",
+  "id": "f620b7ff-a385-4618-9b67-30397e64fb2c",
   "name": "Single-Phase Line or Cable",
   "description": "A Single-Phase Line or Cable.",
   "author": "Adroit Technologies",
   "version": null,
   "fileName": "Single-Phase Line or Cable.viz",
   "fileType": "Graphic",
-  "previewImage": "Single-Phase Line or Cable.png",
+  "previewImages": [
+    "Single-Phase Line or Cable.png"
+  ],
   "ownerType": "official",
   "licenseType": "free",
   "currency": "ZAR",
-  "previewImageUrl": "",
+  "previewImageUrls": [],
   "downloadUrl": "",
-  "industry": "",
+  "industries": [],
   "tags": [
     "Cable",
     "Conductor",

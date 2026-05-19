@@ -1,18 +1,20 @@
 {
-  "id": "097515f7-87d6-49b9-91ff-f5abf22ab5de",
+  "id": "cbdba432-fa7a-41f7-9f8e-17247515e672",
   "name": "Artificial Neutral or Earthing Transformer",
   "description": "A Artificial Neutral or Earthing Transformer.",
   "author": "Adroit Technologies",
   "version": null,
   "fileName": "Artificial Neutral or Earthing Transformer.viz",
   "fileType": "Graphic",
-  "previewImage": "Artificial Neutral or Earthing Transformer.png",
+  "previewImages": [
+    "Artificial Neutral or Earthing Transformer.png"
+  ],
   "ownerType": "official",
   "licenseType": "free",
   "currency": "ZAR",
-  "previewImageUrl": "",
+  "previewImageUrls": [],
   "downloadUrl": "",
-  "industry": "",
+  "industries": [],
   "tags": [
     "Transformer",
     "Voltage",

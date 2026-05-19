@@ -1,18 +1,20 @@
 {
-  "id": "4117bf1c-c633-4176-a57f-09ae7037a82a",
+  "id": "67dd83ac-0a66-4fdb-bb7e-75083c718698",
   "name": "Momentary Switch NO",
   "description": "A Momentary Switch NO.",
   "author": "Adroit Technologies",
   "version": null,
   "fileName": "Momentary Switch NO.viz",
   "fileType": "Graphic",
-  "previewImage": "Momentary Switch NO.png",
+  "previewImages": [
+    "Momentary Switch NO.png"
+  ],
   "ownerType": "official",
   "licenseType": "free",
   "currency": "ZAR",
-  "previewImageUrl": "",
+  "previewImageUrls": [],
   "downloadUrl": "",
-  "industry": "",
+  "industries": [],
   "tags": [
     "Switch",
     "Control",

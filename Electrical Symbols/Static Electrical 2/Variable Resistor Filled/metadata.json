@@ -1,18 +1,20 @@
 {
-  "id": "f4e6646e-44be-449e-b299-11739e6fb501",
+  "id": "9c1e419a-440d-4d8b-af27-32cc00fc0e1f",
   "name": "Variable Resistor Filled",
   "description": "A Variable Resistor Filled.",
   "author": "Adroit Technologies",
   "version": null,
   "fileName": "Variable Resistor Filled.viz",
   "fileType": "Graphic",
-  "previewImage": "Variable Resistor Filled.png",
+  "previewImages": [
+    "Variable Resistor Filled.png"
+  ],
   "ownerType": "official",
   "licenseType": "free",
   "currency": "ZAR",
-  "previewImageUrl": "",
+  "previewImageUrls": [],
   "downloadUrl": "",
-  "industry": "",
+  "industries": [],
   "tags": [
     "Resistor",
     "Resistance",

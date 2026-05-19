@@ -1,18 +1,20 @@
 {
-  "id": "0a80557e-0baa-4b0a-bb5e-5e7c479e7318",
+  "id": "20d2061c-a8c8-4a9b-8699-4a560dc1dd0b",
   "name": "Transformer",
   "description": "A Transformer.",
   "author": "Adroit Technologies",
   "version": null,
   "fileName": "Transformer.viz",
   "fileType": "Graphic",
-  "previewImage": "Transformer.png",
+  "previewImages": [
+    "Transformer.png"
+  ],
   "ownerType": "official",
   "licenseType": "free",
   "currency": "ZAR",
-  "previewImageUrl": "",
+  "previewImageUrls": [],
   "downloadUrl": "",
-  "industry": "",
+  "industries": [],
   "tags": [
     "Transformer",
     "Voltage",

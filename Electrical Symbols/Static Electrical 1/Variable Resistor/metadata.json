@@ -1,18 +1,20 @@
 {
-  "id": "4811c20f-f561-4dec-afea-a79a21f5d9a8",
+  "id": "561dc89b-ee52-4594-b6d2-82beebd5d221",
   "name": "Variable Resistor",
   "description": "A Variable Resistor.",
   "author": "Adroit Technologies",
   "version": null,
   "fileName": "Variable Resistor.viz",
   "fileType": "Graphic",
-  "previewImage": "Variable Resistor.png",
+  "previewImages": [
+    "Variable Resistor.png"
+  ],
   "ownerType": "official",
   "licenseType": "free",
   "currency": "ZAR",
-  "previewImageUrl": "",
+  "previewImageUrls": [],
   "downloadUrl": "",
-  "industry": "",
+  "industries": [],
   "tags": [
     "Resistor",
     "Resistance",

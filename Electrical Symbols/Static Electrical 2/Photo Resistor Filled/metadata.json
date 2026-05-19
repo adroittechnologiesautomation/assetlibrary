@@ -1,18 +1,20 @@
 {
-  "id": "36385086-2ca0-46c3-a10b-2d38dec2e936",
+  "id": "9a71d23a-4a1b-4c0c-b5fa-cf8a50fc10f3",
   "name": "Photo Resistor Filled",
   "description": "A Photo Resistor Filled.",
   "author": "Adroit Technologies",
   "version": null,
   "fileName": "Photo Resistor Filled.viz",
   "fileType": "Graphic",
-  "previewImage": "Photo Resistor Filled.png",
+  "previewImages": [
+    "Photo Resistor Filled.png"
+  ],
   "ownerType": "official",
   "licenseType": "free",
   "currency": "ZAR",
-  "previewImageUrl": "",
+  "previewImageUrls": [],
   "downloadUrl": "",
-  "industry": "",
+  "industries": [],
   "tags": [
     "Resistor",
     "Resistance",

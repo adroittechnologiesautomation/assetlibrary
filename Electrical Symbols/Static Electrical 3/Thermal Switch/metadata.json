@@ -1,18 +1,20 @@
 {
-  "id": "c59cf0ea-8a43-4df4-bb61-108bb27bc32b",
+  "id": "8456c45a-a1a3-49ac-870e-6e178115b06e",
   "name": "Thermal Switch",
   "description": "A Thermal Switch.",
   "author": "Adroit Technologies",
   "version": null,
   "fileName": "Thermal Switch.viz",
   "fileType": "Graphic",
-  "previewImage": "Thermal Switch.png",
+  "previewImages": [
+    "Thermal Switch.png"
+  ],
   "ownerType": "official",
   "licenseType": "free",
   "currency": "ZAR",
-  "previewImageUrl": "",
+  "previewImageUrls": [],
   "downloadUrl": "",
-  "industry": "",
+  "industries": [],
   "tags": [
     "Switch",
     "Control",

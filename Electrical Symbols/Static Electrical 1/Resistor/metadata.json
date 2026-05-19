@@ -1,18 +1,20 @@
 {
-  "id": "6a96d3be-3d98-4ed1-903d-ae2915026af2",
+  "id": "40a3ec21-d277-4bf2-a118-5b347f8a3d8b",
   "name": "Resistor",
   "description": "A Resistor.",
   "author": "Adroit Technologies",
   "version": null,
   "fileName": "Resistor.viz",
   "fileType": "Graphic",
-  "previewImage": "Resistor.png",
+  "previewImages": [
+    "Resistor.png"
+  ],
   "ownerType": "official",
   "licenseType": "free",
   "currency": "ZAR",
-  "previewImageUrl": "",
+  "previewImageUrls": [],
   "downloadUrl": "",
-  "industry": "",
+  "industries": [],
   "tags": [
     "Resistor",
     "Resistance",

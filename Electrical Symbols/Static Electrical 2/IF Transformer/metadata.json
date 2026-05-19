@@ -1,18 +1,20 @@
 {
-  "id": "46cce37c-6968-4544-aafd-bf9961d4a10c",
+  "id": "722da195-791f-48a8-8d5a-af6bfa238932",
   "name": "IF Transformer",
   "description": "A IF Transformer.",
   "author": "Adroit Technologies",
   "version": null,
   "fileName": "IF Transformer.viz",
   "fileType": "Graphic",
-  "previewImage": "IF Transformer.png",
+  "previewImages": [
+    "IF Transformer.png"
+  ],
   "ownerType": "official",
   "licenseType": "free",
   "currency": "ZAR",
-  "previewImageUrl": "",
+  "previewImageUrls": [],
   "downloadUrl": "",
-  "industry": "",
+  "industries": [],
   "tags": [
     "Transformer",
     "Voltage",

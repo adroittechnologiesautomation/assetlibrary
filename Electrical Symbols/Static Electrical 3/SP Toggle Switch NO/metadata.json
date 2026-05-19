@@ -1,18 +1,20 @@
 {
-  "id": "16c99513-664d-40dd-81a7-ce4eecda19c5",
+  "id": "75d242c8-df8e-4534-8039-60dec9f3936d",
   "name": "SP Toggle Switch NO",
   "description": "A SP Toggle Switch NO.",
   "author": "Adroit Technologies",
   "version": null,
   "fileName": "SP Toggle Switch NO.viz",
   "fileType": "Graphic",
-  "previewImage": "SP Toggle Switch NO.png",
+  "previewImages": [
+    "SP Toggle Switch NO.png"
+  ],
   "ownerType": "official",
   "licenseType": "free",
   "currency": "ZAR",
-  "previewImageUrl": "",
+  "previewImageUrls": [],
   "downloadUrl": "",
-  "industry": "",
+  "industries": [],
   "tags": [
     "Switch",
     "Control",

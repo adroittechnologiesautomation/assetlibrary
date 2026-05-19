@@ -1,18 +1,20 @@
 {
-  "id": "ef78e59f-1271-4372-ab95-e3a6b5221c17",
+  "id": "5ffd90c7-23c0-4822-9157-9e3ed857c7a9",
   "name": "Fuse",
   "description": "A Fuse.",
   "author": "Adroit Technologies",
   "version": null,
   "fileName": "Fuse.viz",
   "fileType": "Graphic",
-  "previewImage": "Fuse.png",
+  "previewImages": [
+    "Fuse.png"
+  ],
   "ownerType": "official",
   "licenseType": "free",
   "currency": "ZAR",
-  "previewImageUrl": "",
+  "previewImageUrls": [],
   "downloadUrl": "",
-  "industry": "",
+  "industries": [],
   "tags": [
     "Fuse",
     "Protection",

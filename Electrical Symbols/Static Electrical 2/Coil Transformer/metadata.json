@@ -1,18 +1,20 @@
 {
-  "id": "750fa0b5-9e76-47eb-a2a9-05359bd5209a",
+  "id": "d8af3354-743c-4482-8750-9e7e84f48fde",
   "name": "Coil Transformer",
   "description": "A Coil Transformer.",
   "author": "Adroit Technologies",
   "version": null,
   "fileName": "Coil Transformer.viz",
   "fileType": "Graphic",
-  "previewImage": "Coil Transformer.png",
+  "previewImages": [
+    "Coil Transformer.png"
+  ],
   "ownerType": "official",
   "licenseType": "free",
   "currency": "ZAR",
-  "previewImageUrl": "",
+  "previewImageUrls": [],
   "downloadUrl": "",
-  "industry": "",
+  "industries": [],
   "tags": [
     "Transformer",
     "Voltage",
