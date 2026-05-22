@@ -1,9 +1,9 @@
 {
-  "id": "daa4da7f-8ad6-440b-9e08-8564751ee858",
+  "id": "bd05ac74-7c9e-4a19-ac25-66cb6c802a79",
   "name": "Chrome DO Meter Top",
   "description": "A Chrome DO Meter Top.",
   "author": "Adroit Technologies",
-  "category": "Static Graphics\\Water\\Dissolved Oxygen Meter",
+  "category": "Static Graphics/Water/Dissolved Oxygen Meter",
   "version": null,
   "fileName": "Chrome DO Meter Top.viz",
   "fileType": "Graphic",

@@ -1,9 +1,9 @@
 {
-  "id": "68745473-d576-44b4-97fc-288ec6217cf8",
+  "id": "741e04b6-5574-4dcb-8ad2-6b34054416eb",
   "name": "Alarm Indication 2",
   "description": "A Alarm Indication 2.",
   "author": "Adroit Technologies",
-  "category": "Wizards\\Alarms",
+  "category": "Wizards/Alarms",
   "version": null,
   "fileName": "Alarm Indication 2.vizw",
   "fileType": "Wizard",

@@ -1,9 +1,9 @@
 {
-  "id": "c513e754-de0b-4c4b-8949-3eda60bc902a",
+  "id": "8392ad66-7e0f-4677-9160-caf395a23ce1",
   "name": "IO Module-Output",
   "description": "A IO Module-Output.",
   "author": "Adroit Technologies",
-  "category": "Static Graphics\\Mitsubishi Hardware",
+  "category": "Static Graphics/Mitsubishi Hardware",
   "version": null,
   "fileName": "IO Module-Output.viz",
   "fileType": "Graphic",

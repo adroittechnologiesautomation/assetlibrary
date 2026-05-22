@@ -1,9 +1,9 @@
 {
-  "id": "a5a8d2af-935a-4696-8069-cac99c46d8b9",
+  "id": "b1dc7e6c-77a9-4a7a-a90a-811f48c40727",
   "name": "PLC",
   "description": "A PLC.",
   "author": "Adroit Technologies",
-  "category": "Process Symbols\\Instruments",
+  "category": "Process Symbols/Instruments",
   "version": null,
   "fileName": "PLC.viz",
   "fileType": "Graphic",

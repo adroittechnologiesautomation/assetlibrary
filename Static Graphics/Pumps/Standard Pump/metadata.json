@@ -1,9 +1,9 @@
 {
-  "id": "0e8ea2c7-e6b4-412c-932c-3e7740884ed7",
+  "id": "6b8c4bcb-c0b0-45d1-ba51-6ad79a1eb5fc",
   "name": "Standard Pump",
   "description": "A Standard Pump.",
   "author": "Adroit Technologies",
-  "category": "Static Graphics\\Pumps",
+  "category": "Static Graphics/Pumps",
   "version": null,
   "fileName": "Standard Pump.viz",
   "fileType": "Graphic",

@@ -1,9 +1,9 @@
 {
-  "id": "df97188e-db4e-4762-9427-1fa97e8c4543",
+  "id": "fe7c444d-3ead-4089-8580-960b3ddadf8d",
   "name": "Alarm Warning",
   "description": "A Alarm Warning.",
   "author": "Adroit Technologies",
-  "category": "Static Graphics\\Alarming",
+  "category": "Static Graphics/Alarming",
   "version": null,
   "fileName": "Alarm Warning.viz",
   "fileType": "Graphic",

@@ -1,9 +1,9 @@
 {
-  "id": "a3c8dfde-47fc-4685-b874-a837a0a6c362",
+  "id": "94cb4daa-ce1d-4aaf-92c0-99e1378e1614",
   "name": "ServerSwitchTouchDesktop",
   "description": "A ServerSwitchTouchDesktop.",
   "author": "Adroit Technologies",
-  "category": "Wizards\\Network Management\\ICMP",
+  "category": "Wizards/Network Management/ICMP",
   "version": null,
   "fileName": "ServerSwitchTouchDesktop.viz",
   "fileType": "Graphic",

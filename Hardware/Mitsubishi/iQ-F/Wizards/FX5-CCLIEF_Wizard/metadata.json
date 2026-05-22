@@ -1,9 +1,9 @@
 {
-  "id": "213b4a44-0216-426e-9fe5-ac84f138fb09",
+  "id": "c6bc1e0a-5987-4efe-a10b-c4c0bd59ba23",
   "name": "FX5-CCLIEF_Wizard",
   "description": "A FX5-CCLIEF_Wizard.",
   "author": "Adroit Technologies",
-  "category": "Hardware\\Mitsubishi\\iQ-F\\Wizards",
+  "category": "Hardware/Mitsubishi/iQ-F/Wizards",
   "version": null,
   "fileName": "FX5-CCLIEF_Wizard.vizw",
   "fileType": "Wizard",

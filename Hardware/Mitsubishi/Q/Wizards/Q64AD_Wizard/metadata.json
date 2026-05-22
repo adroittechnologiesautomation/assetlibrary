@@ -1,9 +1,9 @@
 {
-  "id": "8ca44f06-55fa-4aea-8cff-f7691bfdaed7",
+  "id": "7a566c71-471e-45ee-be34-7089303869f3",
   "name": "Q64AD_Wizard",
   "description": "A Q64AD_Wizard.",
   "author": "Adroit Technologies",
-  "category": "Hardware\\Mitsubishi\\Q\\Wizards",
+  "category": "Hardware/Mitsubishi/Q/Wizards",
   "version": null,
   "fileName": "Q64AD_Wizard.vizw",
   "fileType": "Wizard",

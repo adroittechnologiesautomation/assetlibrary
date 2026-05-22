@@ -1,9 +1,9 @@
 {
-  "id": "cc108f9f-8130-41b5-a7d5-5393a2cd5ec0",
+  "id": "2076e0ba-8853-42bb-965d-0ecbbdf0d6ec",
   "name": "RJ71PB91V_Wizard",
   "description": "A RJ71PB91V_Wizard.",
   "author": "Adroit Technologies",
-  "category": "Hardware\\Mitsubishi\\iQ-R\\Wizards",
+  "category": "Hardware/Mitsubishi/iQ-R/Wizards",
   "version": null,
   "fileName": "RJ71PB91V_Wizard.vizw",
   "fileType": "Wizard",

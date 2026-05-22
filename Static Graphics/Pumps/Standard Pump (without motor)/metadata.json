@@ -1,9 +1,9 @@
 {
-  "id": "564fdfec-60f9-4cf4-af94-1d5ba2b2f97b",
+  "id": "26fa15c7-8ff8-4ff5-94d3-98969578377d",
   "name": "Standard Pump (without motor)",
   "description": "A Standard Pump (without motor).",
   "author": "Adroit Technologies",
-  "category": "Static Graphics\\Pumps",
+  "category": "Static Graphics/Pumps",
   "version": null,
   "fileName": "Standard Pump (without motor).viz",
   "fileType": "Graphic",

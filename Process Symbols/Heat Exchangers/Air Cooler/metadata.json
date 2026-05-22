@@ -1,9 +1,9 @@
 {
-  "id": "e3f16f98-ab77-4c64-b0da-03485c0aae61",
+  "id": "cd8175c0-21f1-4a6f-bb60-0282718bbbf8",
   "name": "Air Cooler",
   "description": "A Air Cooler.",
   "author": "Adroit Technologies",
-  "category": "Process Symbols\\Heat Exchangers",
+  "category": "Process Symbols/Heat Exchangers",
   "version": null,
   "fileName": "Air Cooler.viz",
   "fileType": "Graphic",

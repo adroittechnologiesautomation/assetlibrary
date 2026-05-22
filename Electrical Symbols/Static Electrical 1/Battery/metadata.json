@@ -1,9 +1,9 @@
 {
-  "id": "a22137ac-8b63-4d0a-b38d-f1ed44bb4546",
+  "id": "5d7264f9-5d0f-4a8e-ac5a-2b64c3880ff1",
   "name": "Battery",
   "description": "A Battery.",
   "author": "Adroit Technologies",
-  "category": "Electrical Symbols\\Static Electrical 1",
+  "category": "Electrical Symbols/Static Electrical 1",
   "version": null,
   "fileName": "Battery.viz",
   "fileType": "Graphic",

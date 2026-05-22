@@ -1,9 +1,9 @@
 {
-  "id": "f361f0ff-e19f-4af0-99ca-fe478a76ece8",
+  "id": "7f7c64dd-de63-47c4-ae0b-4535cf6e4c8b",
   "name": "Vertical Slider",
   "description": "A Vertical Slider.",
   "author": "Adroit Technologies",
-  "category": "Wizards\\Slider",
+  "category": "Wizards/Slider",
   "version": null,
   "fileName": "Vertical Slider.vizw",
   "fileType": "Wizard",

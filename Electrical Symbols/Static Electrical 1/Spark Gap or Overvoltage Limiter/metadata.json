@@ -1,9 +1,9 @@
 {
-  "id": "655e2644-4277-4bf3-868e-6a74bf4cc624",
+  "id": "8c6be3ac-7298-417f-acb3-ac062cad5040",
   "name": "Spark Gap or Overvoltage Limiter",
   "description": "A Spark Gap or Overvoltage Limiter.",
   "author": "Adroit Technologies",
-  "category": "Electrical Symbols\\Static Electrical 1",
+  "category": "Electrical Symbols/Static Electrical 1",
   "version": null,
   "fileName": "Spark Gap or Overvoltage Limiter.viz",
   "fileType": "Graphic",

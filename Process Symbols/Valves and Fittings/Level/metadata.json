@@ -1,9 +1,9 @@
 {
-  "id": "846a7c94-0ae2-4d8d-867a-399d63a46cd9",
+  "id": "30fbec3b-c224-4508-a4bb-79bb6c131bca",
   "name": "Level",
   "description": "A Level.",
   "author": "Adroit Technologies",
-  "category": "Process Symbols\\Valves and Fittings",
+  "category": "Process Symbols/Valves and Fittings",
   "version": null,
   "fileName": "Level.viz",
   "fileType": "Graphic",

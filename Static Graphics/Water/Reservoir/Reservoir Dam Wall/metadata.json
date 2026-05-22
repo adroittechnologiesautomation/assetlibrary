@@ -1,9 +1,9 @@
 {
-  "id": "8d936fe0-69f5-4d7f-a2b1-85ac2fde1a3f",
+  "id": "40aa16cf-3355-426a-ba2d-0e37ff5853fd",
   "name": "Reservoir Dam Wall",
   "description": "A Reservoir Dam Wall.",
   "author": "Adroit Technologies",
-  "category": "Static Graphics\\Water\\Reservoir",
+  "category": "Static Graphics/Water/Reservoir",
   "version": null,
   "fileName": "Reservoir Dam Wall.viz",
   "fileType": "Graphic",

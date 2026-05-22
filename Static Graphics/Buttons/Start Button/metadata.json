@@ -1,9 +1,9 @@
 {
-  "id": "5c88ee63-e500-469f-b8f8-205c9ed83b64",
+  "id": "b193b2b9-3ead-40ef-8e3c-2dfa376eaa07",
   "name": "Start Button",
   "description": "A Start Button.",
   "author": "Adroit Technologies",
-  "category": "Static Graphics\\Buttons",
+  "category": "Static Graphics/Buttons",
   "version": null,
   "fileName": "Start Button.viz",
   "fileType": "Graphic",

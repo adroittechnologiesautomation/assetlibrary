@@ -1,9 +1,9 @@
 {
-  "id": "7a5c1166-a105-41bf-bd9c-f142b2698b45",
+  "id": "f130a5d9-1bd7-464d-8c32-f13f353ab43f",
   "name": "RG60_Wizard",
   "description": "A RG60_Wizard.",
   "author": "Adroit Technologies",
-  "category": "Hardware\\Mitsubishi\\iQ-R\\Wizards",
+  "category": "Hardware/Mitsubishi/iQ-R/Wizards",
   "version": null,
   "fileName": "RG60_Wizard.vizw",
   "fileType": "Wizard",

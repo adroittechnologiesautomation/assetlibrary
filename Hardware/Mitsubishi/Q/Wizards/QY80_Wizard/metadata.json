@@ -1,9 +1,9 @@
 {
-  "id": "3e1423b6-d69d-4226-b36e-cdbb50fd5323",
+  "id": "6938c56b-6abd-4331-8b29-f2babc686b7f",
   "name": "QY80_Wizard",
   "description": "A QY80_Wizard.",
   "author": "Adroit Technologies",
-  "category": "Hardware\\Mitsubishi\\Q\\Wizards",
+  "category": "Hardware/Mitsubishi/Q/Wizards",
   "version": null,
   "fileName": "QY80_Wizard.vizw",
   "fileType": "Wizard",

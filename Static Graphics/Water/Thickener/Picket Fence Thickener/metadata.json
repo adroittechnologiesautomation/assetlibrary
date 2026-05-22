@@ -1,9 +1,9 @@
 {
-  "id": "e102eb23-9dfb-4b15-ade8-7c99431ae37f",
+  "id": "8951db93-64da-4321-9b27-7f71b3f80851",
   "name": "Picket Fence Thickener",
   "description": "A Picket Fence Thickener.",
   "author": "Adroit Technologies",
-  "category": "Static Graphics\\Water\\Thickener",
+  "category": "Static Graphics/Water/Thickener",
   "version": null,
   "fileName": "Picket Fence Thickener.viz",
   "fileType": "Graphic",

@@ -1,9 +1,9 @@
 {
-  "id": "b268f3af-1b39-41f9-af8d-ad68de602a90",
+  "id": "8fda5e8f-bb0d-49f4-b08f-d669dc82f73b",
   "name": "Simple Analog_1",
   "description": "A Simple Analog_1.",
   "author": "Adroit Technologies",
-  "category": "Wizards\\Analogues",
+  "category": "Wizards/Analogues",
   "version": null,
   "fileName": "Simple Analog_1.vizw",
   "fileType": "Wizard",

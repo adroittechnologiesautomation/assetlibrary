@@ -1,9 +1,9 @@
 {
-  "id": "8bb5cbbb-bf08-4eb6-a3ea-ca06bd4eb7f0",
+  "id": "077b421b-3636-4411-8300-dacd07e7e78e",
   "name": "FX5CPU",
   "description": "A FX5CPU.",
   "author": "Adroit Technologies",
-  "category": "Hardware\\Mitsubishi\\Wizards",
+  "category": "Hardware/Mitsubishi/Wizards",
   "version": null,
   "fileName": "FX5CPU.vizw",
   "fileType": "Wizard",

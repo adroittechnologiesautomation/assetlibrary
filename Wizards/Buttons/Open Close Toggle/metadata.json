@@ -1,9 +1,9 @@
 {
-  "id": "1d79ddaa-4477-43c9-85fb-f2b6f45cb6d9",
+  "id": "a68867f3-b1e0-4d26-b8d7-20c8974ba6a5",
   "name": "Open Close Toggle",
   "description": "A Open Close Toggle.",
   "author": "Adroit Technologies",
-  "category": "Wizards\\Buttons",
+  "category": "Wizards/Buttons",
   "version": null,
   "fileName": "Open Close Toggle.vizw",
   "fileType": "Wizard",

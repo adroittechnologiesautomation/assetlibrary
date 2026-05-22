@@ -1,9 +1,9 @@
 {
-  "id": "fe5db21f-e073-42a2-bb6f-c3f79471b553",
+  "id": "32f1df46-9cd9-4f37-a855-b3c10e9f8f83",
   "name": "Circuit Breaker",
   "description": "A Circuit Breaker.",
   "author": "Adroit Technologies",
-  "category": "Electrical Symbols\\Static Electrical 2",
+  "category": "Electrical Symbols/Static Electrical 2",
   "version": null,
   "fileName": "Circuit Breaker.viz",
   "fileType": "Graphic",

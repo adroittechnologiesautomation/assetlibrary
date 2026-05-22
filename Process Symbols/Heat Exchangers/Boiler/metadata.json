@@ -1,9 +1,9 @@
 {
-  "id": "022a6d71-b88d-40b0-8e68-f68a8d3bf875",
+  "id": "ca0d3b41-bda8-4c95-96f9-2dfeb2c820c1",
   "name": "Boiler",
   "description": "A Boiler.",
   "author": "Adroit Technologies",
-  "category": "Process Symbols\\Heat Exchangers",
+  "category": "Process Symbols/Heat Exchangers",
   "version": null,
   "fileName": "Boiler.viz",
   "fileType": "Graphic",

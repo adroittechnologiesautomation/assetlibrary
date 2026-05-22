@@ -1,9 +1,9 @@
 {
-  "id": "db1defe9-aa02-47ab-a317-c464652855ed",
+  "id": "f8471012-33b0-43c2-952c-3d5624aa8ee6",
   "name": "Server_Horizontal",
   "description": "A Server_Horizontal.",
   "author": "Adroit Technologies",
-  "category": "Wizards\\Network Management\\ICMP",
+  "category": "Wizards/Network Management/ICMP",
   "version": null,
   "fileName": "Server_Horizontal.vizw",
   "fileType": "Wizard",

@@ -1,9 +1,9 @@
 {
-  "id": "4021ed93-7010-4fbe-a279-7fd776788d62",
+  "id": "f403d5b4-8d85-4476-b66e-bf12c56d1135",
   "name": "QX81_Template",
   "description": "A QX81_Template.",
   "author": "Adroit Technologies",
-  "category": "Hardware\\Mitsubishi\\Q\\Templates",
+  "category": "Hardware/Mitsubishi/Q/Templates",
   "version": null,
   "fileName": "QX81_Template.viz",
   "fileType": "Graphic",

@@ -1,9 +1,9 @@
 {
-  "id": "1a2141ba-84b3-4b4e-8725-e0cf96ec24e2",
+  "id": "34aa25fb-34b5-4007-a443-9f3054244c5d",
   "name": "RD81OPC96_Wizard",
   "description": "A RD81OPC96_Wizard.",
   "author": "Adroit Technologies",
-  "category": "Hardware\\Mitsubishi\\iQ-R\\Wizards",
+  "category": "Hardware/Mitsubishi/iQ-R/Wizards",
   "version": null,
   "fileName": "RD81OPC96_Wizard.vizw",
   "fileType": "Wizard",

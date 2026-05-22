@@ -1,9 +1,9 @@
 {
-  "id": "a552974c-5575-4a88-ab46-0aa34af49226",
+  "id": "404c2be9-c273-4df9-95bd-4cf262f1d205",
   "name": "Stop Button 2",
   "description": "A Stop Button 2.",
   "author": "Adroit Technologies",
-  "category": "Wizards\\Buttons\\Start Stop Buttons 2",
+  "category": "Wizards/Buttons/Start Stop Buttons 2",
   "version": null,
   "fileName": "Stop Button 2.vizw",
   "fileType": "Wizard",

@@ -1,9 +1,9 @@
 {
-  "id": "0bf5d556-06a0-4b63-b788-68c311f79a8b",
+  "id": "2009b9f9-853d-46c2-a326-65e843e08d59",
   "name": "Fired Heater",
   "description": "A Fired Heater.",
   "author": "Adroit Technologies",
-  "category": "Process Symbols\\Heat Exchangers",
+  "category": "Process Symbols/Heat Exchangers",
   "version": null,
   "fileName": "Fired Heater.viz",
   "fileType": "Graphic",

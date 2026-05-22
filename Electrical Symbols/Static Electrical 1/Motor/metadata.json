@@ -1,9 +1,9 @@
 {
-  "id": "0f96d5f1-6996-43a3-947f-e294db879648",
+  "id": "8c140f52-3f9f-4489-b01f-44d286e07f6f",
   "name": "Motor",
   "description": "A Motor.",
   "author": "Adroit Technologies",
-  "category": "Electrical Symbols\\Static Electrical 1",
+  "category": "Electrical Symbols/Static Electrical 1",
   "version": null,
   "fileName": "Motor.viz",
   "fileType": "Graphic",

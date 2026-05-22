@@ -1,9 +1,9 @@
 {
-  "id": "114c47c5-f61f-404c-be9e-b8f68768f224",
+  "id": "3c08122e-7810-445f-8c95-2307c819cc91",
   "name": "wzdRadio_DigitalDisplay_NoPriority_v01",
   "description": "A wzdRadio_DigitalDisplay_NoPriority_v01.",
   "author": "Adroit Technologies",
-  "category": "Situational Awareness\\Displays\\Digitals",
+  "category": "Situational Awareness/Displays/Digitals",
   "version": null,
   "fileName": "wzdRadio_DigitalDisplay_NoPriority_v01.vizw",
   "fileType": "Wizard",

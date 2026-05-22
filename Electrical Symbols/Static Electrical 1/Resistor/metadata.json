@@ -1,9 +1,9 @@
 {
-  "id": "ba9a4f6b-92d2-4b68-aebf-c73745f30119",
+  "id": "2c9402e3-693a-4b78-a1b2-3af68f3c43ba",
   "name": "Resistor",
   "description": "A Resistor.",
   "author": "Adroit Technologies",
-  "category": "Electrical Symbols\\Static Electrical 1",
+  "category": "Electrical Symbols/Static Electrical 1",
   "version": null,
   "fileName": "Resistor.viz",
   "fileType": "Graphic",

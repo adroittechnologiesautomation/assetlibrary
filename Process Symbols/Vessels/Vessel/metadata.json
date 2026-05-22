@@ -1,9 +1,9 @@
 {
-  "id": "b867422d-1aab-4dc1-9ca8-e36d5121e7d3",
+  "id": "5ef19001-9467-4dcf-9798-f600e152c792",
   "name": "Vessel",
   "description": "A Vessel.",
   "author": "Adroit Technologies",
-  "category": "Process Symbols\\Vessels",
+  "category": "Process Symbols/Vessels",
   "version": null,
   "fileName": "Vessel.viz",
   "fileType": "Graphic",

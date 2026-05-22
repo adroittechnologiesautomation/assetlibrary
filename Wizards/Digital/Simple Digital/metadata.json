@@ -1,9 +1,9 @@
 {
-  "id": "5ea104d2-673b-4ac5-a8f9-1cc9b5bfa6a6",
+  "id": "33b3e75c-35d3-4b58-ad1c-f5f1ec5451d2",
   "name": "Simple Digital",
   "description": "A Simple Digital.",
   "author": "Adroit Technologies",
-  "category": "Wizards\\Digital",
+  "category": "Wizards/Digital",
   "version": null,
   "fileName": "Simple Digital.vizw",
   "fileType": "Wizard",

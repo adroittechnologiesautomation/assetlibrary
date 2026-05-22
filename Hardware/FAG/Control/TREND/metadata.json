@@ -1,9 +1,9 @@
 {
-  "id": "71927447-e1ee-4e24-b626-c9f0be9cf9a7",
+  "id": "03060158-e0fe-4cc2-8b9d-af40c0ea6d8c",
   "name": "TREND",
   "description": "A TREND.",
   "author": "Adroit Technologies",
-  "category": "Hardware\\FAG\\Control",
+  "category": "Hardware/FAG/Control",
   "version": null,
   "fileName": "TREND.viz",
   "fileType": "Graphic",

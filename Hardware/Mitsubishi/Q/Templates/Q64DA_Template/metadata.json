@@ -1,9 +1,9 @@
 {
-  "id": "98994d21-8fc3-468c-b11e-783576cbd581",
+  "id": "f84a382d-ce72-4e49-96db-5060c7cd69ac",
   "name": "Q64DA_Template",
   "description": "A Q64DA_Template.",
   "author": "Adroit Technologies",
-  "category": "Hardware\\Mitsubishi\\Q\\Templates",
+  "category": "Hardware/Mitsubishi/Q/Templates",
   "version": null,
   "fileName": "Q64DA_Template.viz",
   "fileType": "Graphic",

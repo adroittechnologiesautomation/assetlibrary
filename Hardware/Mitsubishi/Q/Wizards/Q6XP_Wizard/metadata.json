@@ -1,9 +1,9 @@
 {
-  "id": "5dfcced7-1d28-4486-bfd3-11b57ba05231",
+  "id": "54b29ab8-5407-43d9-9cad-fb1686f36759",
   "name": "Q6XP_Wizard",
   "description": "A Q6XP_Wizard.",
   "author": "Adroit Technologies",
-  "category": "Hardware\\Mitsubishi\\Q\\Wizards",
+  "category": "Hardware/Mitsubishi/Q/Wizards",
   "version": null,
   "fileName": "Q6XP_Wizard.vizw",
   "fileType": "Wizard",

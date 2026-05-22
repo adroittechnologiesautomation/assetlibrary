@@ -1,9 +1,9 @@
 {
-  "id": "edce67ba-7550-4f43-b3de-a5b1ca4d2489",
+  "id": "5c3b7b39-dc60-4cf6-bac1-5b51088cd0c8",
   "name": "Q03UDVCPU",
   "description": "A Q03UDVCPU.",
   "author": "Adroit Technologies",
-  "category": "Hardware\\Mitsubishi\\Wizards",
+  "category": "Hardware/Mitsubishi/Wizards",
   "version": null,
   "fileName": "Q03UDVCPU.vizw",
   "fileType": "Wizard",

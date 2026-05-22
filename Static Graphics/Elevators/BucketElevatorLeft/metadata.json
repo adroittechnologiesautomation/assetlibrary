@@ -1,9 +1,9 @@
 {
-  "id": "acef8de1-7a5c-4c6f-b2c8-ed3cf5979ae5",
+  "id": "fbf08add-d2a7-4a37-a0e4-71a25041cbf8",
   "name": "BucketElevatorLeft",
   "description": "A BucketElevatorLeft.",
   "author": "Adroit Technologies",
-  "category": "Static Graphics\\Elevators",
+  "category": "Static Graphics/Elevators",
   "version": null,
   "fileName": "BucketElevatorLeft.viz",
   "fileType": "Graphic",

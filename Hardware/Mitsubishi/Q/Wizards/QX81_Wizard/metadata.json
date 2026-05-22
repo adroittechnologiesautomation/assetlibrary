@@ -1,9 +1,9 @@
 {
-  "id": "f6842f64-ba06-40c2-90ea-7d680bd82705",
+  "id": "e9b57d6c-4db4-484b-b4f2-ae4430efde10",
   "name": "QX81_Wizard",
   "description": "A QX81_Wizard.",
   "author": "Adroit Technologies",
-  "category": "Hardware\\Mitsubishi\\Q\\Wizards",
+  "category": "Hardware/Mitsubishi/Q/Wizards",
   "version": null,
   "fileName": "QX81_Wizard.vizw",
   "fileType": "Wizard",

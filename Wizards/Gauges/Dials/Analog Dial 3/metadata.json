@@ -1,9 +1,9 @@
 {
-  "id": "504cd87e-733d-435a-b0f9-9fe3a85515dd",
+  "id": "fb4b6517-492d-4041-b553-52fac6e5f296",
   "name": "Analog Dial 3",
   "description": "A Analog Dial 3.",
   "author": "Adroit Technologies",
-  "category": "Wizards\\Gauges\\Dials",
+  "category": "Wizards/Gauges/Dials",
   "version": null,
   "fileName": "Analog Dial 3.vizw",
   "fileType": "Wizard",

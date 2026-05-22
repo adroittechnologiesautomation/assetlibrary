@@ -1,9 +1,9 @@
 {
-  "id": "46ce11d6-5a46-4629-8d2b-48f8fcbcb93e",
+  "id": "c672b387-1247-480d-93f0-c18f1f152633",
   "name": "RCPU_Template",
   "description": "A RCPU_Template.",
   "author": "Adroit Technologies",
-  "category": "Hardware\\Mitsubishi\\iQ-R\\Templates",
+  "category": "Hardware/Mitsubishi/iQ-R/Templates",
   "version": null,
   "fileName": "RCPU_Template.viz",
   "fileType": "Graphic",

@@ -1,9 +1,9 @@
 {
-  "id": "f2c6949c-31ed-45cc-9301-636322a4d0d5",
+  "id": "7dd5fc71-07d2-4c07-a29f-94a5e162c8f1",
   "name": "Chrome DO Meter Right",
   "description": "A Chrome DO Meter Right.",
   "author": "Adroit Technologies",
-  "category": "Static Graphics\\Water\\Dissolved Oxygen Meter",
+  "category": "Static Graphics/Water/Dissolved Oxygen Meter",
   "version": null,
   "fileName": "Chrome DO Meter Right.viz",
   "fileType": "Graphic",

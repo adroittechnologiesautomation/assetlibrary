@@ -1,9 +1,9 @@
 {
-  "id": "02a713ca-cf0c-4dab-a049-e9115e35e1bd",
+  "id": "6383541d-3cf9-4e61-819e-91c182a0116c",
   "name": "Start Stop Toggle",
   "description": "A Start Stop Toggle.",
   "author": "Adroit Technologies",
-  "category": "Wizards\\Buttons",
+  "category": "Wizards/Buttons",
   "version": null,
   "fileName": "Start Stop Toggle.vizw",
   "fileType": "Wizard",

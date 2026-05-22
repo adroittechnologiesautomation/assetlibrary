@@ -1,9 +1,9 @@
 {
-  "id": "452450e8-149d-41a5-a4bb-6ecec7f442fa",
+  "id": "60203553-dbda-421f-ba56-a5fc465dd068",
   "name": "O_Chart_OEE",
   "description": "A O_Chart_OEE.",
   "author": "Adroit Technologies",
-  "category": "Wizards\\Gauges",
+  "category": "Wizards/Gauges",
   "version": null,
   "fileName": "O_Chart_OEE.vizw",
   "fileType": "Wizard",

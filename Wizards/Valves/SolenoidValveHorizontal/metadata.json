@@ -1,9 +1,9 @@
 {
-  "id": "a01e8f9c-a6fb-4d57-90a9-b865a8b19cb6",
+  "id": "d24e0536-8115-428e-84cd-0c0313550c4b",
   "name": "SolenoidValveHorizontal",
   "description": "A SolenoidValveHorizontal.",
   "author": "Adroit Technologies",
-  "category": "Wizards\\Valves",
+  "category": "Wizards/Valves",
   "version": null,
   "fileName": "SolenoidValveHorizontal.vizw",
   "fileType": "Wizard",

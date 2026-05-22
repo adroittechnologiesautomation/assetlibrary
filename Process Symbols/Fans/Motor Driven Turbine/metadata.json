@@ -1,9 +1,9 @@
 {
-  "id": "e234e211-9e0d-4e9c-b0fb-8b84ae7f6340",
+  "id": "eee7944f-6fd1-4d65-8aff-37c23cfb2214",
   "name": "Motor Driven Turbine",
   "description": "A Motor Driven Turbine.",
   "author": "Adroit Technologies",
-  "category": "Process Symbols\\Fans",
+  "category": "Process Symbols/Fans",
   "version": null,
   "fileName": "Motor Driven Turbine.viz",
   "fileType": "Graphic",

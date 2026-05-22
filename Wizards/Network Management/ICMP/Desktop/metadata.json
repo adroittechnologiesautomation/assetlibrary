@@ -1,9 +1,9 @@
 {
-  "id": "350d11d4-68d0-4779-a8aa-33be6f95db11",
+  "id": "510497f9-2056-42d2-a8ea-8559e33e2705",
   "name": "Desktop",
   "description": "A Desktop.",
   "author": "Adroit Technologies",
-  "category": "Wizards\\Network Management\\ICMP",
+  "category": "Wizards/Network Management/ICMP",
   "version": null,
   "fileName": "Desktop.vizw",
   "fileType": "Wizard",

@@ -1,9 +1,9 @@
 {
-  "id": "8a94d317-b368-4d49-914d-ffdddaf2f6b4",
+  "id": "5021a4d4-af4e-440f-877c-7531bc8f2f74",
   "name": "Condenser",
   "description": "A Condenser.",
   "author": "Adroit Technologies",
-  "category": "Process Symbols\\Heat Exchangers",
+  "category": "Process Symbols/Heat Exchangers",
   "version": null,
   "fileName": "Condenser.viz",
   "fileType": "Graphic",

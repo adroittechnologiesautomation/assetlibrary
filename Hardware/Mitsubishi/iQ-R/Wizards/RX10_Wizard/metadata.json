@@ -1,9 +1,9 @@
 {
-  "id": "993a978f-fe08-4110-b921-34f376686305",
+  "id": "5cdf1bac-a186-4faa-b4c1-50c0f8b04af3",
   "name": "RX10_Wizard",
   "description": "A RX10_Wizard.",
   "author": "Adroit Technologies",
-  "category": "Hardware\\Mitsubishi\\iQ-R\\Wizards",
+  "category": "Hardware/Mitsubishi/iQ-R/Wizards",
   "version": null,
   "fileName": "RX10_Wizard.vizw",
   "fileType": "Wizard",

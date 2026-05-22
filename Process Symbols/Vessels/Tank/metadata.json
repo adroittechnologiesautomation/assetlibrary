@@ -1,9 +1,9 @@
 {
-  "id": "6a9eb596-cf90-4344-a39f-68bebbad3631",
+  "id": "d21322c1-3541-4039-a91a-189eba40fce3",
   "name": "Tank",
   "description": "A Tank.",
   "author": "Adroit Technologies",
-  "category": "Process Symbols\\Vessels",
+  "category": "Process Symbols/Vessels",
   "version": null,
   "fileName": "Tank.viz",
   "fileType": "Graphic",

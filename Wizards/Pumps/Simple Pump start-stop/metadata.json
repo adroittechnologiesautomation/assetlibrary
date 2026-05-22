@@ -1,9 +1,9 @@
 {
-  "id": "1422081b-785a-489b-ad43-1fd1b41c9176",
+  "id": "09ffe346-2604-4a9e-8919-811e82a156b2",
   "name": "Simple Pump start-stop",
   "description": "A Simple Pump start-stop.",
   "author": "Adroit Technologies",
-  "category": "Wizards\\Pumps",
+  "category": "Wizards/Pumps",
   "version": null,
   "fileName": "Simple Pump start-stop.vizw",
   "fileType": "Wizard",

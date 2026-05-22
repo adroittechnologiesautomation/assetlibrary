@@ -1,9 +1,9 @@
 {
-  "id": "fbc09b91-3f96-4f68-8c86-e608c40d1ba0",
+  "id": "98e6c268-a852-4d7a-bb63-f88fda158e11",
   "name": "Reset Button",
   "description": "A Reset Button.",
   "author": "Adroit Technologies",
-  "category": "Static Graphics\\Buttons",
+  "category": "Static Graphics/Buttons",
   "version": null,
   "fileName": "Reset Button.viz",
   "fileType": "Graphic",

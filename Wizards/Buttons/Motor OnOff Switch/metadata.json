@@ -1,9 +1,9 @@
 {
-  "id": "4def7c88-a30a-4cbe-b1db-c6a732056d6d",
+  "id": "cf349336-ece8-4ef5-956c-50264f69c872",
   "name": "Motor OnOff Switch",
   "description": "A Motor OnOff Switch.",
   "author": "Adroit Technologies",
-  "category": "Wizards\\Buttons",
+  "category": "Wizards/Buttons",
   "version": null,
   "fileName": "Motor OnOff Switch.vizw",
   "fileType": "Wizard",

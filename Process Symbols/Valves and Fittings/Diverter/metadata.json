@@ -1,9 +1,9 @@
 {
-  "id": "4ec80dd1-0900-4292-8a88-315487372fbe",
+  "id": "f68ab9b0-d3fb-4287-93ef-55c4399b565d",
   "name": "Diverter",
   "description": "A Diverter.",
   "author": "Adroit Technologies",
-  "category": "Process Symbols\\Valves and Fittings",
+  "category": "Process Symbols/Valves and Fittings",
   "version": null,
   "fileName": "Diverter.viz",
   "fileType": "Graphic",

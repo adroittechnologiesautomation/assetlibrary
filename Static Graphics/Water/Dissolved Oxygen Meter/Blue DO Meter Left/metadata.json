@@ -1,9 +1,9 @@
 {
-  "id": "41f1e57c-3539-40a8-adc2-d74dc61748b6",
+  "id": "9dc14e41-31c0-4656-be66-68647df9c318",
   "name": "Blue DO Meter Left",
   "description": "A Blue DO Meter Left.",
   "author": "Adroit Technologies",
-  "category": "Static Graphics\\Water\\Dissolved Oxygen Meter",
+  "category": "Static Graphics/Water/Dissolved Oxygen Meter",
   "version": null,
   "fileName": "Blue DO Meter Left.viz",
   "fileType": "Graphic",

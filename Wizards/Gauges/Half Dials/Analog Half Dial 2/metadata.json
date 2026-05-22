@@ -1,9 +1,9 @@
 {
-  "id": "da5d7478-584a-4660-91b7-b8090e7d5440",
+  "id": "22f5ebd1-5915-4774-9e4d-f51817160600",
   "name": "Analog Half Dial 2",
   "description": "A Analog Half Dial 2.",
   "author": "Adroit Technologies",
-  "category": "Wizards\\Gauges\\Half Dials",
+  "category": "Wizards/Gauges/Half Dials",
   "version": null,
   "fileName": "Analog Half Dial 2.vizw",
   "fileType": "Wizard",

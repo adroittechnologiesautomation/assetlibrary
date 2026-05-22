@@ -1,9 +1,9 @@
 {
-  "id": "bac6b51b-edf2-4c55-bab3-c1794387c779",
+  "id": "6a2d0445-2200-4552-ad32-76f321dc2bd4",
   "name": "Simple Motor On Off",
   "description": "A Simple Motor On Off.",
   "author": "Adroit Technologies",
-  "category": "Wizards\\Motors",
+  "category": "Wizards/Motors",
   "version": null,
   "fileName": "Simple Motor On Off.vizw",
   "fileType": "Wizard",

@@ -1,9 +1,9 @@
 {
-  "id": "bdc639da-f17a-450b-9444-48069fd18087",
+  "id": "973701dc-156f-4ff3-9e15-24150c0852e5",
   "name": "R60TD8-G_Wizard",
   "description": "A R60TD8-G_Wizard.",
   "author": "Adroit Technologies",
-  "category": "Hardware\\Mitsubishi\\iQ-R\\Wizards",
+  "category": "Hardware/Mitsubishi/iQ-R/Wizards",
   "version": null,
   "fileName": "R60TD8-G_Wizard.vizw",
   "fileType": "Wizard",

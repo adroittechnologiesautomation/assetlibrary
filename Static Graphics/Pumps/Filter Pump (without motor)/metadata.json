@@ -1,9 +1,9 @@
 {
-  "id": "b35577ea-e478-4e2f-a792-5f7b2c964bcf",
+  "id": "fb72556a-85ff-4af1-85c6-0987fe6a3e39",
   "name": "Filter Pump (without motor)",
   "description": "A Filter Pump (without motor).",
   "author": "Adroit Technologies",
-  "category": "Static Graphics\\Pumps",
+  "category": "Static Graphics/Pumps",
   "version": null,
   "fileName": "Filter Pump (without motor).viz",
   "fileType": "Graphic",

@@ -1,9 +1,9 @@
 {
-  "id": "ed04a954-795d-471f-8451-7b349e6a97d7",
+  "id": "6adb40c9-97c1-44b0-85dd-cb98ac79ac7e",
   "name": "AlarmEvent",
   "description": "A AlarmEvent.",
   "author": "Adroit Technologies",
-  "category": "Hardware\\FAG\\Control",
+  "category": "Hardware/FAG/Control",
   "version": null,
   "fileName": "AlarmEvent.viz",
   "fileType": "Graphic",

@@ -1,9 +1,9 @@
 {
-  "id": "849c4c0e-a8c9-4cf8-9a88-7f3ebd8faed2",
+  "id": "b39ea891-8d7d-465b-812b-17c846e0add5",
   "name": "Chrome Horizontal Mounted Motor",
   "description": "A Chrome Horizontal Mounted Motor.",
   "author": "Adroit Technologies",
-  "category": "Wizards\\Motors",
+  "category": "Wizards/Motors",
   "version": null,
   "fileName": "Chrome Horizontal Mounted Motor.vizw",
   "fileType": "Wizard",

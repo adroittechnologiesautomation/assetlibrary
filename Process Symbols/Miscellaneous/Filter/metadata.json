@@ -1,9 +1,9 @@
 {
-  "id": "cbe11d65-092c-4c97-910d-703ab51f0766",
+  "id": "29dca266-6d32-4f6f-b4a2-6676c94fe626",
   "name": "Filter",
   "description": "A Filter.",
   "author": "Adroit Technologies",
-  "category": "Process Symbols\\Miscellaneous",
+  "category": "Process Symbols/Miscellaneous",
   "version": null,
   "fileName": "Filter.viz",
   "fileType": "Graphic",

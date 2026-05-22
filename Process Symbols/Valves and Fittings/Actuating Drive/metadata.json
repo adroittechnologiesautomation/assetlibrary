@@ -1,9 +1,9 @@
 {
-  "id": "6a94d664-40ed-4012-a006-285909361338",
+  "id": "835de912-eb70-4f6a-93d2-45c5c8993210",
   "name": "Actuating Drive",
   "description": "A Actuating Drive.",
   "author": "Adroit Technologies",
-  "category": "Process Symbols\\Valves and Fittings",
+  "category": "Process Symbols/Valves and Fittings",
   "version": null,
   "fileName": "Actuating Drive.viz",
   "fileType": "Graphic",

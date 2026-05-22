@@ -1,9 +1,9 @@
 {
-  "id": "1f463927-f2db-45c1-87d2-0637c4f81386",
+  "id": "e5e8ab40-b16a-4d08-b7cf-8b8b960d9880",
   "name": "Kiln",
   "description": "A Kiln.",
   "author": "Adroit Technologies",
-  "category": "Static Graphics\\Cement",
+  "category": "Static Graphics/Cement",
   "version": null,
   "fileName": "Kiln.viz",
   "fileType": "Graphic",

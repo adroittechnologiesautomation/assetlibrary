@@ -1,9 +1,9 @@
 {
-  "id": "09ab6ac3-9f08-4850-af31-92e8d3326ca7",
+  "id": "089e6c9d-bfc0-4d58-8df5-72b4bd11ec07",
   "name": "Thyristor",
   "description": "A Thyristor.",
   "author": "Adroit Technologies",
-  "category": "Electrical Symbols\\Static Electrical 1",
+  "category": "Electrical Symbols/Static Electrical 1",
   "version": null,
   "fileName": "Thyristor.viz",
   "fileType": "Graphic",

@@ -1,9 +1,9 @@
 {
-  "id": "864b6f36-475f-4b3e-9bd8-6df8ce68dbb1",
+  "id": "372d11ad-5893-419d-b406-79e9bb148029",
   "name": "RX40_Template",
   "description": "A RX40_Template.",
   "author": "Adroit Technologies",
-  "category": "Hardware\\Mitsubishi\\iQ-R\\Templates",
+  "category": "Hardware/Mitsubishi/iQ-R/Templates",
   "version": null,
   "fileName": "RX40_Template.viz",
   "fileType": "Graphic",

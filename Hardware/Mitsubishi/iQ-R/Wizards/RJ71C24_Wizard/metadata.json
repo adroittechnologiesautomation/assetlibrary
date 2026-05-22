@@ -1,9 +1,9 @@
 {
-  "id": "b5b1bdda-e3de-440a-b22b-b6406749a00d",
+  "id": "6d6f9965-3b70-4c48-8a8d-7aab413a9f6c",
   "name": "RJ71C24_Wizard",
   "description": "A RJ71C24_Wizard.",
   "author": "Adroit Technologies",
-  "category": "Hardware\\Mitsubishi\\iQ-R\\Wizards",
+  "category": "Hardware/Mitsubishi/iQ-R/Wizards",
   "version": null,
   "fileName": "RJ71C24_Wizard.vizw",
   "fileType": "Wizard",

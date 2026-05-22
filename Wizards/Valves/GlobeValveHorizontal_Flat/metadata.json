@@ -1,9 +1,9 @@
 {
-  "id": "ebb71d4d-5fce-4930-9ecf-325974f907ed",
+  "id": "4e5453cc-7198-4832-9cdd-7cfcbee2e7db",
   "name": "GlobeValveHorizontal_Flat",
   "description": "A GlobeValveHorizontal_Flat.",
   "author": "Adroit Technologies",
-  "category": "Wizards\\Valves",
+  "category": "Wizards/Valves",
   "version": null,
   "fileName": "GlobeValveHorizontal_Flat.vizw",
   "fileType": "Wizard",

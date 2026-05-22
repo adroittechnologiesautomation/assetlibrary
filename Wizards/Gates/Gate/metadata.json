@@ -1,9 +1,9 @@
 {
-  "id": "04e2a02a-6e50-4dda-bd05-5cf5db50fdef",
+  "id": "ee4fe240-2fb5-4649-aab3-3e33e1efe1c6",
   "name": "Gate",
   "description": "A Gate.",
   "author": "Adroit Technologies",
-  "category": "Wizards\\Gates",
+  "category": "Wizards/Gates",
   "version": null,
   "fileName": "Gate.vizw",
   "fileType": "Wizard",

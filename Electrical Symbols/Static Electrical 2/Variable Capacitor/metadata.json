@@ -1,9 +1,9 @@
 {
-  "id": "afb82762-9666-4cb2-aae8-19674768f3e3",
+  "id": "f4b0f290-c77f-415b-bbdf-6a0eb3e5ad68",
   "name": "Variable Capacitor",
   "description": "A Variable Capacitor.",
   "author": "Adroit Technologies",
-  "category": "Electrical Symbols\\Static Electrical 2",
+  "category": "Electrical Symbols/Static Electrical 2",
   "version": null,
   "fileName": "Variable Capacitor.viz",
   "fileType": "Graphic",

@@ -1,9 +1,9 @@
 {
-  "id": "7ae7ea7d-c83f-46bf-97ce-e6d4390247e5",
+  "id": "5c1c9f2a-a514-4e96-bf1e-2dc95fde6f8d",
   "name": "DB",
   "description": "A DB.",
   "author": "Adroit Technologies",
-  "category": "Wizards\\Network Management\\ICMP",
+  "category": "Wizards/Network Management/ICMP",
   "version": null,
   "fileName": "DB.vizw",
   "fileType": "Wizard",

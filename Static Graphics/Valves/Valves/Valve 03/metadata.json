@@ -1,9 +1,9 @@
 {
-  "id": "b21ff46f-e5c0-4f54-a0d4-d02c0db088fe",
+  "id": "a1bd4582-7709-44a2-bcda-47c5ba1b30ff",
   "name": "Valve 03",
   "description": "A Valve 03.",
   "author": "Adroit Technologies",
-  "category": "Static Graphics\\Valves\\Valves",
+  "category": "Static Graphics/Valves/Valves",
   "version": null,
   "fileName": "Valve 03.viz",
   "fileType": "Graphic",

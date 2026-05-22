@@ -1,9 +1,9 @@
 {
-  "id": "9c0ab425-de55-47f7-b466-a4fd109f9036",
+  "id": "d21285db-36c2-4d04-80f2-3defb1931e00",
   "name": "R00CPU_Template",
   "description": "A R00CPU_Template.",
   "author": "Adroit Technologies",
-  "category": "Hardware\\Mitsubishi\\iQ-R\\Templates",
+  "category": "Hardware/Mitsubishi/iQ-R/Templates",
   "version": null,
   "fileName": "R00CPU_Template.viz",
   "fileType": "Graphic",

@@ -1,9 +1,9 @@
 {
-  "id": "0e79d7a4-39f9-437f-a18c-89a87d5b80c9",
+  "id": "7d15bdd3-2001-4483-9cf6-6864d91a71c2",
   "name": "wzdDigitalDataLink_Priority3_v01",
   "description": "A wzdDigitalDataLink_Priority3_v01.",
   "author": "Adroit Technologies",
-  "category": "Situational Awareness\\Data Links\\Digitals",
+  "category": "Situational Awareness/Data Links/Digitals",
   "version": null,
   "fileName": "wzdDigitalDataLink_Priority3_v01.vizw",
   "fileType": "Wizard",

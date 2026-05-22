@@ -1,9 +1,9 @@
 {
-  "id": "9b830b8e-64dc-49fd-83de-efcd29f84303",
+  "id": "d6d4a01d-24df-45cc-8251-be6ccf9a16ef",
   "name": "Light",
   "description": "A Light.",
   "author": "Adroit Technologies",
-  "category": "Process Symbols\\Instruments",
+  "category": "Process Symbols/Instruments",
   "version": null,
   "fileName": "Light.viz",
   "fileType": "Graphic",

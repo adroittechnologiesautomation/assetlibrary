@@ -1,9 +1,9 @@
 {
-  "id": "b294654e-5ebc-4565-812d-5da225c6d03e",
+  "id": "5f89c569-ae3d-4e59-8b32-e5a30730883b",
   "name": "Simple Temperature Meter",
   "description": "A Simple Temperature Meter.",
   "author": "Adroit Technologies",
-  "category": "Wizards\\Temperature Meter",
+  "category": "Wizards/Temperature Meter",
   "version": null,
   "fileName": "Simple Temperature Meter.vizw",
   "fileType": "Wizard",

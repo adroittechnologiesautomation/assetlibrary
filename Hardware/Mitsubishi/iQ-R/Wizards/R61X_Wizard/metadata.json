@@ -1,9 +1,9 @@
 {
-  "id": "68e3b8fb-0340-4f48-86bb-172f55d13226",
+  "id": "b6f0f641-ae86-45fe-80fb-b37a179d5333",
   "name": "R61X_Wizard",
   "description": "A R61X_Wizard.",
   "author": "Adroit Technologies",
-  "category": "Hardware\\Mitsubishi\\iQ-R\\Wizards",
+  "category": "Hardware/Mitsubishi/iQ-R/Wizards",
   "version": null,
   "fileName": "R61X_Wizard.vizw",
   "fileType": "Wizard",

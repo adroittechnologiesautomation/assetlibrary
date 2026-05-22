@@ -1,9 +1,9 @@
 {
-  "id": "fb43b710-da0e-4b35-985c-653ee7bafc5b",
+  "id": "f1fb6494-f965-472a-932f-b7368aff1ade",
   "name": "wzdAnalogueDisplay_NoPriority_v01",
   "description": "A wzdAnalogueDisplay_NoPriority_v01.",
   "author": "Adroit Technologies",
-  "category": "Situational Awareness\\Displays\\Analogues",
+  "category": "Situational Awareness/Displays/Analogues",
   "version": null,
   "fileName": "wzdAnalogueDisplay_NoPriority_v01.vizw",
   "fileType": "Wizard",

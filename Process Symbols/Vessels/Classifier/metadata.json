@@ -1,9 +1,9 @@
 {
-  "id": "418983e9-0adf-460c-9c8e-c1d3ae693f5a",
+  "id": "35b24302-e808-47f0-b36e-9fd12aed17e1",
   "name": "Classifier",
   "description": "A Classifier.",
   "author": "Adroit Technologies",
-  "category": "Process Symbols\\Vessels",
+  "category": "Process Symbols/Vessels",
   "version": null,
   "fileName": "Classifier.viz",
   "fileType": "Graphic",

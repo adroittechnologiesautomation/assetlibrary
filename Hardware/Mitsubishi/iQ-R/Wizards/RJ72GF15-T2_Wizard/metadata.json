@@ -1,9 +1,9 @@
 {
-  "id": "1278a2af-a2ef-4770-b65c-28875a2d75a8",
+  "id": "20a29e17-2b15-4a4c-9fb0-7d6778add28d",
   "name": "RJ72GF15-T2_Wizard",
   "description": "A RJ72GF15-T2_Wizard.",
   "author": "Adroit Technologies",
-  "category": "Hardware\\Mitsubishi\\iQ-R\\Wizards",
+  "category": "Hardware/Mitsubishi/iQ-R/Wizards",
   "version": null,
   "fileName": "RJ72GF15-T2_Wizard.vizw",
   "fileType": "Wizard",

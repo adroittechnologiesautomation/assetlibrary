@@ -1,9 +1,9 @@
 {
-  "id": "41c5fd5f-319f-4c37-8806-2e4085176072",
+  "id": "e1942a4a-6264-4bdc-864e-8a6a67f19f06",
   "name": "Pump04",
   "description": "A Pump04.",
   "author": "Adroit Technologies",
-  "category": "Wizards\\Pumps",
+  "category": "Wizards/Pumps",
   "version": null,
   "fileName": "Pump04.vizw",
   "fileType": "Wizard",

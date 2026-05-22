@@ -1,9 +1,9 @@
 {
-  "id": "9778f2ab-97de-4c4b-8d19-b5e9772e1832",
+  "id": "c52abed2-af8e-42d1-a366-f766cfc3ed61",
   "name": "RX10_Template",
   "description": "A RX10_Template.",
   "author": "Adroit Technologies",
-  "category": "Hardware\\Mitsubishi\\iQ-R\\Templates",
+  "category": "Hardware/Mitsubishi/iQ-R/Templates",
   "version": null,
   "fileName": "RX10_Template.viz",
   "fileType": "Graphic",

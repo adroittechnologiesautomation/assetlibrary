@@ -1,9 +1,9 @@
 {
-  "id": "bb47eee7-fdba-4723-82a9-eda611323300",
+  "id": "287d9ad3-0e3b-48e9-a866-36a0fe39c935",
   "name": "Server_Vertical",
   "description": "A Server_Vertical.",
   "author": "Adroit Technologies",
-  "category": "Wizards\\Network Management\\ICMP",
+  "category": "Wizards/Network Management/ICMP",
   "version": null,
   "fileName": "Server_Vertical.vizw",
   "fileType": "Wizard",

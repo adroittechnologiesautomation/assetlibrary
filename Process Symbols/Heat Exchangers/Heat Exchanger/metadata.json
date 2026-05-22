@@ -1,9 +1,9 @@
 {
-  "id": "6b3d14ec-48ce-431c-8646-40f66021fdd5",
+  "id": "b98e23bf-c795-450d-877c-3d72f5b775ab",
   "name": "Heat Exchanger",
   "description": "A Heat Exchanger.",
   "author": "Adroit Technologies",
-  "category": "Process Symbols\\Heat Exchangers",
+  "category": "Process Symbols/Heat Exchangers",
   "version": null,
   "fileName": "Heat Exchanger.viz",
   "fileType": "Graphic",

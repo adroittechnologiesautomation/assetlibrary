@@ -1,9 +1,9 @@
 {
-  "id": "4f4e1ede-60ba-45c8-80e0-f49f85c2c054",
+  "id": "c579fd2f-7178-446e-90d1-b54f10350291",
   "name": "Touch",
   "description": "A Touch.",
   "author": "Adroit Technologies",
-  "category": "Wizards\\Network Management\\ICMP",
+  "category": "Wizards/Network Management/ICMP",
   "version": null,
   "fileName": "Touch.vizw",
   "fileType": "Wizard",

@@ -1,9 +1,9 @@
 {
-  "id": "a8239183-5836-44f6-9fe1-081518e5c548",
+  "id": "173df8c2-2d93-446e-9ddb-2bf2b40426ad",
   "name": "QNUDVCPU_Template",
   "description": "A QNUDVCPU_Template.",
   "author": "Adroit Technologies",
-  "category": "Hardware\\Mitsubishi\\Q\\Templates",
+  "category": "Hardware/Mitsubishi/Q/Templates",
   "version": null,
   "fileName": "QNUDVCPU_Template.viz",
   "fileType": "Graphic",

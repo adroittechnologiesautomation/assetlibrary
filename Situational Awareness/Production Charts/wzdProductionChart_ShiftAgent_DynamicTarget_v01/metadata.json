@@ -1,9 +1,9 @@
 {
-  "id": "11186fe3-3dc3-441c-a4cb-6df30341c9b6",
+  "id": "12434719-8dc5-4ab7-a1e1-514fdf61fecb",
   "name": "wzdProductionChart_ShiftAgent_DynamicTarget_v01",
   "description": "A wzdProductionChart_ShiftAgent_DynamicTarget_v01.",
   "author": "Adroit Technologies",
-  "category": "Situational Awareness\\Production Charts",
+  "category": "Situational Awareness/Production Charts",
   "version": null,
   "fileName": "wzdProductionChart_ShiftAgent_DynamicTarget_v01.vizw",
   "fileType": "Wizard",

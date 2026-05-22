@@ -1,9 +1,9 @@
 {
-  "id": "cb4914cd-5c94-42b0-ab71-76a06fd1d8f2",
+  "id": "dd7703ab-4b67-4ef4-8c1d-1ecea6277292",
   "name": "QY80_Template",
   "description": "A QY80_Template.",
   "author": "Adroit Technologies",
-  "category": "Hardware\\Mitsubishi\\Q\\Templates",
+  "category": "Hardware/Mitsubishi/Q/Templates",
   "version": null,
   "fileName": "QY80_Template.viz",
   "fileType": "Graphic",

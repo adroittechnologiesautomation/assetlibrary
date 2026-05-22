@@ -1,9 +1,9 @@
 {
-  "id": "7c79de3e-5de1-4f44-8dfb-5acdeefa6fd2",
+  "id": "692d0f42-eb1a-462a-bb90-b60e23d55aed",
   "name": "ISOValveVertical_Flat",
   "description": "A ISOValveVertical_Flat.",
   "author": "Adroit Technologies",
-  "category": "Wizards\\Valves",
+  "category": "Wizards/Valves",
   "version": null,
   "fileName": "ISOValveVertical_Flat.vizw",
   "fileType": "Wizard",

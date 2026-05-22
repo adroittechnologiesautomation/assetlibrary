@@ -1,9 +1,9 @@
 {
-  "id": "29a815c5-1808-43b9-aa86-aa9ab25b21ea",
+  "id": "d16f26fa-b0ab-4acc-95f2-e75118c1fba1",
   "name": "Heat Exchanger 01",
   "description": "A Heat Exchanger 01.",
   "author": "Adroit Technologies",
-  "category": "Static Graphics\\Heat Exchangers",
+  "category": "Static Graphics/Heat Exchangers",
   "version": null,
   "fileName": "Heat Exchanger 01.viz",
   "fileType": "Graphic",

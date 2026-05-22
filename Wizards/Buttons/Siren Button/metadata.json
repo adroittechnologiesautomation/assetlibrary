@@ -1,9 +1,9 @@
 {
-  "id": "cacd68cf-2e20-41c7-bec8-bf45e636d1e5",
+  "id": "4ef5bec3-af0b-4ace-a93e-9c85b7e69776",
   "name": "Siren Button",
   "description": "A Siren Button.",
   "author": "Adroit Technologies",
-  "category": "Wizards\\Buttons",
+  "category": "Wizards/Buttons",
   "version": null,
   "fileName": "Siren Button.vizw",
   "fileType": "Wizard",

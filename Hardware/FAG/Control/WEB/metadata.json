@@ -1,9 +1,9 @@
 {
-  "id": "793cf3e0-8336-473e-b8a2-2208e1c22db6",
+  "id": "2d68812d-05be-446c-a72a-744716386ab1",
   "name": "WEB",
   "description": "A WEB.",
   "author": "Adroit Technologies",
-  "category": "Hardware\\FAG\\Control",
+  "category": "Hardware/FAG/Control",
   "version": null,
   "fileName": "WEB.viz",
   "fileType": "Graphic",

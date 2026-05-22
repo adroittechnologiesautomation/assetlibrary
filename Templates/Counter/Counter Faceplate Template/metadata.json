@@ -1,9 +1,9 @@
 {
-  "id": "955576c6-7e97-4ca3-96ec-1900d50f8e53",
+  "id": "d8e1a602-7190-43f5-b8dd-0a01f75a338f",
   "name": "Counter Faceplate Template",
   "description": "A Counter Faceplate Template.",
   "author": "Adroit Technologies",
-  "category": "Templates\\Counter",
+  "category": "Templates/Counter",
   "version": null,
   "fileName": "Counter Faceplate Template.viz",
   "fileType": "Graphic",

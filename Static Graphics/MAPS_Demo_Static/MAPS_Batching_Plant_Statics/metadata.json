@@ -1,9 +1,9 @@
 {
-  "id": "929027b1-68d9-4f61-a981-557d0eb6374b",
+  "id": "e769a13d-064f-4bf7-9043-58a14220232f",
   "name": "MAPS_Batching_Plant_Statics",
   "description": "A MAPS_Batching_Plant_Statics.",
   "author": "Adroit Technologies",
-  "category": "Static Graphics\\MAPS_Demo_Static",
+  "category": "Static Graphics/MAPS_Demo_Static",
   "version": null,
   "fileName": "MAPS_Batching_Plant_Statics.viz",
   "fileType": "Graphic",

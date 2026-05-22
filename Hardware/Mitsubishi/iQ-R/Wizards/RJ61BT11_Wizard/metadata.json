@@ -1,9 +1,9 @@
 {
-  "id": "0ef080bf-6913-4030-8da3-3837120d1b45",
+  "id": "66739ba0-dc19-4945-be10-a896766e6742",
   "name": "RJ61BT11_Wizard",
   "description": "A RJ61BT11_Wizard.",
   "author": "Adroit Technologies",
-  "category": "Hardware\\Mitsubishi\\iQ-R\\Wizards",
+  "category": "Hardware/Mitsubishi/iQ-R/Wizards",
   "version": null,
   "fileName": "RJ61BT11_Wizard.vizw",
   "fileType": "Wizard",

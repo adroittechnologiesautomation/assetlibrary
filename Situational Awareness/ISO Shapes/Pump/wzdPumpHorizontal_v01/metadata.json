@@ -1,9 +1,9 @@
 {
-  "id": "c8c8e1e8-b67c-4331-adc6-46aafb8be7e0",
+  "id": "21e99e20-4f11-42ec-bd3e-b87131ff0adc",
   "name": "wzdPumpHorizontal_v01",
   "description": "A wzdPumpHorizontal_v01.",
   "author": "Adroit Technologies",
-  "category": "Situational Awareness\\ISO Shapes\\Pump",
+  "category": "Situational Awareness/ISO Shapes/Pump",
   "version": null,
   "fileName": "wzdPumpHorizontal_v01.vizw",
   "fileType": "Wizard",

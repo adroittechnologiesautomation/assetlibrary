@@ -1,9 +1,9 @@
 {
-  "id": "29fdb3aa-4a18-4a04-ab84-9857c8b44062",
+  "id": "d527a249-497a-4e2c-943e-ecf557ec53d8",
   "name": "wzdSparkLine_v01",
   "description": "A wzdSparkLine_v01.",
   "author": "Adroit Technologies",
-  "category": "Situational Awareness\\Spark Lines",
+  "category": "Situational Awareness/Spark Lines",
   "version": null,
   "fileName": "wzdSparkLine_v01.vizw",
   "fileType": "Wizard",

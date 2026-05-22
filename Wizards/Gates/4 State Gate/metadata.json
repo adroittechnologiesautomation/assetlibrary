@@ -1,9 +1,9 @@
 {
-  "id": "3ac1593c-1272-41f6-8337-8a9f87c97e48",
+  "id": "bdc34df9-decd-4ccd-8a6e-e6c2e8a307a1",
   "name": "4 State Gate",
   "description": "A 4 State Gate.",
   "author": "Adroit Technologies",
-  "category": "Wizards\\Gates",
+  "category": "Wizards/Gates",
   "version": null,
   "fileName": "4 State Gate.vizw",
   "fileType": "Wizard",

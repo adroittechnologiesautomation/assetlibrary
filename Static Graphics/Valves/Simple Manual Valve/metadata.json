@@ -1,9 +1,9 @@
 {
-  "id": "058d8aaf-f5d5-470d-848b-51c4a11ff676",
+  "id": "8d176d80-b7f5-44c0-93d3-fb63f349e65c",
   "name": "Simple Manual Valve",
   "description": "A Simple Manual Valve.",
   "author": "Adroit Technologies",
-  "category": "Static Graphics\\Valves",
+  "category": "Static Graphics/Valves",
   "version": null,
   "fileName": "Simple Manual Valve.viz",
   "fileType": "Graphic",

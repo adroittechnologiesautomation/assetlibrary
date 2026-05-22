@@ -1,9 +1,9 @@
 {
-  "id": "f324120a-ecc9-431a-9ebc-900664fbe48f",
+  "id": "34bd844a-5634-46c5-8fc2-fc53482f59de",
   "name": "Compressor1",
   "description": "A Compressor1.",
   "author": "Adroit Technologies",
-  "category": "Static Graphics\\Compressors",
+  "category": "Static Graphics/Compressors",
   "version": null,
   "fileName": "Compressor1.viz",
   "fileType": "Graphic",

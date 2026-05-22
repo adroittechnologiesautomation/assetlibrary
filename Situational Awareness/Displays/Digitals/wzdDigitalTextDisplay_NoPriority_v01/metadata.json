@@ -1,9 +1,9 @@
 {
-  "id": "8e7a911d-35ae-4054-b8d4-5386e140d717",
+  "id": "5062ec34-c9a0-4efb-9f11-c5f78cd48c56",
   "name": "wzdDigitalTextDisplay_NoPriority_v01",
   "description": "A wzdDigitalTextDisplay_NoPriority_v01.",
   "author": "Adroit Technologies",
-  "category": "Situational Awareness\\Displays\\Digitals",
+  "category": "Situational Awareness/Displays/Digitals",
   "version": null,
   "fileName": "wzdDigitalTextDisplay_NoPriority_v01.vizw",
   "fileType": "Wizard",

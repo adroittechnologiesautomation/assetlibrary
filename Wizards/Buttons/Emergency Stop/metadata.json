@@ -1,9 +1,9 @@
 {
-  "id": "64bba083-19c3-42a7-b633-5e45c0820f1b",
+  "id": "e4e754c0-2c24-437a-9fd3-2f16247815b2",
   "name": "Emergency Stop",
   "description": "A Emergency Stop.",
   "author": "Adroit Technologies",
-  "category": "Wizards\\Buttons",
+  "category": "Wizards/Buttons",
   "version": null,
   "fileName": "Emergency Stop.vizw",
   "fileType": "Wizard",

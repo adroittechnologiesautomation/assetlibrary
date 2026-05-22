@@ -1,9 +1,9 @@
 {
-  "id": "136a0186-435a-4ae9-8df2-9ae0c3484f2a",
+  "id": "b296f3f2-de06-432c-be10-559518725031",
   "name": "R60DA4_Wizard",
   "description": "A R60DA4_Wizard.",
   "author": "Adroit Technologies",
-  "category": "Hardware\\Mitsubishi\\iQ-R\\Wizards",
+  "category": "Hardware/Mitsubishi/iQ-R/Wizards",
   "version": null,
   "fileName": "R60DA4_Wizard.vizw",
   "fileType": "Wizard",

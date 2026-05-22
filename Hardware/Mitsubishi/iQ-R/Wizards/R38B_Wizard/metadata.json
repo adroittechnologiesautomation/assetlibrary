@@ -1,9 +1,9 @@
 {
-  "id": "41a09531-39df-4a7e-a24a-034059af31ef",
+  "id": "868d36ef-6266-4fb8-b447-34222931f9ba",
   "name": "R38B_Wizard",
   "description": "A R38B_Wizard.",
   "author": "Adroit Technologies",
-  "category": "Hardware\\Mitsubishi\\iQ-R\\Wizards",
+  "category": "Hardware/Mitsubishi/iQ-R/Wizards",
   "version": null,
   "fileName": "R38B_Wizard.vizw",
   "fileType": "Wizard",

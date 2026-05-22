@@ -1,9 +1,9 @@
 {
-  "id": "cba9bd6d-1b38-450a-96ad-766c6f6e4276",
+  "id": "1e3281e2-6073-4af3-847a-c73353a5f742",
   "name": "Stacker",
   "description": "A Stacker.",
   "author": "Adroit Technologies",
-  "category": "Static Graphics\\Cement",
+  "category": "Static Graphics/Cement",
   "version": null,
   "fileName": "Stacker.viz",
   "fileType": "Graphic",

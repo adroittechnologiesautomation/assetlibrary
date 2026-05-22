@@ -1,9 +1,9 @@
 {
-  "id": "6750ef4f-4a32-4453-a2f8-9551dd6585c6",
+  "id": "f50527b0-acf1-48c1-bedb-5ec62d89078c",
   "name": "FX5-80SSC_Wizard",
   "description": "A FX5-80SSC_Wizard.",
   "author": "Adroit Technologies",
-  "category": "Hardware\\Mitsubishi\\iQ-F\\Wizards",
+  "category": "Hardware/Mitsubishi/iQ-F/Wizards",
   "version": null,
   "fileName": "FX5-80SSC_Wizard.vizw",
   "fileType": "Wizard",

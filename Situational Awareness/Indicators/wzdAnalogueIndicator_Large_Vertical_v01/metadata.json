@@ -1,9 +1,9 @@
 {
-  "id": "865c586f-3937-41a0-bdac-b733f09ba217",
+  "id": "c12c7c81-a2ca-4c08-8aac-2e8f69112fbd",
   "name": "wzdAnalogueIndicator_Large_Vertical_v01",
   "description": "A wzdAnalogueIndicator_Large_Vertical_v01.",
   "author": "Adroit Technologies",
-  "category": "Situational Awareness\\Indicators",
+  "category": "Situational Awareness/Indicators",
   "version": null,
   "fileName": "wzdAnalogueIndicator_Large_Vertical_v01.vizw",
   "fileType": "Wizard",

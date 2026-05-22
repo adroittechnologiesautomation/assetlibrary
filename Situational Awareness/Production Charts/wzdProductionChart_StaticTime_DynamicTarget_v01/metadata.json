@@ -1,9 +1,9 @@
 {
-  "id": "01764400-fd65-4910-b032-ae7b5ba65d08",
+  "id": "070a7c27-1e48-44c4-911d-0b7117effc9c",
   "name": "wzdProductionChart_StaticTime_DynamicTarget_v01",
   "description": "A wzdProductionChart_StaticTime_DynamicTarget_v01.",
   "author": "Adroit Technologies",
-  "category": "Situational Awareness\\Production Charts",
+  "category": "Situational Awareness/Production Charts",
   "version": null,
   "fileName": "wzdProductionChart_StaticTime_DynamicTarget_v01.vizw",
   "fileType": "Wizard",

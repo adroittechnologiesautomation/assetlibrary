@@ -1,9 +1,9 @@
 {
-  "id": "edf082fc-ba5c-4a14-ad3f-52faeb37004f",
+  "id": "a547d50b-59fa-498b-9bfd-88d95b82a4c6",
   "name": "Reservoir Dam",
   "description": "A Reservoir Dam.",
   "author": "Adroit Technologies",
-  "category": "Static Graphics\\Water\\Reservoir",
+  "category": "Static Graphics/Water/Reservoir",
   "version": null,
   "fileName": "Reservoir Dam.viz",
   "fileType": "Graphic",

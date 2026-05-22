@@ -1,9 +1,9 @@
 {
-  "id": "05979df5-2cab-4ff1-9fc9-79babe6821d1",
+  "id": "6ebb1e9c-5a55-43b8-ac57-987baa859007",
   "name": "Inlet Outlet",
   "description": "A Inlet Outlet.",
   "author": "Adroit Technologies",
-  "category": "Process Symbols\\Valves and Fittings",
+  "category": "Process Symbols/Valves and Fittings",
   "version": null,
   "fileName": "Inlet Outlet.viz",
   "fileType": "Graphic",

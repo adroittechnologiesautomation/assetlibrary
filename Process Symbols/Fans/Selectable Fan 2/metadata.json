@@ -1,9 +1,9 @@
 {
-  "id": "3828da98-29d9-47b8-979e-7b13d2875479",
+  "id": "016da2b0-4b91-45da-a3d8-c046aa43b2fe",
   "name": "Selectable Fan 2",
   "description": "A Selectable Fan 2.",
   "author": "Adroit Technologies",
-  "category": "Process Symbols\\Fans",
+  "category": "Process Symbols/Fans",
   "version": null,
   "fileName": "Selectable Fan 2.viz",
   "fileType": "Graphic",

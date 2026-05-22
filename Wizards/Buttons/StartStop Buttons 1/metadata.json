@@ -1,9 +1,9 @@
 {
-  "id": "0eb3d492-26ec-439d-ab8e-f105bb24672f",
+  "id": "116b5c0f-453f-4bbf-8922-2361172a7a62",
   "name": "StartStop Buttons 1",
   "description": "A StartStop Buttons 1.",
   "author": "Adroit Technologies",
-  "category": "Wizards\\Buttons",
+  "category": "Wizards/Buttons",
   "version": null,
   "fileName": "StartStop Buttons 1.vizw",
   "fileType": "Wizard",

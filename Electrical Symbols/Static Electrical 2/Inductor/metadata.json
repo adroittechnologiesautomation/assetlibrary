@@ -1,9 +1,9 @@
 {
-  "id": "77b6df5c-d9ca-4146-a2a6-6f4129249439",
+  "id": "6c7027cd-b359-4730-93c9-1191d866a841",
   "name": "Inductor",
   "description": "A Inductor.",
   "author": "Adroit Technologies",
-  "category": "Electrical Symbols\\Static Electrical 2",
+  "category": "Electrical Symbols/Static Electrical 2",
   "version": null,
   "fileName": "Inductor.viz",
   "fileType": "Graphic",

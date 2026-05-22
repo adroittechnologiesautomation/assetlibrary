@@ -1,9 +1,9 @@
 {
-  "id": "a309b148-bb61-44e3-8ce8-1d2d3b426c26",
+  "id": "47e55bf1-fb53-4fdf-9c26-9b40def1aad0",
   "name": "QNUDVCPU_Wizard",
   "description": "A QNUDVCPU_Wizard.",
   "author": "Adroit Technologies",
-  "category": "Hardware\\Mitsubishi\\Q\\Wizards",
+  "category": "Hardware/Mitsubishi/Q/Wizards",
   "version": null,
   "fileName": "QNUDVCPU_Wizard.vizw",
   "fileType": "Wizard",

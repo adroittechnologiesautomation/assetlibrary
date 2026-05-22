@@ -1,9 +1,9 @@
 {
-  "id": "7207dbd0-86cb-45e9-b584-d2ced3eeff0b",
+  "id": "1ab01d6b-e990-4dc3-a6eb-078eaceed6a4",
   "name": "PLC",
   "description": "A PLC.",
   "author": "Adroit Technologies",
-  "category": "Wizards\\Network Management\\ICMP",
+  "category": "Wizards/Network Management/ICMP",
   "version": null,
   "fileName": "PLC.vizw",
   "fileType": "Wizard",

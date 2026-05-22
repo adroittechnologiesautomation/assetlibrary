@@ -1,9 +1,9 @@
 {
-  "id": "c1ca4c4c-5b7d-4f00-91d1-1a153173f8b3",
+  "id": "1adb8591-6fbb-4230-85e6-a3fd718a8b45",
   "name": "Horizontal Slider",
   "description": "A Horizontal Slider.",
   "author": "Adroit Technologies",
-  "category": "Wizards\\Slider",
+  "category": "Wizards/Slider",
   "version": null,
   "fileName": "Horizontal Slider.vizw",
   "fileType": "Wizard",

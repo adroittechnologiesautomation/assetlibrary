@@ -1,9 +1,9 @@
 {
-  "id": "0c6ab4bd-0cb0-4bd8-bc4d-0f82604ba135",
+  "id": "7fee7c3e-e621-4f62-8e53-2d733f7b41d4",
   "name": "Off Button",
   "description": "A Off Button.",
   "author": "Adroit Technologies",
-  "category": "Wizards\\Buttons\\On Off Buttons",
+  "category": "Wizards/Buttons/On Off Buttons",
   "version": null,
   "fileName": "Off Button.vizw",
   "fileType": "Wizard",

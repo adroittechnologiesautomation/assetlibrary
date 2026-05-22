@@ -1,9 +1,9 @@
 {
-  "id": "58600e76-4741-4f64-8fd8-b2400723da24",
+  "id": "747bef9b-658d-44a8-9bf1-b73b4779c5ec",
   "name": "Date_and_Time",
   "description": "A Date_and_Time.",
   "author": "Adroit Technologies",
-  "category": "Wizards\\Date and Time",
+  "category": "Wizards/Date and Time",
   "version": null,
   "fileName": "Date_and_Time.vizw",
   "fileType": "Wizard",

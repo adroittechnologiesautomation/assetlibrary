@@ -1,9 +1,9 @@
 {
-  "id": "ebedc35d-21a3-46e8-9ca6-f3641704f74a",
+  "id": "456a843c-73c8-40b2-8b5f-7fca8fb33bcf",
   "name": "Alarm Button 2",
   "description": "A Alarm Button 2.",
   "author": "Adroit Technologies",
-  "category": "Wizards\\Buttons\\Alarm Button",
+  "category": "Wizards/Buttons/Alarm Button",
   "version": null,
   "fileName": "Alarm Button 2.vizw",
   "fileType": "Wizard",

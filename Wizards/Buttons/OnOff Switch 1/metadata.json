@@ -1,9 +1,9 @@
 {
-  "id": "79b6f274-d524-4f6b-ab26-a177edce36eb",
+  "id": "1b58ceea-102e-4033-944c-cf3186c5911d",
   "name": "OnOff Switch 1",
   "description": "A OnOff Switch 1.",
   "author": "Adroit Technologies",
-  "category": "Wizards\\Buttons",
+  "category": "Wizards/Buttons",
   "version": null,
   "fileName": "OnOff Switch 1.vizw",
   "fileType": "Wizard",

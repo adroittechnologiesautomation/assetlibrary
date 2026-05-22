@@ -1,9 +1,9 @@
 {
-  "id": "d65b02ea-f2bd-4c19-ac9c-f5e21ae81330",
+  "id": "85850f2c-ba9a-48b2-8d00-6150722c7bfa",
   "name": "Compressor",
   "description": "A Compressor.",
   "author": "Adroit Technologies",
-  "category": "Process Symbols\\Compressors",
+  "category": "Process Symbols/Compressors",
   "version": null,
   "fileName": "Compressor.viz",
   "fileType": "Graphic",

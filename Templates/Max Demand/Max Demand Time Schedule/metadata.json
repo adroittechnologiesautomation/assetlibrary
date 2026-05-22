@@ -1,9 +1,9 @@
 {
-  "id": "d225a5df-b1a1-4352-94b5-a2b27d1243e0",
+  "id": "93468c91-924d-4a58-b1a7-15ac14f71ff4",
   "name": "Max Demand Time Schedule",
   "description": "A Max Demand Time Schedule.",
   "author": "Adroit Technologies",
-  "category": "Templates\\Max Demand",
+  "category": "Templates/Max Demand",
   "version": null,
   "fileName": "Max Demand Time Schedule.viz",
   "fileType": "Graphic",

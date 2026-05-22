@@ -1,9 +1,9 @@
 {
-  "id": "d9300e99-212e-4e24-b092-5b564964da5e",
+  "id": "66a4615c-77e1-40bc-a56a-b69414aa9466",
   "name": "Mixer",
   "description": "A Mixer.",
   "author": "Adroit Technologies",
-  "category": "Process Symbols\\Stirers and Mixers",
+  "category": "Process Symbols/Stirers and Mixers",
   "version": null,
   "fileName": "Mixer.viz",
   "fileType": "Graphic",

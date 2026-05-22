@@ -1,9 +1,9 @@
 {
-  "id": "c82075bf-214f-4394-80b2-c6de331851cb",
+  "id": "aa10796c-275a-4526-a642-81478813488c",
   "name": "QJ71E71_Wizard",
   "description": "A QJ71E71_Wizard.",
   "author": "Adroit Technologies",
-  "category": "Hardware\\Mitsubishi\\Q\\Wizards",
+  "category": "Hardware/Mitsubishi/Q/Wizards",
   "version": null,
   "fileName": "QJ71E71_Wizard.vizw",
   "fileType": "Wizard",

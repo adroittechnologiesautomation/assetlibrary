@@ -1,9 +1,9 @@
 {
-  "id": "79f55e78-1106-4bee-b646-83027fbf20aa",
+  "id": "c83b3845-f6db-4dbb-94c7-e67da5da28ed",
   "name": "wzdFAG",
   "description": "A wzdFAG.",
   "author": "Adroit Technologies",
-  "category": "Hardware\\FAG",
+  "category": "Hardware/FAG",
   "version": null,
   "fileName": "wzdFAG.vizw",
   "fileType": "Wizard",

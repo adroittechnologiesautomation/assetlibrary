@@ -1,9 +1,9 @@
 {
-  "id": "e332f889-baba-445f-9bc5-8604f9247609",
+  "id": "d36313f9-41d0-4251-9c04-eef079b8cf58",
   "name": "FX5U-80M_Wizard",
   "description": "A FX5U-80M_Wizard.",
   "author": "Adroit Technologies",
-  "category": "Hardware\\Mitsubishi\\iQ-F\\Wizards",
+  "category": "Hardware/Mitsubishi/iQ-F/Wizards",
   "version": null,
   "fileName": "FX5U-80M_Wizard.vizw",
   "fileType": "Wizard",

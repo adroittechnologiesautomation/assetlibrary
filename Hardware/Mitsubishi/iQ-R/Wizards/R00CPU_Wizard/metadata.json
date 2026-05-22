@@ -1,9 +1,9 @@
 {
-  "id": "e160d32d-8fe5-41b0-ae4f-39dae318e9e0",
+  "id": "424ac959-2749-4745-965c-f1d3694fef06",
   "name": "R00CPU_Wizard",
   "description": "A R00CPU_Wizard.",
   "author": "Adroit Technologies",
-  "category": "Hardware\\Mitsubishi\\iQ-R\\Wizards",
+  "category": "Hardware/Mitsubishi/iQ-R/Wizards",
   "version": null,
   "fileName": "R00CPU_Wizard.vizw",
   "fileType": "Wizard",

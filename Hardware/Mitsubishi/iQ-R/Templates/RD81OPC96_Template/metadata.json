@@ -1,9 +1,9 @@
 {
-  "id": "1e284446-58bb-49b6-8ccc-2bc923eca3d3",
+  "id": "ec9995e1-d90b-4295-bd05-cb397d50d140",
   "name": "RD81OPC96_Template",
   "description": "A RD81OPC96_Template.",
   "author": "Adroit Technologies",
-  "category": "Hardware\\Mitsubishi\\iQ-R\\Templates",
+  "category": "Hardware/Mitsubishi/iQ-R/Templates",
   "version": null,
   "fileName": "RD81OPC96_Template.viz",
   "fileType": "Graphic",

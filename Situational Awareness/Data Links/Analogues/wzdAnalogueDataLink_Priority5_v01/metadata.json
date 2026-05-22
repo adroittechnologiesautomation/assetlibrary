@@ -1,9 +1,9 @@
 {
-  "id": "4828ddc6-5705-445d-9197-3bc547736353",
+  "id": "1cdadc86-bfee-4b97-ae6e-31b8f7a344d9",
   "name": "wzdAnalogueDataLink_Priority5_v01",
   "description": "A wzdAnalogueDataLink_Priority5_v01.",
   "author": "Adroit Technologies",
-  "category": "Situational Awareness\\Data Links\\Analogues",
+  "category": "Situational Awareness/Data Links/Analogues",
   "version": null,
   "fileName": "wzdAnalogueDataLink_Priority5_v01.vizw",
   "fileType": "Wizard",

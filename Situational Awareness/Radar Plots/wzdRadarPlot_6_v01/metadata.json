@@ -1,9 +1,9 @@
 {
-  "id": "d239aef9-8953-44b1-bb49-5c01d5577357",
+  "id": "c4114f7c-9243-43d7-a140-9750b6057830",
   "name": "wzdRadarPlot_6_v01",
   "description": "A wzdRadarPlot_6_v01.",
   "author": "Adroit Technologies",
-  "category": "Situational Awareness\\Radar Plots",
+  "category": "Situational Awareness/Radar Plots",
   "version": null,
   "fileName": "wzdRadarPlot_6_v01.vizw",
   "fileType": "Wizard",

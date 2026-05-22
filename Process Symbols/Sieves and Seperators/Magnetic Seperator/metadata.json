@@ -1,9 +1,9 @@
 {
-  "id": "3be24188-397c-43ba-9686-d46b6d191105",
+  "id": "783d1dbe-0fa1-4f33-874d-2b245bea11e1",
   "name": "Magnetic Seperator",
   "description": "A Magnetic Seperator.",
   "author": "Adroit Technologies",
-  "category": "Process Symbols\\Sieves and Seperators",
+  "category": "Process Symbols/Sieves and Seperators",
   "version": null,
   "fileName": "Magnetic Seperator.viz",
   "fileType": "Graphic",
