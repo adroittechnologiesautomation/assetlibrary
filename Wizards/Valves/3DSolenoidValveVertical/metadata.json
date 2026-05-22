@@ -1,8 +1,9 @@
 {
-  "id": "2849a317-cab5-4bd8-89e3-3130f9e2b9d8",
+  "id": "ba02c5a3-9069-49f9-8fa4-2bbe775d1181",
   "name": "3DSolenoidValveVertical",
   "description": "A 3DSolenoidValveVertical.",
   "author": "Adroit Technologies",
+  "category": "Wizards\\Valves",
   "version": null,
   "fileName": "3DSolenoidValveVertical.vizw",
   "fileType": "Wizard",
@@ -14,6 +15,8 @@
   "currency": "ZAR",
   "previewImageUrls": [],
   "downloadUrl": "",
+  "documentation": "",
+  "documentationUrl": "",
   "industries": [],
   "tags": [
     "Valve",

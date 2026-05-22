@@ -1,8 +1,9 @@
 {
-  "id": "f327e57a-2864-4473-bc0a-0bc35b137ca8",
+  "id": "1a54159e-563f-49c1-b8d3-7f0f3712398e",
   "name": "Blue Sludge Cutter no motor",
   "description": "A Blue Sludge Cutter no motor.",
   "author": "Adroit Technologies",
+  "category": "Static Graphics\\Water\\Sludge Cutter",
   "version": null,
   "fileName": "Blue Sludge Cutter no motor.viz",
   "fileType": "Graphic",
@@ -14,6 +15,8 @@
   "currency": "ZAR",
   "previewImageUrls": [],
   "downloadUrl": "",
+  "documentation": "",
+  "documentationUrl": "",
   "industries": [],
   "tags": [
     "Motor",

@@ -1,8 +1,9 @@
 {
-  "id": "5775bdbc-311a-4050-8103-a15a59a38ddc",
+  "id": "b4cf0979-85e2-4616-9f11-943a0ed5ff58",
   "name": "SP Toggle Switch NC",
   "description": "A SP Toggle Switch NC.",
   "author": "Adroit Technologies",
+  "category": "Electrical Symbols\\Static Electrical 3",
   "version": null,
   "fileName": "SP Toggle Switch NC.viz",
   "fileType": "Graphic",
@@ -14,6 +15,8 @@
   "currency": "ZAR",
   "previewImageUrls": [],
   "downloadUrl": "",
+  "documentation": "",
+  "documentationUrl": "",
   "industries": [],
   "tags": [
     "Switch",

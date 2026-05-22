@@ -1,8 +1,9 @@
 {
-  "id": "43583131-16e0-4662-856a-996ddb4a4942",
+  "id": "ba27879b-b2e4-4109-aed2-77a33a51fbab",
   "name": "Compressor2",
   "description": "A Compressor2.",
   "author": "Adroit Technologies",
+  "category": "Static Graphics\\Compressors",
   "version": null,
   "fileName": "Compressor2.viz",
   "fileType": "Graphic",
@@ -14,6 +15,8 @@
   "currency": "ZAR",
   "previewImageUrls": [],
   "downloadUrl": "",
+  "documentation": "",
+  "documentationUrl": "",
   "industries": [],
   "tags": [
     "Compressor",

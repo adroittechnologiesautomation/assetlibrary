@@ -1,8 +1,9 @@
 {
-  "id": "6acbec19-0dc6-4eac-8a22-b50ecbf55fc2",
+  "id": "a6d9b56e-8973-404a-91aa-39673d46ef54",
   "name": "Vertical Cement Mill Left",
   "description": "A Vertical Cement Mill Left.",
   "author": "Adroit Technologies",
+  "category": "Static Graphics\\Cement\\Cement Mill",
   "version": null,
   "fileName": "Vertical Cement Mill Left.viz",
   "fileType": "Graphic",
@@ -14,6 +15,8 @@
   "currency": "ZAR",
   "previewImageUrls": [],
   "downloadUrl": "",
+  "documentation": "",
+  "documentationUrl": "",
   "industries": [],
   "tags": [
     "Mill",

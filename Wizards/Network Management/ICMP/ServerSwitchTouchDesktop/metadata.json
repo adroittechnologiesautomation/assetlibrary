@@ -1,8 +1,9 @@
 {
-  "id": "af192874-7a68-4931-8c0e-e071f3ef28cc",
+  "id": "a3c8dfde-47fc-4685-b874-a837a0a6c362",
   "name": "ServerSwitchTouchDesktop",
   "description": "A ServerSwitchTouchDesktop.",
   "author": "Adroit Technologies",
+  "category": "Wizards\\Network Management\\ICMP",
   "version": null,
   "fileName": "ServerSwitchTouchDesktop.viz",
   "fileType": "Graphic",
@@ -14,6 +15,8 @@
   "currency": "ZAR",
   "previewImageUrls": [],
   "downloadUrl": "",
+  "documentation": "",
+  "documentationUrl": "",
   "industries": [],
   "tags": [
     "Switch",

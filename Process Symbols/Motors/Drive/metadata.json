@@ -1,8 +1,9 @@
 {
-  "id": "890c3b14-e94c-425c-98c0-9d9f847b97fd",
+  "id": "0e8627ae-034a-40df-b7de-396d7c1cf039",
   "name": "Drive",
   "description": "A Drive.",
   "author": "Adroit Technologies",
+  "category": "Process Symbols\\Motors",
   "version": null,
   "fileName": "Drive.viz",
   "fileType": "Graphic",
@@ -14,6 +15,8 @@
   "currency": "ZAR",
   "previewImageUrls": [],
   "downloadUrl": "",
+  "documentation": "",
+  "documentationUrl": "",
   "industries": [],
   "tags": [
     "Drive",

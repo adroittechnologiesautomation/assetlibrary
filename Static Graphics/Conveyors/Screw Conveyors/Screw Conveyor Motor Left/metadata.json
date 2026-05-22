@@ -1,8 +1,9 @@
 {
-  "id": "7e9092a2-51e0-4367-ac82-a1ebe532373f",
+  "id": "71ea6172-5d33-4c45-ac9e-633f0673f637",
   "name": "Screw Conveyor Motor Left",
   "description": "A Screw Conveyor Motor Left.",
   "author": "Adroit Technologies",
+  "category": "Static Graphics\\Conveyors\\Screw Conveyors",
   "version": null,
   "fileName": "Screw Conveyor Motor Left.viz",
   "fileType": "Graphic",
@@ -14,6 +15,8 @@
   "currency": "ZAR",
   "previewImageUrls": [],
   "downloadUrl": "",
+  "documentation": "",
+  "documentationUrl": "",
   "industries": [],
   "tags": [
     "Conveyor",

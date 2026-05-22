@@ -1,8 +1,9 @@
 {
-  "id": "25624fe7-362e-4309-b7ee-2ed5ff088d49",
+  "id": "8a27d442-4f11-4f34-a63f-0752d2a6b5f2",
   "name": "Valve 15",
   "description": "A Valve 15.",
   "author": "Adroit Technologies",
+  "category": "Static Graphics\\Valves\\Valves",
   "version": null,
   "fileName": "Valve 15.viz",
   "fileType": "Graphic",
@@ -14,6 +15,8 @@
   "currency": "ZAR",
   "previewImageUrls": [],
   "downloadUrl": "",
+  "documentation": "",
+  "documentationUrl": "",
   "industries": [],
   "tags": [
     "Valve",

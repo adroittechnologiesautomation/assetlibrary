@@ -1,8 +1,9 @@
 {
-  "id": "7063ccca-f9b0-48ef-8306-e1315a0ef45e",
+  "id": "5117e1a8-e235-4eea-a535-e097d1f72679",
   "name": "ID Fan Right",
   "description": "A ID Fan Right.",
   "author": "Adroit Technologies",
+  "category": "Static Graphics\\Cement\\ID Fans",
   "version": null,
   "fileName": "ID Fan Right.viz",
   "fileType": "Graphic",
@@ -14,6 +15,8 @@
   "currency": "ZAR",
   "previewImageUrls": [],
   "downloadUrl": "",
+  "documentation": "",
+  "documentationUrl": "",
   "industries": [],
   "tags": [
     "Fan",

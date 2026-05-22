@@ -1,8 +1,9 @@
 {
-  "id": "ce5eeabd-83f0-489b-8758-e0aee851ecc5",
+  "id": "c4a0cbe3-ad21-4478-8e9c-b0dee01698ad",
   "name": "Standard Pump (side view)",
   "description": "A Standard Pump (side view).",
   "author": "Adroit Technologies",
+  "category": "Static Graphics\\Pumps",
   "version": null,
   "fileName": "Standard Pump (side view).viz",
   "fileType": "Graphic",
@@ -14,6 +15,8 @@
   "currency": "ZAR",
   "previewImageUrls": [],
   "downloadUrl": "",
+  "documentation": "",
+  "documentationUrl": "",
   "industries": [],
   "tags": [
     "Pump",

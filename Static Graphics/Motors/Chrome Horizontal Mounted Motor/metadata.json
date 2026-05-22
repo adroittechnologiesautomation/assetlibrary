@@ -1,8 +1,9 @@
 {
-  "id": "16a54f73-ca6f-469a-85ad-86c3c105a491",
+  "id": "868b6d26-7fa8-4051-ae4b-873cf92f0b46",
   "name": "Chrome Horizontal Mounted Motor",
   "description": "A Chrome Horizontal Mounted Motor.",
   "author": "Adroit Technologies",
+  "category": "Static Graphics\\Motors",
   "version": null,
   "fileName": "Chrome Horizontal Mounted Motor.viz",
   "fileType": "Graphic",
@@ -14,6 +15,8 @@
   "currency": "ZAR",
   "previewImageUrls": [],
   "downloadUrl": "",
+  "documentation": "",
+  "documentationUrl": "",
   "industries": [],
   "tags": [
     "Motor",

@@ -1,8 +1,9 @@
 {
-  "id": "9ffa4247-2fd2-4163-a529-416540f4fd14",
+  "id": "befb9480-a6bd-47ed-87b6-b9888b9058ac",
   "name": "3D Tank 08",
   "description": "A 3D Tank 08.",
   "author": "Adroit Technologies",
+  "category": "Static Graphics\\3D Tanks",
   "version": null,
   "fileName": "3D Tank 08.viz",
   "fileType": "Graphic",
@@ -14,6 +15,8 @@
   "currency": "ZAR",
   "previewImageUrls": [],
   "downloadUrl": "",
+  "documentation": "",
+  "documentationUrl": "",
   "industries": [],
   "tags": [
     "Tank",

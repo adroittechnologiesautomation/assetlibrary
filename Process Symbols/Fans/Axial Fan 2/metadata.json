@@ -1,8 +1,9 @@
 {
-  "id": "fa2b40b0-18cd-42da-9df3-31311183fd6a",
+  "id": "98e483a7-4917-41a2-8693-6e59e7c2fdd3",
   "name": "Axial Fan 2",
   "description": "A Axial Fan 2.",
   "author": "Adroit Technologies",
+  "category": "Process Symbols\\Fans",
   "version": null,
   "fileName": "Axial Fan 2.viz",
   "fileType": "Graphic",
@@ -14,6 +15,8 @@
   "currency": "ZAR",
   "previewImageUrls": [],
   "downloadUrl": "",
+  "documentation": "",
+  "documentationUrl": "",
   "industries": [],
   "tags": [
     "Fan",

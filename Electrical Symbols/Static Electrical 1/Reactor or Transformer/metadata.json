@@ -1,8 +1,9 @@
 {
-  "id": "18754d6e-847e-48c8-98d0-77f49de066f2",
+  "id": "77108dd2-f7a8-4128-8d1d-c8d58edd7193",
   "name": "Reactor or Transformer",
   "description": "A Reactor or Transformer.",
   "author": "Adroit Technologies",
+  "category": "Electrical Symbols\\Static Electrical 1",
   "version": null,
   "fileName": "Reactor or Transformer.viz",
   "fileType": "Graphic",
@@ -14,6 +15,8 @@
   "currency": "ZAR",
   "previewImageUrls": [],
   "downloadUrl": "",
+  "documentation": "",
+  "documentationUrl": "",
   "industries": [],
   "tags": [
     "Transformer",

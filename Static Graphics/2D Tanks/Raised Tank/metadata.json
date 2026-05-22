@@ -1,8 +1,9 @@
 {
-  "id": "2ac06977-eb84-4b80-bd67-f5efcf4b4d72",
+  "id": "cf948260-91a8-4077-bf92-4f4dc769ea99",
   "name": "Raised Tank",
   "description": "A Raised Tank.",
   "author": "Adroit Technologies",
+  "category": "Static Graphics\\2D Tanks",
   "version": null,
   "fileName": "Raised Tank.viz",
   "fileType": "Graphic",
@@ -14,6 +15,8 @@
   "currency": "ZAR",
   "previewImageUrls": [],
   "downloadUrl": "",
+  "documentation": "",
+  "documentationUrl": "",
   "industries": [],
   "tags": [
     "Tank",

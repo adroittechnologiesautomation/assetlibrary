@@ -1,8 +1,9 @@
 {
-  "id": "c449a28b-cb36-41e5-b437-59f31784d819",
+  "id": "e94d2fb9-1803-4824-bf5d-423a14cbc4be",
   "name": "Belt Conveyor Short Up",
   "description": "A Belt Conveyor Short Up.",
   "author": "Adroit Technologies",
+  "category": "Static Graphics\\Conveyors\\Belt Conveyors Short",
   "version": null,
   "fileName": "Belt Conveyor Short Up.viz",
   "fileType": "Graphic",
@@ -14,6 +15,8 @@
   "currency": "ZAR",
   "previewImageUrls": [],
   "downloadUrl": "",
+  "documentation": "",
+  "documentationUrl": "",
   "industries": [],
   "tags": [
     "Conveyor",

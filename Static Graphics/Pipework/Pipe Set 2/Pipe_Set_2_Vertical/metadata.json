@@ -1,8 +1,9 @@
 {
-  "id": "b1d05f96-ef8f-4295-bb43-80ba3ec5fbb3",
+  "id": "6e15e31b-0afb-47a9-b3c5-07991d04804c",
   "name": "Pipe_Set_2_Vertical",
   "description": "A Pipe_Set_2_Vertical.",
   "author": "Adroit Technologies",
+  "category": "Static Graphics\\Pipework\\Pipe Set 2",
   "version": null,
   "fileName": "Pipe_Set_2_Vertical.viz",
   "fileType": "Graphic",
@@ -14,6 +15,8 @@
   "currency": "ZAR",
   "previewImageUrls": [],
   "downloadUrl": "",
+  "documentation": "",
+  "documentationUrl": "",
   "industries": [],
   "tags": [
     "Pipe",

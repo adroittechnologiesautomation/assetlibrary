@@ -1,8 +1,9 @@
 {
-  "id": "d4814f1e-ea00-4d4a-9568-0de9f626de2e",
+  "id": "ffdc918a-dd11-4fa5-91a2-06d614f28232",
   "name": "Bucket Conveyor Head Pulley",
   "description": "A Bucket Conveyor Head Pulley.",
   "author": "Adroit Technologies",
+  "category": "Static Graphics\\Cement",
   "version": null,
   "fileName": "Bucket Conveyor Head Pulley.viz",
   "fileType": "Graphic",
@@ -14,6 +15,8 @@
   "currency": "ZAR",
   "previewImageUrls": [],
   "downloadUrl": "",
+  "documentation": "",
+  "documentationUrl": "",
   "industries": [],
   "tags": [
     "Conveyor",

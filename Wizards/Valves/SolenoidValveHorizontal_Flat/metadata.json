@@ -1,8 +1,9 @@
 {
-  "id": "98e5c530-c495-4a46-8ca0-e2793c36bc7f",
+  "id": "11f1746b-f811-4c72-81a4-69077e489975",
   "name": "SolenoidValveHorizontal_Flat",
   "description": "A SolenoidValveHorizontal_Flat.",
   "author": "Adroit Technologies",
+  "category": "Wizards\\Valves",
   "version": null,
   "fileName": "SolenoidValveHorizontal_Flat.vizw",
   "fileType": "Wizard",
@@ -14,6 +15,8 @@
   "currency": "ZAR",
   "previewImageUrls": [],
   "downloadUrl": "",
+  "documentation": "",
+  "documentationUrl": "",
   "industries": [],
   "tags": [
     "Valve",

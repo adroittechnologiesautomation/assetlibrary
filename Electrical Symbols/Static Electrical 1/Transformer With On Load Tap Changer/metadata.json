@@ -1,8 +1,9 @@
 {
-  "id": "ff76659b-7d07-4b82-88e1-623bdea6d4b3",
+  "id": "4e5ee286-e851-4632-b6fc-4621dcb4811b",
   "name": "Transformer With On Load Tap Changer",
   "description": "A Transformer With On Load Tap Changer.",
   "author": "Adroit Technologies",
+  "category": "Electrical Symbols\\Static Electrical 1",
   "version": null,
   "fileName": "Transformer With On Load Tap Changer.viz",
   "fileType": "Graphic",
@@ -14,6 +15,8 @@
   "currency": "ZAR",
   "previewImageUrls": [],
   "downloadUrl": "",
+  "documentation": "",
+  "documentationUrl": "",
   "industries": [],
   "tags": [
     "Transformer",

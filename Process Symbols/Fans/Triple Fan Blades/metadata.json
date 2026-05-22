@@ -1,8 +1,9 @@
 {
-  "id": "af7c4013-67e0-4dab-b95e-c8e83ea55962",
+  "id": "2440e747-9c45-4ed7-a261-e1d7160255ae",
   "name": "Triple Fan Blades",
   "description": "A Triple Fan Blades.",
   "author": "Adroit Technologies",
+  "category": "Process Symbols\\Fans",
   "version": null,
   "fileName": "Triple Fan Blades.viz",
   "fileType": "Graphic",
@@ -14,6 +15,8 @@
   "currency": "ZAR",
   "previewImageUrls": [],
   "downloadUrl": "",
+  "documentation": "",
+  "documentationUrl": "",
   "industries": [],
   "tags": [
     "Fan",

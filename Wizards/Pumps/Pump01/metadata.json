@@ -1,19 +1,22 @@
 {
-  "id": "cad290ea-3407-48bd-8126-9bc6235d7b46",
+  "id": "105b3816-2870-4ce4-80ec-5d95cfffe3bb",
   "name": "Pump01",
   "description": "A Pump01.",
   "author": "Adroit Technologies",
+  "category": "Wizards\\Pumps",
   "version": null,
   "fileName": "Pump01.vizw",
   "fileType": "Wizard",
   "previewImages": [
-    "Pump01.png","3D Angled Pump.png"
+    "Pump01.png"
   ],
   "ownerType": "official",
   "licenseType": "free",
   "currency": "ZAR",
   "previewImageUrls": [],
   "downloadUrl": "",
+  "documentation": "",
+  "documentationUrl": "",
   "industries": [],
   "tags": [
     "Pump",

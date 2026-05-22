@@ -1,8 +1,9 @@
 {
-  "id": "105aca0f-687c-430e-a04a-91908448529f",
+  "id": "c472ad38-45cf-4060-8704-367818fcdf78",
   "name": "OnOff Switch 2",
   "description": "A OnOff Switch 2.",
   "author": "Adroit Technologies",
+  "category": "Wizards\\Buttons",
   "version": null,
   "fileName": "OnOff Switch 2.vizw",
   "fileType": "Wizard",
@@ -14,6 +15,8 @@
   "currency": "ZAR",
   "previewImageUrls": [],
   "downloadUrl": "",
+  "documentation": "",
+  "documentationUrl": "",
   "industries": [],
   "tags": [
     "Switch",

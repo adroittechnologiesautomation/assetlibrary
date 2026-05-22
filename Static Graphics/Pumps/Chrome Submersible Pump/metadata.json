@@ -1,8 +1,9 @@
 {
-  "id": "6e5fcd9c-3b7a-4d49-ad69-8a0e068b92c1",
+  "id": "6aba91cf-cd36-4f7d-b6ff-411266fb150a",
   "name": "Chrome Submersible Pump",
   "description": "A Chrome Submersible Pump.",
   "author": "Adroit Technologies",
+  "category": "Static Graphics\\Pumps",
   "version": null,
   "fileName": "Chrome Submersible Pump.viz",
   "fileType": "Graphic",
@@ -14,6 +15,8 @@
   "currency": "ZAR",
   "previewImageUrls": [],
   "downloadUrl": "",
+  "documentation": "",
+  "documentationUrl": "",
   "industries": [],
   "tags": [
     "Pump",

@@ -1,8 +1,9 @@
 {
-  "id": "b81ee58c-56e6-45df-bf17-e18838fc6a3e",
+  "id": "a8a35297-3a30-44de-b9d2-4dca8a381e6c",
   "name": "Liquid Jet Pump",
   "description": "A Liquid Jet Pump.",
   "author": "Adroit Technologies",
+  "category": "Process Symbols\\Pumps",
   "version": null,
   "fileName": "Liquid Jet Pump.viz",
   "fileType": "Graphic",
@@ -14,6 +15,8 @@
   "currency": "ZAR",
   "previewImageUrls": [],
   "downloadUrl": "",
+  "documentation": "",
+  "documentationUrl": "",
   "industries": [],
   "tags": [
     "Pump",

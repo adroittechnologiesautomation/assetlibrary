@@ -1,8 +1,9 @@
 {
-  "id": "cac8dd72-0eed-4e8b-89eb-195651c779f4",
+  "id": "213e2c18-6462-411c-ab78-5d27768a1f3f",
   "name": "Pulley",
   "description": "A Pulley.",
   "author": "Adroit Technologies",
+  "category": "Static Graphics\\Pulleys and Belts",
   "version": null,
   "fileName": "Pulley.viz",
   "fileType": "Graphic",
@@ -14,6 +15,8 @@
   "currency": "ZAR",
   "previewImageUrls": [],
   "downloadUrl": "",
+  "documentation": "",
+  "documentationUrl": "",
   "industries": [],
   "tags": [
     "Pulley",

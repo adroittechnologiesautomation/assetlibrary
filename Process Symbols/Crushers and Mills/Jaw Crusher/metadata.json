@@ -1,8 +1,9 @@
 {
-  "id": "930d7275-7476-4724-91f2-88163a40f5f9",
+  "id": "0dda14d9-ec49-432a-8748-9cbfe6db73d0",
   "name": "Jaw Crusher",
   "description": "A Jaw Crusher.",
   "author": "Adroit Technologies",
+  "category": "Process Symbols\\Crushers and Mills",
   "version": null,
   "fileName": "Jaw Crusher.viz",
   "fileType": "Graphic",
@@ -14,6 +15,8 @@
   "currency": "ZAR",
   "previewImageUrls": [],
   "downloadUrl": "",
+  "documentation": "",
+  "documentationUrl": "",
   "industries": [],
   "tags": [
     "Crusher",

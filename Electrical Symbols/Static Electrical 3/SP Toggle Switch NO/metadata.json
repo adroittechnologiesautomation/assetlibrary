@@ -1,8 +1,9 @@
 {
-  "id": "75d242c8-df8e-4534-8039-60dec9f3936d",
+  "id": "5747e0a4-86d6-4472-84a6-16c22a7e57dd",
   "name": "SP Toggle Switch NO",
   "description": "A SP Toggle Switch NO.",
   "author": "Adroit Technologies",
+  "category": "Electrical Symbols\\Static Electrical 3",
   "version": null,
   "fileName": "SP Toggle Switch NO.viz",
   "fileType": "Graphic",
@@ -14,6 +15,8 @@
   "currency": "ZAR",
   "previewImageUrls": [],
   "downloadUrl": "",
+  "documentation": "",
+  "documentationUrl": "",
   "industries": [],
   "tags": [
     "Switch",

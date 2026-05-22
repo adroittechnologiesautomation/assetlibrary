@@ -1,8 +1,9 @@
 {
-  "id": "ceec62e7-ec98-4cae-8e1e-6160833c2a09",
+  "id": "7a1e0f91-4e32-4708-81f5-2a364c242e21",
   "name": "Angle Valve",
   "description": "A Angle Valve.",
   "author": "Adroit Technologies",
+  "category": "Process Symbols\\Valves and Fittings",
   "version": null,
   "fileName": "Angle Valve.viz",
   "fileType": "Graphic",
@@ -14,6 +15,8 @@
   "currency": "ZAR",
   "previewImageUrls": [],
   "downloadUrl": "",
+  "documentation": "",
+  "documentationUrl": "",
   "industries": [],
   "tags": [
     "Valve",

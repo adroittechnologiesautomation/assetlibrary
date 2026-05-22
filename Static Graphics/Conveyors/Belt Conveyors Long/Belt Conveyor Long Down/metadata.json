@@ -1,8 +1,9 @@
 {
-  "id": "9da2001e-5ba3-4aec-8bd9-cd545d74cf25",
+  "id": "c5caf811-3f58-477e-bb4e-8b6477c51978",
   "name": "Belt Conveyor Long Down",
   "description": "A Belt Conveyor Long Down.",
   "author": "Adroit Technologies",
+  "category": "Static Graphics\\Conveyors\\Belt Conveyors Long",
   "version": null,
   "fileName": "Belt Conveyor Long Down.viz",
   "fileType": "Graphic",
@@ -14,6 +15,8 @@
   "currency": "ZAR",
   "previewImageUrls": [],
   "downloadUrl": "",
+  "documentation": "",
+  "documentationUrl": "",
   "industries": [],
   "tags": [
     "Conveyor",

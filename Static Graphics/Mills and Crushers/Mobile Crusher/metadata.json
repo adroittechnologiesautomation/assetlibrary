@@ -1,8 +1,9 @@
 {
-  "id": "ddf2479c-7c96-48d2-8d91-15fbbc5acc19",
+  "id": "68b2ff14-8c8f-47e1-9ae2-330af97146f8",
   "name": "Mobile Crusher",
   "description": "A Mobile Crusher.",
   "author": "Adroit Technologies",
+  "category": "Static Graphics\\Mills and Crushers",
   "version": null,
   "fileName": "Mobile Crusher.viz",
   "fileType": "Graphic",
@@ -14,6 +15,8 @@
   "currency": "ZAR",
   "previewImageUrls": [],
   "downloadUrl": "",
+  "documentation": "",
+  "documentationUrl": "",
   "industries": [],
   "tags": [
     "Crusher",

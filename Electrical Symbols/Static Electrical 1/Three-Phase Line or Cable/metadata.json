@@ -1,8 +1,9 @@
 {
-  "id": "cf80bdfe-38f5-4462-8912-666f0055a21a",
+  "id": "31df9a1d-7037-4fef-bb07-52b49ae30136",
   "name": "Three-Phase Line or Cable",
   "description": "A Three-Phase Line or Cable.",
   "author": "Adroit Technologies",
+  "category": "Electrical Symbols\\Static Electrical 1",
   "version": null,
   "fileName": "Three-Phase Line or Cable.viz",
   "fileType": "Graphic",
@@ -14,6 +15,8 @@
   "currency": "ZAR",
   "previewImageUrls": [],
   "downloadUrl": "",
+  "documentation": "",
+  "documentationUrl": "",
   "industries": [],
   "tags": [
     "Cable",

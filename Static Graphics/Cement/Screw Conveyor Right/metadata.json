@@ -1,8 +1,9 @@
 {
-  "id": "03417802-e2f8-46f6-9547-8d35f0c3ad2e",
+  "id": "575ac5fb-c839-4f32-91ca-868c1327178b",
   "name": "Screw Conveyor Right",
   "description": "A Screw Conveyor Right.",
   "author": "Adroit Technologies",
+  "category": "Static Graphics\\Cement",
   "version": null,
   "fileName": "Screw Conveyor Right.viz",
   "fileType": "Graphic",
@@ -14,6 +15,8 @@
   "currency": "ZAR",
   "previewImageUrls": [],
   "downloadUrl": "",
+  "documentation": "",
+  "documentationUrl": "",
   "industries": [],
   "tags": [
     "Conveyor",

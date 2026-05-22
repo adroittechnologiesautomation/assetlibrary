@@ -1,8 +1,9 @@
 {
-  "id": "81f148ae-7167-4c32-a1b9-d4f071c65fa9",
+  "id": "99d0e168-4230-4d50-8e51-a5731c7a83ec",
   "name": "Switch",
   "description": "A Switch.",
   "author": "Adroit Technologies",
+  "category": "Static Graphics\\Valves\\Valve Components",
   "version": null,
   "fileName": "Switch.viz",
   "fileType": "Graphic",
@@ -14,6 +15,8 @@
   "currency": "ZAR",
   "previewImageUrls": [],
   "downloadUrl": "",
+  "documentation": "",
+  "documentationUrl": "",
   "industries": [],
   "tags": [
     "Switch",

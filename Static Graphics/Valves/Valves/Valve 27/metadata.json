@@ -1,8 +1,9 @@
 {
-  "id": "69cdfbd6-91c6-484f-9402-24e05bcd4a45",
+  "id": "d6365053-9330-459d-856d-53730b289935",
   "name": "Valve 27",
   "description": "A Valve 27.",
   "author": "Adroit Technologies",
+  "category": "Static Graphics\\Valves\\Valves",
   "version": null,
   "fileName": "Valve 27.viz",
   "fileType": "Graphic",
@@ -14,6 +15,8 @@
   "currency": "ZAR",
   "previewImageUrls": [],
   "downloadUrl": "",
+  "documentation": "",
+  "documentationUrl": "",
   "industries": [],
   "tags": [
     "Valve",

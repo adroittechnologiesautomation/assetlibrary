@@ -1,8 +1,9 @@
 {
-  "id": "82d75bad-0f32-4401-aeb0-c4be4eaba232",
+  "id": "5dcf4fd4-acbd-4ddb-a714-12d18e2a80ef",
   "name": "Valve 23",
   "description": "A Valve 23.",
   "author": "Adroit Technologies",
+  "category": "Static Graphics\\Valves\\Valves",
   "version": null,
   "fileName": "Valve 23.viz",
   "fileType": "Graphic",
@@ -14,6 +15,8 @@
   "currency": "ZAR",
   "previewImageUrls": [],
   "downloadUrl": "",
+  "documentation": "",
+  "documentationUrl": "",
   "industries": [],
   "tags": [
     "Valve",

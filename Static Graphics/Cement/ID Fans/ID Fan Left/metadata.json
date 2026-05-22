@@ -1,8 +1,9 @@
 {
-  "id": "b550ebdd-9f5a-43a3-bfd6-0cc09f218e0f",
+  "id": "824c8a63-fd3c-438f-94d7-9457047f7efc",
   "name": "ID Fan Left",
   "description": "A ID Fan Left.",
   "author": "Adroit Technologies",
+  "category": "Static Graphics\\Cement\\ID Fans",
   "version": null,
   "fileName": "ID Fan Left.viz",
   "fileType": "Graphic",
@@ -14,6 +15,8 @@
   "currency": "ZAR",
   "previewImageUrls": [],
   "downloadUrl": "",
+  "documentation": "",
+  "documentationUrl": "",
   "industries": [],
   "tags": [
     "Fan",

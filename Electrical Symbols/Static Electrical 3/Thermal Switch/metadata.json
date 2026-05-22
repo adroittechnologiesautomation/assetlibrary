@@ -1,8 +1,9 @@
 {
-  "id": "8456c45a-a1a3-49ac-870e-6e178115b06e",
+  "id": "7d93993e-813b-4a08-a366-a2cbe5aeac1e",
   "name": "Thermal Switch",
   "description": "A Thermal Switch.",
   "author": "Adroit Technologies",
+  "category": "Electrical Symbols\\Static Electrical 3",
   "version": null,
   "fileName": "Thermal Switch.viz",
   "fileType": "Graphic",
@@ -14,6 +15,8 @@
   "currency": "ZAR",
   "previewImageUrls": [],
   "downloadUrl": "",
+  "documentation": "",
+  "documentationUrl": "",
   "industries": [],
   "tags": [
     "Switch",

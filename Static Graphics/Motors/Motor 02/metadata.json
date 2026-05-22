@@ -1,8 +1,9 @@
 {
-  "id": "4a0a6728-77be-48b9-baf9-527f828c9687",
+  "id": "c93eccbe-bade-4dae-9dd7-0439c010a16f",
   "name": "Motor 02",
   "description": "A Motor 02.",
   "author": "Adroit Technologies",
+  "category": "Static Graphics\\Motors",
   "version": null,
   "fileName": "Motor 02.viz",
   "fileType": "Graphic",
@@ -14,6 +15,8 @@
   "currency": "ZAR",
   "previewImageUrls": [],
   "downloadUrl": "",
+  "documentation": "",
+  "documentationUrl": "",
   "industries": [],
   "tags": [
     "Motor",

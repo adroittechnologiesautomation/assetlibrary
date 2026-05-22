@@ -1,8 +1,9 @@
 {
-  "id": "60a87f93-c846-4952-b14e-29094bb7e8b0",
+  "id": "55b65254-6c3d-4a8c-a917-5bbd52866a2d",
   "name": "wzdMotorVertical_v01",
   "description": "A wzdMotorVertical_v01.",
   "author": "Adroit Technologies",
+  "category": "Situational Awareness\\ISO Shapes\\Motors",
   "version": null,
   "fileName": "wzdMotorVertical_v01.vizw",
   "fileType": "Wizard",
@@ -14,6 +15,8 @@
   "currency": "ZAR",
   "previewImageUrls": [],
   "downloadUrl": "",
+  "documentation": "",
+  "documentationUrl": "",
   "industries": [],
   "tags": [
     "Motor",

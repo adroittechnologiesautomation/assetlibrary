@@ -1,8 +1,9 @@
 {
-  "id": "50c50898-e5a6-4ccf-befe-2120b4a964d4",
+  "id": "6d43776f-a2c4-4c82-a3a3-a3413c393cca",
   "name": "Triangle Tank",
   "description": "A Triangle Tank.",
   "author": "Adroit Technologies",
+  "category": "Static Graphics\\2D Tanks",
   "version": null,
   "fileName": "Triangle Tank.viz",
   "fileType": "Graphic",
@@ -14,6 +15,8 @@
   "currency": "ZAR",
   "previewImageUrls": [],
   "downloadUrl": "",
+  "documentation": "",
+  "documentationUrl": "",
   "industries": [],
   "tags": [
     "Tank",

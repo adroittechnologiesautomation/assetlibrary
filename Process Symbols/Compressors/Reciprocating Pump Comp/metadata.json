@@ -1,8 +1,9 @@
 {
-  "id": "6cfa135e-0ae8-43d8-990e-284cea023448",
+  "id": "cfd366ed-637c-4ed6-8ce1-469e897a353e",
   "name": "Reciprocating Pump Comp",
   "description": "A Reciprocating Pump Comp.",
   "author": "Adroit Technologies",
+  "category": "Process Symbols\\Compressors",
   "version": null,
   "fileName": "Reciprocating Pump Comp.viz",
   "fileType": "Graphic",
@@ -14,6 +15,8 @@
   "currency": "ZAR",
   "previewImageUrls": [],
   "downloadUrl": "",
+  "documentation": "",
+  "documentationUrl": "",
   "industries": [],
   "tags": [
     "Pump",

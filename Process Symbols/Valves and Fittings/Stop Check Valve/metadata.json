@@ -1,8 +1,9 @@
 {
-  "id": "c972d933-feb3-4736-af4b-4ee9842d8d14",
+  "id": "80bfc827-026b-405b-9cbf-d2e307e84b91",
   "name": "Stop Check Valve",
   "description": "A Stop Check Valve.",
   "author": "Adroit Technologies",
+  "category": "Process Symbols\\Valves and Fittings",
   "version": null,
   "fileName": "Stop Check Valve.viz",
   "fileType": "Graphic",
@@ -14,6 +15,8 @@
   "currency": "ZAR",
   "previewImageUrls": [],
   "downloadUrl": "",
+  "documentation": "",
+  "documentationUrl": "",
   "industries": [],
   "tags": [
     "Valve",

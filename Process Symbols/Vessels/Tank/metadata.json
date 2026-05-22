@@ -1,8 +1,9 @@
 {
-  "id": "9c8e845f-44d9-455c-b894-f8b88146a609",
+  "id": "6a9eb596-cf90-4344-a39f-68bebbad3631",
   "name": "Tank",
   "description": "A Tank.",
   "author": "Adroit Technologies",
+  "category": "Process Symbols\\Vessels",
   "version": null,
   "fileName": "Tank.viz",
   "fileType": "Graphic",
@@ -14,6 +15,8 @@
   "currency": "ZAR",
   "previewImageUrls": [],
   "downloadUrl": "",
+  "documentation": "",
+  "documentationUrl": "",
   "industries": [],
   "tags": [
     "Tank",

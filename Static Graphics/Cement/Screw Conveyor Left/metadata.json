@@ -1,8 +1,9 @@
 {
-  "id": "b4fff66a-0587-48e1-88c6-903dc9c6a368",
+  "id": "2ec4f663-1384-4a5e-9baf-2980eb83005a",
   "name": "Screw Conveyor Left",
   "description": "A Screw Conveyor Left.",
   "author": "Adroit Technologies",
+  "category": "Static Graphics\\Cement",
   "version": null,
   "fileName": "Screw Conveyor Left.viz",
   "fileType": "Graphic",
@@ -14,6 +15,8 @@
   "currency": "ZAR",
   "previewImageUrls": [],
   "downloadUrl": "",
+  "documentation": "",
+  "documentationUrl": "",
   "industries": [],
   "tags": [
     "Conveyor",

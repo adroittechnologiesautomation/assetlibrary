@@ -1,8 +1,9 @@
 {
-  "id": "51d2b6d3-d799-4201-801c-037305f92029",
+  "id": "13bc6a9c-a4fb-4b49-a243-601574394eb1",
   "name": "Pipe_Set_1_Left_T",
   "description": "A Pipe_Set_1_Left_T.",
   "author": "Adroit Technologies",
+  "category": "Static Graphics\\Pipework\\Pipe Set 1",
   "version": null,
   "fileName": "Pipe_Set_1_Left_T.viz",
   "fileType": "Graphic",
@@ -14,6 +15,8 @@
   "currency": "ZAR",
   "previewImageUrls": [],
   "downloadUrl": "",
+  "documentation": "",
+  "documentationUrl": "",
   "industries": [],
   "tags": [
     "Pipe",

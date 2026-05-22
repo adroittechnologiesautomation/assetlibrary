@@ -1,8 +1,9 @@
 {
-  "id": "4f343a23-d440-4ce7-bbe3-85cfea8cfd2a",
+  "id": "158fb333-0d0a-4dea-883e-624febe35975",
   "name": "ID Fan Down",
   "description": "A ID Fan Down.",
   "author": "Adroit Technologies",
+  "category": "Static Graphics\\Cement\\ID Fans",
   "version": null,
   "fileName": "ID Fan Down.viz",
   "fileType": "Graphic",
@@ -14,6 +15,8 @@
   "currency": "ZAR",
   "previewImageUrls": [],
   "downloadUrl": "",
+  "documentation": "",
+  "documentationUrl": "",
   "industries": [],
   "tags": [
     "Fan",

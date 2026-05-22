@@ -1,8 +1,9 @@
 {
-  "id": "9b1d5e4b-73ee-4738-ac39-f4bfe1621b72",
+  "id": "e0fa0c4c-fcc4-4487-b53a-d70fafe0e22b",
   "name": "Valve 02",
   "description": "A Valve 02.",
   "author": "Adroit Technologies",
+  "category": "Static Graphics\\Valves\\Valves",
   "version": null,
   "fileName": "Valve 02.viz",
   "fileType": "Graphic",
@@ -14,6 +15,8 @@
   "currency": "ZAR",
   "previewImageUrls": [],
   "downloadUrl": "",
+  "documentation": "",
+  "documentationUrl": "",
   "industries": [],
   "tags": [
     "Valve",

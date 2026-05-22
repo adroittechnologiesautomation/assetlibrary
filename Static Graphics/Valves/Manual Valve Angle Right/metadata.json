@@ -1,8 +1,9 @@
 {
-  "id": "b75a3382-f336-4665-b091-ac4b36ece061",
+  "id": "61581104-4035-4f0d-8143-614fc4d98669",
   "name": "Manual Valve Angle Right",
   "description": "A Manual Valve Angle Right.",
   "author": "Adroit Technologies",
+  "category": "Static Graphics\\Valves",
   "version": null,
   "fileName": "Manual Valve Angle Right.viz",
   "fileType": "Graphic",
@@ -14,6 +15,8 @@
   "currency": "ZAR",
   "previewImageUrls": [],
   "downloadUrl": "",
+  "documentation": "",
+  "documentationUrl": "",
   "industries": [],
   "tags": [
     "Valve",

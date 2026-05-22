@@ -1,8 +1,9 @@
 {
-  "id": "3a200050-d96a-48e9-a67c-62acdd9a1e2b",
+  "id": "a403deb6-9b62-4924-b5d3-753c94b9e6de",
   "name": "Pipe_Set_1_Flange_Horizontal",
   "description": "A Pipe_Set_1_Flange_Horizontal.",
   "author": "Adroit Technologies",
+  "category": "Static Graphics\\Pipework\\Pipe Set 1",
   "version": null,
   "fileName": "Pipe_Set_1_Flange_Horizontal.viz",
   "fileType": "Graphic",
@@ -14,6 +15,8 @@
   "currency": "ZAR",
   "previewImageUrls": [],
   "downloadUrl": "",
+  "documentation": "",
+  "documentationUrl": "",
   "industries": [],
   "tags": [
     "Pipe",

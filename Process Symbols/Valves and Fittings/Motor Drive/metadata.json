@@ -1,8 +1,9 @@
 {
-  "id": "ddd7d156-47ea-4268-be09-f0cc899ecce5",
+  "id": "444ef3e1-ebf8-4269-80b0-bfcf15d8ca11",
   "name": "Motor Drive",
   "description": "A Motor Drive.",
   "author": "Adroit Technologies",
+  "category": "Process Symbols\\Valves and Fittings",
   "version": null,
   "fileName": "Motor Drive.viz",
   "fileType": "Graphic",
@@ -14,6 +15,8 @@
   "currency": "ZAR",
   "previewImageUrls": [],
   "downloadUrl": "",
+  "documentation": "",
+  "documentationUrl": "",
   "industries": [],
   "tags": [
     "Motor",

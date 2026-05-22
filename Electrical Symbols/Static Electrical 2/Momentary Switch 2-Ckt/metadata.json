@@ -1,8 +1,9 @@
 {
-  "id": "b8ba4a71-720f-4024-bc27-e6850fc62fd1",
+  "id": "14797388-effe-4259-983d-bec9bb95ae53",
   "name": "Momentary Switch 2-Ckt",
   "description": "A Momentary Switch 2-Ckt.",
   "author": "Adroit Technologies",
+  "category": "Electrical Symbols\\Static Electrical 2",
   "version": null,
   "fileName": "Momentary Switch 2-Ckt.viz",
   "fileType": "Graphic",
@@ -14,6 +15,8 @@
   "currency": "ZAR",
   "previewImageUrls": [],
   "downloadUrl": "",
+  "documentation": "",
+  "documentationUrl": "",
   "industries": [],
   "tags": [
     "Switch",

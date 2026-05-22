@@ -1,8 +1,9 @@
 {
-  "id": "dc11e9e0-4d03-4743-959f-75fff53f2015",
+  "id": "98a9a990-a145-42ab-bedc-ea5838b3bb03",
   "name": "Vibration Conveyor",
   "description": "A Vibration Conveyor.",
   "author": "Adroit Technologies",
+  "category": "Process Symbols\\Conveyors",
   "version": null,
   "fileName": "Vibration Conveyor.viz",
   "fileType": "Graphic",
@@ -14,6 +15,8 @@
   "currency": "ZAR",
   "previewImageUrls": [],
   "downloadUrl": "",
+  "documentation": "",
+  "documentationUrl": "",
   "industries": [],
   "tags": [
     "Conveyor",

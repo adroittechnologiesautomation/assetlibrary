@@ -1,8 +1,9 @@
 {
-  "id": "561dc89b-ee52-4594-b6d2-82beebd5d221",
+  "id": "d4e35696-69f1-4a7f-a1ad-fe423b9af60f",
   "name": "Variable Resistor",
   "description": "A Variable Resistor.",
   "author": "Adroit Technologies",
+  "category": "Electrical Symbols\\Static Electrical 1",
   "version": null,
   "fileName": "Variable Resistor.viz",
   "fileType": "Graphic",
@@ -14,6 +15,8 @@
   "currency": "ZAR",
   "previewImageUrls": [],
   "downloadUrl": "",
+  "documentation": "",
+  "documentationUrl": "",
   "industries": [],
   "tags": [
     "Resistor",

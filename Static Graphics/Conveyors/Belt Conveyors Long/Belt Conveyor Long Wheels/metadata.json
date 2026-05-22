@@ -1,8 +1,9 @@
 {
-  "id": "1dd67356-580d-4073-b4f2-81cb348b2013",
+  "id": "c145c83b-f97b-4423-999a-2900c2455fed",
   "name": "Belt Conveyor Long Wheels",
   "description": "A Belt Conveyor Long Wheels.",
   "author": "Adroit Technologies",
+  "category": "Static Graphics\\Conveyors\\Belt Conveyors Long",
   "version": null,
   "fileName": "Belt Conveyor Long Wheels.viz",
   "fileType": "Graphic",
@@ -14,6 +15,8 @@
   "currency": "ZAR",
   "previewImageUrls": [],
   "downloadUrl": "",
+  "documentation": "",
+  "documentationUrl": "",
   "industries": [],
   "tags": [
     "Conveyor",

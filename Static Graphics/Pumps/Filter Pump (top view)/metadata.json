@@ -1,8 +1,9 @@
 {
-  "id": "52971df8-23fc-4ccd-b980-13f0f1e5d3c7",
+  "id": "9d9b95d4-8842-4486-8c65-b289a6d8f6b5",
   "name": "Filter Pump (top view)",
   "description": "A Filter Pump (top view).",
   "author": "Adroit Technologies",
+  "category": "Static Graphics\\Pumps",
   "version": null,
   "fileName": "Filter Pump (top view).viz",
   "fileType": "Graphic",
@@ -14,6 +15,8 @@
   "currency": "ZAR",
   "previewImageUrls": [],
   "downloadUrl": "",
+  "documentation": "",
+  "documentationUrl": "",
   "industries": [],
   "tags": [
     "Pump",

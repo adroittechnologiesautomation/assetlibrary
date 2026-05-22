@@ -1,8 +1,9 @@
 {
-  "id": "f081bb23-23bf-4fe4-8fea-0b19cb7ba4eb",
+  "id": "63c72f81-bce1-468b-80fe-fb2e2f0282c9",
   "name": "Hammer Crusher 2",
   "description": "A Hammer Crusher 2.",
   "author": "Adroit Technologies",
+  "category": "Process Symbols\\Crushers and Mills",
   "version": null,
   "fileName": "Hammer Crusher 2.viz",
   "fileType": "Graphic",
@@ -14,6 +15,8 @@
   "currency": "ZAR",
   "previewImageUrls": [],
   "downloadUrl": "",
+  "documentation": "",
+  "documentationUrl": "",
   "industries": [],
   "tags": [
     "Crusher",

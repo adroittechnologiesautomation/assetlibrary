@@ -1,8 +1,9 @@
 {
-  "id": "8049b31b-74a4-4c91-92d7-b7f6e9566fd7",
+  "id": "409099f7-7323-4c63-a65f-c01759c1c1ed",
   "name": "Blue Horizontal Mounted Motor",
   "description": "A Blue Horizontal Mounted Motor.",
   "author": "Adroit Technologies",
+  "category": "Static Graphics\\Motors",
   "version": null,
   "fileName": "Blue Horizontal Mounted Motor.viz",
   "fileType": "Graphic",
@@ -14,6 +15,8 @@
   "currency": "ZAR",
   "previewImageUrls": [],
   "downloadUrl": "",
+  "documentation": "",
+  "documentationUrl": "",
   "industries": [],
   "tags": [
     "Motor",

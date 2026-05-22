@@ -1,8 +1,9 @@
 {
-  "id": "83d2cc11-7d1d-423b-80c4-c4797505bbee",
+  "id": "5df27de5-68e8-4e0c-8e84-63fad7d294b5",
   "name": "ISOValveHorizontal",
   "description": "A ISOValveHorizontal.",
   "author": "Adroit Technologies",
+  "category": "Wizards\\Valves",
   "version": null,
   "fileName": "ISOValveHorizontal.vizw",
   "fileType": "Wizard",
@@ -14,6 +15,8 @@
   "currency": "ZAR",
   "previewImageUrls": [],
   "downloadUrl": "",
+  "documentation": "",
+  "documentationUrl": "",
   "industries": [],
   "tags": [
     "Valve",

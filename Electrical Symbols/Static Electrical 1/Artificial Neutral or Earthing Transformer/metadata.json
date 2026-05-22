@@ -1,8 +1,9 @@
 {
-  "id": "cbdba432-fa7a-41f7-9f8e-17247515e672",
+  "id": "0e8b846d-0c9b-4530-8b3e-2b82cb30405a",
   "name": "Artificial Neutral or Earthing Transformer",
   "description": "A Artificial Neutral or Earthing Transformer.",
   "author": "Adroit Technologies",
+  "category": "Electrical Symbols\\Static Electrical 1",
   "version": null,
   "fileName": "Artificial Neutral or Earthing Transformer.viz",
   "fileType": "Graphic",
@@ -14,6 +15,8 @@
   "currency": "ZAR",
   "previewImageUrls": [],
   "downloadUrl": "",
+  "documentation": "",
+  "documentationUrl": "",
   "industries": [],
   "tags": [
     "Transformer",

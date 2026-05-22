@@ -1,8 +1,9 @@
 {
-  "id": "5ffd90c7-23c0-4822-9157-9e3ed857c7a9",
+  "id": "3e006c95-4332-4b99-97f9-0316bb659dbb",
   "name": "Fuse",
   "description": "A Fuse.",
   "author": "Adroit Technologies",
+  "category": "Electrical Symbols\\Static Electrical 3",
   "version": null,
   "fileName": "Fuse.viz",
   "fileType": "Graphic",
@@ -14,6 +15,8 @@
   "currency": "ZAR",
   "previewImageUrls": [],
   "downloadUrl": "",
+  "documentation": "",
+  "documentationUrl": "",
   "industries": [],
   "tags": [
     "Fuse",

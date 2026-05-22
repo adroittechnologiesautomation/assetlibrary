@@ -1,8 +1,9 @@
 {
-  "id": "eef20911-d517-4a83-b847-e09497479bcc",
+  "id": "e0780e8d-ad54-43ab-913a-ed77773dd1cf",
   "name": "Chrome Vertical Flange Motor",
   "description": "A Chrome Vertical Flange Motor.",
   "author": "Adroit Technologies",
+  "category": "Static Graphics\\Motors",
   "version": null,
   "fileName": "Chrome Vertical Flange Motor.viz",
   "fileType": "Graphic",
@@ -14,6 +15,8 @@
   "currency": "ZAR",
   "previewImageUrls": [],
   "downloadUrl": "",
+  "documentation": "",
+  "documentationUrl": "",
   "industries": [],
   "tags": [
     "Motor",

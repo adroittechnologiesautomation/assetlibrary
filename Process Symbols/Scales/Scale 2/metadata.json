@@ -1,8 +1,9 @@
 {
-  "id": "370a6d31-48a0-4182-b402-9dacf8712688",
+  "id": "1d46b23a-da16-4205-bf67-bd2331c261ee",
   "name": "Scale 2",
   "description": "A Scale 2.",
   "author": "Adroit Technologies",
+  "category": "Process Symbols\\Scales",
   "version": null,
   "fileName": "Scale 2.viz",
   "fileType": "Graphic",
@@ -14,6 +15,8 @@
   "currency": "ZAR",
   "previewImageUrls": [],
   "downloadUrl": "",
+  "documentation": "",
+  "documentationUrl": "",
   "industries": [],
   "tags": [
     "Scale",

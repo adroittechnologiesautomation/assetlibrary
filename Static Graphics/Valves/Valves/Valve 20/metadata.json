@@ -1,8 +1,9 @@
 {
-  "id": "9580f79a-cfe6-4b01-ab60-54004a315b4e",
+  "id": "e05774a9-c1ff-4389-af01-89afaf705fe7",
   "name": "Valve 20",
   "description": "A Valve 20.",
   "author": "Adroit Technologies",
+  "category": "Static Graphics\\Valves\\Valves",
   "version": null,
   "fileName": "Valve 20.viz",
   "fileType": "Graphic",
@@ -14,6 +15,8 @@
   "currency": "ZAR",
   "previewImageUrls": [],
   "downloadUrl": "",
+  "documentation": "",
+  "documentationUrl": "",
   "industries": [],
   "tags": [
     "Valve",

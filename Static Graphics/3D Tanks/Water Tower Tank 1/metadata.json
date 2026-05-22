@@ -1,8 +1,9 @@
 {
-  "id": "5e4d7f8e-e97b-42c0-a990-271fe690c07a",
+  "id": "9c035858-c2bd-49d5-9838-af0dd0be88fc",
   "name": "Water Tower Tank 1",
   "description": "A Water Tower Tank 1.",
   "author": "Adroit Technologies",
+  "category": "Static Graphics\\3D Tanks",
   "version": null,
   "fileName": "Water Tower Tank 1.viz",
   "fileType": "Graphic",
@@ -14,6 +15,8 @@
   "currency": "ZAR",
   "previewImageUrls": [],
   "downloadUrl": "",
+  "documentation": "",
+  "documentationUrl": "",
   "industries": [],
   "tags": [
     "Tank",

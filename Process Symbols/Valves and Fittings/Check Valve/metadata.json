@@ -1,8 +1,9 @@
 {
-  "id": "cb3d6006-5eb6-40ca-b8cb-81c28046e1fa",
+  "id": "a3a01052-67c7-4b50-a533-1a43c25c0ac6",
   "name": "Check Valve",
   "description": "A Check Valve.",
   "author": "Adroit Technologies",
+  "category": "Process Symbols\\Valves and Fittings",
   "version": null,
   "fileName": "Check Valve.viz",
   "fileType": "Graphic",
@@ -14,6 +15,8 @@
   "currency": "ZAR",
   "previewImageUrls": [],
   "downloadUrl": "",
+  "documentation": "",
+  "documentationUrl": "",
   "industries": [],
   "tags": [
     "Valve",

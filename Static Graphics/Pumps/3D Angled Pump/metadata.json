@@ -1,8 +1,9 @@
 {
-  "id": "818abee6-8253-4dc5-8502-e155cc292ec7",
+  "id": "257026fa-b917-40d6-a14f-8a23de1b3e31",
   "name": "3D Angled Pump",
   "description": "A 3D Angled Pump.",
   "author": "Adroit Technologies",
+  "category": "Static Graphics\\Pumps",
   "version": null,
   "fileName": "3D Angled Pump.viz",
   "fileType": "Graphic",
@@ -14,6 +15,8 @@
   "currency": "ZAR",
   "previewImageUrls": [],
   "downloadUrl": "",
+  "documentation": "",
+  "documentationUrl": "",
   "industries": [],
   "tags": [
     "Pump",

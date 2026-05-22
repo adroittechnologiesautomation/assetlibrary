@@ -1,8 +1,9 @@
 {
-  "id": "fb202213-69cd-4106-8d90-31338b26cea2",
+  "id": "662550d1-6e08-4dfb-beb6-f6ebdb8f7860",
   "name": "wzdProcessVessel_Large_v01",
   "description": "A wzdProcessVessel_Large_v01.",
   "author": "Adroit Technologies",
+  "category": "Situational Awareness\\Process Vessels",
   "version": null,
   "fileName": "wzdProcessVessel_Large_v01.vizw",
   "fileType": "Wizard",
@@ -14,6 +15,8 @@
   "currency": "ZAR",
   "previewImageUrls": [],
   "downloadUrl": "",
+  "documentation": "",
+  "documentationUrl": "",
   "industries": [],
   "tags": [
     "Vessel",

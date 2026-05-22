@@ -1,8 +1,9 @@
 {
-  "id": "82ead768-a50b-4817-8570-23709a2d9f53",
+  "id": "ab1be778-3c92-4054-98f2-39328ee6c3f9",
   "name": "Pipe_Set_3_Bottom_T",
   "description": "A Pipe_Set_3_Bottom_T.",
   "author": "Adroit Technologies",
+  "category": "Static Graphics\\Pipework\\Pipe Set 3",
   "version": null,
   "fileName": "Pipe_Set_3_Bottom_T.viz",
   "fileType": "Graphic",
@@ -14,6 +15,8 @@
   "currency": "ZAR",
   "previewImageUrls": [],
   "downloadUrl": "",
+  "documentation": "",
+  "documentationUrl": "",
   "industries": [],
   "tags": [
     "Pipe",

@@ -1,8 +1,9 @@
 {
-  "id": "b814c47a-934b-4997-84f8-3d9daf16f018",
+  "id": "2a3ef106-cec8-4764-a41f-4e72d1a6ba4b",
   "name": "GlobeValveVertical",
   "description": "A GlobeValveVertical.",
   "author": "Adroit Technologies",
+  "category": "Wizards\\Valves",
   "version": null,
   "fileName": "GlobeValveVertical.vizw",
   "fileType": "Wizard",
@@ -14,6 +15,8 @@
   "currency": "ZAR",
   "previewImageUrls": [],
   "downloadUrl": "",
+  "documentation": "",
+  "documentationUrl": "",
   "industries": [],
   "tags": [
     "Valve",

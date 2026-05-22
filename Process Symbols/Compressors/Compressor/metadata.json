@@ -1,8 +1,9 @@
 {
-  "id": "1e7a362d-86a3-46de-8dae-5e6555deeb67",
+  "id": "d65b02ea-f2bd-4c19-ac9c-f5e21ae81330",
   "name": "Compressor",
   "description": "A Compressor.",
   "author": "Adroit Technologies",
+  "category": "Process Symbols\\Compressors",
   "version": null,
   "fileName": "Compressor.viz",
   "fileType": "Graphic",
@@ -14,6 +15,8 @@
   "currency": "ZAR",
   "previewImageUrls": [],
   "downloadUrl": "",
+  "documentation": "",
+  "documentationUrl": "",
   "industries": [],
   "tags": [
     "Compressor",

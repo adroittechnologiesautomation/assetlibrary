@@ -1,8 +1,9 @@
 {
-  "id": "2da3687f-1b6d-4640-9a44-450780b784b8",
+  "id": "7216d1b8-fcea-4a59-a126-4b3ff424ed16",
   "name": "Voltage Transformer",
   "description": "A Voltage Transformer.",
   "author": "Adroit Technologies",
+  "category": "Electrical Symbols\\Static Electrical 1",
   "version": null,
   "fileName": "Voltage Transformer.viz",
   "fileType": "Graphic",
@@ -14,6 +15,8 @@
   "currency": "ZAR",
   "previewImageUrls": [],
   "downloadUrl": "",
+  "documentation": "",
+  "documentationUrl": "",
   "industries": [],
   "tags": [
     "Transformer",

@@ -1,8 +1,9 @@
 {
-  "id": "22bbd50d-9422-4c42-9979-12af38e2c14f",
+  "id": "7c79de3e-5de1-4f44-8dfb-5acdeefa6fd2",
   "name": "ISOValveVertical_Flat",
   "description": "A ISOValveVertical_Flat.",
   "author": "Adroit Technologies",
+  "category": "Wizards\\Valves",
   "version": null,
   "fileName": "ISOValveVertical_Flat.vizw",
   "fileType": "Wizard",
@@ -14,6 +15,8 @@
   "currency": "ZAR",
   "previewImageUrls": [],
   "downloadUrl": "",
+  "documentation": "",
+  "documentationUrl": "",
   "industries": [],
   "tags": [
     "Valve",

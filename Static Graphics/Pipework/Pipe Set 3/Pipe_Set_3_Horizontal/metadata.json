@@ -1,8 +1,9 @@
 {
-  "id": "0c034ae3-85a5-41f9-baf9-ae82cba28995",
+  "id": "5fbe8cba-29b7-46e8-811d-6ea756bbc6d0",
   "name": "Pipe_Set_3_Horizontal",
   "description": "A Pipe_Set_3_Horizontal.",
   "author": "Adroit Technologies",
+  "category": "Static Graphics\\Pipework\\Pipe Set 3",
   "version": null,
   "fileName": "Pipe_Set_3_Horizontal.viz",
   "fileType": "Graphic",
@@ -14,6 +15,8 @@
   "currency": "ZAR",
   "previewImageUrls": [],
   "downloadUrl": "",
+  "documentation": "",
+  "documentationUrl": "",
   "industries": [],
   "tags": [
     "Pipe",

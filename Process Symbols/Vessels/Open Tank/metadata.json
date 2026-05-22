@@ -1,8 +1,9 @@
 {
-  "id": "a5bb36c0-9d31-4b56-b42c-0f896a57dbe2",
+  "id": "aed6fb70-ec99-42a3-bd4b-a6554ceb1720",
   "name": "Open Tank",
   "description": "A Open Tank.",
   "author": "Adroit Technologies",
+  "category": "Process Symbols\\Vessels",
   "version": null,
   "fileName": "Open Tank.viz",
   "fileType": "Graphic",
@@ -14,6 +15,8 @@
   "currency": "ZAR",
   "previewImageUrls": [],
   "downloadUrl": "",
+  "documentation": "",
+  "documentationUrl": "",
   "industries": [],
   "tags": [
     "Tank",

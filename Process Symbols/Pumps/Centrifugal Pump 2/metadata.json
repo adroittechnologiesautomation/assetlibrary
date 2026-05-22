@@ -1,8 +1,9 @@
 {
-  "id": "e3c36f82-20bf-42ab-bbbb-94ef99b4e7c5",
+  "id": "14adfee6-0fdd-41b9-a3e1-252b06de49c1",
   "name": "Centrifugal Pump 2",
   "description": "A Centrifugal Pump 2.",
   "author": "Adroit Technologies",
+  "category": "Process Symbols\\Pumps",
   "version": null,
   "fileName": "Centrifugal Pump 2.viz",
   "fileType": "Graphic",
@@ -14,6 +15,8 @@
   "currency": "ZAR",
   "previewImageUrls": [],
   "downloadUrl": "",
+  "documentation": "",
+  "documentationUrl": "",
   "industries": [],
   "tags": [
     "Pump",

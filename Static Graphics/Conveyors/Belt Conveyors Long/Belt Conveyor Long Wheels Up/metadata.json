@@ -1,8 +1,9 @@
 {
-  "id": "f498b3c1-953f-43d8-a532-a576c8f32464",
+  "id": "800e982c-6a30-4c68-b60b-1eebfb9b204c",
   "name": "Belt Conveyor Long Wheels Up",
   "description": "A Belt Conveyor Long Wheels Up.",
   "author": "Adroit Technologies",
+  "category": "Static Graphics\\Conveyors\\Belt Conveyors Long",
   "version": null,
   "fileName": "Belt Conveyor Long Wheels Up.viz",
   "fileType": "Graphic",
@@ -14,6 +15,8 @@
   "currency": "ZAR",
   "previewImageUrls": [],
   "downloadUrl": "",
+  "documentation": "",
+  "documentationUrl": "",
   "industries": [],
   "tags": [
     "Conveyor",

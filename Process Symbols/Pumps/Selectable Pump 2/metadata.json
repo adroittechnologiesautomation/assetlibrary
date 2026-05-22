@@ -1,8 +1,9 @@
 {
-  "id": "13902447-ef48-40c5-a2b6-9485fe9d514a",
+  "id": "f5d35ec9-7a4f-4fb5-a4fe-15e536878787",
   "name": "Selectable Pump 2",
   "description": "A Selectable Pump 2.",
   "author": "Adroit Technologies",
+  "category": "Process Symbols\\Pumps",
   "version": null,
   "fileName": "Selectable Pump 2.viz",
   "fileType": "Graphic",
@@ -14,6 +15,8 @@
   "currency": "ZAR",
   "previewImageUrls": [],
   "downloadUrl": "",
+  "documentation": "",
+  "documentationUrl": "",
   "industries": [],
   "tags": [
     "Pump",

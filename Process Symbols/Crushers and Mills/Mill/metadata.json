@@ -1,8 +1,9 @@
 {
-  "id": "45fe9584-e43c-4893-af4e-8f7a98906e86",
+  "id": "a5ec68a7-0992-4f59-b23b-504b0bc7e0d9",
   "name": "Mill",
   "description": "A Mill.",
   "author": "Adroit Technologies",
+  "category": "Process Symbols\\Crushers and Mills",
   "version": null,
   "fileName": "Mill.viz",
   "fileType": "Graphic",
@@ -14,6 +15,8 @@
   "currency": "ZAR",
   "previewImageUrls": [],
   "downloadUrl": "",
+  "documentation": "",
+  "documentationUrl": "",
   "industries": [],
   "tags": [
     "Mill",

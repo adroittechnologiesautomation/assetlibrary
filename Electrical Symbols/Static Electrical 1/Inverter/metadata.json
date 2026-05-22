@@ -1,8 +1,9 @@
 {
-  "id": "b350f19a-8c6c-466e-9bdb-65a6311c8c3a",
+  "id": "1520fc15-51e4-46f6-97e2-d4091ea61867",
   "name": "Inverter",
   "description": "A Inverter.",
   "author": "Adroit Technologies",
+  "category": "Electrical Symbols\\Static Electrical 1",
   "version": null,
   "fileName": "Inverter.viz",
   "fileType": "Graphic",
@@ -14,6 +15,8 @@
   "currency": "ZAR",
   "previewImageUrls": [],
   "downloadUrl": "",
+  "documentation": "",
+  "documentationUrl": "",
   "industries": [],
   "tags": [
     "Inverter",

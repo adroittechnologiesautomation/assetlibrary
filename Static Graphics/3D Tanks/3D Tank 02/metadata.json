@@ -1,8 +1,9 @@
 {
-  "id": "e400f962-31f3-4e27-b9da-5e38f06d8493",
+  "id": "27fd33e4-1d38-4551-9091-d4c6b6d2e5fd",
   "name": "3D Tank 02",
   "description": "A 3D Tank 02.",
   "author": "Adroit Technologies",
+  "category": "Static Graphics\\3D Tanks",
   "version": null,
   "fileName": "3D Tank 02.viz",
   "fileType": "Graphic",
@@ -14,6 +15,8 @@
   "currency": "ZAR",
   "previewImageUrls": [],
   "downloadUrl": "",
+  "documentation": "",
+  "documentationUrl": "",
   "industries": [],
   "tags": [
     "Tank",

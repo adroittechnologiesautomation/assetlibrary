@@ -1,8 +1,9 @@
 {
-  "id": "6ce629ba-d759-41ca-bb63-c403998fbd7e",
+  "id": "628506a0-02cf-4c13-8115-42b8aceec712",
   "name": "Diaphragm Pump",
   "description": "A Diaphragm Pump.",
   "author": "Adroit Technologies",
+  "category": "Process Symbols\\Pumps",
   "version": null,
   "fileName": "Diaphragm Pump.viz",
   "fileType": "Graphic",
@@ -14,6 +15,8 @@
   "currency": "ZAR",
   "previewImageUrls": [],
   "downloadUrl": "",
+  "documentation": "",
+  "documentationUrl": "",
   "industries": [],
   "tags": [
     "Pump",

@@ -1,8 +1,9 @@
 {
-  "id": "4fe8ea1a-c78d-437b-b524-f91471d1289f",
+  "id": "0a05820f-7601-4553-b23f-43c6d1bb8c7f",
   "name": "Reciprocating Pump 1",
   "description": "A Reciprocating Pump 1.",
   "author": "Adroit Technologies",
+  "category": "Process Symbols\\Pumps",
   "version": null,
   "fileName": "Reciprocating Pump 1.viz",
   "fileType": "Graphic",
@@ -14,6 +15,8 @@
   "currency": "ZAR",
   "previewImageUrls": [],
   "downloadUrl": "",
+  "documentation": "",
+  "documentationUrl": "",
   "industries": [],
   "tags": [
     "Pump",

@@ -1,8 +1,9 @@
 {
-  "id": "e5ffcec1-6727-4e52-ae78-42f43baa6f0f",
+  "id": "baa4f2d9-3273-41aa-91e5-1383032da802",
   "name": "Carrying Vessel",
   "description": "A Carrying Vessel.",
   "author": "Adroit Technologies",
+  "category": "Process Symbols\\Vessels",
   "version": null,
   "fileName": "Carrying Vessel.viz",
   "fileType": "Graphic",
@@ -14,6 +15,8 @@
   "currency": "ZAR",
   "previewImageUrls": [],
   "downloadUrl": "",
+  "documentation": "",
+  "documentationUrl": "",
   "industries": [],
   "tags": [
     "Vessel",

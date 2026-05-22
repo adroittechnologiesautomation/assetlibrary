@@ -1,8 +1,9 @@
 {
-  "id": "a94fccb0-3ade-4f62-bcae-db8494c121ee",
+  "id": "f1d29041-dfbe-41ef-a38e-df08a489ca88",
   "name": "Valve 18",
   "description": "A Valve 18.",
   "author": "Adroit Technologies",
+  "category": "Static Graphics\\Valves\\Valves",
   "version": null,
   "fileName": "Valve 18.viz",
   "fileType": "Graphic",
@@ -14,6 +15,8 @@
   "currency": "ZAR",
   "previewImageUrls": [],
   "downloadUrl": "",
+  "documentation": "",
+  "documentationUrl": "",
   "industries": [],
   "tags": [
     "Valve",

@@ -1,8 +1,9 @@
 {
-  "id": "f0079670-ea89-496f-a53d-0501b79d57d4",
+  "id": "59d9324d-e850-449e-b76b-5aa5626a599e",
   "name": "Helical Rotor Pump",
   "description": "A Helical Rotor Pump.",
   "author": "Adroit Technologies",
+  "category": "Process Symbols\\Pumps",
   "version": null,
   "fileName": "Helical Rotor Pump.viz",
   "fileType": "Graphic",
@@ -14,6 +15,8 @@
   "currency": "ZAR",
   "previewImageUrls": [],
   "downloadUrl": "",
+  "documentation": "",
+  "documentationUrl": "",
   "industries": [],
   "tags": [
     "Pump",
