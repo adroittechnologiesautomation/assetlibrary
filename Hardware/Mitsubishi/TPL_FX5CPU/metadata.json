@@ -1,12 +1,12 @@
 {
   "id": "077b421b-3636-4411-8300-dacd07e7e78e",
-  "name": "FX5CPU",
-  "description": "A FX5CPU.",
+  "name": "TPL_FX5CPU",
+  "description": "A object template for FX5CPU.",
   "author": "Adroit Technologies",
   "category": "Hardware/Mitsubishi",
   "version": null,
   "fileName": "FX5CPU.vizt",
-  "fileType": "Wizard",
+  "fileType": "Object",
   "previewImages": [
     "FX5CPU.png",
     "Q03UDVCPU.png"
