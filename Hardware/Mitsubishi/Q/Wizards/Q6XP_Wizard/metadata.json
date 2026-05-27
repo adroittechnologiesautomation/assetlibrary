@@ -1,10 +1,10 @@
 {
-  "id": "54b29ab8-5407-43d9-9cad-fb1686f36759",
+  "id": "09637050-ebee-439d-889c-572b205e3e53",
   "name": "Q6XP_Wizard",
   "description": "A Q6XP_Wizard.",
   "author": "Adroit Technologies",
   "category": "Hardware/Mitsubishi/Q/Wizards",
-  "version": null,
+  "version": "1.0.0",
   "fileName": "Q6XP_Wizard.vizw",
   "fileType": "Wizard",
   "previewImages": [
@@ -13,10 +13,7 @@
   "ownerType": "official",
   "licenseType": "free",
   "currency": "ZAR",
-  "previewImageUrls": [],
-  "downloadUrl": "",
   "documentation": "",
-  "documentationUrl": "",
   "industries": [],
   "tags": [],
   "averageRating": 0.0,

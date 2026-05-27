@@ -1,10 +1,10 @@
 {
-  "id": "3bca2f5b-05aa-40dd-99ad-2d60b9879bb3",
+  "id": "71ed8086-95e2-4d2b-a814-404531ea61e1",
   "name": "Preheater",
   "description": "A Preheater.",
   "author": "Adroit Technologies",
   "category": "Static Graphics/Cement",
-  "version": null,
+  "version": "1.0.0",
   "fileName": "Preheater.viz",
   "fileType": "Graphic",
   "previewImages": [
@@ -13,10 +13,7 @@
   "ownerType": "official",
   "licenseType": "free",
   "currency": "ZAR",
-  "previewImageUrls": [],
-  "downloadUrl": "",
   "documentation": "",
-  "documentationUrl": "",
   "industries": [],
   "tags": [],
   "averageRating": 0.0,

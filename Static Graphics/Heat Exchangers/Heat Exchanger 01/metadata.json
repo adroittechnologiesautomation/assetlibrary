@@ -1,10 +1,10 @@
 {
-  "id": "d16f26fa-b0ab-4acc-95f2-e75118c1fba1",
+  "id": "6f46ca93-c328-4f0f-9ad9-d8d84875232d",
   "name": "Heat Exchanger 01",
   "description": "A Heat Exchanger 01.",
   "author": "Adroit Technologies",
   "category": "Static Graphics/Heat Exchangers",
-  "version": null,
+  "version": "1.0.0",
   "fileName": "Heat Exchanger 01.viz",
   "fileType": "Graphic",
   "previewImages": [
@@ -13,10 +13,7 @@
   "ownerType": "official",
   "licenseType": "free",
   "currency": "ZAR",
-  "previewImageUrls": [],
-  "downloadUrl": "",
   "documentation": "",
-  "documentationUrl": "",
   "industries": [],
   "tags": [],
   "averageRating": 0.0,

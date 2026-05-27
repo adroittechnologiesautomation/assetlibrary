@@ -1,10 +1,10 @@
 {
-  "id": "8a684401-3ac2-4794-a234-b4dfb3fa8ab2",
+  "id": "3ceb14ce-5872-47b7-aeda-5cc3d306895d",
   "name": "Screw Down Valve",
   "description": "A Screw Down Valve.",
   "author": "Adroit Technologies",
   "category": "Process Symbols/Valves and Fittings",
-  "version": null,
+  "version": "1.0.0",
   "fileName": "Screw Down Valve.viz",
   "fileType": "Graphic",
   "previewImages": [
@@ -13,10 +13,7 @@
   "ownerType": "official",
   "licenseType": "free",
   "currency": "ZAR",
-  "previewImageUrls": [],
-  "downloadUrl": "",
   "documentation": "",
-  "documentationUrl": "",
   "industries": [],
   "tags": [
     "Valve",

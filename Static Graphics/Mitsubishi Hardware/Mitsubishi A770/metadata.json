@@ -1,10 +1,10 @@
 {
-  "id": "a5d04afe-6f68-48eb-b168-369ade47ca33",
+  "id": "16524d26-f8db-45a8-9450-0056dc5a0206",
   "name": "Mitsubishi A770",
   "description": "A Mitsubishi A770.",
   "author": "Adroit Technologies",
   "category": "Static Graphics/Mitsubishi Hardware",
-  "version": null,
+  "version": "1.0.0",
   "fileName": "Mitsubishi A770.viz",
   "fileType": "Graphic",
   "previewImages": [
@@ -13,10 +13,7 @@
   "ownerType": "official",
   "licenseType": "free",
   "currency": "ZAR",
-  "previewImageUrls": [],
-  "downloadUrl": "",
   "documentation": "",
-  "documentationUrl": "",
   "industries": [],
   "tags": [],
   "averageRating": 0.0,

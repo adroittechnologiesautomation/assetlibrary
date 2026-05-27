@@ -1,10 +1,10 @@
 {
-  "id": "b7269628-27f8-4b4e-b4ef-2be48139b7d0",
+  "id": "7d3f3ae6-f7fa-4bf8-8f75-ffc30b4725d7",
   "name": "Chrome Water Aerator",
   "description": "A Chrome Water Aerator.",
   "author": "Adroit Technologies",
   "category": "Static Graphics/Agitators",
-  "version": null,
+  "version": "1.0.0",
   "fileName": "Chrome Water Aerator.viz",
   "fileType": "Graphic",
   "previewImages": [
@@ -13,10 +13,7 @@
   "ownerType": "official",
   "licenseType": "free",
   "currency": "ZAR",
-  "previewImageUrls": [],
-  "downloadUrl": "",
   "documentation": "",
-  "documentationUrl": "",
   "industries": [],
   "tags": [],
   "averageRating": 0.0,

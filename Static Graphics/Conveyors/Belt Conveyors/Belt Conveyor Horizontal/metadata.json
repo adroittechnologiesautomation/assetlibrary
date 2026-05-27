@@ -1,10 +1,10 @@
 {
-  "id": "4479d0e2-73a6-4958-bf0f-839a12f07f32",
+  "id": "94c22bfa-423c-4aed-8612-669f315899a6",
   "name": "Belt Conveyor Horizontal",
   "description": "A Belt Conveyor Horizontal.",
   "author": "Adroit Technologies",
   "category": "Static Graphics/Conveyors/Belt Conveyors",
-  "version": null,
+  "version": "1.0.0",
   "fileName": "Belt Conveyor Horizontal.viz",
   "fileType": "Graphic",
   "previewImages": [
@@ -13,10 +13,7 @@
   "ownerType": "official",
   "licenseType": "free",
   "currency": "ZAR",
-  "previewImageUrls": [],
-  "downloadUrl": "",
   "documentation": "",
-  "documentationUrl": "",
   "industries": [],
   "tags": [
     "Conveyor",

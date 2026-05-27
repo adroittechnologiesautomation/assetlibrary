@@ -1,10 +1,10 @@
 {
-  "id": "d7efa41c-eb1e-4f7d-9cc9-33cdba65cdcf",
+  "id": "d7bf5cf6-e49b-4f72-a1b9-317b4ba9f80d",
   "name": "Chrome Temperature Meter Small Left",
   "description": "A Chrome Temperature Meter Small Left.",
   "author": "Adroit Technologies",
   "category": "Static Graphics/Temperature Meters",
-  "version": null,
+  "version": "1.0.0",
   "fileName": "Chrome Temperature Meter Small Left.viz",
   "fileType": "Graphic",
   "previewImages": [
@@ -13,10 +13,7 @@
   "ownerType": "official",
   "licenseType": "free",
   "currency": "ZAR",
-  "previewImageUrls": [],
-  "downloadUrl": "",
   "documentation": "",
-  "documentationUrl": "",
   "industries": [],
   "tags": [],
   "averageRating": 0.0,

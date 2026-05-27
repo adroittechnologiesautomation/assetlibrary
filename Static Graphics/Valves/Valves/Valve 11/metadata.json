@@ -1,10 +1,10 @@
 {
-  "id": "bc16c1ee-6ffe-44b9-bf5e-bcae8b804ba2",
+  "id": "fa56e151-806f-466e-b918-6aafcc62d095",
   "name": "Valve 11",
   "description": "A Valve 11.",
   "author": "Adroit Technologies",
   "category": "Static Graphics/Valves/Valves",
-  "version": null,
+  "version": "1.0.0",
   "fileName": "Valve 11.viz",
   "fileType": "Graphic",
   "previewImages": [
@@ -13,10 +13,7 @@
   "ownerType": "official",
   "licenseType": "free",
   "currency": "ZAR",
-  "previewImageUrls": [],
-  "downloadUrl": "",
   "documentation": "",
-  "documentationUrl": "",
   "industries": [],
   "tags": [
     "Valve",

@@ -1,10 +1,10 @@
 {
-  "id": "c3a8c243-37e5-4bff-8462-2efc0487c762",
+  "id": "adf4e1be-4a29-46bc-81be-d43822b09556",
   "name": "Photovoltaic Cell Filled",
   "description": "A Photovoltaic Cell Filled.",
   "author": "Adroit Technologies",
   "category": "Electrical Symbols/Static Electrical 3",
-  "version": null,
+  "version": "1.0.0",
   "fileName": "Photovoltaic Cell Filled.viz",
   "fileType": "Graphic",
   "previewImages": [
@@ -13,10 +13,7 @@
   "ownerType": "official",
   "licenseType": "free",
   "currency": "ZAR",
-  "previewImageUrls": [],
-  "downloadUrl": "",
   "documentation": "",
-  "documentationUrl": "",
   "industries": [],
   "tags": [],
   "averageRating": 0.0,

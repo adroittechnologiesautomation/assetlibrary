@@ -1,10 +1,10 @@
 {
-  "id": "ff720f3a-f696-4ae4-be64-68d3fd915e6e",
+  "id": "52d3be0b-daf0-416f-8317-11b6a875c5dc",
   "name": "Blue Motorised Valve",
   "description": "A Blue Motorised Valve.",
   "author": "Adroit Technologies",
   "category": "Static Graphics/Valves",
-  "version": null,
+  "version": "1.0.0",
   "fileName": "Blue Motorised Valve.viz",
   "fileType": "Graphic",
   "previewImages": [
@@ -13,10 +13,7 @@
   "ownerType": "official",
   "licenseType": "free",
   "currency": "ZAR",
-  "previewImageUrls": [],
-  "downloadUrl": "",
   "documentation": "",
-  "documentationUrl": "",
   "industries": [],
   "tags": [
     "Motor",

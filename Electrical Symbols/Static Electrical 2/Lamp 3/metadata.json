@@ -1,10 +1,10 @@
 {
-  "id": "985549e1-4ef7-4973-b3df-26c993d0ebd3",
+  "id": "08d50721-12c6-43ff-832f-257ef2ab5aa6",
   "name": "Lamp 3",
   "description": "A Lamp 3.",
   "author": "Adroit Technologies",
   "category": "Electrical Symbols/Static Electrical 2",
-  "version": null,
+  "version": "1.0.0",
   "fileName": "Lamp 3.viz",
   "fileType": "Graphic",
   "previewImages": [
@@ -13,10 +13,7 @@
   "ownerType": "official",
   "licenseType": "free",
   "currency": "ZAR",
-  "previewImageUrls": [],
-  "downloadUrl": "",
   "documentation": "",
-  "documentationUrl": "",
   "industries": [],
   "tags": [],
   "averageRating": 0.0,

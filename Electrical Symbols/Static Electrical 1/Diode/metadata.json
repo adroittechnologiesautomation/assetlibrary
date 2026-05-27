@@ -1,10 +1,10 @@
 {
-  "id": "aed839a8-7f48-46a8-9d16-2a04f03f8043",
+  "id": "2a0aa345-77d7-497a-b5d7-7290a1a4a8ef",
   "name": "Diode",
   "description": "A Diode.",
   "author": "Adroit Technologies",
   "category": "Electrical Symbols/Static Electrical 1",
-  "version": null,
+  "version": "1.0.0",
   "fileName": "Diode.viz",
   "fileType": "Graphic",
   "previewImages": [
@@ -13,10 +13,7 @@
   "ownerType": "official",
   "licenseType": "free",
   "currency": "ZAR",
-  "previewImageUrls": [],
-  "downloadUrl": "",
   "documentation": "",
-  "documentationUrl": "",
   "industries": [],
   "tags": [],
   "averageRating": 0.0,

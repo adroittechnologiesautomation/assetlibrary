@@ -1,10 +1,10 @@
 {
-  "id": "46eeb607-bc7c-4418-a4af-1f8c108dfa2c",
+  "id": "8803acb4-76dd-40d5-bcb5-a88c03950038",
   "name": "Globe Valve",
   "description": "A Globe Valve.",
   "author": "Adroit Technologies",
   "category": "Process Symbols/Valves and Fittings",
-  "version": null,
+  "version": "1.0.0",
   "fileName": "Globe Valve.viz",
   "fileType": "Graphic",
   "previewImages": [
@@ -13,10 +13,7 @@
   "ownerType": "official",
   "licenseType": "free",
   "currency": "ZAR",
-  "previewImageUrls": [],
-  "downloadUrl": "",
   "documentation": "",
-  "documentationUrl": "",
   "industries": [],
   "tags": [
     "Valve",

@@ -1,10 +1,10 @@
 {
-  "id": "d7da8fb4-ce2b-4861-b555-e314b8f4de40",
+  "id": "c975dda1-5b55-42d0-b999-2f3cfa6616de",
   "name": "Varistor or Surge Arrester",
   "description": "A Varistor or Surge Arrester.",
   "author": "Adroit Technologies",
   "category": "Electrical Symbols/Static Electrical 1",
-  "version": null,
+  "version": "1.0.0",
   "fileName": "Varistor or Surge Arrester.viz",
   "fileType": "Graphic",
   "previewImages": [
@@ -13,10 +13,7 @@
   "ownerType": "official",
   "licenseType": "free",
   "currency": "ZAR",
-  "previewImageUrls": [],
-  "downloadUrl": "",
   "documentation": "",
-  "documentationUrl": "",
   "industries": [],
   "tags": [],
   "averageRating": 0.0,

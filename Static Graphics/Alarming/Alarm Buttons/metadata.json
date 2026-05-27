@@ -1,10 +1,10 @@
 {
-  "id": "befe2b16-f172-484a-a33d-c2c44b7d9ab3",
+  "id": "02cd1cc2-3440-4f82-a9dc-5408f9a9bf2e",
   "name": "Alarm Buttons",
   "description": "A Alarm Buttons.",
   "author": "Adroit Technologies",
   "category": "Static Graphics/Alarming",
-  "version": null,
+  "version": "1.0.0",
   "fileName": "Alarm Buttons.viz",
   "fileType": "Graphic",
   "previewImages": [
@@ -13,10 +13,7 @@
   "ownerType": "official",
   "licenseType": "free",
   "currency": "ZAR",
-  "previewImageUrls": [],
-  "downloadUrl": "",
   "documentation": "",
-  "documentationUrl": "",
   "industries": [],
   "tags": [],
   "averageRating": 0.0,

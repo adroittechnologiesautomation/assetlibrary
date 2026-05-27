@@ -1,10 +1,10 @@
 {
-  "id": "60203553-dbda-421f-ba56-a5fc465dd068",
+  "id": "67fdf321-e027-45a2-b288-0d834d1fe858",
   "name": "O_Chart_OEE",
   "description": "A O_Chart_OEE.",
   "author": "Adroit Technologies",
   "category": "Wizards/Gauges",
-  "version": null,
+  "version": "1.0.0",
   "fileName": "O_Chart_OEE.vizw",
   "fileType": "Wizard",
   "previewImages": [
@@ -13,10 +13,7 @@
   "ownerType": "official",
   "licenseType": "free",
   "currency": "ZAR",
-  "previewImageUrls": [],
-  "downloadUrl": "",
   "documentation": "",
-  "documentationUrl": "",
   "industries": [],
   "tags": [],
   "averageRating": 0.0,

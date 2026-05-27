@@ -1,10 +1,10 @@
 {
-  "id": "0c190332-5e5d-4c5f-96a1-91f78d91df45",
+  "id": "b4938cf7-dc0c-4494-aecc-a69bb6a4292d",
   "name": "Vertical Cyclone",
   "description": "A Vertical Cyclone.",
   "author": "Adroit Technologies",
   "category": "Static Graphics/Cement",
-  "version": null,
+  "version": "1.0.0",
   "fileName": "Vertical Cyclone.viz",
   "fileType": "Graphic",
   "previewImages": [
@@ -13,10 +13,7 @@
   "ownerType": "official",
   "licenseType": "free",
   "currency": "ZAR",
-  "previewImageUrls": [],
-  "downloadUrl": "",
   "documentation": "",
-  "documentationUrl": "",
   "industries": [],
   "tags": [],
   "averageRating": 0.0,

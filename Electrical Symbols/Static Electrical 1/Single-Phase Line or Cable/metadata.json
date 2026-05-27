@@ -1,10 +1,10 @@
 {
-  "id": "3202c73a-b900-43b8-af7d-4a6f2c1861f9",
+  "id": "aac93201-a88a-4c07-8bbd-7f3089981962",
   "name": "Single-Phase Line or Cable",
   "description": "A Single-Phase Line or Cable.",
   "author": "Adroit Technologies",
   "category": "Electrical Symbols/Static Electrical 1",
-  "version": null,
+  "version": "1.0.0",
   "fileName": "Single-Phase Line or Cable.viz",
   "fileType": "Graphic",
   "previewImages": [
@@ -13,10 +13,7 @@
   "ownerType": "official",
   "licenseType": "free",
   "currency": "ZAR",
-  "previewImageUrls": [],
-  "downloadUrl": "",
   "documentation": "",
-  "documentationUrl": "",
   "industries": [],
   "tags": [
     "Cable",

@@ -1,10 +1,10 @@
 {
-  "id": "8be4aa91-12eb-402d-b49a-e2d102b7831a",
+  "id": "8654cde6-9b03-45b4-bf71-4ca64f352f5c",
   "name": "Elutriator",
   "description": "A Elutriator.",
   "author": "Adroit Technologies",
   "category": "Process Symbols/Sieves and Seperators",
-  "version": null,
+  "version": "1.0.0",
   "fileName": "Elutriator.viz",
   "fileType": "Graphic",
   "previewImages": [
@@ -13,10 +13,7 @@
   "ownerType": "official",
   "licenseType": "free",
   "currency": "ZAR",
-  "previewImageUrls": [],
-  "downloadUrl": "",
   "documentation": "",
-  "documentationUrl": "",
   "industries": [],
   "tags": [],
   "averageRating": 0.0,

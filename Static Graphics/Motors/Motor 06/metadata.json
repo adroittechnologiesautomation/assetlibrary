@@ -1,10 +1,10 @@
 {
-  "id": "703073e4-d062-4f72-9909-d13fb38cf890",
+  "id": "7e92d196-8cc7-4574-8c41-e497be472db0",
   "name": "Motor 06",
   "description": "A Motor 06.",
   "author": "Adroit Technologies",
   "category": "Static Graphics/Motors",
-  "version": null,
+  "version": "1.0.0",
   "fileName": "Motor 06.viz",
   "fileType": "Graphic",
   "previewImages": [
@@ -13,10 +13,7 @@
   "ownerType": "official",
   "licenseType": "free",
   "currency": "ZAR",
-  "previewImageUrls": [],
-  "downloadUrl": "",
   "documentation": "",
-  "documentationUrl": "",
   "industries": [],
   "tags": [
     "Motor",

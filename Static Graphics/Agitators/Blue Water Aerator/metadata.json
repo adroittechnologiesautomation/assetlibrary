@@ -1,10 +1,10 @@
 {
-  "id": "2e6cb52c-d611-4671-bff3-8bd4ea992913",
+  "id": "3b302cb5-71c6-42dd-9682-f469f9b0f19d",
   "name": "Blue Water Aerator",
   "description": "A Blue Water Aerator.",
   "author": "Adroit Technologies",
   "category": "Static Graphics/Agitators",
-  "version": null,
+  "version": "1.0.0",
   "fileName": "Blue Water Aerator.viz",
   "fileType": "Graphic",
   "previewImages": [
@@ -13,10 +13,7 @@
   "ownerType": "official",
   "licenseType": "free",
   "currency": "ZAR",
-  "previewImageUrls": [],
-  "downloadUrl": "",
   "documentation": "",
-  "documentationUrl": "",
   "industries": [],
   "tags": [],
   "averageRating": 0.0,

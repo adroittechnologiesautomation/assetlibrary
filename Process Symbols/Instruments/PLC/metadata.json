@@ -1,10 +1,10 @@
 {
-  "id": "b1dc7e6c-77a9-4a7a-a90a-811f48c40727",
+  "id": "49d54d56-3a37-4749-b249-146a74150cc9",
   "name": "PLC",
   "description": "A PLC.",
   "author": "Adroit Technologies",
   "category": "Process Symbols/Instruments",
-  "version": null,
+  "version": "1.0.0",
   "fileName": "PLC.viz",
   "fileType": "Graphic",
   "previewImages": [
@@ -13,10 +13,7 @@
   "ownerType": "official",
   "licenseType": "free",
   "currency": "ZAR",
-  "previewImageUrls": [],
-  "downloadUrl": "",
   "documentation": "",
-  "documentationUrl": "",
   "industries": [],
   "tags": [
     "PLC",

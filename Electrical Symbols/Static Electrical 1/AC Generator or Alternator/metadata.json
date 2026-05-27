@@ -1,10 +1,10 @@
 {
-  "id": "659d55aa-fa31-4fcf-a441-889b2155023c",
+  "id": "97adddb4-c859-4e6c-934a-7f9587550fbb",
   "name": "AC Generator or Alternator",
   "description": "A AC Generator or Alternator.",
   "author": "Adroit Technologies",
   "category": "Electrical Symbols/Static Electrical 1",
-  "version": null,
+  "version": "1.0.0",
   "fileName": "AC Generator or Alternator.viz",
   "fileType": "Graphic",
   "previewImages": [
@@ -13,10 +13,7 @@
   "ownerType": "official",
   "licenseType": "free",
   "currency": "ZAR",
-  "previewImageUrls": [],
-  "downloadUrl": "",
   "documentation": "",
-  "documentationUrl": "",
   "industries": [],
   "tags": [],
   "averageRating": 0.0,

@@ -1,10 +1,10 @@
 {
-  "id": "ee4fe240-2fb5-4649-aab3-3e33e1efe1c6",
+  "id": "93d2123d-9707-4077-9373-addff98276aa",
   "name": "Gate",
   "description": "A Gate.",
   "author": "Adroit Technologies",
   "category": "Wizards/Gates",
-  "version": null,
+  "version": "1.0.0",
   "fileName": "Gate.vizw",
   "fileType": "Wizard",
   "previewImages": [
@@ -13,10 +13,7 @@
   "ownerType": "official",
   "licenseType": "free",
   "currency": "ZAR",
-  "previewImageUrls": [],
-  "downloadUrl": "",
   "documentation": "",
-  "documentationUrl": "",
   "industries": [],
   "tags": [],
   "averageRating": 0.0,

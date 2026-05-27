@@ -1,10 +1,10 @@
 {
-  "id": "151f314c-8d35-428b-a11d-5e2fb5d000c2",
+  "id": "29c38a30-66f2-4dba-aaf7-9f715db24aa9",
   "name": "Mitsubishi F700 1",
   "description": "A Mitsubishi F700 1.",
   "author": "Adroit Technologies",
   "category": "Static Graphics/Mitsubishi Hardware",
-  "version": null,
+  "version": "1.0.0",
   "fileName": "Mitsubishi F700 1.viz",
   "fileType": "Graphic",
   "previewImages": [
@@ -13,10 +13,7 @@
   "ownerType": "official",
   "licenseType": "free",
   "currency": "ZAR",
-  "previewImageUrls": [],
-  "downloadUrl": "",
   "documentation": "",
-  "documentationUrl": "",
   "industries": [],
   "tags": [],
   "averageRating": 0.0,

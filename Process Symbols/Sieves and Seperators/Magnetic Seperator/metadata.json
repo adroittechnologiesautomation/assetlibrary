@@ -1,10 +1,10 @@
 {
-  "id": "783d1dbe-0fa1-4f33-874d-2b245bea11e1",
+  "id": "e25f8707-37b9-404f-b8ea-b131b6f440ed",
   "name": "Magnetic Seperator",
   "description": "A Magnetic Seperator.",
   "author": "Adroit Technologies",
   "category": "Process Symbols/Sieves and Seperators",
-  "version": null,
+  "version": "1.0.0",
   "fileName": "Magnetic Seperator.viz",
   "fileType": "Graphic",
   "previewImages": [
@@ -13,10 +13,7 @@
   "ownerType": "official",
   "licenseType": "free",
   "currency": "ZAR",
-  "previewImageUrls": [],
-  "downloadUrl": "",
   "documentation": "",
-  "documentationUrl": "",
   "industries": [],
   "tags": [],
   "averageRating": 0.0,

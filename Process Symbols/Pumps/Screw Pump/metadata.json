@@ -1,10 +1,10 @@
 {
-  "id": "3e6e013d-bab8-4502-9dc6-ac118f759abd",
+  "id": "275978e1-e8f4-4729-9b3f-1ed918850c8a",
   "name": "Screw Pump",
   "description": "A Screw Pump.",
   "author": "Adroit Technologies",
   "category": "Process Symbols/Pumps",
-  "version": null,
+  "version": "1.0.0",
   "fileName": "Screw Pump.viz",
   "fileType": "Graphic",
   "previewImages": [
@@ -13,10 +13,7 @@
   "ownerType": "official",
   "licenseType": "free",
   "currency": "ZAR",
-  "previewImageUrls": [],
-  "downloadUrl": "",
   "documentation": "",
-  "documentationUrl": "",
   "industries": [],
   "tags": [
     "Pump",

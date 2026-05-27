@@ -1,10 +1,10 @@
 {
-  "id": "983cf86f-4824-4b2c-b76c-f66289c593ac",
+  "id": "e5300e1a-2a35-4e58-80e1-0d0968453ade",
   "name": "Sterilising Hopper",
   "description": "A Sterilising Hopper.",
   "author": "Adroit Technologies",
   "category": "Static Graphics/2D Tanks",
-  "version": null,
+  "version": "1.0.0",
   "fileName": "Sterilising Hopper.viz",
   "fileType": "Graphic",
   "previewImages": [
@@ -13,10 +13,7 @@
   "ownerType": "official",
   "licenseType": "free",
   "currency": "ZAR",
-  "previewImageUrls": [],
-  "downloadUrl": "",
   "documentation": "",
-  "documentationUrl": "",
   "industries": [],
   "tags": [],
   "averageRating": 0.0,

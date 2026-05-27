@@ -1,10 +1,10 @@
 {
-  "id": "e66e3696-f815-4239-bcae-cc2f92de6f61",
+  "id": "022c622a-c000-4720-8e15-86a86c0ad8f8",
   "name": "Valve 07",
   "description": "A Valve 07.",
   "author": "Adroit Technologies",
   "category": "Static Graphics/Valves/Valves",
-  "version": null,
+  "version": "1.0.0",
   "fileName": "Valve 07.viz",
   "fileType": "Graphic",
   "previewImages": [
@@ -13,10 +13,7 @@
   "ownerType": "official",
   "licenseType": "free",
   "currency": "ZAR",
-  "previewImageUrls": [],
-  "downloadUrl": "",
   "documentation": "",
-  "documentationUrl": "",
   "industries": [],
   "tags": [
     "Valve",

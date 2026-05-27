@@ -1,10 +1,10 @@
 {
-  "id": "8924a6b5-b890-48a8-8a86-80b5f022c161",
+  "id": "f684a217-7dc2-461f-9bc9-832e0c0eb560",
   "name": "Scraper Conveyor",
   "description": "A Scraper Conveyor.",
   "author": "Adroit Technologies",
   "category": "Process Symbols/Conveyors",
-  "version": null,
+  "version": "1.0.0",
   "fileName": "Scraper Conveyor.viz",
   "fileType": "Graphic",
   "previewImages": [
@@ -13,10 +13,7 @@
   "ownerType": "official",
   "licenseType": "free",
   "currency": "ZAR",
-  "previewImageUrls": [],
-  "downloadUrl": "",
   "documentation": "",
-  "documentationUrl": "",
   "industries": [],
   "tags": [
     "Conveyor",

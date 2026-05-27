@@ -1,10 +1,10 @@
 {
-  "id": "a1d22116-262b-4a6b-a6b0-1442186ce3b5",
+  "id": "ba1d9fd1-d58c-4a88-861c-b4ab7ba4e1fc",
   "name": "Earth Electrode",
   "description": "A Earth Electrode.",
   "author": "Adroit Technologies",
   "category": "Electrical Symbols/Static Electrical 1",
-  "version": null,
+  "version": "1.0.0",
   "fileName": "Earth Electrode.viz",
   "fileType": "Graphic",
   "previewImages": [
@@ -13,10 +13,7 @@
   "ownerType": "official",
   "licenseType": "free",
   "currency": "ZAR",
-  "previewImageUrls": [],
-  "downloadUrl": "",
   "documentation": "",
-  "documentationUrl": "",
   "industries": [],
   "tags": [],
   "averageRating": 0.0,

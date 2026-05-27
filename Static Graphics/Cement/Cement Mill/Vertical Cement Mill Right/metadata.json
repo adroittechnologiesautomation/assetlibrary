@@ -1,10 +1,10 @@
 {
-  "id": "eaead1cc-ba7e-4244-b740-d96f5dfd1961",
+  "id": "9863f985-a42d-4bc1-ac1c-d3034304e137",
   "name": "Vertical Cement Mill Right",
   "description": "A Vertical Cement Mill Right.",
   "author": "Adroit Technologies",
   "category": "Static Graphics/Cement/Cement Mill",
-  "version": null,
+  "version": "1.0.0",
   "fileName": "Vertical Cement Mill Right.viz",
   "fileType": "Graphic",
   "previewImages": [
@@ -13,10 +13,7 @@
   "ownerType": "official",
   "licenseType": "free",
   "currency": "ZAR",
-  "previewImageUrls": [],
-  "downloadUrl": "",
   "documentation": "",
-  "documentationUrl": "",
   "industries": [],
   "tags": [
     "Mill",

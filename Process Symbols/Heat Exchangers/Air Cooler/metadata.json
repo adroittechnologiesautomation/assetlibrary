@@ -1,10 +1,10 @@
 {
-  "id": "cd8175c0-21f1-4a6f-bb60-0282718bbbf8",
+  "id": "d11e511a-933b-4fe0-9406-e0de9ec10620",
   "name": "Air Cooler",
   "description": "A Air Cooler.",
   "author": "Adroit Technologies",
   "category": "Process Symbols/Heat Exchangers",
-  "version": null,
+  "version": "1.0.0",
   "fileName": "Air Cooler.viz",
   "fileType": "Graphic",
   "previewImages": [
@@ -13,10 +13,7 @@
   "ownerType": "official",
   "licenseType": "free",
   "currency": "ZAR",
-  "previewImageUrls": [],
-  "downloadUrl": "",
   "documentation": "",
-  "documentationUrl": "",
   "industries": [],
   "tags": [],
   "averageRating": 0.0,

@@ -1,10 +1,10 @@
 {
-  "id": "4f889771-ca84-440c-8532-13eff28c4baa",
+  "id": "4ba7f84f-ec0c-4b08-8811-fe3abfe895e6",
   "name": "Barrel",
   "description": "A Barrel.",
   "author": "Adroit Technologies",
   "category": "Process Symbols/Vessels",
-  "version": null,
+  "version": "1.0.0",
   "fileName": "Barrel.viz",
   "fileType": "Graphic",
   "previewImages": [
@@ -13,10 +13,7 @@
   "ownerType": "official",
   "licenseType": "free",
   "currency": "ZAR",
-  "previewImageUrls": [],
-  "downloadUrl": "",
   "documentation": "",
-  "documentationUrl": "",
   "industries": [],
   "tags": [],
   "averageRating": 0.0,

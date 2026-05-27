@@ -1,10 +1,10 @@
 {
-  "id": "8b4eb4ea-c5c1-4a73-ad06-eef00ef81859",
+  "id": "7eba6e84-a8f6-44f0-ba0d-2ddba2715744",
   "name": "Hammer Crusher 1",
   "description": "A Hammer Crusher 1.",
   "author": "Adroit Technologies",
   "category": "Process Symbols/Crushers and Mills",
-  "version": null,
+  "version": "1.0.0",
   "fileName": "Hammer Crusher 1.viz",
   "fileType": "Graphic",
   "previewImages": [
@@ -13,10 +13,7 @@
   "ownerType": "official",
   "licenseType": "free",
   "currency": "ZAR",
-  "previewImageUrls": [],
-  "downloadUrl": "",
   "documentation": "",
-  "documentationUrl": "",
   "industries": [],
   "tags": [
     "Crusher",

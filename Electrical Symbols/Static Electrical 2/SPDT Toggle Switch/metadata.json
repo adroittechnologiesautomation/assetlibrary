@@ -1,10 +1,10 @@
 {
-  "id": "aacf6215-1793-40ce-bbbc-b45cc744cd9b",
+  "id": "957e19d6-e2db-4c53-9e94-57810a7c7052",
   "name": "SPDT Toggle Switch",
   "description": "A SPDT Toggle Switch.",
   "author": "Adroit Technologies",
   "category": "Electrical Symbols/Static Electrical 2",
-  "version": null,
+  "version": "1.0.0",
   "fileName": "SPDT Toggle Switch.viz",
   "fileType": "Graphic",
   "previewImages": [
@@ -13,10 +13,7 @@
   "ownerType": "official",
   "licenseType": "free",
   "currency": "ZAR",
-  "previewImageUrls": [],
-  "downloadUrl": "",
   "documentation": "",
-  "documentationUrl": "",
   "industries": [],
   "tags": [
     "Switch",

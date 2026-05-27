@@ -1,10 +1,10 @@
 {
-  "id": "dff0e0ca-705d-4ff7-9318-b4cd0a3d000f",
+  "id": "56bf6a1b-2b5a-4c4f-9623-33a1b51198a1",
   "name": "QY81P_Template",
   "description": "A QY81P_Template.",
   "author": "Adroit Technologies",
   "category": "Hardware/Mitsubishi/Q/Templates",
-  "version": null,
+  "version": "1.0.0",
   "fileName": "QY81P_Template.viz",
   "fileType": "Graphic",
   "previewImages": [
@@ -13,10 +13,7 @@
   "ownerType": "official",
   "licenseType": "free",
   "currency": "ZAR",
-  "previewImageUrls": [],
-  "downloadUrl": "",
   "documentation": "",
-  "documentationUrl": "",
   "industries": [],
   "tags": [],
   "averageRating": 0.0,

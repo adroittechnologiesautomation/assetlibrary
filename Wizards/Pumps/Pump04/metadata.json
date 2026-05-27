@@ -1,10 +1,10 @@
 {
-  "id": "e1942a4a-6264-4bdc-864e-8a6a67f19f06",
+  "id": "44aa8b2f-8a20-4181-ba1a-e59172eb3154",
   "name": "Pump04",
   "description": "A Pump04.",
   "author": "Adroit Technologies",
   "category": "Wizards/Pumps",
-  "version": null,
+  "version": "1.0.0",
   "fileName": "Pump04.vizw",
   "fileType": "Wizard",
   "previewImages": [
@@ -13,10 +13,7 @@
   "ownerType": "official",
   "licenseType": "free",
   "currency": "ZAR",
-  "previewImageUrls": [],
-  "downloadUrl": "",
   "documentation": "",
-  "documentationUrl": "",
   "industries": [],
   "tags": [
     "Pump",

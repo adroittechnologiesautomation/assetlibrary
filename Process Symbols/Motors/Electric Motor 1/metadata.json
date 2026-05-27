@@ -1,10 +1,10 @@
 {
-  "id": "11f437ca-a81b-4507-9bda-6d62040673d0",
+  "id": "ca9d7074-ae5e-4e47-8f43-37315eda363b",
   "name": "Electric Motor 1",
   "description": "A Electric Motor 1.",
   "author": "Adroit Technologies",
   "category": "Process Symbols/Motors",
-  "version": null,
+  "version": "1.0.0",
   "fileName": "Electric Motor 1.viz",
   "fileType": "Graphic",
   "previewImages": [
@@ -13,10 +13,7 @@
   "ownerType": "official",
   "licenseType": "free",
   "currency": "ZAR",
-  "previewImageUrls": [],
-  "downloadUrl": "",
   "documentation": "",
-  "documentationUrl": "",
   "industries": [],
   "tags": [
     "Motor",

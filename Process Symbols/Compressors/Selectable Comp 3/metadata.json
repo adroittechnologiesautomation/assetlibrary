@@ -1,10 +1,10 @@
 {
-  "id": "5ecf6ff9-b838-40ca-814a-79f3ddddf178",
+  "id": "6b751022-af8b-43fb-a6cb-bbce275f187a",
   "name": "Selectable Comp 3",
   "description": "A Selectable Comp 3.",
   "author": "Adroit Technologies",
   "category": "Process Symbols/Compressors",
-  "version": null,
+  "version": "1.0.0",
   "fileName": "Selectable Comp 3.viz",
   "fileType": "Graphic",
   "previewImages": [
@@ -13,10 +13,7 @@
   "ownerType": "official",
   "licenseType": "free",
   "currency": "ZAR",
-  "previewImageUrls": [],
-  "downloadUrl": "",
   "documentation": "",
-  "documentationUrl": "",
   "industries": [],
   "tags": [],
   "averageRating": 0.0,

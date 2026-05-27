@@ -1,10 +1,10 @@
 {
-  "id": "e0e2af13-cef9-40d0-8fae-17e766c66562",
+  "id": "1355c198-0692-4aeb-b38e-0b1d4ca01ee9",
   "name": "IO Module-Input",
   "description": "A IO Module-Input.",
   "author": "Adroit Technologies",
   "category": "Static Graphics/Mitsubishi Hardware",
-  "version": null,
+  "version": "1.0.0",
   "fileName": "IO Module-Input.viz",
   "fileType": "Graphic",
   "previewImages": [
@@ -13,10 +13,7 @@
   "ownerType": "official",
   "licenseType": "free",
   "currency": "ZAR",
-  "previewImageUrls": [],
-  "downloadUrl": "",
   "documentation": "",
-  "documentationUrl": "",
   "industries": [],
   "tags": [],
   "averageRating": 0.0,

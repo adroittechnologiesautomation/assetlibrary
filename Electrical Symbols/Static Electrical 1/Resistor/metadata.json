@@ -1,10 +1,10 @@
 {
-  "id": "2c9402e3-693a-4b78-a1b2-3af68f3c43ba",
+  "id": "7812028f-3d61-4b98-923d-5b8710b237b6",
   "name": "Resistor",
   "description": "A Resistor.",
   "author": "Adroit Technologies",
   "category": "Electrical Symbols/Static Electrical 1",
-  "version": null,
+  "version": "1.0.0",
   "fileName": "Resistor.viz",
   "fileType": "Graphic",
   "previewImages": [
@@ -13,10 +13,7 @@
   "ownerType": "official",
   "licenseType": "free",
   "currency": "ZAR",
-  "previewImageUrls": [],
-  "downloadUrl": "",
   "documentation": "",
-  "documentationUrl": "",
   "industries": [],
   "tags": [
     "Resistor",

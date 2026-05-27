@@ -1,10 +1,10 @@
 {
-  "id": "6383541d-3cf9-4e61-819e-91c182a0116c",
+  "id": "f7f5f839-f27c-4847-a336-0a41ea0570d4",
   "name": "Start Stop Toggle",
   "description": "A Start Stop Toggle.",
   "author": "Adroit Technologies",
   "category": "Wizards/Buttons",
-  "version": null,
+  "version": "1.0.0",
   "fileName": "Start Stop Toggle.vizw",
   "fileType": "Wizard",
   "previewImages": [
@@ -13,10 +13,7 @@
   "ownerType": "official",
   "licenseType": "free",
   "currency": "ZAR",
-  "previewImageUrls": [],
-  "downloadUrl": "",
   "documentation": "",
-  "documentationUrl": "",
   "industries": [],
   "tags": [],
   "averageRating": 0.0,

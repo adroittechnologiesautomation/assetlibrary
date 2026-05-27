@@ -1,10 +1,10 @@
 {
-  "id": "b0457e9f-c82c-4563-9908-85aa237a41f3",
+  "id": "4e318944-43e6-4635-89ea-6184736321c3",
   "name": "SP Momentary NC",
   "description": "A SP Momentary NC.",
   "author": "Adroit Technologies",
   "category": "Electrical Symbols/Static Electrical 2",
-  "version": null,
+  "version": "1.0.0",
   "fileName": "SP Momentary NC.viz",
   "fileType": "Graphic",
   "previewImages": [
@@ -13,10 +13,7 @@
   "ownerType": "official",
   "licenseType": "free",
   "currency": "ZAR",
-  "previewImageUrls": [],
-  "downloadUrl": "",
   "documentation": "",
-  "documentationUrl": "",
   "industries": [],
   "tags": [],
   "averageRating": 0.0,

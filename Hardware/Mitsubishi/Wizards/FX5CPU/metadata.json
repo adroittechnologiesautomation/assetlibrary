@@ -1,23 +1,19 @@
 {
-  "id": "077b421b-3636-4411-8300-dacd07e7e78d",
+  "id": "65e9e354-7676-4d33-af0e-46827ec6bc52",
   "name": "FX5CPU",
   "description": "A FX5CPU.",
   "author": "Adroit Technologies",
   "category": "Hardware/Mitsubishi/Wizards",
-  "version": null,
-  "fileName": "FX5CPU.vizt",
+  "version": "1.0.0",
+  "fileName": "FX5CPU.vizw",
   "fileType": "Wizard",
   "previewImages": [
-    "FX5CPU.png",
-    "Q03UDVCPU.png"
+    "FX5CPU.png"
   ],
   "ownerType": "official",
   "licenseType": "free",
   "currency": "ZAR",
-  "previewImageUrls": [],
-  "downloadUrl": "",
   "documentation": "",
-  "documentationUrl": "",
   "industries": [],
   "tags": [],
   "averageRating": 0.0,

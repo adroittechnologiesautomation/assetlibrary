@@ -1,10 +1,10 @@
 {
-  "id": "e4e754c0-2c24-437a-9fd3-2f16247815b2",
+  "id": "554e4673-8cbf-4fb1-b126-842e9355bfc7",
   "name": "Emergency Stop",
   "description": "A Emergency Stop.",
   "author": "Adroit Technologies",
   "category": "Wizards/Buttons",
-  "version": null,
+  "version": "1.0.0",
   "fileName": "Emergency Stop.vizw",
   "fileType": "Wizard",
   "previewImages": [
@@ -13,10 +13,7 @@
   "ownerType": "official",
   "licenseType": "free",
   "currency": "ZAR",
-  "previewImageUrls": [],
-  "downloadUrl": "",
   "documentation": "",
-  "documentationUrl": "",
   "industries": [],
   "tags": [],
   "averageRating": 0.0,

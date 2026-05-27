@@ -1,10 +1,10 @@
 {
-  "id": "6cb21ad6-3e79-4a28-b124-2806ebdf4b39",
+  "id": "f0b87434-8444-4e1f-a321-1eaf9fbade12",
   "name": "Electrostatic Speaker",
   "description": "A Electrostatic Speaker.",
   "author": "Adroit Technologies",
   "category": "Electrical Symbols/Static Electrical 2",
-  "version": null,
+  "version": "1.0.0",
   "fileName": "Electrostatic Speaker.viz",
   "fileType": "Graphic",
   "previewImages": [
@@ -13,10 +13,7 @@
   "ownerType": "official",
   "licenseType": "free",
   "currency": "ZAR",
-  "previewImageUrls": [],
-  "downloadUrl": "",
   "documentation": "",
-  "documentationUrl": "",
   "industries": [],
   "tags": [],
   "averageRating": 0.0,

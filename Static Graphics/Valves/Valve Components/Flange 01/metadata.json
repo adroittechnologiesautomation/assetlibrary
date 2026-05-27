@@ -1,10 +1,10 @@
 {
-  "id": "f14b1401-cd3c-4788-be4f-14f9cfef22da",
+  "id": "2c37c9b5-9ffc-44fd-8cd4-51730acaeaed",
   "name": "Flange 01",
   "description": "A Flange 01.",
   "author": "Adroit Technologies",
   "category": "Static Graphics/Valves/Valve Components",
-  "version": null,
+  "version": "1.0.0",
   "fileName": "Flange 01.viz",
   "fileType": "Graphic",
   "previewImages": [
@@ -13,10 +13,7 @@
   "ownerType": "official",
   "licenseType": "free",
   "currency": "ZAR",
-  "previewImageUrls": [],
-  "downloadUrl": "",
   "documentation": "",
-  "documentationUrl": "",
   "industries": [],
   "tags": [],
   "averageRating": 0.0,

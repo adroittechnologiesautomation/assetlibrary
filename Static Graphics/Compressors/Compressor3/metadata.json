@@ -1,10 +1,10 @@
 {
-  "id": "c149a237-e57a-47c0-bd95-e9ea1fad39b8",
+  "id": "08014393-8ec1-4a8a-a8a8-22dd9a2d4b25",
   "name": "Compressor3",
   "description": "A Compressor3.",
   "author": "Adroit Technologies",
   "category": "Static Graphics/Compressors",
-  "version": null,
+  "version": "1.0.0",
   "fileName": "Compressor3.viz",
   "fileType": "Graphic",
   "previewImages": [
@@ -13,10 +13,7 @@
   "ownerType": "official",
   "licenseType": "free",
   "currency": "ZAR",
-  "previewImageUrls": [],
-  "downloadUrl": "",
   "documentation": "",
-  "documentationUrl": "",
   "industries": [],
   "tags": [
     "Compressor",

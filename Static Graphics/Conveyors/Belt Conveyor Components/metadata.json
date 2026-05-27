@@ -1,10 +1,10 @@
 {
-  "id": "58e55c49-3b7b-4b33-b89d-d61c2e9151d8",
+  "id": "198eb7c1-41b2-4fef-95ff-a4098f0ffbfb",
   "name": "Belt Conveyor Components",
   "description": "A Belt Conveyor Components.",
   "author": "Adroit Technologies",
   "category": "Static Graphics/Conveyors",
-  "version": null,
+  "version": "1.0.0",
   "fileName": "Belt Conveyor Components.viz",
   "fileType": "Graphic",
   "previewImages": [
@@ -13,10 +13,7 @@
   "ownerType": "official",
   "licenseType": "free",
   "currency": "ZAR",
-  "previewImageUrls": [],
-  "downloadUrl": "",
   "documentation": "",
-  "documentationUrl": "",
   "industries": [],
   "tags": [
     "Conveyor",

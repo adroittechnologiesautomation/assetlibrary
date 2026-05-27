@@ -1,10 +1,10 @@
 {
-  "id": "e5d2bea7-769f-416b-a0e6-3031744cddef",
+  "id": "17c770a5-5f8f-44b1-b791-41d91a593c34",
   "name": "Valve 10",
   "description": "A Valve 10.",
   "author": "Adroit Technologies",
   "category": "Static Graphics/Valves/Valves",
-  "version": null,
+  "version": "1.0.0",
   "fileName": "Valve 10.viz",
   "fileType": "Graphic",
   "previewImages": [
@@ -13,10 +13,7 @@
   "ownerType": "official",
   "licenseType": "free",
   "currency": "ZAR",
-  "previewImageUrls": [],
-  "downloadUrl": "",
   "documentation": "",
-  "documentationUrl": "",
   "industries": [],
   "tags": [
     "Valve",

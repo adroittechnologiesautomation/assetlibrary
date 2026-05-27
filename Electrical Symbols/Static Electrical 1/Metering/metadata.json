@@ -1,10 +1,10 @@
 {
-  "id": "56f14c33-fe80-4e24-823c-15875dfdbc5b",
+  "id": "d7926297-6935-4214-a859-db5693e26f13",
   "name": "Metering",
   "description": "A Metering.",
   "author": "Adroit Technologies",
   "category": "Electrical Symbols/Static Electrical 1",
-  "version": null,
+  "version": "1.0.0",
   "fileName": "Metering.viz",
   "fileType": "Graphic",
   "previewImages": [
@@ -13,10 +13,7 @@
   "ownerType": "official",
   "licenseType": "free",
   "currency": "ZAR",
-  "previewImageUrls": [],
-  "downloadUrl": "",
   "documentation": "",
-  "documentationUrl": "",
   "industries": [],
   "tags": [],
   "averageRating": 0.0,

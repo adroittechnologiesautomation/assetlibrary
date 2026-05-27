@@ -1,10 +1,10 @@
 {
-  "id": "0c965fd7-f8fa-466f-8de5-7b960f066035",
+  "id": "20c89ea4-2145-4899-9b81-32c378d8720d",
   "name": "R60ADI8_Template",
   "description": "A R60ADI8_Template.",
   "author": "Adroit Technologies",
   "category": "Hardware/Mitsubishi/iQ-R/Templates",
-  "version": null,
+  "version": "1.0.0",
   "fileName": "R60ADI8_Template.viz",
   "fileType": "Graphic",
   "previewImages": [
@@ -13,10 +13,7 @@
   "ownerType": "official",
   "licenseType": "free",
   "currency": "ZAR",
-  "previewImageUrls": [],
-  "downloadUrl": "",
   "documentation": "",
-  "documentationUrl": "",
   "industries": [],
   "tags": [],
   "averageRating": 0.0,

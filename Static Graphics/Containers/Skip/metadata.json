@@ -1,10 +1,10 @@
 {
-  "id": "207d403c-ede0-4b1e-a7bf-0f01ddcb9321",
+  "id": "319d6ada-39f2-4625-a8d0-1609ea9c1eae",
   "name": "Skip",
   "description": "A Skip.",
   "author": "Adroit Technologies",
   "category": "Static Graphics/Containers",
-  "version": null,
+  "version": "1.0.0",
   "fileName": "Skip.viz",
   "fileType": "Graphic",
   "previewImages": [
@@ -13,10 +13,7 @@
   "ownerType": "official",
   "licenseType": "free",
   "currency": "ZAR",
-  "previewImageUrls": [],
-  "downloadUrl": "",
   "documentation": "",
-  "documentationUrl": "",
   "industries": [],
   "tags": [],
   "averageRating": 0.0,

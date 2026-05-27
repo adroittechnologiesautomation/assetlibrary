@@ -1,10 +1,10 @@
 {
-  "id": "89656127-a0e2-461a-9355-adaac0a90163",
+  "id": "f5e9902d-3c86-4637-84d1-83508cb6536e",
   "name": "Chrome Ammonia Meter Small Bottom",
   "description": "A Chrome Ammonia Meter Small Bottom.",
   "author": "Adroit Technologies",
   "category": "Static Graphics/Water/Ammonia Meter",
-  "version": null,
+  "version": "1.0.0",
   "fileName": "Chrome Ammonia Meter Small Bottom.viz",
   "fileType": "Graphic",
   "previewImages": [
@@ -13,10 +13,7 @@
   "ownerType": "official",
   "licenseType": "free",
   "currency": "ZAR",
-  "previewImageUrls": [],
-  "downloadUrl": "",
   "documentation": "",
-  "documentationUrl": "",
   "industries": [],
   "tags": [],
   "averageRating": 0.0,

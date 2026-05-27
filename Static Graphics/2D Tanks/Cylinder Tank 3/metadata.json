@@ -1,10 +1,10 @@
 {
-  "id": "cdb55fe9-164f-4067-863a-18194cb97d41",
+  "id": "e523c7cc-0fee-42f5-97c1-1d5c8fc20b68",
   "name": "Cylinder Tank 3",
   "description": "A Cylinder Tank 3.",
   "author": "Adroit Technologies",
   "category": "Static Graphics/2D Tanks",
-  "version": null,
+  "version": "1.0.0",
   "fileName": "Cylinder Tank 3.viz",
   "fileType": "Graphic",
   "previewImages": [
@@ -13,10 +13,7 @@
   "ownerType": "official",
   "licenseType": "free",
   "currency": "ZAR",
-  "previewImageUrls": [],
-  "downloadUrl": "",
   "documentation": "",
-  "documentationUrl": "",
   "industries": [],
   "tags": [
     "Tank",

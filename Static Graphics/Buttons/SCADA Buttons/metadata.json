@@ -1,10 +1,10 @@
 {
-  "id": "ca2bac35-fca6-485b-a72b-a799177bec60",
+  "id": "b51b2e6b-3e5d-461b-bc09-69eccbab6bfa",
   "name": "SCADA Buttons",
   "description": "A SCADA Buttons.",
   "author": "Adroit Technologies",
   "category": "Static Graphics/Buttons",
-  "version": null,
+  "version": "1.0.0",
   "fileName": "SCADA Buttons.viz",
   "fileType": "Graphic",
   "previewImages": [
@@ -13,10 +13,7 @@
   "ownerType": "official",
   "licenseType": "free",
   "currency": "ZAR",
-  "previewImageUrls": [],
-  "downloadUrl": "",
   "documentation": "",
-  "documentationUrl": "",
   "industries": [],
   "tags": [],
   "averageRating": 0.0,

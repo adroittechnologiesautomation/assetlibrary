@@ -1,10 +1,10 @@
 {
-  "id": "6576b6f6-c774-47fa-b69f-5d8c41d38da2",
+  "id": "cd9f39d6-3cfc-4f03-b57a-e75fb269000a",
   "name": "3D Side View Pump",
   "description": "A 3D Side View Pump.",
   "author": "Adroit Technologies",
   "category": "Static Graphics/Pumps",
-  "version": null,
+  "version": "1.0.0",
   "fileName": "3D Side View Pump.viz",
   "fileType": "Graphic",
   "previewImages": [
@@ -13,10 +13,7 @@
   "ownerType": "official",
   "licenseType": "free",
   "currency": "ZAR",
-  "previewImageUrls": [],
-  "downloadUrl": "",
   "documentation": "",
-  "documentationUrl": "",
   "industries": [],
   "tags": [
     "Pump",

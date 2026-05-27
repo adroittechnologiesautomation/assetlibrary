@@ -1,10 +1,10 @@
 {
-  "id": "76fd6983-f03a-4181-9e59-7fd2cba547e0",
+  "id": "8ddf72ca-d23f-4444-929b-a4f1254e950d",
   "name": "RBC Unit Right Intake",
   "description": "A RBC Unit Right Intake.",
   "author": "Adroit Technologies",
   "category": "Static Graphics/Water/Rotating Biological Contactor",
-  "version": null,
+  "version": "1.0.0",
   "fileName": "RBC Unit Right Intake.viz",
   "fileType": "Graphic",
   "previewImages": [
@@ -13,10 +13,7 @@
   "ownerType": "official",
   "licenseType": "free",
   "currency": "ZAR",
-  "previewImageUrls": [],
-  "downloadUrl": "",
   "documentation": "",
-  "documentationUrl": "",
   "industries": [],
   "tags": [],
   "averageRating": 0.0,

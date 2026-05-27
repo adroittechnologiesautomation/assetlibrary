@@ -1,10 +1,10 @@
 {
-  "id": "522bfbcd-2009-493b-8384-bb382908e8fe",
+  "id": "cfd55d73-d6d6-4dbf-b9a5-275333d17e11",
   "name": "Sterilising Tank",
   "description": "A Sterilising Tank.",
   "author": "Adroit Technologies",
   "category": "Static Graphics/2D Tanks",
-  "version": null,
+  "version": "1.0.0",
   "fileName": "Sterilising Tank.viz",
   "fileType": "Graphic",
   "previewImages": [
@@ -13,10 +13,7 @@
   "ownerType": "official",
   "licenseType": "free",
   "currency": "ZAR",
-  "previewImageUrls": [],
-  "downloadUrl": "",
   "documentation": "",
-  "documentationUrl": "",
   "industries": [],
   "tags": [
     "Tank",

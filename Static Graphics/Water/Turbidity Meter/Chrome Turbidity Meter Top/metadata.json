@@ -1,10 +1,10 @@
 {
-  "id": "8702da32-ec4e-468a-a66f-ddb6d97107fa",
+  "id": "4f0f66cd-1431-4b61-91f1-501ebf4854fe",
   "name": "Chrome Turbidity Meter Top",
   "description": "A Chrome Turbidity Meter Top.",
   "author": "Adroit Technologies",
   "category": "Static Graphics/Water/Turbidity Meter",
-  "version": null,
+  "version": "1.0.0",
   "fileName": "Chrome Turbidity Meter Top.viz",
   "fileType": "Graphic",
   "previewImages": [
@@ -13,10 +13,7 @@
   "ownerType": "official",
   "licenseType": "free",
   "currency": "ZAR",
-  "previewImageUrls": [],
-  "downloadUrl": "",
   "documentation": "",
-  "documentationUrl": "",
   "industries": [],
   "tags": [],
   "averageRating": 0.0,

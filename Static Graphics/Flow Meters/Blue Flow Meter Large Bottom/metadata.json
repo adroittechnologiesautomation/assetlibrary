@@ -1,10 +1,10 @@
 {
-  "id": "dadfc728-a2cf-48b3-9b6a-3a17ed2a0a81",
+  "id": "931111cd-4432-4ffb-bc14-619cc765cbc9",
   "name": "Blue Flow Meter Large Bottom",
   "description": "A Blue Flow Meter Large Bottom.",
   "author": "Adroit Technologies",
   "category": "Static Graphics/Flow Meters",
-  "version": null,
+  "version": "1.0.0",
   "fileName": "Blue Flow Meter Large Bottom.viz",
   "fileType": "Graphic",
   "previewImages": [
@@ -13,10 +13,7 @@
   "ownerType": "official",
   "licenseType": "free",
   "currency": "ZAR",
-  "previewImageUrls": [],
-  "downloadUrl": "",
   "documentation": "",
-  "documentationUrl": "",
   "industries": [],
   "tags": [],
   "averageRating": 0.0,

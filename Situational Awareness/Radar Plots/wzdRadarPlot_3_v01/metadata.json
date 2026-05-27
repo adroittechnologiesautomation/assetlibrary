@@ -1,10 +1,10 @@
 {
-  "id": "110d37df-6a6f-4848-9db7-b488896cbe80",
+  "id": "69956462-6f11-4ce8-a66b-58d3f12b081f",
   "name": "wzdRadarPlot_3_v01",
   "description": "A wzdRadarPlot_3_v01.",
   "author": "Adroit Technologies",
   "category": "Situational Awareness/Radar Plots",
-  "version": null,
+  "version": "1.0.0",
   "fileName": "wzdRadarPlot_3_v01.vizw",
   "fileType": "Wizard",
   "previewImages": [
@@ -13,10 +13,7 @@
   "ownerType": "official",
   "licenseType": "free",
   "currency": "ZAR",
-  "previewImageUrls": [],
-  "downloadUrl": "",
   "documentation": "",
-  "documentationUrl": "",
   "industries": [],
   "tags": [],
   "averageRating": 0.0,

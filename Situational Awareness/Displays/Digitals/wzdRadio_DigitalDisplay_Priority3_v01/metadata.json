@@ -1,10 +1,10 @@
 {
-  "id": "9898cc34-40a6-4a20-be37-15fbd224a180",
+  "id": "1b8d759c-574a-4918-a9db-0f96fc21e252",
   "name": "wzdRadio_DigitalDisplay_Priority3_v01",
   "description": "A wzdRadio_DigitalDisplay_Priority3_v01.",
   "author": "Adroit Technologies",
   "category": "Situational Awareness/Displays/Digitals",
-  "version": null,
+  "version": "1.0.0",
   "fileName": "wzdRadio_DigitalDisplay_Priority3_v01.vizw",
   "fileType": "Wizard",
   "previewImages": [
@@ -13,10 +13,7 @@
   "ownerType": "official",
   "licenseType": "free",
   "currency": "ZAR",
-  "previewImageUrls": [],
-  "downloadUrl": "",
   "documentation": "",
-  "documentationUrl": "",
   "industries": [],
   "tags": [],
   "averageRating": 0.0,

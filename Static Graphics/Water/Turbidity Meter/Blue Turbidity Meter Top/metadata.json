@@ -1,10 +1,10 @@
 {
-  "id": "da4c5fa0-9267-481b-8a09-69a1688cb5d4",
+  "id": "cc51f533-f208-4a90-bb1b-dba9667d229a",
   "name": "Blue Turbidity Meter Top",
   "description": "A Blue Turbidity Meter Top.",
   "author": "Adroit Technologies",
   "category": "Static Graphics/Water/Turbidity Meter",
-  "version": null,
+  "version": "1.0.0",
   "fileName": "Blue Turbidity Meter Top.viz",
   "fileType": "Graphic",
   "previewImages": [
@@ -13,10 +13,7 @@
   "ownerType": "official",
   "licenseType": "free",
   "currency": "ZAR",
-  "previewImageUrls": [],
-  "downloadUrl": "",
   "documentation": "",
-  "documentationUrl": "",
   "industries": [],
   "tags": [],
   "averageRating": 0.0,

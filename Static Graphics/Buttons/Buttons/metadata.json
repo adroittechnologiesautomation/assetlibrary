@@ -1,10 +1,10 @@
 {
-  "id": "f576fac8-beb4-48ca-b3b1-ee477b5c8389",
+  "id": "582500c0-e10f-4b6c-bcd3-23665eeac7e8",
   "name": "Buttons",
   "description": "A Buttons.",
   "author": "Adroit Technologies",
   "category": "Static Graphics/Buttons",
-  "version": null,
+  "version": "1.0.0",
   "fileName": "Buttons.viz",
   "fileType": "Graphic",
   "previewImages": [
@@ -13,10 +13,7 @@
   "ownerType": "official",
   "licenseType": "free",
   "currency": "ZAR",
-  "previewImageUrls": [],
-  "downloadUrl": "",
   "documentation": "",
-  "documentationUrl": "",
   "industries": [],
   "tags": [],
   "averageRating": 0.0,

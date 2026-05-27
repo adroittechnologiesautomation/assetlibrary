@@ -1,10 +1,10 @@
 {
-  "id": "56693ab3-7aea-4f68-8836-d68679080425",
+  "id": "63445718-215c-4e29-8de0-b3b798c088e0",
   "name": "Needle Valve",
   "description": "A Needle Valve.",
   "author": "Adroit Technologies",
   "category": "Process Symbols/Valves and Fittings",
-  "version": null,
+  "version": "1.0.0",
   "fileName": "Needle Valve.viz",
   "fileType": "Graphic",
   "previewImages": [
@@ -13,10 +13,7 @@
   "ownerType": "official",
   "licenseType": "free",
   "currency": "ZAR",
-  "previewImageUrls": [],
-  "downloadUrl": "",
   "documentation": "",
-  "documentationUrl": "",
   "industries": [],
   "tags": [
     "Valve",

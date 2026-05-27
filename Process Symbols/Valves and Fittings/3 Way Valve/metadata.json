@@ -1,10 +1,10 @@
 {
-  "id": "e0887a45-bf96-4eac-8a7d-acdab8b35069",
+  "id": "93483008-385a-4d52-95b7-f08ec40b5779",
   "name": "3 Way Valve",
   "description": "A 3 Way Valve.",
   "author": "Adroit Technologies",
   "category": "Process Symbols/Valves and Fittings",
-  "version": null,
+  "version": "1.0.0",
   "fileName": "3 Way Valve.viz",
   "fileType": "Graphic",
   "previewImages": [
@@ -13,10 +13,7 @@
   "ownerType": "official",
   "licenseType": "free",
   "currency": "ZAR",
-  "previewImageUrls": [],
-  "downloadUrl": "",
   "documentation": "",
-  "documentationUrl": "",
   "industries": [],
   "tags": [
     "Valve",

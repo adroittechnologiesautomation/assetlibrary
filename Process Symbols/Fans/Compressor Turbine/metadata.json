@@ -1,10 +1,10 @@
 {
-  "id": "467bc6bc-d43d-4408-b56d-12f9e7249997",
+  "id": "16c2501e-5df1-482a-8c40-76029646d281",
   "name": "Compressor Turbine",
   "description": "A Compressor Turbine.",
   "author": "Adroit Technologies",
   "category": "Process Symbols/Fans",
-  "version": null,
+  "version": "1.0.0",
   "fileName": "Compressor Turbine.viz",
   "fileType": "Graphic",
   "previewImages": [
@@ -13,10 +13,7 @@
   "ownerType": "official",
   "licenseType": "free",
   "currency": "ZAR",
-  "previewImageUrls": [],
-  "downloadUrl": "",
   "documentation": "",
-  "documentationUrl": "",
   "industries": [],
   "tags": [
     "Compressor",

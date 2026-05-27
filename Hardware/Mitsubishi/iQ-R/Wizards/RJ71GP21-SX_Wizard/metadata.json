@@ -1,10 +1,10 @@
 {
-  "id": "f429b104-8814-4833-b0bc-c83504ca3fdf",
+  "id": "a677cd1e-75d3-4651-af50-ab58a3f6ead8",
   "name": "RJ71GP21-SX_Wizard",
   "description": "A RJ71GP21-SX_Wizard.",
   "author": "Adroit Technologies",
   "category": "Hardware/Mitsubishi/iQ-R/Wizards",
-  "version": null,
+  "version": "1.0.0",
   "fileName": "RJ71GP21-SX_Wizard.vizw",
   "fileType": "Wizard",
   "previewImages": [
@@ -13,10 +13,7 @@
   "ownerType": "official",
   "licenseType": "free",
   "currency": "ZAR",
-  "previewImageUrls": [],
-  "downloadUrl": "",
   "documentation": "",
-  "documentationUrl": "",
   "industries": [],
   "tags": [],
   "averageRating": 0.0,

@@ -1,10 +1,10 @@
 {
-  "id": "6adb40c9-97c1-44b0-85dd-cb98ac79ac7e",
+  "id": "ab5c42fd-31ef-4eb1-a904-06c0358c2d53",
   "name": "AlarmEvent",
   "description": "A AlarmEvent.",
   "author": "Adroit Technologies",
   "category": "Hardware/FAG/Control",
-  "version": null,
+  "version": "1.0.0",
   "fileName": "AlarmEvent.viz",
   "fileType": "Graphic",
   "previewImages": [
@@ -13,10 +13,7 @@
   "ownerType": "official",
   "licenseType": "free",
   "currency": "ZAR",
-  "previewImageUrls": [],
-  "downloadUrl": "",
   "documentation": "",
-  "documentationUrl": "",
   "industries": [],
   "tags": [],
   "averageRating": 0.0,

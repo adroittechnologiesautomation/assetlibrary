@@ -1,10 +1,10 @@
 {
-  "id": "d9ca44b6-5132-4d69-87e9-a63c8cb24b8e",
+  "id": "f4ffecb2-b443-49f0-a421-c496c0d5cf8d",
   "name": "RBC Unit Left Intake",
   "description": "A RBC Unit Left Intake.",
   "author": "Adroit Technologies",
   "category": "Static Graphics/Water/Rotating Biological Contactor",
-  "version": null,
+  "version": "1.0.0",
   "fileName": "RBC Unit Left Intake.viz",
   "fileType": "Graphic",
   "previewImages": [
@@ -13,10 +13,7 @@
   "ownerType": "official",
   "licenseType": "free",
   "currency": "ZAR",
-  "previewImageUrls": [],
-  "downloadUrl": "",
   "documentation": "",
-  "documentationUrl": "",
   "industries": [],
   "tags": [],
   "averageRating": 0.0,

@@ -1,10 +1,10 @@
 {
-  "id": "f7620c60-c0c6-4811-a260-f80534e92e2d",
+  "id": "8c9889ef-e35c-4d4d-a61a-c7b13b5dc563",
   "name": "Belt Conveyor Vertical",
   "description": "A Belt Conveyor Vertical.",
   "author": "Adroit Technologies",
   "category": "Static Graphics/Conveyors/Belt Conveyors",
-  "version": null,
+  "version": "1.0.0",
   "fileName": "Belt Conveyor Vertical.viz",
   "fileType": "Graphic",
   "previewImages": [
@@ -13,10 +13,7 @@
   "ownerType": "official",
   "licenseType": "free",
   "currency": "ZAR",
-  "previewImageUrls": [],
-  "downloadUrl": "",
   "documentation": "",
-  "documentationUrl": "",
   "industries": [],
   "tags": [
     "Conveyor",

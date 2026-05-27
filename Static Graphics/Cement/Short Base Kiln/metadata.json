@@ -1,10 +1,10 @@
 {
-  "id": "1cc15b27-7442-4057-b80e-8147983dfd46",
+  "id": "ed425d9a-7279-43ff-83a7-fc3c90781194",
   "name": "Short Base Kiln",
   "description": "A Short Base Kiln.",
   "author": "Adroit Technologies",
   "category": "Static Graphics/Cement",
-  "version": null,
+  "version": "1.0.0",
   "fileName": "Short Base Kiln.viz",
   "fileType": "Graphic",
   "previewImages": [
@@ -13,10 +13,7 @@
   "ownerType": "official",
   "licenseType": "free",
   "currency": "ZAR",
-  "previewImageUrls": [],
-  "downloadUrl": "",
   "documentation": "",
-  "documentationUrl": "",
   "industries": [],
   "tags": [],
   "averageRating": 0.0,

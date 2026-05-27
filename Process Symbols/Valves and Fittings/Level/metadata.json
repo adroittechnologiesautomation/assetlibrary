@@ -1,10 +1,10 @@
 {
-  "id": "30fbec3b-c224-4508-a4bb-79bb6c131bca",
+  "id": "f6b26f5f-80e9-45d5-8743-62096fc67a70",
   "name": "Level",
   "description": "A Level.",
   "author": "Adroit Technologies",
   "category": "Process Symbols/Valves and Fittings",
-  "version": null,
+  "version": "1.0.0",
   "fileName": "Level.viz",
   "fileType": "Graphic",
   "previewImages": [
@@ -13,10 +13,7 @@
   "ownerType": "official",
   "licenseType": "free",
   "currency": "ZAR",
-  "previewImageUrls": [],
-  "downloadUrl": "",
   "documentation": "",
-  "documentationUrl": "",
   "industries": [],
   "tags": [],
   "averageRating": 0.0,

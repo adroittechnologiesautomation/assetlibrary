@@ -1,10 +1,10 @@
 {
-  "id": "39067253-3e05-4616-9ee3-c70c5264efb9",
+  "id": "77576fd1-7f7a-4f24-b333-0938f4ec6240",
   "name": "Indicator",
   "description": "A Indicator.",
   "author": "Adroit Technologies",
   "category": "Process Symbols/Instruments",
-  "version": null,
+  "version": "1.0.0",
   "fileName": "Indicator.viz",
   "fileType": "Graphic",
   "previewImages": [
@@ -13,10 +13,7 @@
   "ownerType": "official",
   "licenseType": "free",
   "currency": "ZAR",
-  "previewImageUrls": [],
-  "downloadUrl": "",
   "documentation": "",
-  "documentationUrl": "",
   "industries": [],
   "tags": [],
   "averageRating": 0.0,

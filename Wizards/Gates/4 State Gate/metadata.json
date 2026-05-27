@@ -1,10 +1,10 @@
 {
-  "id": "bdc34df9-decd-4ccd-8a6e-e6c2e8a307a1",
+  "id": "ea7a8164-8ea0-4539-8093-66bbea3a4edb",
   "name": "4 State Gate",
   "description": "A 4 State Gate.",
   "author": "Adroit Technologies",
   "category": "Wizards/Gates",
-  "version": null,
+  "version": "1.0.0",
   "fileName": "4 State Gate.vizw",
   "fileType": "Wizard",
   "previewImages": [
@@ -13,10 +13,7 @@
   "ownerType": "official",
   "licenseType": "free",
   "currency": "ZAR",
-  "previewImageUrls": [],
-  "downloadUrl": "",
   "documentation": "",
-  "documentationUrl": "",
   "industries": [],
   "tags": [],
   "averageRating": 0.0,

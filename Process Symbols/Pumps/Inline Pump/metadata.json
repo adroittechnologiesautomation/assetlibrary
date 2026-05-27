@@ -1,10 +1,10 @@
 {
-  "id": "b3b9251b-3e8a-4cdb-80f3-dd449ffab930",
+  "id": "f7399453-344b-400b-86a2-e263d5b7d3b3",
   "name": "Inline Pump",
   "description": "A Inline Pump.",
   "author": "Adroit Technologies",
   "category": "Process Symbols/Pumps",
-  "version": null,
+  "version": "1.0.0",
   "fileName": "Inline Pump.viz",
   "fileType": "Graphic",
   "previewImages": [
@@ -13,10 +13,7 @@
   "ownerType": "official",
   "licenseType": "free",
   "currency": "ZAR",
-  "previewImageUrls": [],
-  "downloadUrl": "",
   "documentation": "",
-  "documentationUrl": "",
   "industries": [],
   "tags": [
     "Pump",

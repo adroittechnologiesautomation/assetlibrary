@@ -1,10 +1,10 @@
 {
-  "id": "868d36ef-6266-4fb8-b447-34222931f9ba",
+  "id": "23fa04bd-fe02-4c81-8e44-e6a6a8cdcacc",
   "name": "R38B_Wizard",
   "description": "A R38B_Wizard.",
   "author": "Adroit Technologies",
   "category": "Hardware/Mitsubishi/iQ-R/Wizards",
-  "version": null,
+  "version": "1.0.0",
   "fileName": "R38B_Wizard.vizw",
   "fileType": "Wizard",
   "previewImages": [
@@ -13,10 +13,7 @@
   "ownerType": "official",
   "licenseType": "free",
   "currency": "ZAR",
-  "previewImageUrls": [],
-  "downloadUrl": "",
   "documentation": "",
-  "documentationUrl": "",
   "industries": [],
   "tags": [],
   "averageRating": 0.0,

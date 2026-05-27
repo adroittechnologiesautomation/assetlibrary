@@ -1,10 +1,10 @@
 {
-  "id": "2222043d-6a10-439a-90f6-8b96d6e3184f",
+  "id": "66218230-8d1c-46b5-80ca-21e26b156df1",
   "name": "Photovoltaic Cell",
   "description": "A Photovoltaic Cell.",
   "author": "Adroit Technologies",
   "category": "Electrical Symbols/Static Electrical 3",
-  "version": null,
+  "version": "1.0.0",
   "fileName": "Photovoltaic Cell.viz",
   "fileType": "Graphic",
   "previewImages": [
@@ -13,10 +13,7 @@
   "ownerType": "official",
   "licenseType": "free",
   "currency": "ZAR",
-  "previewImageUrls": [],
-  "downloadUrl": "",
   "documentation": "",
-  "documentationUrl": "",
   "industries": [],
   "tags": [],
   "averageRating": 0.0,

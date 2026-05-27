@@ -1,10 +1,10 @@
 {
-  "id": "dcfb42a4-742c-4e42-a519-357445d21820",
+  "id": "12cb7e95-ab16-42f4-a6d1-fb6317c98d8b",
   "name": "Rotary Pump 1",
   "description": "A Rotary Pump 1.",
   "author": "Adroit Technologies",
   "category": "Process Symbols/Pumps",
-  "version": null,
+  "version": "1.0.0",
   "fileName": "Rotary Pump 1.viz",
   "fileType": "Graphic",
   "previewImages": [
@@ -13,10 +13,7 @@
   "ownerType": "official",
   "licenseType": "free",
   "currency": "ZAR",
-  "previewImageUrls": [],
-  "downloadUrl": "",
   "documentation": "",
-  "documentationUrl": "",
   "industries": [],
   "tags": [
     "Pump",

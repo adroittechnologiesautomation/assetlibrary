@@ -1,10 +1,10 @@
 {
-  "id": "efe769c7-e709-4426-8337-fc7d31e8fdda",
+  "id": "df472e68-1b14-4a65-ac0d-4dc52eba00eb",
   "name": "Flat Top Hopper",
   "description": "A Flat Top Hopper.",
   "author": "Adroit Technologies",
   "category": "Static Graphics/2D Tanks",
-  "version": null,
+  "version": "1.0.0",
   "fileName": "Flat Top Hopper.viz",
   "fileType": "Graphic",
   "previewImages": [
@@ -13,10 +13,7 @@
   "ownerType": "official",
   "licenseType": "free",
   "currency": "ZAR",
-  "previewImageUrls": [],
-  "downloadUrl": "",
   "documentation": "",
-  "documentationUrl": "",
   "industries": [],
   "tags": [],
   "averageRating": 0.0,

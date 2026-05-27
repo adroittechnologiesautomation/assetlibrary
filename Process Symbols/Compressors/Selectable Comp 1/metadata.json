@@ -1,10 +1,10 @@
 {
-  "id": "6e8b04be-8e3b-4a42-bcf7-ffd60d65a825",
+  "id": "969e1fdb-6239-4e3d-a92e-baf56a07bd4b",
   "name": "Selectable Comp 1",
   "description": "A Selectable Comp 1.",
   "author": "Adroit Technologies",
   "category": "Process Symbols/Compressors",
-  "version": null,
+  "version": "1.0.0",
   "fileName": "Selectable Comp 1.viz",
   "fileType": "Graphic",
   "previewImages": [
@@ -13,10 +13,7 @@
   "ownerType": "official",
   "licenseType": "free",
   "currency": "ZAR",
-  "previewImageUrls": [],
-  "downloadUrl": "",
   "documentation": "",
-  "documentationUrl": "",
   "industries": [],
   "tags": [],
   "averageRating": 0.0,

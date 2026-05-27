@@ -1,10 +1,10 @@
 {
-  "id": "acd6b2bc-032a-496f-934b-c74e580aad44",
+  "id": "51e0841a-5102-4d38-9b51-b6cc8d782f31",
   "name": "Ohm Symbol",
   "description": "A Ohm Symbol.",
   "author": "Adroit Technologies",
   "category": "Electrical Symbols/Static Electrical 3",
-  "version": null,
+  "version": "1.0.0",
   "fileName": "Ohm Symbol.viz",
   "fileType": "Graphic",
   "previewImages": [
@@ -13,10 +13,7 @@
   "ownerType": "official",
   "licenseType": "free",
   "currency": "ZAR",
-  "previewImageUrls": [],
-  "downloadUrl": "",
   "documentation": "",
-  "documentationUrl": "",
   "industries": [],
   "tags": [],
   "averageRating": 0.0,

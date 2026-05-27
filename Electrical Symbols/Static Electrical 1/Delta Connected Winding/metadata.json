@@ -1,10 +1,10 @@
 {
-  "id": "9c645296-dcba-4950-832b-5979719857cc",
+  "id": "3bf76a31-193c-49e1-bff2-f7d833e79f40",
   "name": "Delta Connected Winding",
   "description": "A Delta Connected Winding.",
   "author": "Adroit Technologies",
   "category": "Electrical Symbols/Static Electrical 1",
-  "version": null,
+  "version": "1.0.0",
   "fileName": "Delta Connected Winding.viz",
   "fileType": "Graphic",
   "previewImages": [
@@ -13,10 +13,7 @@
   "ownerType": "official",
   "licenseType": "free",
   "currency": "ZAR",
-  "previewImageUrls": [],
-  "downloadUrl": "",
   "documentation": "",
-  "documentationUrl": "",
   "industries": [],
   "tags": [],
   "averageRating": 0.0,

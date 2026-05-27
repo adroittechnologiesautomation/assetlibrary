@@ -1,10 +1,10 @@
 {
-  "id": "e40debd7-1c6f-45b0-b428-1e35ea1f2dda",
+  "id": "c62c8bd6-752e-479e-8870-66f01531c97b",
   "name": "Holding Tank 1",
   "description": "A Holding Tank 1.",
   "author": "Adroit Technologies",
   "category": "Static Graphics/2D Tanks",
-  "version": null,
+  "version": "1.0.0",
   "fileName": "Holding Tank 1.viz",
   "fileType": "Graphic",
   "previewImages": [
@@ -13,10 +13,7 @@
   "ownerType": "official",
   "licenseType": "free",
   "currency": "ZAR",
-  "previewImageUrls": [],
-  "downloadUrl": "",
   "documentation": "",
-  "documentationUrl": "",
   "industries": [],
   "tags": [
     "Tank",

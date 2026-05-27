@@ -1,10 +1,10 @@
 {
-  "id": "95b16583-035b-49d4-9695-f32421f7a7fd",
+  "id": "cfdf4b06-4619-4d33-8d38-c2a6905cb4ad",
   "name": "Cement Bag Palletizer",
   "description": "A Cement Bag Palletizer.",
   "author": "Adroit Technologies",
   "category": "Static Graphics/Cement",
-  "version": null,
+  "version": "1.0.0",
   "fileName": "Cement Bag Palletizer.viz",
   "fileType": "Graphic",
   "previewImages": [
@@ -13,10 +13,7 @@
   "ownerType": "official",
   "licenseType": "free",
   "currency": "ZAR",
-  "previewImageUrls": [],
-  "downloadUrl": "",
   "documentation": "",
-  "documentationUrl": "",
   "industries": [],
   "tags": [],
   "averageRating": 0.0,

@@ -1,10 +1,10 @@
 {
-  "id": "765b8015-bb7c-4d35-90a3-ebeaccf6002e",
+  "id": "b5fcd91d-5bde-4930-9a40-eb4907f01d2a",
   "name": "Coil Transformer",
   "description": "A Coil Transformer.",
   "author": "Adroit Technologies",
   "category": "Electrical Symbols/Static Electrical 2",
-  "version": null,
+  "version": "1.0.0",
   "fileName": "Coil Transformer.viz",
   "fileType": "Graphic",
   "previewImages": [
@@ -13,10 +13,7 @@
   "ownerType": "official",
   "licenseType": "free",
   "currency": "ZAR",
-  "previewImageUrls": [],
-  "downloadUrl": "",
   "documentation": "",
-  "documentationUrl": "",
   "industries": [],
   "tags": [
     "Transformer",

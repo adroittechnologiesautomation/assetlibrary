@@ -1,10 +1,10 @@
 {
-  "id": "ea926de2-485d-482d-8699-0e847eb03f44",
+  "id": "b3fd1e90-1368-46ce-9ac2-12dd3128502e",
   "name": "Blue Sludge Cutter",
   "description": "A Blue Sludge Cutter.",
   "author": "Adroit Technologies",
   "category": "Static Graphics/Water/Sludge Cutter",
-  "version": null,
+  "version": "1.0.0",
   "fileName": "Blue Sludge Cutter.viz",
   "fileType": "Graphic",
   "previewImages": [
@@ -13,10 +13,7 @@
   "ownerType": "official",
   "licenseType": "free",
   "currency": "ZAR",
-  "previewImageUrls": [],
-  "downloadUrl": "",
   "documentation": "",
-  "documentationUrl": "",
   "industries": [],
   "tags": [],
   "averageRating": 0.0,

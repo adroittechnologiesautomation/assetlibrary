@@ -1,10 +1,10 @@
 {
-  "id": "3c03c90a-fb1d-4378-be88-4dee12271b51",
+  "id": "73af073d-bcfe-44c4-9e42-24bf7e8d7558",
   "name": "Panel",
   "description": "A Panel.",
   "author": "Adroit Technologies",
   "category": "Static Graphics/Valves/Valve Components",
-  "version": null,
+  "version": "1.0.0",
   "fileName": "Panel.viz",
   "fileType": "Graphic",
   "previewImages": [
@@ -13,10 +13,7 @@
   "ownerType": "official",
   "licenseType": "free",
   "currency": "ZAR",
-  "previewImageUrls": [],
-  "downloadUrl": "",
   "documentation": "",
-  "documentationUrl": "",
   "industries": [],
   "tags": [],
   "averageRating": 0.0,

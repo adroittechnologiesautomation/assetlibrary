@@ -1,10 +1,10 @@
 {
-  "id": "0efeeb0e-03d0-41d8-b1b9-e0f93895cba0",
+  "id": "2549dbbc-4ecb-47ca-8b54-4f8d99ac46fb",
   "name": "Asychronous Generator",
   "description": "A Asychronous Generator.",
   "author": "Adroit Technologies",
   "category": "Electrical Symbols/Static Electrical 1",
-  "version": null,
+  "version": "1.0.0",
   "fileName": "Asychronous Generator.viz",
   "fileType": "Graphic",
   "previewImages": [
@@ -13,10 +13,7 @@
   "ownerType": "official",
   "licenseType": "free",
   "currency": "ZAR",
-  "previewImageUrls": [],
-  "downloadUrl": "",
   "documentation": "",
-  "documentationUrl": "",
   "industries": [],
   "tags": [],
   "averageRating": 0.0,

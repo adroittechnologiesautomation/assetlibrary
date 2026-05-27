@@ -1,10 +1,10 @@
 {
-  "id": "e5e8ab40-b16a-4d08-b7cf-8b8b960d9880",
+  "id": "38484f74-e96f-4644-a7d5-1bacc0ba9b34",
   "name": "Kiln",
   "description": "A Kiln.",
   "author": "Adroit Technologies",
   "category": "Static Graphics/Cement",
-  "version": null,
+  "version": "1.0.0",
   "fileName": "Kiln.viz",
   "fileType": "Graphic",
   "previewImages": [
@@ -13,10 +13,7 @@
   "ownerType": "official",
   "licenseType": "free",
   "currency": "ZAR",
-  "previewImageUrls": [],
-  "downloadUrl": "",
   "documentation": "",
-  "documentationUrl": "",
   "industries": [],
   "tags": [],
   "averageRating": 0.0,

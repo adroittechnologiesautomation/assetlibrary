@@ -1,10 +1,10 @@
 {
-  "id": "19f0b8f8-e0e5-418f-8d73-0d1ce2a860b9",
+  "id": "51de05e3-64b5-4bd3-a196-ffb2e031228f",
   "name": "Reservoir Round Dam",
   "description": "A Reservoir Round Dam.",
   "author": "Adroit Technologies",
   "category": "Static Graphics/Water/Reservoir",
-  "version": null,
+  "version": "1.0.0",
   "fileName": "Reservoir Round Dam.viz",
   "fileType": "Graphic",
   "previewImages": [
@@ -13,10 +13,7 @@
   "ownerType": "official",
   "licenseType": "free",
   "currency": "ZAR",
-  "previewImageUrls": [],
-  "downloadUrl": "",
   "documentation": "",
-  "documentationUrl": "",
   "industries": [],
   "tags": [],
   "averageRating": 0.0,

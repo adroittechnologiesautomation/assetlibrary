@@ -1,10 +1,10 @@
 {
-  "id": "510497f9-2056-42d2-a8ea-8559e33e2705",
+  "id": "306344ab-4824-4980-974d-212ef75bfb93",
   "name": "Desktop",
   "description": "A Desktop.",
   "author": "Adroit Technologies",
   "category": "Wizards/Network Management/ICMP",
-  "version": null,
+  "version": "1.0.0",
   "fileName": "Desktop.vizw",
   "fileType": "Wizard",
   "previewImages": [
@@ -13,10 +13,7 @@
   "ownerType": "official",
   "licenseType": "free",
   "currency": "ZAR",
-  "previewImageUrls": [],
-  "downloadUrl": "",
   "documentation": "",
-  "documentationUrl": "",
   "industries": [],
   "tags": [],
   "averageRating": 0.0,

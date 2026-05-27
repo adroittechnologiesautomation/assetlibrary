@@ -1,10 +1,10 @@
 {
-  "id": "d3a8c1fb-7df3-416f-9ab6-98c85c907fd1",
+  "id": "3de1ac9a-821b-410a-947f-1531e187ff77",
   "name": "Cold Store",
   "description": "A Cold Store.",
   "author": "Adroit Technologies",
   "category": "Static Graphics/Cold Store",
-  "version": null,
+  "version": "1.0.0",
   "fileName": "Cold Store.viz",
   "fileType": "Graphic",
   "previewImages": [
@@ -13,10 +13,7 @@
   "ownerType": "official",
   "licenseType": "free",
   "currency": "ZAR",
-  "previewImageUrls": [],
-  "downloadUrl": "",
   "documentation": "",
-  "documentationUrl": "",
   "industries": [],
   "tags": [],
   "averageRating": 0.0,

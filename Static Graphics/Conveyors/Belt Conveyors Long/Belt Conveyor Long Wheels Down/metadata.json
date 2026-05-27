@@ -1,10 +1,10 @@
 {
-  "id": "4edeeaf3-8424-4064-87ae-7cd7c88fbbc5",
+  "id": "7f368ee1-2431-4e6f-9f1f-f139b41b30c0",
   "name": "Belt Conveyor Long Wheels Down",
   "description": "A Belt Conveyor Long Wheels Down.",
   "author": "Adroit Technologies",
   "category": "Static Graphics/Conveyors/Belt Conveyors Long",
-  "version": null,
+  "version": "1.0.0",
   "fileName": "Belt Conveyor Long Wheels Down.viz",
   "fileType": "Graphic",
   "previewImages": [
@@ -13,10 +13,7 @@
   "ownerType": "official",
   "licenseType": "free",
   "currency": "ZAR",
-  "previewImageUrls": [],
-  "downloadUrl": "",
   "documentation": "",
-  "documentationUrl": "",
   "industries": [],
   "tags": [
     "Conveyor",

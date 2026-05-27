@@ -1,10 +1,10 @@
 {
-  "id": "c6bc1e0a-5987-4efe-a10b-c4c0bd59ba23",
+  "id": "25fc5c24-75f5-4e38-951c-ace5c5b882f3",
   "name": "FX5-CCLIEF_Wizard",
   "description": "A FX5-CCLIEF_Wizard.",
   "author": "Adroit Technologies",
   "category": "Hardware/Mitsubishi/iQ-F/Wizards",
-  "version": null,
+  "version": "1.0.0",
   "fileName": "FX5-CCLIEF_Wizard.vizw",
   "fileType": "Wizard",
   "previewImages": [
@@ -13,10 +13,7 @@
   "ownerType": "official",
   "licenseType": "free",
   "currency": "ZAR",
-  "previewImageUrls": [],
-  "downloadUrl": "",
   "documentation": "",
-  "documentationUrl": "",
   "industries": [],
   "tags": [],
   "averageRating": 0.0,

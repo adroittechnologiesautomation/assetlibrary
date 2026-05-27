@@ -1,10 +1,10 @@
 {
-  "id": "97751871-22da-432f-8d36-978714d1ffb0",
+  "id": "92eeb7b1-85f6-4a3e-9383-2c24cb04079c",
   "name": "Pipe_Set_3_Flange_Vertical",
   "description": "A Pipe_Set_3_Flange_Vertical.",
   "author": "Adroit Technologies",
   "category": "Static Graphics/Pipework/Pipe Set 3",
-  "version": null,
+  "version": "1.0.0",
   "fileName": "Pipe_Set_3_Flange_Vertical.viz",
   "fileType": "Graphic",
   "previewImages": [
@@ -13,10 +13,7 @@
   "ownerType": "official",
   "licenseType": "free",
   "currency": "ZAR",
-  "previewImageUrls": [],
-  "downloadUrl": "",
   "documentation": "",
-  "documentationUrl": "",
   "industries": [],
   "tags": [
     "Pipe",

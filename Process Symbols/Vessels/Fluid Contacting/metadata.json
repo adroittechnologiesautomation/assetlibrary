@@ -1,10 +1,10 @@
 {
-  "id": "241e097f-dba9-424e-901f-2712ad26f97e",
+  "id": "a35c2873-0fed-44ad-895a-bdbd5435ca38",
   "name": "Fluid Contacting",
   "description": "A Fluid Contacting.",
   "author": "Adroit Technologies",
   "category": "Process Symbols/Vessels",
-  "version": null,
+  "version": "1.0.0",
   "fileName": "Fluid Contacting.viz",
   "fileType": "Graphic",
   "previewImages": [
@@ -13,10 +13,7 @@
   "ownerType": "official",
   "licenseType": "free",
   "currency": "ZAR",
-  "previewImageUrls": [],
-  "downloadUrl": "",
   "documentation": "",
-  "documentationUrl": "",
   "industries": [],
   "tags": [],
   "averageRating": 0.0,

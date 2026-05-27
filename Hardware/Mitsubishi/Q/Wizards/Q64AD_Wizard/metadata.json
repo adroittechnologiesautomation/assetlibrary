@@ -1,10 +1,10 @@
 {
-  "id": "7a566c71-471e-45ee-be34-7089303869f3",
+  "id": "3b52e14f-73ec-4bde-8c1d-173f00c88708",
   "name": "Q64AD_Wizard",
   "description": "A Q64AD_Wizard.",
   "author": "Adroit Technologies",
   "category": "Hardware/Mitsubishi/Q/Wizards",
-  "version": null,
+  "version": "1.0.0",
   "fileName": "Q64AD_Wizard.vizw",
   "fileType": "Wizard",
   "previewImages": [
@@ -13,10 +13,7 @@
   "ownerType": "official",
   "licenseType": "free",
   "currency": "ZAR",
-  "previewImageUrls": [],
-  "downloadUrl": "",
   "documentation": "",
-  "documentationUrl": "",
   "industries": [],
   "tags": [],
   "averageRating": 0.0,

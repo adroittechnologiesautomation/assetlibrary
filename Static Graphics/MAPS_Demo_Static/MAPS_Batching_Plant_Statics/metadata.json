@@ -1,10 +1,10 @@
 {
-  "id": "e769a13d-064f-4bf7-9043-58a14220232f",
+  "id": "63c270e8-c11c-45e8-aeaa-244446e54bce",
   "name": "MAPS_Batching_Plant_Statics",
   "description": "A MAPS_Batching_Plant_Statics.",
   "author": "Adroit Technologies",
   "category": "Static Graphics/MAPS_Demo_Static",
-  "version": null,
+  "version": "1.0.0",
   "fileName": "MAPS_Batching_Plant_Statics.viz",
   "fileType": "Graphic",
   "previewImages": [
@@ -13,10 +13,7 @@
   "ownerType": "official",
   "licenseType": "free",
   "currency": "ZAR",
-  "previewImageUrls": [],
-  "downloadUrl": "",
   "documentation": "",
-  "documentationUrl": "",
   "industries": [],
   "tags": [],
   "averageRating": 0.0,

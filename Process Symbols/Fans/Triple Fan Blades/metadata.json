@@ -1,10 +1,10 @@
 {
-  "id": "e4f5b4de-270d-4b6b-a4c2-69f64e456b79",
+  "id": "d9cccbd4-53f5-4000-b5d9-b3d6f982cc02",
   "name": "Triple Fan Blades",
   "description": "A Triple Fan Blades.",
   "author": "Adroit Technologies",
   "category": "Process Symbols/Fans",
-  "version": null,
+  "version": "1.0.0",
   "fileName": "Triple Fan Blades.viz",
   "fileType": "Graphic",
   "previewImages": [
@@ -13,10 +13,7 @@
   "ownerType": "official",
   "licenseType": "free",
   "currency": "ZAR",
-  "previewImageUrls": [],
-  "downloadUrl": "",
   "documentation": "",
-  "documentationUrl": "",
   "industries": [],
   "tags": [
     "Fan",

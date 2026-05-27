@@ -1,10 +1,10 @@
 {
-  "id": "35b24302-e808-47f0-b36e-9fd12aed17e1",
+  "id": "5c0882e0-6803-4681-b43a-bc53c2a909ab",
   "name": "Classifier",
   "description": "A Classifier.",
   "author": "Adroit Technologies",
   "category": "Process Symbols/Vessels",
-  "version": null,
+  "version": "1.0.0",
   "fileName": "Classifier.viz",
   "fileType": "Graphic",
   "previewImages": [
@@ -13,10 +13,7 @@
   "ownerType": "official",
   "licenseType": "free",
   "currency": "ZAR",
-  "previewImageUrls": [],
-  "downloadUrl": "",
   "documentation": "",
-  "documentationUrl": "",
   "industries": [],
   "tags": [],
   "averageRating": 0.0,

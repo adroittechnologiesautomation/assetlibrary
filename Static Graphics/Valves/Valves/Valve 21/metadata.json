@@ -1,10 +1,10 @@
 {
-  "id": "e362a42f-6bb3-48f3-aabb-1f4ebcd3bf31",
+  "id": "20cba8e6-aab8-486a-99ca-c33c6c841431",
   "name": "Valve 21",
   "description": "A Valve 21.",
   "author": "Adroit Technologies",
   "category": "Static Graphics/Valves/Valves",
-  "version": null,
+  "version": "1.0.0",
   "fileName": "Valve 21.viz",
   "fileType": "Graphic",
   "previewImages": [
@@ -13,10 +13,7 @@
   "ownerType": "official",
   "licenseType": "free",
   "currency": "ZAR",
-  "previewImageUrls": [],
-  "downloadUrl": "",
   "documentation": "",
-  "documentationUrl": "",
   "industries": [],
   "tags": [
     "Valve",

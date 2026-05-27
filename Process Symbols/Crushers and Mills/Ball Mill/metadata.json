@@ -1,10 +1,10 @@
 {
-  "id": "5aa41a34-b49f-49b4-95c6-bbd62949bcad",
+  "id": "cb706bf1-f63f-42a6-82d5-fbb58b9dfa10",
   "name": "Ball Mill",
   "description": "A Ball Mill.",
   "author": "Adroit Technologies",
   "category": "Process Symbols/Crushers and Mills",
-  "version": null,
+  "version": "1.0.0",
   "fileName": "Ball Mill.viz",
   "fileType": "Graphic",
   "previewImages": [
@@ -13,10 +13,7 @@
   "ownerType": "official",
   "licenseType": "free",
   "currency": "ZAR",
-  "previewImageUrls": [],
-  "downloadUrl": "",
   "documentation": "",
-  "documentationUrl": "",
   "industries": [],
   "tags": [
     "Mill",

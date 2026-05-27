@@ -1,10 +1,10 @@
 {
-  "id": "4e7a07c1-ba87-460c-bdc6-c745e6fcee5e",
+  "id": "46379c7a-c979-42bd-a259-8b127ea98a00",
   "name": "Valve 22",
   "description": "A Valve 22.",
   "author": "Adroit Technologies",
   "category": "Static Graphics/Valves/Valves",
-  "version": null,
+  "version": "1.0.0",
   "fileName": "Valve 22.viz",
   "fileType": "Graphic",
   "previewImages": [
@@ -13,10 +13,7 @@
   "ownerType": "official",
   "licenseType": "free",
   "currency": "ZAR",
-  "previewImageUrls": [],
-  "downloadUrl": "",
   "documentation": "",
-  "documentationUrl": "",
   "industries": [],
   "tags": [
     "Valve",

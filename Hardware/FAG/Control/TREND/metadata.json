@@ -1,10 +1,10 @@
 {
-  "id": "03060158-e0fe-4cc2-8b9d-af40c0ea6d8c",
+  "id": "44d99f7f-df3b-4a5e-8580-6bf751dc879e",
   "name": "TREND",
   "description": "A TREND.",
   "author": "Adroit Technologies",
   "category": "Hardware/FAG/Control",
-  "version": null,
+  "version": "1.0.0",
   "fileName": "TREND.viz",
   "fileType": "Graphic",
   "previewImages": [
@@ -13,10 +13,7 @@
   "ownerType": "official",
   "licenseType": "free",
   "currency": "ZAR",
-  "previewImageUrls": [],
-  "downloadUrl": "",
   "documentation": "",
-  "documentationUrl": "",
   "industries": [],
   "tags": [],
   "averageRating": 0.0,

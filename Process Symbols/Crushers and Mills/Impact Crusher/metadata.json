@@ -1,10 +1,10 @@
 {
-  "id": "106f51dd-d3b1-4145-ba10-ae7e010f500b",
+  "id": "dd3b0b64-c684-4c8d-bc16-e3de637ac7ae",
   "name": "Impact Crusher",
   "description": "A Impact Crusher.",
   "author": "Adroit Technologies",
   "category": "Process Symbols/Crushers and Mills",
-  "version": null,
+  "version": "1.0.0",
   "fileName": "Impact Crusher.viz",
   "fileType": "Graphic",
   "previewImages": [
@@ -13,10 +13,7 @@
   "ownerType": "official",
   "licenseType": "free",
   "currency": "ZAR",
-  "previewImageUrls": [],
-  "downloadUrl": "",
   "documentation": "",
-  "documentationUrl": "",
   "industries": [],
   "tags": [
     "Crusher",

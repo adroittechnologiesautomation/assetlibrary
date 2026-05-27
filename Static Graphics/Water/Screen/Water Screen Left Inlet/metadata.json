@@ -1,10 +1,10 @@
 {
-  "id": "b2b43ae7-6cc2-49c1-a903-2ab68d908c38",
+  "id": "65f19c39-99f6-4574-b88f-678b8281c19d",
   "name": "Water Screen Left Inlet",
   "description": "A Water Screen Left Inlet.",
   "author": "Adroit Technologies",
   "category": "Static Graphics/Water/Screen",
-  "version": null,
+  "version": "1.0.0",
   "fileName": "Water Screen Left Inlet.viz",
   "fileType": "Graphic",
   "previewImages": [
@@ -13,10 +13,7 @@
   "ownerType": "official",
   "licenseType": "free",
   "currency": "ZAR",
-  "previewImageUrls": [],
-  "downloadUrl": "",
   "documentation": "",
-  "documentationUrl": "",
   "industries": [],
   "tags": [],
   "averageRating": 0.0,

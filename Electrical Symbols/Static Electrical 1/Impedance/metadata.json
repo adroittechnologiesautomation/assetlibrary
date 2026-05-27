@@ -1,10 +1,10 @@
 {
-  "id": "c1155e45-ad4f-4fdc-b0ac-058250d56c02",
+  "id": "f2541ff8-4341-4b71-8c17-c82ec0ae96ed",
   "name": "Impedance",
   "description": "A Impedance.",
   "author": "Adroit Technologies",
   "category": "Electrical Symbols/Static Electrical 1",
-  "version": null,
+  "version": "1.0.0",
   "fileName": "Impedance.viz",
   "fileType": "Graphic",
   "previewImages": [
@@ -13,10 +13,7 @@
   "ownerType": "official",
   "licenseType": "free",
   "currency": "ZAR",
-  "previewImageUrls": [],
-  "downloadUrl": "",
   "documentation": "",
-  "documentationUrl": "",
   "industries": [],
   "tags": [],
   "averageRating": 0.0,

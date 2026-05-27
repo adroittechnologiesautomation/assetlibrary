@@ -1,10 +1,10 @@
 {
-  "id": "7fee7c3e-e621-4f62-8e53-2d733f7b41d4",
+  "id": "c592bf18-5405-4d3e-a9c7-da63bb365940",
   "name": "Off Button",
   "description": "A Off Button.",
   "author": "Adroit Technologies",
   "category": "Wizards/Buttons/On Off Buttons",
-  "version": null,
+  "version": "1.0.0",
   "fileName": "Off Button.vizw",
   "fileType": "Wizard",
   "previewImages": [
@@ -13,10 +13,7 @@
   "ownerType": "official",
   "licenseType": "free",
   "currency": "ZAR",
-  "previewImageUrls": [],
-  "downloadUrl": "",
   "documentation": "",
-  "documentationUrl": "",
   "industries": [],
   "tags": [],
   "averageRating": 0.0,

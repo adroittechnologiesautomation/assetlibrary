@@ -1,10 +1,10 @@
 {
-  "id": "037f1ad9-647d-4709-9445-215a5349f598",
+  "id": "818eb29f-259d-4b74-a152-9ece13b1eb82",
   "name": "QX80_Template",
   "description": "A QX80_Template.",
   "author": "Adroit Technologies",
   "category": "Hardware/Mitsubishi/Q/Templates",
-  "version": null,
+  "version": "1.0.0",
   "fileName": "QX80_Template.viz",
   "fileType": "Graphic",
   "previewImages": [
@@ -13,10 +13,7 @@
   "ownerType": "official",
   "licenseType": "free",
   "currency": "ZAR",
-  "previewImageUrls": [],
-  "downloadUrl": "",
   "documentation": "",
-  "documentationUrl": "",
   "industries": [],
   "tags": [],
   "averageRating": 0.0,

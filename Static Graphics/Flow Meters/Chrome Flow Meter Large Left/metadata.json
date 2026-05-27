@@ -1,10 +1,10 @@
 {
-  "id": "d6e78b09-af2c-40e2-8bf7-efcae4fc7bac",
+  "id": "d876a014-7a6e-4395-bf33-7b7ac8a35c45",
   "name": "Chrome Flow Meter Large Left",
   "description": "A Chrome Flow Meter Large Left.",
   "author": "Adroit Technologies",
   "category": "Static Graphics/Flow Meters",
-  "version": null,
+  "version": "1.0.0",
   "fileName": "Chrome Flow Meter Large Left.viz",
   "fileType": "Graphic",
   "previewImages": [
@@ -13,10 +13,7 @@
   "ownerType": "official",
   "licenseType": "free",
   "currency": "ZAR",
-  "previewImageUrls": [],
-  "downloadUrl": "",
   "documentation": "",
-  "documentationUrl": "",
   "industries": [],
   "tags": [],
   "averageRating": 0.0,

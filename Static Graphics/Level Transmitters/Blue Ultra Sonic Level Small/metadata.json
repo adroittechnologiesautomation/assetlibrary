@@ -1,10 +1,10 @@
 {
-  "id": "8ec24e00-3892-48fb-917b-3ffe62b93678",
+  "id": "eac0fdce-4530-4205-b4d2-10c37fd1ff75",
   "name": "Blue Ultra Sonic Level Small",
   "description": "A Blue Ultra Sonic Level Small.",
   "author": "Adroit Technologies",
   "category": "Static Graphics/Level Transmitters",
-  "version": null,
+  "version": "1.0.0",
   "fileName": "Blue Ultra Sonic Level Small.viz",
   "fileType": "Graphic",
   "previewImages": [
@@ -13,10 +13,7 @@
   "ownerType": "official",
   "licenseType": "free",
   "currency": "ZAR",
-  "previewImageUrls": [],
-  "downloadUrl": "",
   "documentation": "",
-  "documentationUrl": "",
   "industries": [],
   "tags": [],
   "averageRating": 0.0,

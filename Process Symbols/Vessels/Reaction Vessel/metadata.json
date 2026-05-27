@@ -1,10 +1,10 @@
 {
-  "id": "cfdfee3a-efc1-446a-abb4-9199f38d4b15",
+  "id": "053f4c67-d864-47ea-a23c-8f325cd6b24f",
   "name": "Reaction Vessel",
   "description": "A Reaction Vessel.",
   "author": "Adroit Technologies",
   "category": "Process Symbols/Vessels",
-  "version": null,
+  "version": "1.0.0",
   "fileName": "Reaction Vessel.viz",
   "fileType": "Graphic",
   "previewImages": [
@@ -13,10 +13,7 @@
   "ownerType": "official",
   "licenseType": "free",
   "currency": "ZAR",
-  "previewImageUrls": [],
-  "downloadUrl": "",
   "documentation": "",
-  "documentationUrl": "",
   "industries": [],
   "tags": [
     "Vessel",

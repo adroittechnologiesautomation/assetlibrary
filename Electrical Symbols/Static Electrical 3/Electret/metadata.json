@@ -1,10 +1,10 @@
 {
-  "id": "00fbb881-0ff9-4369-8faf-2200281a5caf",
+  "id": "fc0b11bf-8586-4ca6-acc3-bc484b86c381",
   "name": "Electret",
   "description": "A Electret.",
   "author": "Adroit Technologies",
   "category": "Electrical Symbols/Static Electrical 3",
-  "version": null,
+  "version": "1.0.0",
   "fileName": "Electret.viz",
   "fileType": "Graphic",
   "previewImages": [
@@ -13,10 +13,7 @@
   "ownerType": "official",
   "licenseType": "free",
   "currency": "ZAR",
-  "previewImageUrls": [],
-  "downloadUrl": "",
   "documentation": "",
-  "documentationUrl": "",
   "industries": [],
   "tags": [],
   "averageRating": 0.0,

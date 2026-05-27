@@ -1,10 +1,10 @@
 {
-  "id": "fb778b63-660c-448e-951d-648816a51587",
+  "id": "6547b8bd-5f5a-450f-b1c8-c00c180e9942",
   "name": "Mitsubishi L-Series",
   "description": "A Mitsubishi L-Series.",
   "author": "Adroit Technologies",
   "category": "Static Graphics/Mitsubishi Hardware",
-  "version": null,
+  "version": "1.0.0",
   "fileName": "Mitsubishi L-Series.viz",
   "fileType": "Graphic",
   "previewImages": [
@@ -13,10 +13,7 @@
   "ownerType": "official",
   "licenseType": "free",
   "currency": "ZAR",
-  "previewImageUrls": [],
-  "downloadUrl": "",
   "documentation": "",
-  "documentationUrl": "",
   "industries": [],
   "tags": [],
   "averageRating": 0.0,

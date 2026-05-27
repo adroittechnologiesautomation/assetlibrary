@@ -1,10 +1,10 @@
 {
-  "id": "47e55bf1-fb53-4fdf-9c26-9b40def1aad0",
+  "id": "6e90965e-d93d-461c-b918-58d9c341437a",
   "name": "QNUDVCPU_Wizard",
   "description": "A QNUDVCPU_Wizard.",
   "author": "Adroit Technologies",
   "category": "Hardware/Mitsubishi/Q/Wizards",
-  "version": null,
+  "version": "1.0.0",
   "fileName": "QNUDVCPU_Wizard.vizw",
   "fileType": "Wizard",
   "previewImages": [
@@ -13,10 +13,7 @@
   "ownerType": "official",
   "licenseType": "free",
   "currency": "ZAR",
-  "previewImageUrls": [],
-  "downloadUrl": "",
   "documentation": "",
-  "documentationUrl": "",
   "industries": [],
   "tags": [],
   "averageRating": 0.0,

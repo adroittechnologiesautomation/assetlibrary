@@ -1,10 +1,10 @@
 {
-  "id": "afb08844-1fe6-4685-b58a-62d8a58baf6e",
+  "id": "ea70c866-03f2-430e-bd5f-5a9eed1d048d",
   "name": "Covered Tank",
   "description": "A Covered Tank.",
   "author": "Adroit Technologies",
   "category": "Process Symbols/Vessels",
-  "version": null,
+  "version": "1.0.0",
   "fileName": "Covered Tank.viz",
   "fileType": "Graphic",
   "previewImages": [
@@ -13,10 +13,7 @@
   "ownerType": "official",
   "licenseType": "free",
   "currency": "ZAR",
-  "previewImageUrls": [],
-  "downloadUrl": "",
   "documentation": "",
-  "documentationUrl": "",
   "industries": [],
   "tags": [
     "Tank",

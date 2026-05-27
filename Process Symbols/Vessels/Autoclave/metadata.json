@@ -1,10 +1,10 @@
 {
-  "id": "948d071b-908e-46d5-9640-6007eded8d43",
+  "id": "8ae5c6f3-999e-49d7-8bec-a8c54f9e3234",
   "name": "Autoclave",
   "description": "A Autoclave.",
   "author": "Adroit Technologies",
   "category": "Process Symbols/Vessels",
-  "version": null,
+  "version": "1.0.0",
   "fileName": "Autoclave.viz",
   "fileType": "Graphic",
   "previewImages": [
@@ -13,10 +13,7 @@
   "ownerType": "official",
   "licenseType": "free",
   "currency": "ZAR",
-  "previewImageUrls": [],
-  "downloadUrl": "",
   "documentation": "",
-  "documentationUrl": "",
   "industries": [],
   "tags": [],
   "averageRating": 0.0,

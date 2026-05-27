@@ -1,10 +1,10 @@
 {
-  "id": "a62b86ec-a7d1-42ac-a74e-e190fa62d98b",
+  "id": "21b1afda-0652-4796-8424-b6ea9db9c30a",
   "name": "Material Silo 3",
   "description": "A Material Silo 3.",
   "author": "Adroit Technologies",
   "category": "Static Graphics/2D Tanks",
-  "version": null,
+  "version": "1.0.0",
   "fileName": "Material Silo 3.viz",
   "fileType": "Graphic",
   "previewImages": [
@@ -13,10 +13,7 @@
   "ownerType": "official",
   "licenseType": "free",
   "currency": "ZAR",
-  "previewImageUrls": [],
-  "downloadUrl": "",
   "documentation": "",
-  "documentationUrl": "",
   "industries": [],
   "tags": [],
   "averageRating": 0.0,

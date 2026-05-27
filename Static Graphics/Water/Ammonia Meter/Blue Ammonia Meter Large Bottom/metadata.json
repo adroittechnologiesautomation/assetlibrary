@@ -1,10 +1,10 @@
 {
-  "id": "7e8d10aa-0016-43eb-bc9e-a217937f4826",
+  "id": "b591bbf9-e6dd-4d24-9947-7292821896fd",
   "name": "Blue Ammonia Meter Large Bottom",
   "description": "A Blue Ammonia Meter Large Bottom.",
   "author": "Adroit Technologies",
   "category": "Static Graphics/Water/Ammonia Meter",
-  "version": null,
+  "version": "1.0.0",
   "fileName": "Blue Ammonia Meter Large Bottom.viz",
   "fileType": "Graphic",
   "previewImages": [
@@ -13,10 +13,7 @@
   "ownerType": "official",
   "licenseType": "free",
   "currency": "ZAR",
-  "previewImageUrls": [],
-  "downloadUrl": "",
   "documentation": "",
-  "documentationUrl": "",
   "industries": [],
   "tags": [],
   "averageRating": 0.0,

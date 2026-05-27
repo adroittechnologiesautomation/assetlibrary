@@ -1,10 +1,10 @@
 {
-  "id": "8581eb8d-2d60-4bf2-959c-ed2bb449600d",
+  "id": "aa487d82-b5df-44fa-9c40-e08a7bf39a1e",
   "name": "Cyclone",
   "description": "A Cyclone.",
   "author": "Adroit Technologies",
   "category": "Static Graphics/2D Tanks",
-  "version": null,
+  "version": "1.0.0",
   "fileName": "Cyclone.viz",
   "fileType": "Graphic",
   "previewImages": [
@@ -13,10 +13,7 @@
   "ownerType": "official",
   "licenseType": "free",
   "currency": "ZAR",
-  "previewImageUrls": [],
-  "downloadUrl": "",
   "documentation": "",
-  "documentationUrl": "",
   "industries": [],
   "tags": [],
   "averageRating": 0.0,

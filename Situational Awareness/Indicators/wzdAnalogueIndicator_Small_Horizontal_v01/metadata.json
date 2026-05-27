@@ -1,10 +1,10 @@
 {
-  "id": "2ce4b25b-c5f2-499e-8e07-a517a85e0056",
+  "id": "7b523d42-520a-47e9-b892-b519924d15ad",
   "name": "wzdAnalogueIndicator_Small_Horizontal_v01",
   "description": "A wzdAnalogueIndicator_Small_Horizontal_v01.",
   "author": "Adroit Technologies",
   "category": "Situational Awareness/Indicators",
-  "version": null,
+  "version": "1.0.0",
   "fileName": "wzdAnalogueIndicator_Small_Horizontal_v01.vizw",
   "fileType": "Wizard",
   "previewImages": [
@@ -13,10 +13,7 @@
   "ownerType": "official",
   "licenseType": "free",
   "currency": "ZAR",
-  "previewImageUrls": [],
-  "downloadUrl": "",
   "documentation": "",
-  "documentationUrl": "",
   "industries": [],
   "tags": [],
   "averageRating": 0.0,

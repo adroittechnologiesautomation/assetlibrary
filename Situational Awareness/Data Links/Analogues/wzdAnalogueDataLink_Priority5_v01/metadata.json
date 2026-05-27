@@ -1,10 +1,10 @@
 {
-  "id": "1cdadc86-bfee-4b97-ae6e-31b8f7a344d9",
+  "id": "6af8e857-bd36-42ca-a948-3a45ce439906",
   "name": "wzdAnalogueDataLink_Priority5_v01",
   "description": "A wzdAnalogueDataLink_Priority5_v01.",
   "author": "Adroit Technologies",
   "category": "Situational Awareness/Data Links/Analogues",
-  "version": null,
+  "version": "1.0.0",
   "fileName": "wzdAnalogueDataLink_Priority5_v01.vizw",
   "fileType": "Wizard",
   "previewImages": [
@@ -13,10 +13,7 @@
   "ownerType": "official",
   "licenseType": "free",
   "currency": "ZAR",
-  "previewImageUrls": [],
-  "downloadUrl": "",
   "documentation": "",
-  "documentationUrl": "",
   "industries": [],
   "tags": [],
   "averageRating": 0.0,

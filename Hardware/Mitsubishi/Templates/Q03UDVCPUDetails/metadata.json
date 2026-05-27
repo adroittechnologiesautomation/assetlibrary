@@ -1,10 +1,10 @@
 {
-  "id": "ba953f1a-56df-4b74-8bb4-e4cabbbdc171",
+  "id": "16dfe9cd-da09-45be-b753-d30a36575a79",
   "name": "Q03UDVCPUDetails",
   "description": "A Q03UDVCPUDetails.",
   "author": "Adroit Technologies",
   "category": "Hardware/Mitsubishi/Templates",
-  "version": null,
+  "version": "1.0.0",
   "fileName": "Q03UDVCPUDetails.viz",
   "fileType": "Graphic",
   "previewImages": [
@@ -13,10 +13,7 @@
   "ownerType": "official",
   "licenseType": "free",
   "currency": "ZAR",
-  "previewImageUrls": [],
-  "downloadUrl": "",
   "documentation": "",
-  "documentationUrl": "",
   "industries": [],
   "tags": [],
   "averageRating": 0.0,

@@ -1,10 +1,10 @@
 {
-  "id": "de1cf745-553a-4aa3-9679-e57ae65c5999",
+  "id": "c66f4da2-d2f0-4e9d-b754-3ce9527e95d4",
   "name": "Chrome Pressure Meter Large Top",
   "description": "A Chrome Pressure Meter Large Top.",
   "author": "Adroit Technologies",
   "category": "Static Graphics/Pressure Meters",
-  "version": null,
+  "version": "1.0.0",
   "fileName": "Chrome Pressure Meter Large Top.viz",
   "fileType": "Graphic",
   "previewImages": [
@@ -13,10 +13,7 @@
   "ownerType": "official",
   "licenseType": "free",
   "currency": "ZAR",
-  "previewImageUrls": [],
-  "downloadUrl": "",
   "documentation": "",
-  "documentationUrl": "",
   "industries": [],
   "tags": [],
   "averageRating": 0.0,

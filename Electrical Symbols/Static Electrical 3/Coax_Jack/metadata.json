@@ -1,10 +1,10 @@
 {
-  "id": "ede2ea93-d0ee-45ca-b66f-36a1568d3c8e",
+  "id": "7e179bdb-b936-45a0-b6fb-d87e2da536a9",
   "name": "Coax_Jack",
   "description": "A Coax_Jack.",
   "author": "Adroit Technologies",
   "category": "Electrical Symbols/Static Electrical 3",
-  "version": null,
+  "version": "1.0.0",
   "fileName": "Coax_Jack.viz",
   "fileType": "Graphic",
   "previewImages": [
@@ -13,10 +13,7 @@
   "ownerType": "official",
   "licenseType": "free",
   "currency": "ZAR",
-  "previewImageUrls": [],
-  "downloadUrl": "",
   "documentation": "",
-  "documentationUrl": "",
   "industries": [],
   "tags": [],
   "averageRating": 0.0,

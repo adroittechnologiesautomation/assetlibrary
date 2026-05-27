@@ -1,10 +1,10 @@
 {
-  "id": "bb7c6c58-0143-4c18-8154-6f3734742960",
+  "id": "faf73a3f-49ba-4639-9ba8-db0057e80066",
   "name": "Closed Tank",
   "description": "A Closed Tank.",
   "author": "Adroit Technologies",
   "category": "Process Symbols/Vessels",
-  "version": null,
+  "version": "1.0.0",
   "fileName": "Closed Tank.viz",
   "fileType": "Graphic",
   "previewImages": [
@@ -13,10 +13,7 @@
   "ownerType": "official",
   "licenseType": "free",
   "currency": "ZAR",
-  "previewImageUrls": [],
-  "downloadUrl": "",
   "documentation": "",
-  "documentationUrl": "",
   "industries": [],
   "tags": [
     "Tank",

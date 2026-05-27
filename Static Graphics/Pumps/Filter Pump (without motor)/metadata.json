@@ -1,10 +1,10 @@
 {
-  "id": "fb72556a-85ff-4af1-85c6-0987fe6a3e39",
+  "id": "2ce2a2d2-b82e-4598-99d3-1e08fa5123af",
   "name": "Filter Pump (without motor)",
   "description": "A Filter Pump (without motor).",
   "author": "Adroit Technologies",
   "category": "Static Graphics/Pumps",
-  "version": null,
+  "version": "1.0.0",
   "fileName": "Filter Pump (without motor).viz",
   "fileType": "Graphic",
   "previewImages": [
@@ -13,10 +13,7 @@
   "ownerType": "official",
   "licenseType": "free",
   "currency": "ZAR",
-  "previewImageUrls": [],
-  "downloadUrl": "",
   "documentation": "",
-  "documentationUrl": "",
   "industries": [],
   "tags": [
     "Motor",

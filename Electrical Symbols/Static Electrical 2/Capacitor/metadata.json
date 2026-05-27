@@ -1,10 +1,10 @@
 {
-  "id": "65b4d409-79c7-4c83-bc0a-95e77e45ae7f",
+  "id": "4240ee19-c8d6-4b14-8c68-79cc3a227706",
   "name": "Capacitor",
   "description": "A Capacitor.",
   "author": "Adroit Technologies",
   "category": "Electrical Symbols/Static Electrical 2",
-  "version": null,
+  "version": "1.0.0",
   "fileName": "Capacitor.viz",
   "fileType": "Graphic",
   "previewImages": [
@@ -13,10 +13,7 @@
   "ownerType": "official",
   "licenseType": "free",
   "currency": "ZAR",
-  "previewImageUrls": [],
-  "downloadUrl": "",
   "documentation": "",
-  "documentationUrl": "",
   "industries": [],
   "tags": [],
   "averageRating": 0.0,

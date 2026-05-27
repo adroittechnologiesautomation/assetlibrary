@@ -1,10 +1,10 @@
 {
-  "id": "f23cbbc7-d428-4622-b04f-e561b8b38d9c",
+  "id": "72901129-f535-4f1d-8e57-8a2fab1041ab",
   "name": "Roll Crusher",
   "description": "A Roll Crusher.",
   "author": "Adroit Technologies",
   "category": "Process Symbols/Crushers and Mills",
-  "version": null,
+  "version": "1.0.0",
   "fileName": "Roll Crusher.viz",
   "fileType": "Graphic",
   "previewImages": [
@@ -13,10 +13,7 @@
   "ownerType": "official",
   "licenseType": "free",
   "currency": "ZAR",
-  "previewImageUrls": [],
-  "downloadUrl": "",
   "documentation": "",
-  "documentationUrl": "",
   "industries": [],
   "tags": [
     "Crusher",

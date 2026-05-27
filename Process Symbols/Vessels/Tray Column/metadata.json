@@ -1,10 +1,10 @@
 {
-  "id": "d3d3b785-09b6-4096-ad5f-dd917fbb8b32",
+  "id": "c86d2f97-3bec-4d62-9378-b2f988a692e7",
   "name": "Tray Column",
   "description": "A Tray Column.",
   "author": "Adroit Technologies",
   "category": "Process Symbols/Vessels",
-  "version": null,
+  "version": "1.0.0",
   "fileName": "Tray Column.viz",
   "fileType": "Graphic",
   "previewImages": [
@@ -13,10 +13,7 @@
   "ownerType": "official",
   "licenseType": "free",
   "currency": "ZAR",
-  "previewImageUrls": [],
-  "downloadUrl": "",
   "documentation": "",
-  "documentationUrl": "",
   "industries": [],
   "tags": [],
   "averageRating": 0.0,

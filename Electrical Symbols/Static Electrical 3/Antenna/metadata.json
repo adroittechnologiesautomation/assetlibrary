@@ -1,10 +1,10 @@
 {
-  "id": "b5903908-7943-4ae5-b8ba-da87259d96ae",
+  "id": "5df5af8b-5b36-4369-9fa0-acdf16a83503",
   "name": "Antenna",
   "description": "A Antenna.",
   "author": "Adroit Technologies",
   "category": "Electrical Symbols/Static Electrical 3",
-  "version": null,
+  "version": "1.0.0",
   "fileName": "Antenna.viz",
   "fileType": "Graphic",
   "previewImages": [
@@ -13,10 +13,7 @@
   "ownerType": "official",
   "licenseType": "free",
   "currency": "ZAR",
-  "previewImageUrls": [],
-  "downloadUrl": "",
   "documentation": "",
-  "documentationUrl": "",
   "industries": [],
   "tags": [],
   "averageRating": 0.0,

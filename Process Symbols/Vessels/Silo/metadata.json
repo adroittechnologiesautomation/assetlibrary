@@ -1,10 +1,10 @@
 {
-  "id": "603856e6-c7c3-4518-ab1d-e7d0d0b10f45",
+  "id": "19c6c4b4-21f1-498e-b639-1cefb7a313ee",
   "name": "Silo",
   "description": "A Silo.",
   "author": "Adroit Technologies",
   "category": "Process Symbols/Vessels",
-  "version": null,
+  "version": "1.0.0",
   "fileName": "Silo.viz",
   "fileType": "Graphic",
   "previewImages": [
@@ -13,10 +13,7 @@
   "ownerType": "official",
   "licenseType": "free",
   "currency": "ZAR",
-  "previewImageUrls": [],
-  "downloadUrl": "",
   "documentation": "",
-  "documentationUrl": "",
   "industries": [],
   "tags": [],
   "averageRating": 0.0,

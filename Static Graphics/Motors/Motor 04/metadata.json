@@ -1,10 +1,10 @@
 {
-  "id": "db1e2bfc-80e9-4c93-97aa-066b2a18f0aa",
+  "id": "b56f7254-1638-4dc3-a8af-ba50c7b194ff",
   "name": "Motor 04",
   "description": "A Motor 04.",
   "author": "Adroit Technologies",
   "category": "Static Graphics/Motors",
-  "version": null,
+  "version": "1.0.0",
   "fileName": "Motor 04.viz",
   "fileType": "Graphic",
   "previewImages": [
@@ -13,10 +13,7 @@
   "ownerType": "official",
   "licenseType": "free",
   "currency": "ZAR",
-  "previewImageUrls": [],
-  "downloadUrl": "",
   "documentation": "",
-  "documentationUrl": "",
   "industries": [],
   "tags": [
     "Motor",

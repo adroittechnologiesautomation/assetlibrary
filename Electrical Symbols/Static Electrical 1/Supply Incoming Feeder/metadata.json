@@ -1,10 +1,10 @@
 {
-  "id": "d8f3033c-414e-43d0-863e-ccb3516a515a",
+  "id": "3ff2bd9c-5d4d-49ff-9006-c7c036256092",
   "name": "Supply Incoming Feeder",
   "description": "A Supply Incoming Feeder.",
   "author": "Adroit Technologies",
   "category": "Electrical Symbols/Static Electrical 1",
-  "version": null,
+  "version": "1.0.0",
   "fileName": "Supply Incoming Feeder.viz",
   "fileType": "Graphic",
   "previewImages": [
@@ -13,10 +13,7 @@
   "ownerType": "official",
   "licenseType": "free",
   "currency": "ZAR",
-  "previewImageUrls": [],
-  "downloadUrl": "",
   "documentation": "",
-  "documentationUrl": "",
   "industries": [],
   "tags": [],
   "averageRating": 0.0,

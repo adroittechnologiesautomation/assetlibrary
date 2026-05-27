@@ -1,10 +1,10 @@
 {
-  "id": "79e21d23-ba8c-4ad6-a63b-9b0ec12493bc",
+  "id": "c0dc0a55-8445-479e-841c-5d40160412aa",
   "name": "Blue Temperature Meter Small Top",
   "description": "A Blue Temperature Meter Small Top.",
   "author": "Adroit Technologies",
   "category": "Static Graphics/Temperature Meters",
-  "version": null,
+  "version": "1.0.0",
   "fileName": "Blue Temperature Meter Small Top.viz",
   "fileType": "Graphic",
   "previewImages": [
@@ -13,10 +13,7 @@
   "ownerType": "official",
   "licenseType": "free",
   "currency": "ZAR",
-  "previewImageUrls": [],
-  "downloadUrl": "",
   "documentation": "",
-  "documentationUrl": "",
   "industries": [],
   "tags": [],
   "averageRating": 0.0,

@@ -1,10 +1,10 @@
 {
-  "id": "f405bd30-34cf-479b-a189-d72089551696",
+  "id": "29b77ebe-4a3b-4ec3-bf6b-d236f418ffa9",
   "name": "IF Transformer",
   "description": "A IF Transformer.",
   "author": "Adroit Technologies",
   "category": "Electrical Symbols/Static Electrical 2",
-  "version": null,
+  "version": "1.0.0",
   "fileName": "IF Transformer.viz",
   "fileType": "Graphic",
   "previewImages": [
@@ -13,10 +13,7 @@
   "ownerType": "official",
   "licenseType": "free",
   "currency": "ZAR",
-  "previewImageUrls": [],
-  "downloadUrl": "",
   "documentation": "",
-  "documentationUrl": "",
   "industries": [],
   "tags": [
     "Transformer",

@@ -1,10 +1,10 @@
 {
-  "id": "2a986045-67db-4786-ab26-98655f98327d",
+  "id": "403b763b-72e2-4b27-a645-622ce1904489",
   "name": "Seperator",
   "description": "A Seperator.",
   "author": "Adroit Technologies",
   "category": "Process Symbols/Sieves and Seperators",
-  "version": null,
+  "version": "1.0.0",
   "fileName": "Seperator.viz",
   "fileType": "Graphic",
   "previewImages": [
@@ -13,10 +13,7 @@
   "ownerType": "official",
   "licenseType": "free",
   "currency": "ZAR",
-  "previewImageUrls": [],
-  "downloadUrl": "",
   "documentation": "",
-  "documentationUrl": "",
   "industries": [],
   "tags": [],
   "averageRating": 0.0,

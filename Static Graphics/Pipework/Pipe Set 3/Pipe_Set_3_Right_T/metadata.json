@@ -1,10 +1,10 @@
 {
-  "id": "2954c2a4-f757-4a62-946c-0209cd6ea1cd",
+  "id": "6b3f2663-694b-4aa5-82d1-147504b30204",
   "name": "Pipe_Set_3_Right_T",
   "description": "A Pipe_Set_3_Right_T.",
   "author": "Adroit Technologies",
   "category": "Static Graphics/Pipework/Pipe Set 3",
-  "version": null,
+  "version": "1.0.0",
   "fileName": "Pipe_Set_3_Right_T.viz",
   "fileType": "Graphic",
   "previewImages": [
@@ -13,10 +13,7 @@
   "ownerType": "official",
   "licenseType": "free",
   "currency": "ZAR",
-  "previewImageUrls": [],
-  "downloadUrl": "",
   "documentation": "",
-  "documentationUrl": "",
   "industries": [],
   "tags": [
     "Pipe",

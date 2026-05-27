@@ -1,10 +1,10 @@
 {
-  "id": "9ee672a3-14c5-48a8-a653-8f8c41b876fb",
+  "id": "18248e34-405c-405b-949a-19e1fe785d37",
   "name": "Reciprocating Pump Comp",
   "description": "A Reciprocating Pump Comp.",
   "author": "Adroit Technologies",
   "category": "Process Symbols/Compressors",
-  "version": null,
+  "version": "1.0.0",
   "fileName": "Reciprocating Pump Comp.viz",
   "fileType": "Graphic",
   "previewImages": [
@@ -13,10 +13,7 @@
   "ownerType": "official",
   "licenseType": "free",
   "currency": "ZAR",
-  "previewImageUrls": [],
-  "downloadUrl": "",
   "documentation": "",
-  "documentationUrl": "",
   "industries": [],
   "tags": [
     "Pump",

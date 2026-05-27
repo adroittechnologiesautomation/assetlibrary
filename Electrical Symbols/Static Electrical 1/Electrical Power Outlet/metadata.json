@@ -1,10 +1,10 @@
 {
-  "id": "d2942841-8faf-469e-a78b-33475ccd485f",
+  "id": "6d3343a2-9401-44de-9e19-d39b175c9999",
   "name": "Electrical Power Outlet",
   "description": "A Electrical Power Outlet.",
   "author": "Adroit Technologies",
   "category": "Electrical Symbols/Static Electrical 1",
-  "version": null,
+  "version": "1.0.0",
   "fileName": "Electrical Power Outlet.viz",
   "fileType": "Graphic",
   "previewImages": [
@@ -13,10 +13,7 @@
   "ownerType": "official",
   "licenseType": "free",
   "currency": "ZAR",
-  "previewImageUrls": [],
-  "downloadUrl": "",
   "documentation": "",
-  "documentationUrl": "",
   "industries": [],
   "tags": [],
   "averageRating": 0.0,

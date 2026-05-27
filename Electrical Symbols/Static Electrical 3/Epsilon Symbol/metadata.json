@@ -1,10 +1,10 @@
 {
-  "id": "d3f07544-c35b-44fa-bdcd-50406dc741f4",
+  "id": "e7fb7368-6851-4282-becd-eb72146c8cac",
   "name": "Epsilon Symbol",
   "description": "A Epsilon Symbol.",
   "author": "Adroit Technologies",
   "category": "Electrical Symbols/Static Electrical 3",
-  "version": null,
+  "version": "1.0.0",
   "fileName": "Epsilon Symbol.viz",
   "fileType": "Graphic",
   "previewImages": [
@@ -13,10 +13,7 @@
   "ownerType": "official",
   "licenseType": "free",
   "currency": "ZAR",
-  "previewImageUrls": [],
-  "downloadUrl": "",
   "documentation": "",
-  "documentationUrl": "",
   "industries": [],
   "tags": [],
   "averageRating": 0.0,

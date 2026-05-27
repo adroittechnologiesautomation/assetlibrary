@@ -1,10 +1,10 @@
 {
-  "id": "5021a4d4-af4e-440f-877c-7531bc8f2f74",
+  "id": "69de4fee-9ad5-48ab-9abf-a13c3b76ec48",
   "name": "Condenser",
   "description": "A Condenser.",
   "author": "Adroit Technologies",
   "category": "Process Symbols/Heat Exchangers",
-  "version": null,
+  "version": "1.0.0",
   "fileName": "Condenser.viz",
   "fileType": "Graphic",
   "previewImages": [
@@ -13,10 +13,7 @@
   "ownerType": "official",
   "licenseType": "free",
   "currency": "ZAR",
-  "previewImageUrls": [],
-  "downloadUrl": "",
   "documentation": "",
-  "documentationUrl": "",
   "industries": [],
   "tags": [],
   "averageRating": 0.0,

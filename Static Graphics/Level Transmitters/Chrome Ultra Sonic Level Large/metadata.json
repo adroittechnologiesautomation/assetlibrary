@@ -1,10 +1,10 @@
 {
-  "id": "d7c2e759-1e80-46b3-b6e6-bb3f1314c4d1",
+  "id": "75309856-ef65-412b-b6c2-ea5bdc5fd98d",
   "name": "Chrome Ultra Sonic Level Large",
   "description": "A Chrome Ultra Sonic Level Large.",
   "author": "Adroit Technologies",
   "category": "Static Graphics/Level Transmitters",
-  "version": null,
+  "version": "1.0.0",
   "fileName": "Chrome Ultra Sonic Level Large.viz",
   "fileType": "Graphic",
   "previewImages": [
@@ -13,10 +13,7 @@
   "ownerType": "official",
   "licenseType": "free",
   "currency": "ZAR",
-  "previewImageUrls": [],
-  "downloadUrl": "",
   "documentation": "",
-  "documentationUrl": "",
   "industries": [],
   "tags": [],
   "averageRating": 0.0,

@@ -1,10 +1,10 @@
 {
-  "id": "21560525-73bb-481b-95e6-5fe25ccd0d14",
+  "id": "7834d2a6-8a63-4430-8b90-e676471fcebf",
   "name": "Vent",
   "description": "A Vent.",
   "author": "Adroit Technologies",
   "category": "Static Graphics/Valves/Valve Components",
-  "version": null,
+  "version": "1.0.0",
   "fileName": "Vent.viz",
   "fileType": "Graphic",
   "previewImages": [
@@ -13,10 +13,7 @@
   "ownerType": "official",
   "licenseType": "free",
   "currency": "ZAR",
-  "previewImageUrls": [],
-  "downloadUrl": "",
   "documentation": "",
-  "documentationUrl": "",
   "industries": [],
   "tags": [],
   "averageRating": 0.0,

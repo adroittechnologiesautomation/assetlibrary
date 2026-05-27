@@ -1,10 +1,10 @@
 {
-  "id": "7dd5fc71-07d2-4c07-a29f-94a5e162c8f1",
+  "id": "7f4a019a-6af3-41f2-a78b-d34418ea12dd",
   "name": "Chrome DO Meter Right",
   "description": "A Chrome DO Meter Right.",
   "author": "Adroit Technologies",
   "category": "Static Graphics/Water/Dissolved Oxygen Meter",
-  "version": null,
+  "version": "1.0.0",
   "fileName": "Chrome DO Meter Right.viz",
   "fileType": "Graphic",
   "previewImages": [
@@ -13,10 +13,7 @@
   "ownerType": "official",
   "licenseType": "free",
   "currency": "ZAR",
-  "previewImageUrls": [],
-  "downloadUrl": "",
   "documentation": "",
-  "documentationUrl": "",
   "industries": [],
   "tags": [],
   "averageRating": 0.0,

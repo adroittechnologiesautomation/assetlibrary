@@ -1,10 +1,10 @@
 {
-  "id": "9f56ba24-c7e1-4647-8aab-49f11b4d63c5",
+  "id": "66a6a45a-20a6-436a-9534-e87761b732b4",
   "name": "Manual Valve Angle Left",
   "description": "A Manual Valve Angle Left.",
   "author": "Adroit Technologies",
   "category": "Static Graphics/Valves",
-  "version": null,
+  "version": "1.0.0",
   "fileName": "Manual Valve Angle Left.viz",
   "fileType": "Graphic",
   "previewImages": [
@@ -13,10 +13,7 @@
   "ownerType": "official",
   "licenseType": "free",
   "currency": "ZAR",
-  "previewImageUrls": [],
-  "downloadUrl": "",
   "documentation": "",
-  "documentationUrl": "",
   "industries": [],
   "tags": [
     "Valve",

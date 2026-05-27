@@ -1,10 +1,10 @@
 {
-  "id": "ef38dba9-e1bb-4768-9a69-aea0f409de1f",
+  "id": "6d7509c8-8d9c-4db5-9ce0-b7c72624076e",
   "name": "Blue Horizontal Flange Motor",
   "description": "A Blue Horizontal Flange Motor.",
   "author": "Adroit Technologies",
   "category": "Static Graphics/Motors",
-  "version": null,
+  "version": "1.0.0",
   "fileName": "Blue Horizontal Flange Motor.viz",
   "fileType": "Graphic",
   "previewImages": [
@@ -13,10 +13,7 @@
   "ownerType": "official",
   "licenseType": "free",
   "currency": "ZAR",
-  "previewImageUrls": [],
-  "downloadUrl": "",
   "documentation": "",
-  "documentationUrl": "",
   "industries": [],
   "tags": [
     "Motor",

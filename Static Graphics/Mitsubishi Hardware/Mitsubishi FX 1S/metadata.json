@@ -1,10 +1,10 @@
 {
-  "id": "a4625a83-fde5-481a-b842-434b3663c7d0",
+  "id": "1b914e24-036d-4d6b-8720-452e2061a604",
   "name": "Mitsubishi FX 1S",
   "description": "A Mitsubishi FX 1S.",
   "author": "Adroit Technologies",
   "category": "Static Graphics/Mitsubishi Hardware",
-  "version": null,
+  "version": "1.0.0",
   "fileName": "Mitsubishi FX 1S.viz",
   "fileType": "Graphic",
   "previewImages": [
@@ -13,10 +13,7 @@
   "ownerType": "official",
   "licenseType": "free",
   "currency": "ZAR",
-  "previewImageUrls": [],
-  "downloadUrl": "",
   "documentation": "",
-  "documentationUrl": "",
   "industries": [],
   "tags": [],
   "averageRating": 0.0,

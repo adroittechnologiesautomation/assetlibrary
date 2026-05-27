@@ -1,10 +1,10 @@
 {
-  "id": "be4c86d8-2f08-493b-8996-17499fbed743",
+  "id": "bd0238f3-2037-431d-843c-917d863c5eba",
   "name": "Blue Pressure Meter Small Top",
   "description": "A Blue Pressure Meter Small Top.",
   "author": "Adroit Technologies",
   "category": "Static Graphics/Pressure Meters",
-  "version": null,
+  "version": "1.0.0",
   "fileName": "Blue Pressure Meter Small Top.viz",
   "fileType": "Graphic",
   "previewImages": [
@@ -13,10 +13,7 @@
   "ownerType": "official",
   "licenseType": "free",
   "currency": "ZAR",
-  "previewImageUrls": [],
-  "downloadUrl": "",
   "documentation": "",
-  "documentationUrl": "",
   "industries": [],
   "tags": [],
   "averageRating": 0.0,

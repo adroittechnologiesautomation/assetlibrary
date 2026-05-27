@@ -1,10 +1,10 @@
 {
-  "id": "609aef1a-8494-4e84-903a-8dd18177f70b",
+  "id": "224f31bd-fe7d-4680-8dac-09fff2a28d13",
   "name": "Flowmeter 1",
   "description": "A Flowmeter 1.",
   "author": "Adroit Technologies",
   "category": "Process Symbols/Instruments",
-  "version": null,
+  "version": "1.0.0",
   "fileName": "Flowmeter 1.viz",
   "fileType": "Graphic",
   "previewImages": [
@@ -13,10 +13,7 @@
   "ownerType": "official",
   "licenseType": "free",
   "currency": "ZAR",
-  "previewImageUrls": [],
-  "downloadUrl": "",
   "documentation": "",
-  "documentationUrl": "",
   "industries": [],
   "tags": [],
   "averageRating": 0.0,

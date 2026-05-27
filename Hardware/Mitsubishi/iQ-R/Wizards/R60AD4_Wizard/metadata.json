@@ -1,10 +1,10 @@
 {
-  "id": "9c3dfa4e-c65a-4651-8f69-fb786874b692",
+  "id": "45becac5-bc3f-43f3-a8b1-f58a2cd4bbd3",
   "name": "R60AD4_Wizard",
   "description": "A R60AD4_Wizard.",
   "author": "Adroit Technologies",
   "category": "Hardware/Mitsubishi/iQ-R/Wizards",
-  "version": null,
+  "version": "1.0.0",
   "fileName": "R60AD4_Wizard.vizw",
   "fileType": "Wizard",
   "previewImages": [
@@ -13,10 +13,7 @@
   "ownerType": "official",
   "licenseType": "free",
   "currency": "ZAR",
-  "previewImageUrls": [],
-  "downloadUrl": "",
   "documentation": "",
-  "documentationUrl": "",
   "industries": [],
   "tags": [],
   "averageRating": 0.0,

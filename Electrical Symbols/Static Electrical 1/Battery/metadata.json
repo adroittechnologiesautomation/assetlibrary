@@ -1,10 +1,10 @@
 {
-  "id": "5d7264f9-5d0f-4a8e-ac5a-2b64c3880ff1",
+  "id": "9b274935-8359-4c04-9019-379a4874158e",
   "name": "Battery",
   "description": "A Battery.",
   "author": "Adroit Technologies",
   "category": "Electrical Symbols/Static Electrical 1",
-  "version": null,
+  "version": "1.0.0",
   "fileName": "Battery.viz",
   "fileType": "Graphic",
   "previewImages": [
@@ -13,10 +13,7 @@
   "ownerType": "official",
   "licenseType": "free",
   "currency": "ZAR",
-  "previewImageUrls": [],
-  "downloadUrl": "",
   "documentation": "",
-  "documentationUrl": "",
   "industries": [],
   "tags": [],
   "averageRating": 0.0,

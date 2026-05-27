@@ -1,10 +1,10 @@
 {
-  "id": "61599509-9ee5-43ac-812b-e37f49792948",
+  "id": "177d0278-c26a-495d-a910-8c7a6e9ba148",
   "name": "Chrome Pressure Meter Large Bottom",
   "description": "A Chrome Pressure Meter Large Bottom.",
   "author": "Adroit Technologies",
   "category": "Static Graphics/Pressure Meters",
-  "version": null,
+  "version": "1.0.0",
   "fileName": "Chrome Pressure Meter Large Bottom.viz",
   "fileType": "Graphic",
   "previewImages": [
@@ -13,10 +13,7 @@
   "ownerType": "official",
   "licenseType": "free",
   "currency": "ZAR",
-  "previewImageUrls": [],
-  "downloadUrl": "",
   "documentation": "",
-  "documentationUrl": "",
   "industries": [],
   "tags": [],
   "averageRating": 0.0,

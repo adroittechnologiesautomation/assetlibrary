@@ -1,10 +1,10 @@
 {
-  "id": "6f82bbfc-d64a-4838-97b8-f659f0d1a915",
+  "id": "28037220-3194-45e6-9dc0-a1d82ce374d0",
   "name": "ID Fan Up",
   "description": "A ID Fan Up.",
   "author": "Adroit Technologies",
   "category": "Static Graphics/Cement/ID Fans",
-  "version": null,
+  "version": "1.0.0",
   "fileName": "ID Fan Up.viz",
   "fileType": "Graphic",
   "previewImages": [
@@ -13,10 +13,7 @@
   "ownerType": "official",
   "licenseType": "free",
   "currency": "ZAR",
-  "previewImageUrls": [],
-  "downloadUrl": "",
   "documentation": "",
-  "documentationUrl": "",
   "industries": [],
   "tags": [
     "Fan",

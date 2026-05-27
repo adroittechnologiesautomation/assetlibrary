@@ -1,10 +1,10 @@
 {
-  "id": "079067c4-b486-43a3-bcaf-842fb32bd524",
+  "id": "0efae838-035c-4b1f-b98a-6bc8e5ef6441",
   "name": "Powered Valve",
   "description": "A Powered Valve.",
   "author": "Adroit Technologies",
   "category": "Process Symbols/Valves and Fittings",
-  "version": null,
+  "version": "1.0.0",
   "fileName": "Powered Valve.viz",
   "fileType": "Graphic",
   "previewImages": [
@@ -13,10 +13,7 @@
   "ownerType": "official",
   "licenseType": "free",
   "currency": "ZAR",
-  "previewImageUrls": [],
-  "downloadUrl": "",
   "documentation": "",
-  "documentationUrl": "",
   "industries": [],
   "tags": [
     "Valve",

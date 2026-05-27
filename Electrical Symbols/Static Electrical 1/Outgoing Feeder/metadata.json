@@ -1,10 +1,10 @@
 {
-  "id": "109a5a4c-efaa-413c-8953-284c0d4c2040",
+  "id": "c573c944-397b-4dc3-a0bf-8293820f10b4",
   "name": "Outgoing Feeder",
   "description": "A Outgoing Feeder.",
   "author": "Adroit Technologies",
   "category": "Electrical Symbols/Static Electrical 1",
-  "version": null,
+  "version": "1.0.0",
   "fileName": "Outgoing Feeder.viz",
   "fileType": "Graphic",
   "previewImages": [
@@ -13,10 +13,7 @@
   "ownerType": "official",
   "licenseType": "free",
   "currency": "ZAR",
-  "previewImageUrls": [],
-  "downloadUrl": "",
   "documentation": "",
-  "documentationUrl": "",
   "industries": [],
   "tags": [],
   "averageRating": 0.0,

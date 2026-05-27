@@ -1,10 +1,10 @@
 {
-  "id": "fb4b6517-492d-4041-b553-52fac6e5f296",
+  "id": "2fc54a34-d984-4b76-9fc8-936e9f10bb41",
   "name": "Analog Dial 3",
   "description": "A Analog Dial 3.",
   "author": "Adroit Technologies",
   "category": "Wizards/Gauges/Dials",
-  "version": null,
+  "version": "1.0.0",
   "fileName": "Analog Dial 3.vizw",
   "fileType": "Wizard",
   "previewImages": [
@@ -13,10 +13,7 @@
   "ownerType": "official",
   "licenseType": "free",
   "currency": "ZAR",
-  "previewImageUrls": [],
-  "downloadUrl": "",
   "documentation": "",
-  "documentationUrl": "",
   "industries": [],
   "tags": [],
   "averageRating": 0.0,

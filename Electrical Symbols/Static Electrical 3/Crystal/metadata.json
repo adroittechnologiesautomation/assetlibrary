@@ -1,10 +1,10 @@
 {
-  "id": "78ef0608-5639-4b4f-a27b-6020781e4b31",
+  "id": "2b644030-a714-42aa-8aed-9810c9dfb26e",
   "name": "Crystal",
   "description": "A Crystal.",
   "author": "Adroit Technologies",
   "category": "Electrical Symbols/Static Electrical 3",
-  "version": null,
+  "version": "1.0.0",
   "fileName": "Crystal.viz",
   "fileType": "Graphic",
   "previewImages": [
@@ -13,10 +13,7 @@
   "ownerType": "official",
   "licenseType": "free",
   "currency": "ZAR",
-  "previewImageUrls": [],
-  "downloadUrl": "",
   "documentation": "",
-  "documentationUrl": "",
   "industries": [],
   "tags": [],
   "averageRating": 0.0,

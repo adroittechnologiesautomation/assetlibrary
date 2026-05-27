@@ -1,10 +1,10 @@
 {
-  "id": "97996ec4-7d6d-4814-97d2-b3a3508159c0",
+  "id": "1f555d9f-001c-4f83-9c89-ad8ee59b7f40",
   "name": "Triangle Tank with valve",
   "description": "A Triangle Tank with valve.",
   "author": "Adroit Technologies",
   "category": "Static Graphics/2D Tanks",
-  "version": null,
+  "version": "1.0.0",
   "fileName": "Triangle Tank with valve.viz",
   "fileType": "Graphic",
   "previewImages": [
@@ -13,10 +13,7 @@
   "ownerType": "official",
   "licenseType": "free",
   "currency": "ZAR",
-  "previewImageUrls": [],
-  "downloadUrl": "",
   "documentation": "",
-  "documentationUrl": "",
   "industries": [],
   "tags": [
     "Valve",

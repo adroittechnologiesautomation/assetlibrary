@@ -1,10 +1,10 @@
 {
-  "id": "741e04b6-5574-4dcb-8ad2-6b34054416eb",
+  "id": "7ca1dcf2-5be9-4e1d-a4da-93a00c1cb7bb",
   "name": "Alarm Indication 2",
   "description": "A Alarm Indication 2.",
   "author": "Adroit Technologies",
   "category": "Wizards/Alarms",
-  "version": null,
+  "version": "1.0.0",
   "fileName": "Alarm Indication 2.vizw",
   "fileType": "Wizard",
   "previewImages": [
@@ -13,10 +13,7 @@
   "ownerType": "official",
   "licenseType": "free",
   "currency": "ZAR",
-  "previewImageUrls": [],
-  "downloadUrl": "",
   "documentation": "",
-  "documentationUrl": "",
   "industries": [],
   "tags": [],
   "averageRating": 0.0,

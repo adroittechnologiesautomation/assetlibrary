@@ -1,10 +1,10 @@
 {
-  "id": "675ed9bc-ccee-49eb-9dc0-0a23d60ff319",
+  "id": "788bd330-77a2-470e-9190-1419dfa11fae",
   "name": "wzdAnalogueDisplay_Priority5_v01",
   "description": "A wzdAnalogueDisplay_Priority5_v01.",
   "author": "Adroit Technologies",
   "category": "Situational Awareness/Displays/Analogues",
-  "version": null,
+  "version": "1.0.0",
   "fileName": "wzdAnalogueDisplay_Priority5_v01.vizw",
   "fileType": "Wizard",
   "previewImages": [
@@ -13,10 +13,7 @@
   "ownerType": "official",
   "licenseType": "free",
   "currency": "ZAR",
-  "previewImageUrls": [],
-  "downloadUrl": "",
   "documentation": "",
-  "documentationUrl": "",
   "industries": [],
   "tags": [],
   "averageRating": 0.0,

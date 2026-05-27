@@ -1,10 +1,10 @@
 {
-  "id": "c173f420-b80f-4f7a-a998-3228ae96da68",
+  "id": "5aff7ffc-9205-4188-b9ff-125281c83e9e",
   "name": "Air Slide Side 1",
   "description": "A Air Slide Side 1.",
   "author": "Adroit Technologies",
   "category": "Static Graphics/Cement/Airslide",
-  "version": null,
+  "version": "1.0.0",
   "fileName": "Air Slide Side 1.viz",
   "fileType": "Graphic",
   "previewImages": [
@@ -13,10 +13,7 @@
   "ownerType": "official",
   "licenseType": "free",
   "currency": "ZAR",
-  "previewImageUrls": [],
-  "downloadUrl": "",
   "documentation": "",
-  "documentationUrl": "",
   "industries": [],
   "tags": [],
   "averageRating": 0.0,

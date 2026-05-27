@@ -1,10 +1,10 @@
 {
-  "id": "30e8b528-5222-42ea-9602-90f7c9ed3858",
+  "id": "1125fe0a-ea09-4e0b-a9e6-85a669a3e85e",
   "name": "RY18R2A_Wizard",
   "description": "A RY18R2A_Wizard.",
   "author": "Adroit Technologies",
   "category": "Hardware/Mitsubishi/iQ-R/Wizards",
-  "version": null,
+  "version": "1.0.0",
   "fileName": "RY18R2A_Wizard.vizw",
   "fileType": "Wizard",
   "previewImages": [
@@ -13,10 +13,7 @@
   "ownerType": "official",
   "licenseType": "free",
   "currency": "ZAR",
-  "previewImageUrls": [],
-  "downloadUrl": "",
   "documentation": "",
-  "documentationUrl": "",
   "industries": [],
   "tags": [],
   "averageRating": 0.0,

@@ -1,10 +1,10 @@
 {
-  "id": "6e4b63e0-d675-4431-988d-b3f47b24fb4c",
+  "id": "2184bc4d-6974-41f8-a5ef-a86c58ed6e13",
   "name": "Stop Button",
   "description": "A Stop Button.",
   "author": "Adroit Technologies",
   "category": "Static Graphics/Buttons",
-  "version": null,
+  "version": "1.0.0",
   "fileName": "Stop Button.viz",
   "fileType": "Graphic",
   "previewImages": [
@@ -13,10 +13,7 @@
   "ownerType": "official",
   "licenseType": "free",
   "currency": "ZAR",
-  "previewImageUrls": [],
-  "downloadUrl": "",
   "documentation": "",
-  "documentationUrl": "",
   "industries": [],
   "tags": [],
   "averageRating": 0.0,

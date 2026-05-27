@@ -1,10 +1,10 @@
 {
-  "id": "56df85ca-8292-4f7e-9642-1bcfd1eb8cc9",
+  "id": "ce1532ff-ef76-465c-9d0f-d985389ec527",
   "name": "Valve 16",
   "description": "A Valve 16.",
   "author": "Adroit Technologies",
   "category": "Static Graphics/Valves/Valves",
-  "version": null,
+  "version": "1.0.0",
   "fileName": "Valve 16.viz",
   "fileType": "Graphic",
   "previewImages": [
@@ -13,10 +13,7 @@
   "ownerType": "official",
   "licenseType": "free",
   "currency": "ZAR",
-  "previewImageUrls": [],
-  "downloadUrl": "",
   "documentation": "",
-  "documentationUrl": "",
   "industries": [],
   "tags": [
     "Valve",

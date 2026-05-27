@@ -1,10 +1,10 @@
 {
-  "id": "04ea765e-a0d2-4dfc-832a-4d03c3c0a974",
+  "id": "cfb95160-4f6f-47b1-b428-4743c068ecd4",
   "name": "Belt Conveyor Short Wheels",
   "description": "A Belt Conveyor Short Wheels.",
   "author": "Adroit Technologies",
   "category": "Static Graphics/Conveyors/Belt Conveyors Short",
-  "version": null,
+  "version": "1.0.0",
   "fileName": "Belt Conveyor Short Wheels.viz",
   "fileType": "Graphic",
   "previewImages": [
@@ -13,10 +13,7 @@
   "ownerType": "official",
   "licenseType": "free",
   "currency": "ZAR",
-  "previewImageUrls": [],
-  "downloadUrl": "",
   "documentation": "",
-  "documentationUrl": "",
   "industries": [],
   "tags": [
     "Conveyor",

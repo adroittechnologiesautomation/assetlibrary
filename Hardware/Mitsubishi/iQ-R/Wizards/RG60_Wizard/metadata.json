@@ -1,10 +1,10 @@
 {
-  "id": "f130a5d9-1bd7-464d-8c32-f13f353ab43f",
+  "id": "3fe581d1-b923-4897-9d41-6bf855dbc637",
   "name": "RG60_Wizard",
   "description": "A RG60_Wizard.",
   "author": "Adroit Technologies",
   "category": "Hardware/Mitsubishi/iQ-R/Wizards",
-  "version": null,
+  "version": "1.0.0",
   "fileName": "RG60_Wizard.vizw",
   "fileType": "Wizard",
   "previewImages": [
@@ -13,10 +13,7 @@
   "ownerType": "official",
   "licenseType": "free",
   "currency": "ZAR",
-  "previewImageUrls": [],
-  "downloadUrl": "",
   "documentation": "",
-  "documentationUrl": "",
   "industries": [],
   "tags": [],
   "averageRating": 0.0,

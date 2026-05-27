@@ -1,10 +1,10 @@
 {
-  "id": "d2780c54-da86-4842-b4dd-5cc0bccdf221",
+  "id": "297a75ea-d549-4b7e-83ab-477ff96a2cdd",
   "name": "Feed Hopper",
   "description": "A Feed Hopper.",
   "author": "Adroit Technologies",
   "category": "Static Graphics/2D Tanks",
-  "version": null,
+  "version": "1.0.0",
   "fileName": "Feed Hopper.viz",
   "fileType": "Graphic",
   "previewImages": [
@@ -13,10 +13,7 @@
   "ownerType": "official",
   "licenseType": "free",
   "currency": "ZAR",
-  "previewImageUrls": [],
-  "downloadUrl": "",
   "documentation": "",
-  "documentationUrl": "",
   "industries": [],
   "tags": [],
   "averageRating": 0.0,

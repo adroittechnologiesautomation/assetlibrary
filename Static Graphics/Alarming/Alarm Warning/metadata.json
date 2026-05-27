@@ -1,10 +1,10 @@
 {
-  "id": "fe7c444d-3ead-4089-8580-960b3ddadf8d",
+  "id": "37019670-9015-4a9b-88bd-f46308549db7",
   "name": "Alarm Warning",
   "description": "A Alarm Warning.",
   "author": "Adroit Technologies",
   "category": "Static Graphics/Alarming",
-  "version": null,
+  "version": "1.0.0",
   "fileName": "Alarm Warning.viz",
   "fileType": "Graphic",
   "previewImages": [
@@ -13,10 +13,7 @@
   "ownerType": "official",
   "licenseType": "free",
   "currency": "ZAR",
-  "previewImageUrls": [],
-  "downloadUrl": "",
   "documentation": "",
-  "documentationUrl": "",
   "industries": [],
   "tags": [],
   "averageRating": 0.0,

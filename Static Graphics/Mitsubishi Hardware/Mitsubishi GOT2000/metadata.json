@@ -1,10 +1,10 @@
 {
-  "id": "bb4eb91d-1b4d-4e63-8c3c-6752c55da315",
+  "id": "68e3990a-5e11-40ba-b28e-baa4342c4eb1",
   "name": "Mitsubishi GOT2000",
   "description": "A Mitsubishi GOT2000.",
   "author": "Adroit Technologies",
   "category": "Static Graphics/Mitsubishi Hardware",
-  "version": null,
+  "version": "1.0.0",
   "fileName": "Mitsubishi GOT2000.viz",
   "fileType": "Graphic",
   "previewImages": [
@@ -13,10 +13,7 @@
   "ownerType": "official",
   "licenseType": "free",
   "currency": "ZAR",
-  "previewImageUrls": [],
-  "downloadUrl": "",
   "documentation": "",
-  "documentationUrl": "",
   "industries": [],
   "tags": [],
   "averageRating": 0.0,

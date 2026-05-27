@@ -1,10 +1,10 @@
 {
-  "id": "1d474167-8d44-4812-90ed-af96024e5718",
+  "id": "14cd1fc1-c3df-455c-a423-fd5455af9cb6",
   "name": "QJ71E71_Template",
   "description": "A QJ71E71_Template.",
   "author": "Adroit Technologies",
   "category": "Hardware/Mitsubishi/Q/Templates",
-  "version": null,
+  "version": "1.0.0",
   "fileName": "QJ71E71_Template.viz",
   "fileType": "Graphic",
   "previewImages": [
@@ -13,10 +13,7 @@
   "ownerType": "official",
   "licenseType": "free",
   "currency": "ZAR",
-  "previewImageUrls": [],
-  "downloadUrl": "",
   "documentation": "",
-  "documentationUrl": "",
   "industries": [],
   "tags": [],
   "averageRating": 0.0,

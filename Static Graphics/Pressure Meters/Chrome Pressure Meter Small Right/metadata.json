@@ -1,10 +1,10 @@
 {
-  "id": "112d2f60-bbd7-442f-87bc-23cadf0156de",
+  "id": "2f940817-bf69-4e9f-b9d7-7f73edb8f454",
   "name": "Chrome Pressure Meter Small Right",
   "description": "A Chrome Pressure Meter Small Right.",
   "author": "Adroit Technologies",
   "category": "Static Graphics/Pressure Meters",
-  "version": null,
+  "version": "1.0.0",
   "fileName": "Chrome Pressure Meter Small Right.viz",
   "fileType": "Graphic",
   "previewImages": [
@@ -13,10 +13,7 @@
   "ownerType": "official",
   "licenseType": "free",
   "currency": "ZAR",
-  "previewImageUrls": [],
-  "downloadUrl": "",
   "documentation": "",
-  "documentationUrl": "",
   "industries": [],
   "tags": [],
   "averageRating": 0.0,

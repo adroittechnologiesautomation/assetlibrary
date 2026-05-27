@@ -1,10 +1,10 @@
 {
-  "id": "c83b3845-f6db-4dbb-94c7-e67da5da28ed",
+  "id": "3cb7163c-4d21-49ef-81fd-ae756dfe303e",
   "name": "wzdFAG",
   "description": "A wzdFAG.",
   "author": "Adroit Technologies",
   "category": "Hardware/FAG",
-  "version": null,
+  "version": "1.0.0",
   "fileName": "wzdFAG.vizw",
   "fileType": "Wizard",
   "previewImages": [
@@ -13,10 +13,7 @@
   "ownerType": "official",
   "licenseType": "free",
   "currency": "ZAR",
-  "previewImageUrls": [],
-  "downloadUrl": "",
   "documentation": "",
-  "documentationUrl": "",
   "industries": [],
   "tags": [],
   "averageRating": 0.0,

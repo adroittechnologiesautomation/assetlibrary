@@ -1,10 +1,10 @@
 {
-  "id": "29dca266-6d32-4f6f-b4a2-6676c94fe626",
+  "id": "ba19350b-c9af-4fd7-a314-5c8e0d2adcd4",
   "name": "Filter",
   "description": "A Filter.",
   "author": "Adroit Technologies",
   "category": "Process Symbols/Miscellaneous",
-  "version": null,
+  "version": "1.0.0",
   "fileName": "Filter.viz",
   "fileType": "Graphic",
   "previewImages": [
@@ -13,10 +13,7 @@
   "ownerType": "official",
   "licenseType": "free",
   "currency": "ZAR",
-  "previewImageUrls": [],
-  "downloadUrl": "",
   "documentation": "",
-  "documentationUrl": "",
   "industries": [],
   "tags": [],
   "averageRating": 0.0,

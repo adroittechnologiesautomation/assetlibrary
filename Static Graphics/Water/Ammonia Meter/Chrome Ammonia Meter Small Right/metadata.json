@@ -1,10 +1,10 @@
 {
-  "id": "fd5d281b-ecd6-4c05-a006-d1cc4f7aaa6d",
+  "id": "68ec4bb9-5c73-4e7e-95ab-b30b5f5ad9d0",
   "name": "Chrome Ammonia Meter Small Right",
   "description": "A Chrome Ammonia Meter Small Right.",
   "author": "Adroit Technologies",
   "category": "Static Graphics/Water/Ammonia Meter",
-  "version": null,
+  "version": "1.0.0",
   "fileName": "Chrome Ammonia Meter Small Right.viz",
   "fileType": "Graphic",
   "previewImages": [
@@ -13,10 +13,7 @@
   "ownerType": "official",
   "licenseType": "free",
   "currency": "ZAR",
-  "previewImageUrls": [],
-  "downloadUrl": "",
   "documentation": "",
-  "documentationUrl": "",
   "industries": [],
   "tags": [],
   "averageRating": 0.0,

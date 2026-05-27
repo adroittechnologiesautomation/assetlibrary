@@ -1,10 +1,10 @@
 {
-  "id": "21d6537c-83fe-47e2-a1b8-3939e222860c",
+  "id": "06bd590e-096e-404c-b8d7-57edabb86996",
   "name": "Coal Tippler",
   "description": "A Coal Tippler.",
   "author": "Adroit Technologies",
   "category": "Static Graphics/Cement",
-  "version": null,
+  "version": "1.0.0",
   "fileName": "Coal Tippler.viz",
   "fileType": "Graphic",
   "previewImages": [
@@ -13,10 +13,7 @@
   "ownerType": "official",
   "licenseType": "free",
   "currency": "ZAR",
-  "previewImageUrls": [],
-  "downloadUrl": "",
   "documentation": "",
-  "documentationUrl": "",
   "industries": [],
   "tags": [],
   "averageRating": 0.0,

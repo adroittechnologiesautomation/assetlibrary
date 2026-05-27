@@ -1,10 +1,10 @@
 {
-  "id": "22b99836-fdc9-4628-af4c-634f6a20e191",
+  "id": "8768d1b5-c7f7-434d-af11-c3907a57554b",
   "name": "Polled Capacitor",
   "description": "A Polled Capacitor.",
   "author": "Adroit Technologies",
   "category": "Electrical Symbols/Static Electrical 2",
-  "version": null,
+  "version": "1.0.0",
   "fileName": "Polled Capacitor.viz",
   "fileType": "Graphic",
   "previewImages": [
@@ -13,10 +13,7 @@
   "ownerType": "official",
   "licenseType": "free",
   "currency": "ZAR",
-  "previewImageUrls": [],
-  "downloadUrl": "",
   "documentation": "",
-  "documentationUrl": "",
   "industries": [],
   "tags": [],
   "averageRating": 0.0,

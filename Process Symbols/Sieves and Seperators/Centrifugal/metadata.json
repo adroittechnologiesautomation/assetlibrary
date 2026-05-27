@@ -1,10 +1,10 @@
 {
-  "id": "6ee14732-73c5-4b0b-b0f3-d69e169961c2",
+  "id": "030cedf5-fd82-4591-a95b-525175b6c2bb",
   "name": "Centrifugal",
   "description": "A Centrifugal.",
   "author": "Adroit Technologies",
   "category": "Process Symbols/Sieves and Seperators",
-  "version": null,
+  "version": "1.0.0",
   "fileName": "Centrifugal.viz",
   "fileType": "Graphic",
   "previewImages": [
@@ -13,10 +13,7 @@
   "ownerType": "official",
   "licenseType": "free",
   "currency": "ZAR",
-  "previewImageUrls": [],
-  "downloadUrl": "",
   "documentation": "",
-  "documentationUrl": "",
   "industries": [],
   "tags": [],
   "averageRating": 0.0,

@@ -1,10 +1,10 @@
 {
-  "id": "edd5fe22-5fa8-4c2c-8649-6476fdaa10d8",
+  "id": "c6fb13f5-d71e-4907-a0cc-e0a5f6a9f58a",
   "name": "Screw Conveyor",
   "description": "A Screw Conveyor.",
   "author": "Adroit Technologies",
   "category": "Process Symbols/Conveyors",
-  "version": null,
+  "version": "1.0.0",
   "fileName": "Screw Conveyor.viz",
   "fileType": "Graphic",
   "previewImages": [
@@ -13,10 +13,7 @@
   "ownerType": "official",
   "licenseType": "free",
   "currency": "ZAR",
-  "previewImageUrls": [],
-  "downloadUrl": "",
   "documentation": "",
-  "documentationUrl": "",
   "industries": [],
   "tags": [
     "Conveyor",

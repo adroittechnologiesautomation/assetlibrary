@@ -1,10 +1,10 @@
 {
-  "id": "4ebd0abe-468b-4d09-80fd-f7d80102c5c2",
+  "id": "9500aa65-c023-4f0f-aff5-d91db697d79e",
   "name": "Water Screen Right Inlet",
   "description": "A Water Screen Right Inlet.",
   "author": "Adroit Technologies",
   "category": "Static Graphics/Water/Screen",
-  "version": null,
+  "version": "1.0.0",
   "fileName": "Water Screen Right Inlet.viz",
   "fileType": "Graphic",
   "previewImages": [
@@ -13,10 +13,7 @@
   "ownerType": "official",
   "licenseType": "free",
   "currency": "ZAR",
-  "previewImageUrls": [],
-  "downloadUrl": "",
   "documentation": "",
-  "documentationUrl": "",
   "industries": [],
   "tags": [],
   "averageRating": 0.0,

@@ -1,10 +1,10 @@
 {
-  "id": "10f5d26e-aa37-43fa-a55a-21e33089cc05",
+  "id": "9d093b1d-6e3a-401a-af05-006757ca5832",
   "name": "Cooling Tower",
   "description": "A Cooling Tower.",
   "author": "Adroit Technologies",
   "category": "Process Symbols/Heat Exchangers",
-  "version": null,
+  "version": "1.0.0",
   "fileName": "Cooling Tower.viz",
   "fileType": "Graphic",
   "previewImages": [
@@ -13,10 +13,7 @@
   "ownerType": "official",
   "licenseType": "free",
   "currency": "ZAR",
-  "previewImageUrls": [],
-  "downloadUrl": "",
   "documentation": "",
-  "documentationUrl": "",
   "industries": [],
   "tags": [],
   "averageRating": 0.0,

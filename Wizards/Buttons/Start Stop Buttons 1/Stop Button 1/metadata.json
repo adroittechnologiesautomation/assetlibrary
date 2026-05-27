@@ -1,10 +1,10 @@
 {
-  "id": "8fa63dd8-6cf4-4297-98f8-604e8241666c",
+  "id": "725d4a25-475b-4345-89eb-62e1ffd8e115",
   "name": "Stop Button 1",
   "description": "A Stop Button 1.",
   "author": "Adroit Technologies",
   "category": "Wizards/Buttons/Start Stop Buttons 1",
-  "version": null,
+  "version": "1.0.0",
   "fileName": "Stop Button 1.vizw",
   "fileType": "Wizard",
   "previewImages": [
@@ -13,10 +13,7 @@
   "ownerType": "official",
   "licenseType": "free",
   "currency": "ZAR",
-  "previewImageUrls": [],
-  "downloadUrl": "",
   "documentation": "",
-  "documentationUrl": "",
   "industries": [],
   "tags": [],
   "averageRating": 0.0,

@@ -1,10 +1,10 @@
 {
-  "id": "7d15bdd3-2001-4483-9cf6-6864d91a71c2",
+  "id": "0810cb6d-0fc6-40f5-ad7e-f9906d39f279",
   "name": "wzdDigitalDataLink_Priority3_v01",
   "description": "A wzdDigitalDataLink_Priority3_v01.",
   "author": "Adroit Technologies",
   "category": "Situational Awareness/Data Links/Digitals",
-  "version": null,
+  "version": "1.0.0",
   "fileName": "wzdDigitalDataLink_Priority3_v01.vizw",
   "fileType": "Wizard",
   "previewImages": [
@@ -13,10 +13,7 @@
   "ownerType": "official",
   "licenseType": "free",
   "currency": "ZAR",
-  "previewImageUrls": [],
-  "downloadUrl": "",
   "documentation": "",
-  "documentationUrl": "",
   "industries": [],
   "tags": [],
   "averageRating": 0.0,

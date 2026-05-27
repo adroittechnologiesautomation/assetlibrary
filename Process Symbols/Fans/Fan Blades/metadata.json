@@ -1,10 +1,10 @@
 {
-  "id": "424e24e4-9b14-4965-ac4a-41246425e1f3",
+  "id": "22ce7347-7f59-48b3-8e75-1b2563a1e0d3",
   "name": "Fan Blades",
   "description": "A Fan Blades.",
   "author": "Adroit Technologies",
   "category": "Process Symbols/Fans",
-  "version": null,
+  "version": "1.0.0",
   "fileName": "Fan Blades.viz",
   "fileType": "Graphic",
   "previewImages": [
@@ -13,10 +13,7 @@
   "ownerType": "official",
   "licenseType": "free",
   "currency": "ZAR",
-  "previewImageUrls": [],
-  "downloadUrl": "",
   "documentation": "",
-  "documentationUrl": "",
   "industries": [],
   "tags": [
     "Fan",

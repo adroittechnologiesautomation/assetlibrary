@@ -1,10 +1,10 @@
 {
-  "id": "a87d351a-a66e-41ee-a763-aa263fac6e02",
+  "id": "5a940b80-bfb6-44b3-833c-e34cae7b672f",
   "name": "Windows Buttons",
   "description": "A Windows Buttons.",
   "author": "Adroit Technologies",
   "category": "Static Graphics/Buttons",
-  "version": null,
+  "version": "1.0.0",
   "fileName": "Windows Buttons.viz",
   "fileType": "Graphic",
   "previewImages": [
@@ -13,10 +13,7 @@
   "ownerType": "official",
   "licenseType": "free",
   "currency": "ZAR",
-  "previewImageUrls": [],
-  "downloadUrl": "",
   "documentation": "",
-  "documentationUrl": "",
   "industries": [],
   "tags": [],
   "averageRating": 0.0,

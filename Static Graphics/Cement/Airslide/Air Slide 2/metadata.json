@@ -1,10 +1,10 @@
 {
-  "id": "f4403968-9c47-4d8e-b8ff-3e3fa9f055f7",
+  "id": "74a50603-072a-467f-997b-f912a0f0e95c",
   "name": "Air Slide 2",
   "description": "A Air Slide 2.",
   "author": "Adroit Technologies",
   "category": "Static Graphics/Cement/Airslide",
-  "version": null,
+  "version": "1.0.0",
   "fileName": "Air Slide 2.viz",
   "fileType": "Graphic",
   "previewImages": [
@@ -13,10 +13,7 @@
   "ownerType": "official",
   "licenseType": "free",
   "currency": "ZAR",
-  "previewImageUrls": [],
-  "downloadUrl": "",
   "documentation": "",
-  "documentationUrl": "",
   "industries": [],
   "tags": [],
   "averageRating": 0.0,

@@ -1,10 +1,10 @@
 {
-  "id": "0bbb9c8a-81ab-4ae4-a878-c467ce04c1c0",
+  "id": "4a5bf96b-84dd-426a-a8fd-7b45f909f516",
   "name": "Valve 31",
   "description": "A Valve 31.",
   "author": "Adroit Technologies",
   "category": "Static Graphics/Valves/Valves",
-  "version": null,
+  "version": "1.0.0",
   "fileName": "Valve 31.viz",
   "fileType": "Graphic",
   "previewImages": [
@@ -13,10 +13,7 @@
   "ownerType": "official",
   "licenseType": "free",
   "currency": "ZAR",
-  "previewImageUrls": [],
-  "downloadUrl": "",
   "documentation": "",
-  "documentationUrl": "",
   "industries": [],
   "tags": [
     "Valve",

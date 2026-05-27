@@ -1,10 +1,10 @@
 {
-  "id": "d21285db-36c2-4d04-80f2-3defb1931e00",
+  "id": "3f6cae62-1eb4-4478-8a65-3056d368681a",
   "name": "R00CPU_Template",
   "description": "A R00CPU_Template.",
   "author": "Adroit Technologies",
   "category": "Hardware/Mitsubishi/iQ-R/Templates",
-  "version": null,
+  "version": "1.0.0",
   "fileName": "R00CPU_Template.viz",
   "fileType": "Graphic",
   "previewImages": [
@@ -13,10 +13,7 @@
   "ownerType": "official",
   "licenseType": "free",
   "currency": "ZAR",
-  "previewImageUrls": [],
-  "downloadUrl": "",
   "documentation": "",
-  "documentationUrl": "",
   "industries": [],
   "tags": [],
   "averageRating": 0.0,

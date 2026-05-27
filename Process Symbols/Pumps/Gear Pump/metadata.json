@@ -1,10 +1,10 @@
 {
-  "id": "675afe59-d68d-4128-a275-ed41897b727e",
+  "id": "758a0a1c-1095-4669-b1ca-411758c4c2dd",
   "name": "Gear Pump",
   "description": "A Gear Pump.",
   "author": "Adroit Technologies",
   "category": "Process Symbols/Pumps",
-  "version": null,
+  "version": "1.0.0",
   "fileName": "Gear Pump.viz",
   "fileType": "Graphic",
   "previewImages": [
@@ -13,10 +13,7 @@
   "ownerType": "official",
   "licenseType": "free",
   "currency": "ZAR",
-  "previewImageUrls": [],
-  "downloadUrl": "",
   "documentation": "",
-  "documentationUrl": "",
   "industries": [],
   "tags": [
     "Pump",

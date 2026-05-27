@@ -1,10 +1,10 @@
 {
-  "id": "815feeae-f391-4abe-85e8-d75e2d1d47f0",
+  "id": "cb2cdd1f-e38d-44a3-9794-0cef3d746ebc",
   "name": "Belt Conveyor",
   "description": "A Belt Conveyor.",
   "author": "Adroit Technologies",
   "category": "Process Symbols/Conveyors",
-  "version": null,
+  "version": "1.0.0",
   "fileName": "Belt Conveyor.viz",
   "fileType": "Graphic",
   "previewImages": [
@@ -13,10 +13,7 @@
   "ownerType": "official",
   "licenseType": "free",
   "currency": "ZAR",
-  "previewImageUrls": [],
-  "downloadUrl": "",
   "documentation": "",
-  "documentationUrl": "",
   "industries": [],
   "tags": [
     "Conveyor",

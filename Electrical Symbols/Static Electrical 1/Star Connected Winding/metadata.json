@@ -1,10 +1,10 @@
 {
-  "id": "923da17d-3f56-4986-be4a-958722106eb3",
+  "id": "707fe426-8fa4-442a-9f2f-4b84091b01d6",
   "name": "Star Connected Winding",
   "description": "A Star Connected Winding.",
   "author": "Adroit Technologies",
   "category": "Electrical Symbols/Static Electrical 1",
-  "version": null,
+  "version": "1.0.0",
   "fileName": "Star Connected Winding.viz",
   "fileType": "Graphic",
   "previewImages": [
@@ -13,10 +13,7 @@
   "ownerType": "official",
   "licenseType": "free",
   "currency": "ZAR",
-  "previewImageUrls": [],
-  "downloadUrl": "",
   "documentation": "",
-  "documentationUrl": "",
   "industries": [],
   "tags": [],
   "averageRating": 0.0,

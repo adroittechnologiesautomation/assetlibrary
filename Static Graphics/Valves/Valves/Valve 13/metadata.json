@@ -1,10 +1,10 @@
 {
-  "id": "b6cb84a9-7db7-4045-9c90-349ce2bb5d21",
+  "id": "a55c9b29-51a0-4321-9fbf-116dbfd58f06",
   "name": "Valve 13",
   "description": "A Valve 13.",
   "author": "Adroit Technologies",
   "category": "Static Graphics/Valves/Valves",
-  "version": null,
+  "version": "1.0.0",
   "fileName": "Valve 13.viz",
   "fileType": "Graphic",
   "previewImages": [
@@ -13,10 +13,7 @@
   "ownerType": "official",
   "licenseType": "free",
   "currency": "ZAR",
-  "previewImageUrls": [],
-  "downloadUrl": "",
   "documentation": "",
-  "documentationUrl": "",
   "industries": [],
   "tags": [
     "Valve",

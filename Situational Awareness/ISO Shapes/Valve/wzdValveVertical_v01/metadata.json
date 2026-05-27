@@ -1,10 +1,10 @@
 {
-  "id": "a97b0203-36a0-4aea-bf76-8ced382125e7",
+  "id": "e87fbfb9-abed-46c5-a268-fa6a61d7f091",
   "name": "wzdValveVertical_v01",
   "description": "A wzdValveVertical_v01.",
   "author": "Adroit Technologies",
   "category": "Situational Awareness/ISO Shapes/Valve",
-  "version": null,
+  "version": "1.0.0",
   "fileName": "wzdValveVertical_v01.vizw",
   "fileType": "Wizard",
   "previewImages": [
@@ -13,10 +13,7 @@
   "ownerType": "official",
   "licenseType": "free",
   "currency": "ZAR",
-  "previewImageUrls": [],
-  "downloadUrl": "",
   "documentation": "",
-  "documentationUrl": "",
   "industries": [],
   "tags": [
     "Valve",

@@ -1,10 +1,10 @@
 {
-  "id": "6287f0c6-d314-44a7-acaa-c73b0e40857c",
+  "id": "c5f2d7a7-b6ba-4b3b-8472-96c477ea4f2c",
   "name": "Chrome Flow Meter Large Bottom",
   "description": "A Chrome Flow Meter Large Bottom.",
   "author": "Adroit Technologies",
   "category": "Static Graphics/Flow Meters",
-  "version": null,
+  "version": "1.0.0",
   "fileName": "Chrome Flow Meter Large Bottom.viz",
   "fileType": "Graphic",
   "previewImages": [
@@ -13,10 +13,7 @@
   "ownerType": "official",
   "licenseType": "free",
   "currency": "ZAR",
-  "previewImageUrls": [],
-  "downloadUrl": "",
   "documentation": "",
-  "documentationUrl": "",
   "industries": [],
   "tags": [],
   "averageRating": 0.0,

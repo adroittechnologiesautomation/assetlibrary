@@ -1,10 +1,10 @@
 {
-  "id": "bdcbb045-afbb-4bad-9e10-1fde7b57303b",
+  "id": "3f7d9da1-9de7-4d01-ae11-335fede8cbbb",
   "name": "Blue Vertical Flange Motor",
   "description": "A Blue Vertical Flange Motor.",
   "author": "Adroit Technologies",
   "category": "Static Graphics/Motors",
-  "version": null,
+  "version": "1.0.0",
   "fileName": "Blue Vertical Flange Motor.viz",
   "fileType": "Graphic",
   "previewImages": [
@@ -13,10 +13,7 @@
   "ownerType": "official",
   "licenseType": "free",
   "currency": "ZAR",
-  "previewImageUrls": [],
-  "downloadUrl": "",
   "documentation": "",
-  "documentationUrl": "",
   "industries": [],
   "tags": [
     "Motor",

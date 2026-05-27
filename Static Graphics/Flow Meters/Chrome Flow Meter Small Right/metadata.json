@@ -1,10 +1,10 @@
 {
-  "id": "fb69b26d-56bb-485c-8663-3a73f1b7fd4d",
+  "id": "9918763c-a2f8-44a0-a2d3-ceb8acd2cbb0",
   "name": "Chrome Flow Meter Small Right",
   "description": "A Chrome Flow Meter Small Right.",
   "author": "Adroit Technologies",
   "category": "Static Graphics/Flow Meters",
-  "version": null,
+  "version": "1.0.0",
   "fileName": "Chrome Flow Meter Small Right.viz",
   "fileType": "Graphic",
   "previewImages": [
@@ -13,10 +13,7 @@
   "ownerType": "official",
   "licenseType": "free",
   "currency": "ZAR",
-  "previewImageUrls": [],
-  "downloadUrl": "",
   "documentation": "",
-  "documentationUrl": "",
   "industries": [],
   "tags": [],
   "averageRating": 0.0,

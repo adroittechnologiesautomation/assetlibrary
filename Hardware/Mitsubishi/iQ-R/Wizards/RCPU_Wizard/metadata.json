@@ -1,10 +1,10 @@
 {
-  "id": "fe74cd74-1e22-4a94-824c-18ead2809c54",
+  "id": "9bdae7b8-acde-458a-adf4-e3ad5db4c696",
   "name": "RCPU_Wizard",
   "description": "A RCPU_Wizard.",
   "author": "Adroit Technologies",
   "category": "Hardware/Mitsubishi/iQ-R/Wizards",
-  "version": null,
+  "version": "1.0.0",
   "fileName": "RCPU_Wizard.vizw",
   "fileType": "Wizard",
   "previewImages": [
@@ -13,10 +13,7 @@
   "ownerType": "official",
   "licenseType": "free",
   "currency": "ZAR",
-  "previewImageUrls": [],
-  "downloadUrl": "",
   "documentation": "",
-  "documentationUrl": "",
   "industries": [],
   "tags": [],
   "averageRating": 0.0,

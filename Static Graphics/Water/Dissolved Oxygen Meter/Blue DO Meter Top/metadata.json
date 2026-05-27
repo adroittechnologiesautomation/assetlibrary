@@ -1,10 +1,10 @@
 {
-  "id": "a958bff7-79e6-4d00-b572-61a0e9374f2b",
+  "id": "5035e95d-8108-4dc6-9b26-9591a75fe750",
   "name": "Blue DO Meter Top",
   "description": "A Blue DO Meter Top.",
   "author": "Adroit Technologies",
   "category": "Static Graphics/Water/Dissolved Oxygen Meter",
-  "version": null,
+  "version": "1.0.0",
   "fileName": "Blue DO Meter Top.viz",
   "fileType": "Graphic",
   "previewImages": [
@@ -13,10 +13,7 @@
   "ownerType": "official",
   "licenseType": "free",
   "currency": "ZAR",
-  "previewImageUrls": [],
-  "downloadUrl": "",
   "documentation": "",
-  "documentationUrl": "",
   "industries": [],
   "tags": [],
   "averageRating": 0.0,

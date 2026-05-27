@@ -1,10 +1,10 @@
 {
-  "id": "9fedd0c1-2136-4112-881b-4aef651e15e0",
+  "id": "e0efeff9-2b46-465e-a05b-7cfdec5c83fb",
   "name": "RY40_Wizard",
   "description": "A RY40_Wizard.",
   "author": "Adroit Technologies",
   "category": "Hardware/Mitsubishi/iQ-R/Wizards",
-  "version": null,
+  "version": "1.0.0",
   "fileName": "RY40_Wizard.vizw",
   "fileType": "Wizard",
   "previewImages": [
@@ -13,10 +13,7 @@
   "ownerType": "official",
   "licenseType": "free",
   "currency": "ZAR",
-  "previewImageUrls": [],
-  "downloadUrl": "",
   "documentation": "",
-  "documentationUrl": "",
   "industries": [],
   "tags": [],
   "averageRating": 0.0,

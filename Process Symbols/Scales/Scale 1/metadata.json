@@ -1,10 +1,10 @@
 {
-  "id": "9db0bf0b-2cbd-41ad-86da-575e178be93d",
+  "id": "0b489515-4316-4858-a26c-86aefea2181c",
   "name": "Scale 1",
   "description": "A Scale 1.",
   "author": "Adroit Technologies",
   "category": "Process Symbols/Scales",
-  "version": null,
+  "version": "1.0.0",
   "fileName": "Scale 1.viz",
   "fileType": "Graphic",
   "previewImages": [
@@ -13,10 +13,7 @@
   "ownerType": "official",
   "licenseType": "free",
   "currency": "ZAR",
-  "previewImageUrls": [],
-  "downloadUrl": "",
   "documentation": "",
-  "documentationUrl": "",
   "industries": [],
   "tags": [
     "Scale",

@@ -1,10 +1,10 @@
 {
-  "id": "5022850e-9d25-426c-a5b8-14e468b210c4",
+  "id": "e8dc3d14-b8a3-46ba-9f4d-38ddae4753dc",
   "name": "Analog Half Dial 3",
   "description": "A Analog Half Dial 3.",
   "author": "Adroit Technologies",
   "category": "Wizards/Gauges/Half Dials",
-  "version": null,
+  "version": "1.0.0",
   "fileName": "Analog Half Dial 3.vizw",
   "fileType": "Wizard",
   "previewImages": [
@@ -13,10 +13,7 @@
   "ownerType": "official",
   "licenseType": "free",
   "currency": "ZAR",
-  "previewImageUrls": [],
-  "downloadUrl": "",
   "documentation": "",
-  "documentationUrl": "",
   "industries": [],
   "tags": [],
   "averageRating": 0.0,

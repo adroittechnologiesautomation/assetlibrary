@@ -1,10 +1,10 @@
 {
-  "id": "c7d655d9-5968-47f7-96ef-8445441c6e3a",
+  "id": "9e0a7bd7-6595-43bd-ade2-21f3dcc1409e",
   "name": "Tripod Holding Tank",
   "description": "A Tripod Holding Tank.",
   "author": "Adroit Technologies",
   "category": "Static Graphics/2D Tanks",
-  "version": null,
+  "version": "1.0.0",
   "fileName": "Tripod Holding Tank.viz",
   "fileType": "Graphic",
   "previewImages": [
@@ -13,10 +13,7 @@
   "ownerType": "official",
   "licenseType": "free",
   "currency": "ZAR",
-  "previewImageUrls": [],
-  "downloadUrl": "",
   "documentation": "",
-  "documentationUrl": "",
   "industries": [],
   "tags": [
     "Tank",

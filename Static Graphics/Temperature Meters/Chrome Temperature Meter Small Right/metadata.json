@@ -1,10 +1,10 @@
 {
-  "id": "1c3e694c-499d-4c7a-ab0c-c0275e9cf2e8",
+  "id": "92803250-2de5-49b3-9956-afd8032eded5",
   "name": "Chrome Temperature Meter Small Right",
   "description": "A Chrome Temperature Meter Small Right.",
   "author": "Adroit Technologies",
   "category": "Static Graphics/Temperature Meters",
-  "version": null,
+  "version": "1.0.0",
   "fileName": "Chrome Temperature Meter Small Right.viz",
   "fileType": "Graphic",
   "previewImages": [
@@ -13,10 +13,7 @@
   "ownerType": "official",
   "licenseType": "free",
   "currency": "ZAR",
-  "previewImageUrls": [],
-  "downloadUrl": "",
   "documentation": "",
-  "documentationUrl": "",
   "industries": [],
   "tags": [],
   "averageRating": 0.0,

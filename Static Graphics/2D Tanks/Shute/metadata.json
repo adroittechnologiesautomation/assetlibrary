@@ -1,10 +1,10 @@
 {
-  "id": "c83a026f-1b37-4702-b960-fb55d11c67af",
+  "id": "f2b785d5-a3fc-4c76-b4d3-3676f81a1105",
   "name": "Shute",
   "description": "A Shute.",
   "author": "Adroit Technologies",
   "category": "Static Graphics/2D Tanks",
-  "version": null,
+  "version": "1.0.0",
   "fileName": "Shute.viz",
   "fileType": "Graphic",
   "previewImages": [
@@ -13,10 +13,7 @@
   "ownerType": "official",
   "licenseType": "free",
   "currency": "ZAR",
-  "previewImageUrls": [],
-  "downloadUrl": "",
   "documentation": "",
-  "documentationUrl": "",
   "industries": [],
   "tags": [],
   "averageRating": 0.0,

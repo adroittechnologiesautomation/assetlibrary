@@ -1,10 +1,10 @@
 {
-  "id": "d3ce2d89-4663-40bd-a7e5-4f78435da596",
+  "id": "af7e4dad-bc6e-4983-8f54-676ed46ed3c2",
   "name": "Gas Holder",
   "description": "A Gas Holder.",
   "author": "Adroit Technologies",
   "category": "Process Symbols/Vessels",
-  "version": null,
+  "version": "1.0.0",
   "fileName": "Gas Holder.viz",
   "fileType": "Graphic",
   "previewImages": [
@@ -13,10 +13,7 @@
   "ownerType": "official",
   "licenseType": "free",
   "currency": "ZAR",
-  "previewImageUrls": [],
-  "downloadUrl": "",
   "documentation": "",
-  "documentationUrl": "",
   "industries": [],
   "tags": [],
   "averageRating": 0.0,

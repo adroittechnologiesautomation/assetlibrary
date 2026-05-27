@@ -1,10 +1,10 @@
 {
-  "id": "5291e029-f1e2-4527-a652-9134b02505c8",
+  "id": "6625bba1-325c-46b0-8a3b-e7661511db87",
   "name": "Sieve",
   "description": "A Sieve.",
   "author": "Adroit Technologies",
   "category": "Process Symbols/Sieves and Seperators",
-  "version": null,
+  "version": "1.0.0",
   "fileName": "Sieve.viz",
   "fileType": "Graphic",
   "previewImages": [
@@ -13,10 +13,7 @@
   "ownerType": "official",
   "licenseType": "free",
   "currency": "ZAR",
-  "previewImageUrls": [],
-  "downloadUrl": "",
   "documentation": "",
-  "documentationUrl": "",
   "industries": [],
   "tags": [],
   "averageRating": 0.0,

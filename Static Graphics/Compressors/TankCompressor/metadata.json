@@ -1,10 +1,10 @@
 {
-  "id": "7434b37d-b263-4dcf-8261-42acd4950fc2",
+  "id": "25a16ecf-4d0f-4206-9743-8d650ef7f5e7",
   "name": "TankCompressor",
   "description": "A TankCompressor.",
   "author": "Adroit Technologies",
   "category": "Static Graphics/Compressors",
-  "version": null,
+  "version": "1.0.0",
   "fileName": "TankCompressor.viz",
   "fileType": "Graphic",
   "previewImages": [
@@ -13,10 +13,7 @@
   "ownerType": "official",
   "licenseType": "free",
   "currency": "ZAR",
-  "previewImageUrls": [],
-  "downloadUrl": "",
   "documentation": "",
-  "documentationUrl": "",
   "industries": [],
   "tags": [
     "Tank",

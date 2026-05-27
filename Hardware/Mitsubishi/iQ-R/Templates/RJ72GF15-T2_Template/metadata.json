@@ -1,10 +1,10 @@
 {
-  "id": "9761d829-249e-4c72-b71a-8063dab8984f",
+  "id": "11d83f16-2e40-47b3-a1f4-52d6156e0187",
   "name": "RJ72GF15-T2_Template",
   "description": "A RJ72GF15-T2_Template.",
   "author": "Adroit Technologies",
   "category": "Hardware/Mitsubishi/iQ-R/Templates",
-  "version": null,
+  "version": "1.0.0",
   "fileName": "RJ72GF15-T2_Template.viz",
   "fileType": "Graphic",
   "previewImages": [
@@ -13,10 +13,7 @@
   "ownerType": "official",
   "licenseType": "free",
   "currency": "ZAR",
-  "previewImageUrls": [],
-  "downloadUrl": "",
   "documentation": "",
-  "documentationUrl": "",
   "industries": [],
   "tags": [],
   "averageRating": 0.0,

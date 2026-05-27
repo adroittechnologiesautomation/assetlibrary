@@ -1,10 +1,10 @@
 {
-  "id": "5fa8e8f9-61e5-42af-a6ca-f3276482c2e2",
+  "id": "e2989421-b5e1-41f0-b444-464ee4fb91f0",
   "name": "Relief Valve",
   "description": "A Relief Valve.",
   "author": "Adroit Technologies",
   "category": "Process Symbols/Valves and Fittings",
-  "version": null,
+  "version": "1.0.0",
   "fileName": "Relief Valve.viz",
   "fileType": "Graphic",
   "previewImages": [
@@ -13,10 +13,7 @@
   "ownerType": "official",
   "licenseType": "free",
   "currency": "ZAR",
-  "previewImageUrls": [],
-  "downloadUrl": "",
   "documentation": "",
-  "documentationUrl": "",
   "industries": [],
   "tags": [
     "Valve",

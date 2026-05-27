@@ -1,10 +1,10 @@
 {
-  "id": "1e23a70a-fb7b-4b51-bd03-ccb1b33ac4dc",
+  "id": "7b28ec41-9a96-4a05-9b94-26989eb5c8c8",
   "name": "Horizontal Axis Agitator",
   "description": "A Horizontal Axis Agitator.",
   "author": "Adroit Technologies",
   "category": "Static Graphics/Agitators",
-  "version": null,
+  "version": "1.0.0",
   "fileName": "Horizontal Axis Agitator.viz",
   "fileType": "Graphic",
   "previewImages": [
@@ -13,10 +13,7 @@
   "ownerType": "official",
   "licenseType": "free",
   "currency": "ZAR",
-  "previewImageUrls": [],
-  "downloadUrl": "",
   "documentation": "",
-  "documentationUrl": "",
   "industries": [],
   "tags": [],
   "averageRating": 0.0,

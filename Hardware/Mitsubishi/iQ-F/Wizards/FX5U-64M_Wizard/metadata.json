@@ -1,10 +1,10 @@
 {
-  "id": "9fe0bf7b-5a16-4ca7-befc-6d28fc663853",
+  "id": "86ba6aca-6beb-4966-8b68-78a7ab1b17bf",
   "name": "FX5U-64M_Wizard",
   "description": "A FX5U-64M_Wizard.",
   "author": "Adroit Technologies",
   "category": "Hardware/Mitsubishi/iQ-F/Wizards",
-  "version": null,
+  "version": "1.0.0",
   "fileName": "FX5U-64M_Wizard.vizw",
   "fileType": "Wizard",
   "previewImages": [
@@ -13,10 +13,7 @@
   "ownerType": "official",
   "licenseType": "free",
   "currency": "ZAR",
-  "previewImageUrls": [],
-  "downloadUrl": "",
   "documentation": "",
-  "documentationUrl": "",
   "industries": [],
   "tags": [],
   "averageRating": 0.0,

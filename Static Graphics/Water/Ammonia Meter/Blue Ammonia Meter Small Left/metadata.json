@@ -1,10 +1,10 @@
 {
-  "id": "db8985f4-a7bd-4734-8420-2245063f2a93",
+  "id": "9dcd608b-9462-4fcb-a042-7365b3275d01",
   "name": "Blue Ammonia Meter Small Left",
   "description": "A Blue Ammonia Meter Small Left.",
   "author": "Adroit Technologies",
   "category": "Static Graphics/Water/Ammonia Meter",
-  "version": null,
+  "version": "1.0.0",
   "fileName": "Blue Ammonia Meter Small Left.viz",
   "fileType": "Graphic",
   "previewImages": [
@@ -13,10 +13,7 @@
   "ownerType": "official",
   "licenseType": "free",
   "currency": "ZAR",
-  "previewImageUrls": [],
-  "downloadUrl": "",
   "documentation": "",
-  "documentationUrl": "",
   "industries": [],
   "tags": [],
   "averageRating": 0.0,

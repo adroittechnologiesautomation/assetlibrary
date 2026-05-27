@@ -1,10 +1,10 @@
 {
-  "id": "7b814018-92e8-4c29-b33f-aa50e067bf63",
+  "id": "00e11361-27b3-4a6d-856b-2ce5644c471e",
   "name": "Belt",
   "description": "A Belt.",
   "author": "Adroit Technologies",
   "category": "Static Graphics/Pulleys and Belts",
-  "version": null,
+  "version": "1.0.0",
   "fileName": "Belt.viz",
   "fileType": "Graphic",
   "previewImages": [
@@ -13,10 +13,7 @@
   "ownerType": "official",
   "licenseType": "free",
   "currency": "ZAR",
-  "previewImageUrls": [],
-  "downloadUrl": "",
   "documentation": "",
-  "documentationUrl": "",
   "industries": [],
   "tags": [
     "Belt",

@@ -1,10 +1,10 @@
 {
-  "id": "9dc14e41-31c0-4656-be66-68647df9c318",
+  "id": "329cda3f-d770-4b1e-8780-de3f82c755f0",
   "name": "Blue DO Meter Left",
   "description": "A Blue DO Meter Left.",
   "author": "Adroit Technologies",
   "category": "Static Graphics/Water/Dissolved Oxygen Meter",
-  "version": null,
+  "version": "1.0.0",
   "fileName": "Blue DO Meter Left.viz",
   "fileType": "Graphic",
   "previewImages": [
@@ -13,10 +13,7 @@
   "ownerType": "official",
   "licenseType": "free",
   "currency": "ZAR",
-  "previewImageUrls": [],
-  "downloadUrl": "",
   "documentation": "",
-  "documentationUrl": "",
   "industries": [],
   "tags": [],
   "averageRating": 0.0,

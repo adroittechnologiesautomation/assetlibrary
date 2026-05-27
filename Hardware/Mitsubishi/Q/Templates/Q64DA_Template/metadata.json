@@ -1,10 +1,10 @@
 {
-  "id": "f84a382d-ce72-4e49-96db-5060c7cd69ac",
+  "id": "0cb201b5-15fd-47b9-9c81-73fc6dcd680d",
   "name": "Q64DA_Template",
   "description": "A Q64DA_Template.",
   "author": "Adroit Technologies",
   "category": "Hardware/Mitsubishi/Q/Templates",
-  "version": null,
+  "version": "1.0.0",
   "fileName": "Q64DA_Template.viz",
   "fileType": "Graphic",
   "previewImages": [
@@ -13,10 +13,7 @@
   "ownerType": "official",
   "licenseType": "free",
   "currency": "ZAR",
-  "previewImageUrls": [],
-  "downloadUrl": "",
   "documentation": "",
-  "documentationUrl": "",
   "industries": [],
   "tags": [],
   "averageRating": 0.0,

@@ -1,10 +1,10 @@
 {
-  "id": "5c3b7b39-dc60-4cf6-bac1-5b51088cd0c8",
+  "id": "9c51de57-89f6-471c-8ee6-c1e07ca408fc",
   "name": "Q03UDVCPU",
   "description": "A Q03UDVCPU.",
   "author": "Adroit Technologies",
   "category": "Hardware/Mitsubishi/Wizards",
-  "version": null,
+  "version": "1.0.0",
   "fileName": "Q03UDVCPU.vizw",
   "fileType": "Wizard",
   "previewImages": [
@@ -13,10 +13,7 @@
   "ownerType": "official",
   "licenseType": "free",
   "currency": "ZAR",
-  "previewImageUrls": [],
-  "downloadUrl": "",
   "documentation": "",
-  "documentationUrl": "",
   "industries": [],
   "tags": [],
   "averageRating": 0.0,

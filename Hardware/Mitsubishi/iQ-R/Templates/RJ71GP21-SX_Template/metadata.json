@@ -1,10 +1,10 @@
 {
-  "id": "e3148103-663c-4e2f-b44e-c847c231bd60",
+  "id": "62eea394-f3e0-4b5e-8eb7-94b10c574e2f",
   "name": "RJ71GP21-SX_Template",
   "description": "A RJ71GP21-SX_Template.",
   "author": "Adroit Technologies",
   "category": "Hardware/Mitsubishi/iQ-R/Templates",
-  "version": null,
+  "version": "1.0.0",
   "fileName": "RJ71GP21-SX_Template.viz",
   "fileType": "Graphic",
   "previewImages": [
@@ -13,10 +13,7 @@
   "ownerType": "official",
   "licenseType": "free",
   "currency": "ZAR",
-  "previewImageUrls": [],
-  "downloadUrl": "",
   "documentation": "",
-  "documentationUrl": "",
   "industries": [],
   "tags": [],
   "averageRating": 0.0,

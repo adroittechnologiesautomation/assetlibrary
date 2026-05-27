@@ -1,10 +1,10 @@
 {
-  "id": "d6d4a01d-24df-45cc-8251-be6ccf9a16ef",
+  "id": "5874ed73-8b77-4bd7-8e8c-cee8d143edea",
   "name": "Light",
   "description": "A Light.",
   "author": "Adroit Technologies",
   "category": "Process Symbols/Instruments",
-  "version": null,
+  "version": "1.0.0",
   "fileName": "Light.viz",
   "fileType": "Graphic",
   "previewImages": [
@@ -13,10 +13,7 @@
   "ownerType": "official",
   "licenseType": "free",
   "currency": "ZAR",
-  "previewImageUrls": [],
-  "downloadUrl": "",
   "documentation": "",
-  "documentationUrl": "",
   "industries": [],
   "tags": [],
   "averageRating": 0.0,

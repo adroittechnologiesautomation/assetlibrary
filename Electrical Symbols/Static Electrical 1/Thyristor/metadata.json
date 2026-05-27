@@ -1,10 +1,10 @@
 {
-  "id": "089e6c9d-bfc0-4d58-8df5-72b4bd11ec07",
+  "id": "fec16419-0831-4578-916e-023e92520ed0",
   "name": "Thyristor",
   "description": "A Thyristor.",
   "author": "Adroit Technologies",
   "category": "Electrical Symbols/Static Electrical 1",
-  "version": null,
+  "version": "1.0.0",
   "fileName": "Thyristor.viz",
   "fileType": "Graphic",
   "previewImages": [
@@ -13,10 +13,7 @@
   "ownerType": "official",
   "licenseType": "free",
   "currency": "ZAR",
-  "previewImageUrls": [],
-  "downloadUrl": "",
   "documentation": "",
-  "documentationUrl": "",
   "industries": [],
   "tags": [],
   "averageRating": 0.0,

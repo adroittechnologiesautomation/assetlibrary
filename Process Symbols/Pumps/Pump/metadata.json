@@ -1,10 +1,10 @@
 {
-  "id": "16caa61e-63de-4f97-b9ef-9be4dc7c3761",
+  "id": "56281375-86df-4976-b3c1-d06c2beca8bc",
   "name": "Pump",
   "description": "A Pump.",
   "author": "Adroit Technologies",
   "category": "Process Symbols/Pumps",
-  "version": null,
+  "version": "1.0.0",
   "fileName": "Pump.viz",
   "fileType": "Graphic",
   "previewImages": [
@@ -13,10 +13,7 @@
   "ownerType": "official",
   "licenseType": "free",
   "currency": "ZAR",
-  "previewImageUrls": [],
-  "downloadUrl": "",
   "documentation": "",
-  "documentationUrl": "",
   "industries": [],
   "tags": [
     "Pump",

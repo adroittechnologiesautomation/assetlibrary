@@ -1,10 +1,10 @@
 {
-  "id": "2200407f-e118-4237-8964-d0c1f3a80010",
+  "id": "80fda6bf-d72d-4d23-919b-b4f544231886",
   "name": "Blue Pressure Meter Large Top",
   "description": "A Blue Pressure Meter Large Top.",
   "author": "Adroit Technologies",
   "category": "Static Graphics/Pressure Meters",
-  "version": null,
+  "version": "1.0.0",
   "fileName": "Blue Pressure Meter Large Top.viz",
   "fileType": "Graphic",
   "previewImages": [
@@ -13,10 +13,7 @@
   "ownerType": "official",
   "licenseType": "free",
   "currency": "ZAR",
-  "previewImageUrls": [],
-  "downloadUrl": "",
   "documentation": "",
-  "documentationUrl": "",
   "industries": [],
   "tags": [],
   "averageRating": 0.0,

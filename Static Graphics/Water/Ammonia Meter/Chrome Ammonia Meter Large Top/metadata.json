@@ -1,10 +1,10 @@
 {
-  "id": "84aa41f5-0e26-4ba2-b980-b6988f846b8f",
+  "id": "1b64f5f8-371a-4522-9cfb-2dc216c551d6",
   "name": "Chrome Ammonia Meter Large Top",
   "description": "A Chrome Ammonia Meter Large Top.",
   "author": "Adroit Technologies",
   "category": "Static Graphics/Water/Ammonia Meter",
-  "version": null,
+  "version": "1.0.0",
   "fileName": "Chrome Ammonia Meter Large Top.viz",
   "fileType": "Graphic",
   "previewImages": [
@@ -13,10 +13,7 @@
   "ownerType": "official",
   "licenseType": "free",
   "currency": "ZAR",
-  "previewImageUrls": [],
-  "downloadUrl": "",
   "documentation": "",
-  "documentationUrl": "",
   "industries": [],
   "tags": [],
   "averageRating": 0.0,

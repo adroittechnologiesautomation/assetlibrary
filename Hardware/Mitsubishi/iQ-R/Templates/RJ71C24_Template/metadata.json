@@ -1,10 +1,10 @@
 {
-  "id": "4f1fca20-e846-4628-a9b0-c8ed6ec4fb1b",
+  "id": "1a9d6751-c7de-4dea-b76e-38692a7ca6c8",
   "name": "RJ71C24_Template",
   "description": "A RJ71C24_Template.",
   "author": "Adroit Technologies",
   "category": "Hardware/Mitsubishi/iQ-R/Templates",
-  "version": null,
+  "version": "1.0.0",
   "fileName": "RJ71C24_Template.viz",
   "fileType": "Graphic",
   "previewImages": [
@@ -13,10 +13,7 @@
   "ownerType": "official",
   "licenseType": "free",
   "currency": "ZAR",
-  "previewImageUrls": [],
-  "downloadUrl": "",
   "documentation": "",
-  "documentationUrl": "",
   "industries": [],
   "tags": [],
   "averageRating": 0.0,

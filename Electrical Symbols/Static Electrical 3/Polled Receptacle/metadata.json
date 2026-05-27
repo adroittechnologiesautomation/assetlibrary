@@ -1,10 +1,10 @@
 {
-  "id": "a32e5deb-cab2-4102-9c78-880fb2593eb9",
+  "id": "a54adb67-1a6f-4d15-ad45-5e55f443f1db",
   "name": "Polled Receptacle",
   "description": "A Polled Receptacle.",
   "author": "Adroit Technologies",
   "category": "Electrical Symbols/Static Electrical 3",
-  "version": null,
+  "version": "1.0.0",
   "fileName": "Polled Receptacle.viz",
   "fileType": "Graphic",
   "previewImages": [
@@ -13,10 +13,7 @@
   "ownerType": "official",
   "licenseType": "free",
   "currency": "ZAR",
-  "previewImageUrls": [],
-  "downloadUrl": "",
   "documentation": "",
-  "documentationUrl": "",
   "industries": [],
   "tags": [],
   "averageRating": 0.0,

@@ -1,10 +1,10 @@
 {
-  "id": "6fc9926b-9df7-4e86-9dd4-ec3fdade38b3",
+  "id": "9adbf7fe-df73-4b54-bb02-7552b88d4d39",
   "name": "Electromagnet",
   "description": "A Electromagnet.",
   "author": "Adroit Technologies",
   "category": "Process Symbols/Miscellaneous",
-  "version": null,
+  "version": "1.0.0",
   "fileName": "Electromagnet.viz",
   "fileType": "Graphic",
   "previewImages": [
@@ -13,10 +13,7 @@
   "ownerType": "official",
   "licenseType": "free",
   "currency": "ZAR",
-  "previewImageUrls": [],
-  "downloadUrl": "",
   "documentation": "",
-  "documentationUrl": "",
   "industries": [],
   "tags": [],
   "averageRating": 0.0,

@@ -1,10 +1,10 @@
 {
-  "id": "9b2602ef-fb78-4fe4-a8e2-4fe1615ee78e",
+  "id": "6f10dfe4-207d-461e-aa05-1ce1b930a848",
   "name": "Momentary Switch NC",
   "description": "A Momentary Switch NC.",
   "author": "Adroit Technologies",
   "category": "Electrical Symbols/Static Electrical 2",
-  "version": null,
+  "version": "1.0.0",
   "fileName": "Momentary Switch NC.viz",
   "fileType": "Graphic",
   "previewImages": [
@@ -13,10 +13,7 @@
   "ownerType": "official",
   "licenseType": "free",
   "currency": "ZAR",
-  "previewImageUrls": [],
-  "downloadUrl": "",
   "documentation": "",
-  "documentationUrl": "",
   "industries": [],
   "tags": [
     "Switch",

@@ -1,10 +1,10 @@
 {
-  "id": "cbb55b4c-39f5-4442-a594-959344b708c2",
+  "id": "07458dc0-50d9-4271-af1a-a6f67092a60e",
   "name": "SolenoidValveVertical_Flat",
   "description": "A SolenoidValveVertical_Flat.",
   "author": "Adroit Technologies",
   "category": "Wizards/Valves",
-  "version": null,
+  "version": "1.0.0",
   "fileName": "SolenoidValveVertical_Flat.vizw",
   "fileType": "Wizard",
   "previewImages": [
@@ -13,10 +13,7 @@
   "ownerType": "official",
   "licenseType": "free",
   "currency": "ZAR",
-  "previewImageUrls": [],
-  "downloadUrl": "",
   "documentation": "",
-  "documentationUrl": "",
   "industries": [],
   "tags": [
     "Valve",

@@ -1,10 +1,10 @@
 {
-  "id": "c14aaa87-de9d-4718-8f58-ea5426a1c163",
+  "id": "6e0c98f0-4dee-4857-9478-7c7739648a0e",
   "name": "Storage Hopper",
   "description": "A Storage Hopper.",
   "author": "Adroit Technologies",
   "category": "Static Graphics/2D Tanks",
-  "version": null,
+  "version": "1.0.0",
   "fileName": "Storage Hopper.viz",
   "fileType": "Graphic",
   "previewImages": [
@@ -13,10 +13,7 @@
   "ownerType": "official",
   "licenseType": "free",
   "currency": "ZAR",
-  "previewImageUrls": [],
-  "downloadUrl": "",
   "documentation": "",
-  "documentationUrl": "",
   "industries": [],
   "tags": [],
   "averageRating": 0.0,

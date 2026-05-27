@@ -1,10 +1,10 @@
 {
-  "id": "c7e10a29-b2b2-4e80-80f0-a190dea59e49",
+  "id": "495b24b2-5141-4e64-aa59-7028b94f4f2b",
   "name": "Valve 17",
   "description": "A Valve 17.",
   "author": "Adroit Technologies",
   "category": "Static Graphics/Valves/Valves",
-  "version": null,
+  "version": "1.0.0",
   "fileName": "Valve 17.viz",
   "fileType": "Graphic",
   "previewImages": [
@@ -13,10 +13,7 @@
   "ownerType": "official",
   "licenseType": "free",
   "currency": "ZAR",
-  "previewImageUrls": [],
-  "downloadUrl": "",
   "documentation": "",
-  "documentationUrl": "",
   "industries": [],
   "tags": [
     "Valve",

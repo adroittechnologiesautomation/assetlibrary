@@ -1,10 +1,10 @@
 {
-  "id": "038889cd-d1b5-49cb-be5c-19d1bb628da6",
+  "id": "23fab74f-5e96-4b93-8873-0982bc7b3c73",
   "name": "Limit",
   "description": "A Limit.",
   "author": "Adroit Technologies",
   "category": "Process Symbols/Valves and Fittings",
-  "version": null,
+  "version": "1.0.0",
   "fileName": "Limit.viz",
   "fileType": "Graphic",
   "previewImages": [
@@ -13,10 +13,7 @@
   "ownerType": "official",
   "licenseType": "free",
   "currency": "ZAR",
-  "previewImageUrls": [],
-  "downloadUrl": "",
   "documentation": "",
-  "documentationUrl": "",
   "industries": [],
   "tags": [],
   "averageRating": 0.0,

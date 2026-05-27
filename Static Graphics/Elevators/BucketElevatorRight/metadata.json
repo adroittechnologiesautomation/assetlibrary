@@ -1,10 +1,10 @@
 {
-  "id": "1f840338-74aa-44ac-a10a-786d0993d816",
+  "id": "b03414b1-0379-4939-b1e1-b3305fd4121a",
   "name": "BucketElevatorRight",
   "description": "A BucketElevatorRight.",
   "author": "Adroit Technologies",
   "category": "Static Graphics/Elevators",
-  "version": null,
+  "version": "1.0.0",
   "fileName": "BucketElevatorRight.viz",
   "fileType": "Graphic",
   "previewImages": [
@@ -13,10 +13,7 @@
   "ownerType": "official",
   "licenseType": "free",
   "currency": "ZAR",
-  "previewImageUrls": [],
-  "downloadUrl": "",
   "documentation": "",
-  "documentationUrl": "",
   "industries": [],
   "tags": [],
   "averageRating": 0.0,

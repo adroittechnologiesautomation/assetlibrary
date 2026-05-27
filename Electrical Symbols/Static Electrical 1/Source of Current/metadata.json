@@ -1,10 +1,10 @@
 {
-  "id": "bc2fed39-9e16-4de3-a673-096ec23587e6",
+  "id": "ca6d3973-c837-49b8-a6da-29eead756cb5",
   "name": "Source of Current",
   "description": "A Source of Current.",
   "author": "Adroit Technologies",
   "category": "Electrical Symbols/Static Electrical 1",
-  "version": null,
+  "version": "1.0.0",
   "fileName": "Source of Current.viz",
   "fileType": "Graphic",
   "previewImages": [
@@ -13,10 +13,7 @@
   "ownerType": "official",
   "licenseType": "free",
   "currency": "ZAR",
-  "previewImageUrls": [],
-  "downloadUrl": "",
   "documentation": "",
-  "documentationUrl": "",
   "industries": [],
   "tags": [],
   "averageRating": 0.0,

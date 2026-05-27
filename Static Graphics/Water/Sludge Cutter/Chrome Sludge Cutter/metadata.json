@@ -1,10 +1,10 @@
 {
-  "id": "a4f49b07-73eb-4fec-aaa2-d2dcce5c01e9",
+  "id": "da445fa4-2168-416d-8b2c-01b6ef0491c1",
   "name": "Chrome Sludge Cutter",
   "description": "A Chrome Sludge Cutter.",
   "author": "Adroit Technologies",
   "category": "Static Graphics/Water/Sludge Cutter",
-  "version": null,
+  "version": "1.0.0",
   "fileName": "Chrome Sludge Cutter.viz",
   "fileType": "Graphic",
   "previewImages": [
@@ -13,10 +13,7 @@
   "ownerType": "official",
   "licenseType": "free",
   "currency": "ZAR",
-  "previewImageUrls": [],
-  "downloadUrl": "",
   "documentation": "",
-  "documentationUrl": "",
   "industries": [],
   "tags": [],
   "averageRating": 0.0,

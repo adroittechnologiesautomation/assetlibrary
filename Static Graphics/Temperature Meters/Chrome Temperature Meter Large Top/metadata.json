@@ -1,10 +1,10 @@
 {
-  "id": "cb073f01-06ea-422e-9807-1213c577c105",
+  "id": "0a20c186-235e-434b-8d53-6a946a3a5a0a",
   "name": "Chrome Temperature Meter Large Top",
   "description": "A Chrome Temperature Meter Large Top.",
   "author": "Adroit Technologies",
   "category": "Static Graphics/Temperature Meters",
-  "version": null,
+  "version": "1.0.0",
   "fileName": "Chrome Temperature Meter Large Top.viz",
   "fileType": "Graphic",
   "previewImages": [
@@ -13,10 +13,7 @@
   "ownerType": "official",
   "licenseType": "free",
   "currency": "ZAR",
-  "previewImageUrls": [],
-  "downloadUrl": "",
   "documentation": "",
-  "documentationUrl": "",
   "industries": [],
   "tags": [],
   "averageRating": 0.0,

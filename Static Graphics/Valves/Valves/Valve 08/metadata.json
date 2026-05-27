@@ -1,10 +1,10 @@
 {
-  "id": "20690c75-a26e-4b23-8e9f-eeb0b8c525ec",
+  "id": "00239c61-af8b-444c-b3cc-b8f57d058c5e",
   "name": "Valve 08",
   "description": "A Valve 08.",
   "author": "Adroit Technologies",
   "category": "Static Graphics/Valves/Valves",
-  "version": null,
+  "version": "1.0.0",
   "fileName": "Valve 08.viz",
   "fileType": "Graphic",
   "previewImages": [
@@ -13,10 +13,7 @@
   "ownerType": "official",
   "licenseType": "free",
   "currency": "ZAR",
-  "previewImageUrls": [],
-  "downloadUrl": "",
   "documentation": "",
-  "documentationUrl": "",
   "industries": [],
   "tags": [
     "Valve",

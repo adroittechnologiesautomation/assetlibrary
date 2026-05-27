@@ -1,10 +1,10 @@
 {
-  "id": "4ef5bec3-af0b-4ace-a93e-9c85b7e69776",
+  "id": "c718e36d-5866-4f3d-a258-6ee37419dab8",
   "name": "Siren Button",
   "description": "A Siren Button.",
   "author": "Adroit Technologies",
   "category": "Wizards/Buttons",
-  "version": null,
+  "version": "1.0.0",
   "fileName": "Siren Button.vizw",
   "fileType": "Wizard",
   "previewImages": [
@@ -13,10 +13,7 @@
   "ownerType": "official",
   "licenseType": "free",
   "currency": "ZAR",
-  "previewImageUrls": [],
-  "downloadUrl": "",
   "documentation": "",
-  "documentationUrl": "",
   "industries": [],
   "tags": [],
   "averageRating": 0.0,

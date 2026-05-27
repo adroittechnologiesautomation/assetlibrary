@@ -1,10 +1,10 @@
 {
-  "id": "eda1e6b6-a52c-4f90-a3f0-72ea42e568d4",
+  "id": "b9fab720-9473-4e0f-9108-b89ed70a2b31",
   "name": "Centrifugal Fan",
   "description": "A Centrifugal Fan.",
   "author": "Adroit Technologies",
   "category": "Process Symbols/Fans",
-  "version": null,
+  "version": "1.0.0",
   "fileName": "Centrifugal Fan.viz",
   "fileType": "Graphic",
   "previewImages": [
@@ -13,10 +13,7 @@
   "ownerType": "official",
   "licenseType": "free",
   "currency": "ZAR",
-  "previewImageUrls": [],
-  "downloadUrl": "",
   "documentation": "",
-  "documentationUrl": "",
   "industries": [],
   "tags": [
     "Fan",

@@ -1,10 +1,10 @@
 {
-  "id": "33f9a81b-1f10-4b0a-93f5-63e10e8809a5",
+  "id": "51e0fc5e-3f63-4475-ad78-2637f3049759",
   "name": "Blue Submersible Pump",
   "description": "A Blue Submersible Pump.",
   "author": "Adroit Technologies",
   "category": "Static Graphics/Pumps",
-  "version": null,
+  "version": "1.0.0",
   "fileName": "Blue Submersible Pump.viz",
   "fileType": "Graphic",
   "previewImages": [
@@ -13,10 +13,7 @@
   "ownerType": "official",
   "licenseType": "free",
   "currency": "ZAR",
-  "previewImageUrls": [],
-  "downloadUrl": "",
   "documentation": "",
-  "documentationUrl": "",
   "industries": [],
   "tags": [
     "Pump",

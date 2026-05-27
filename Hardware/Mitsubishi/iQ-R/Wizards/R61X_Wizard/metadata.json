@@ -1,10 +1,10 @@
 {
-  "id": "b6f0f641-ae86-45fe-80fb-b37a179d5333",
+  "id": "8880e458-7669-4185-8d29-cec34bd8dec1",
   "name": "R61X_Wizard",
   "description": "A R61X_Wizard.",
   "author": "Adroit Technologies",
   "category": "Hardware/Mitsubishi/iQ-R/Wizards",
-  "version": null,
+  "version": "1.0.0",
   "fileName": "R61X_Wizard.vizw",
   "fileType": "Wizard",
   "previewImages": [
@@ -13,10 +13,7 @@
   "ownerType": "official",
   "licenseType": "free",
   "currency": "ZAR",
-  "previewImageUrls": [],
-  "downloadUrl": "",
   "documentation": "",
-  "documentationUrl": "",
   "industries": [],
   "tags": [],
   "averageRating": 0.0,

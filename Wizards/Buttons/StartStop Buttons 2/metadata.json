@@ -1,10 +1,10 @@
 {
-  "id": "de9aca97-958f-474d-a555-896d7bd74a26",
+  "id": "f0b1fae7-677c-44d7-a3de-b069e73156d6",
   "name": "StartStop Buttons 2",
   "description": "A StartStop Buttons 2.",
   "author": "Adroit Technologies",
   "category": "Wizards/Buttons",
-  "version": null,
+  "version": "1.0.0",
   "fileName": "StartStop Buttons 2.vizw",
   "fileType": "Wizard",
   "previewImages": [
@@ -13,10 +13,7 @@
   "ownerType": "official",
   "licenseType": "free",
   "currency": "ZAR",
-  "previewImageUrls": [],
-  "downloadUrl": "",
   "documentation": "",
-  "documentationUrl": "",
   "industries": [],
   "tags": [],
   "averageRating": 0.0,

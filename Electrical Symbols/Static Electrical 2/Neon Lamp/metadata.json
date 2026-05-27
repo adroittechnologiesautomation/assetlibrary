@@ -1,10 +1,10 @@
 {
-  "id": "ee49e48a-2605-4a5d-8dbc-909938e69ed3",
+  "id": "5c816861-7911-4e9e-a384-08ca50483db6",
   "name": "Neon Lamp",
   "description": "A Neon Lamp.",
   "author": "Adroit Technologies",
   "category": "Electrical Symbols/Static Electrical 2",
-  "version": null,
+  "version": "1.0.0",
   "fileName": "Neon Lamp.viz",
   "fileType": "Graphic",
   "previewImages": [
@@ -13,10 +13,7 @@
   "ownerType": "official",
   "licenseType": "free",
   "currency": "ZAR",
-  "previewImageUrls": [],
-  "downloadUrl": "",
   "documentation": "",
-  "documentationUrl": "",
   "industries": [],
   "tags": [],
   "averageRating": 0.0,

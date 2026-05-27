@@ -1,10 +1,10 @@
 {
-  "id": "42832aeb-c103-4e89-a2e6-b812650e4b36",
+  "id": "13772f85-a01e-4856-a8b3-6918b5085390",
   "name": "Spray",
   "description": "A Spray.",
   "author": "Adroit Technologies",
   "category": "Process Symbols/Pumps",
-  "version": null,
+  "version": "1.0.0",
   "fileName": "Spray.viz",
   "fileType": "Graphic",
   "previewImages": [
@@ -13,10 +13,7 @@
   "ownerType": "official",
   "licenseType": "free",
   "currency": "ZAR",
-  "previewImageUrls": [],
-  "downloadUrl": "",
   "documentation": "",
-  "documentationUrl": "",
   "industries": [],
   "tags": [],
   "averageRating": 0.0,

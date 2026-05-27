@@ -1,10 +1,10 @@
 {
-  "id": "e167e1c1-df03-4665-8b44-59f83b7747bd",
+  "id": "0ec65cc2-0141-4c47-a2c4-095928714e41",
   "name": "Manual Valve Side",
   "description": "A Manual Valve Side.",
   "author": "Adroit Technologies",
   "category": "Static Graphics/Valves",
-  "version": null,
+  "version": "1.0.0",
   "fileName": "Manual Valve Side.viz",
   "fileType": "Graphic",
   "previewImages": [
@@ -13,10 +13,7 @@
   "ownerType": "official",
   "licenseType": "free",
   "currency": "ZAR",
-  "previewImageUrls": [],
-  "downloadUrl": "",
   "documentation": "",
-  "documentationUrl": "",
   "industries": [],
   "tags": [
     "Valve",

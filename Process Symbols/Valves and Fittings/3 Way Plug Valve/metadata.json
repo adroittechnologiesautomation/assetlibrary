@@ -1,10 +1,10 @@
 {
-  "id": "02c497f8-f0a2-4005-a8e5-bbb98c843da0",
+  "id": "bbaf2a47-0cbb-480d-8feb-8dbbe49408c7",
   "name": "3 Way Plug Valve",
   "description": "A 3 Way Plug Valve.",
   "author": "Adroit Technologies",
   "category": "Process Symbols/Valves and Fittings",
-  "version": null,
+  "version": "1.0.0",
   "fileName": "3 Way Plug Valve.viz",
   "fileType": "Graphic",
   "previewImages": [
@@ -13,10 +13,7 @@
   "ownerType": "official",
   "licenseType": "free",
   "currency": "ZAR",
-  "previewImageUrls": [],
-  "downloadUrl": "",
   "documentation": "",
-  "documentationUrl": "",
   "industries": [],
   "tags": [
     "Valve",

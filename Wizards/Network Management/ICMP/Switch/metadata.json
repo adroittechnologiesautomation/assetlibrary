@@ -1,10 +1,10 @@
 {
-  "id": "b5e4e06c-81da-45eb-a941-60809018f5c6",
+  "id": "230f20a4-f821-416f-8102-ea1f971c56f8",
   "name": "Switch",
   "description": "A Switch.",
   "author": "Adroit Technologies",
   "category": "Wizards/Network Management/ICMP",
-  "version": null,
+  "version": "1.0.0",
   "fileName": "Switch.vizw",
   "fileType": "Wizard",
   "previewImages": [
@@ -13,10 +13,7 @@
   "ownerType": "official",
   "licenseType": "free",
   "currency": "ZAR",
-  "previewImageUrls": [],
-  "downloadUrl": "",
   "documentation": "",
-  "documentationUrl": "",
   "industries": [],
   "tags": [
     "Switch",

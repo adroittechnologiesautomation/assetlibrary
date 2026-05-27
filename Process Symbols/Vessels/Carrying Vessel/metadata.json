@@ -1,10 +1,10 @@
 {
-  "id": "16876605-863e-475b-83c7-ae5c5885acdf",
+  "id": "73a7f1ef-6665-4165-afb5-9c100b36b832",
   "name": "Carrying Vessel",
   "description": "A Carrying Vessel.",
   "author": "Adroit Technologies",
   "category": "Process Symbols/Vessels",
-  "version": null,
+  "version": "1.0.0",
   "fileName": "Carrying Vessel.viz",
   "fileType": "Graphic",
   "previewImages": [
@@ -13,10 +13,7 @@
   "ownerType": "official",
   "licenseType": "free",
   "currency": "ZAR",
-  "previewImageUrls": [],
-  "downloadUrl": "",
   "documentation": "",
-  "documentationUrl": "",
   "industries": [],
   "tags": [
     "Vessel",

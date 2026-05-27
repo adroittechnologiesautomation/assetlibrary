@@ -1,10 +1,10 @@
 {
-  "id": "f7f8e26a-6e34-4c36-8ea9-23d30830a5cc",
+  "id": "4c0b2ca6-9e92-4545-85e7-0d8d83273531",
   "name": "Current Transformer",
   "description": "A Current Transformer.",
   "author": "Adroit Technologies",
   "category": "Electrical Symbols/Static Electrical 1",
-  "version": null,
+  "version": "1.0.0",
   "fileName": "Current Transformer.viz",
   "fileType": "Graphic",
   "previewImages": [
@@ -13,10 +13,7 @@
   "ownerType": "official",
   "licenseType": "free",
   "currency": "ZAR",
-  "previewImageUrls": [],
-  "downloadUrl": "",
   "documentation": "",
-  "documentationUrl": "",
   "industries": [],
   "tags": [
     "Transformer",

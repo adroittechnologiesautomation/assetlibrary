@@ -1,10 +1,10 @@
 {
-  "id": "b4de74ab-e470-489e-8c69-d1918aed1286",
+  "id": "742673b6-a839-4dd3-88c2-3504ef066809",
   "name": "Blue Solenoid Valve",
   "description": "A Blue Solenoid Valve.",
   "author": "Adroit Technologies",
   "category": "Static Graphics/Valves",
-  "version": null,
+  "version": "1.0.0",
   "fileName": "Blue Solenoid Valve.viz",
   "fileType": "Graphic",
   "previewImages": [
@@ -13,10 +13,7 @@
   "ownerType": "official",
   "licenseType": "free",
   "currency": "ZAR",
-  "previewImageUrls": [],
-  "downloadUrl": "",
   "documentation": "",
-  "documentationUrl": "",
   "industries": [],
   "tags": [
     "Valve",

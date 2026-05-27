@@ -1,10 +1,10 @@
 {
-  "id": "0825a366-d21b-445f-b853-74ea8941bc1c",
+  "id": "25b1c9d9-cf23-4abd-92cb-208857a18d45",
   "name": "FX5U-32M_Template",
   "description": "A FX5U-32M_Template.",
   "author": "Adroit Technologies",
   "category": "Hardware/Mitsubishi/iQ-F/Templates",
-  "version": null,
+  "version": "1.0.0",
   "fileName": "FX5U-32M_Template.viz",
   "fileType": "Graphic",
   "previewImages": [
@@ -13,10 +13,7 @@
   "ownerType": "official",
   "licenseType": "free",
   "currency": "ZAR",
-  "previewImageUrls": [],
-  "downloadUrl": "",
   "documentation": "",
-  "documentationUrl": "",
   "industries": [],
   "tags": [],
   "averageRating": 0.0,

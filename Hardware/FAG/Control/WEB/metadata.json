@@ -1,10 +1,10 @@
 {
-  "id": "2d68812d-05be-446c-a72a-744716386ab1",
+  "id": "f5cf4a62-1e59-4249-92f1-9b187a6baf3d",
   "name": "WEB",
   "description": "A WEB.",
   "author": "Adroit Technologies",
   "category": "Hardware/FAG/Control",
-  "version": null,
+  "version": "1.0.0",
   "fileName": "WEB.viz",
   "fileType": "Graphic",
   "previewImages": [
@@ -13,10 +13,7 @@
   "ownerType": "official",
   "licenseType": "free",
   "currency": "ZAR",
-  "previewImageUrls": [],
-  "downloadUrl": "",
   "documentation": "",
-  "documentationUrl": "",
   "industries": [],
   "tags": [],
   "averageRating": 0.0,

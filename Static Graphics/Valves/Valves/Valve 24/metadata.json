@@ -1,10 +1,10 @@
 {
-  "id": "029f0caa-b77c-43fd-bf69-40952a6463e6",
+  "id": "856bc5fc-9fa7-491d-8939-9de3bbdb4491",
   "name": "Valve 24",
   "description": "A Valve 24.",
   "author": "Adroit Technologies",
   "category": "Static Graphics/Valves/Valves",
-  "version": null,
+  "version": "1.0.0",
   "fileName": "Valve 24.viz",
   "fileType": "Graphic",
   "previewImages": [
@@ -13,10 +13,7 @@
   "ownerType": "official",
   "licenseType": "free",
   "currency": "ZAR",
-  "previewImageUrls": [],
-  "downloadUrl": "",
   "documentation": "",
-  "documentationUrl": "",
   "industries": [],
   "tags": [
     "Valve",

@@ -1,10 +1,10 @@
 {
-  "id": "15a24fbf-5a92-4e09-8139-51a2766723b9",
+  "id": "3535a313-ae1f-49c0-813e-af087cf702c7",
   "name": "Simple Analog",
   "description": "A Simple Analog.",
   "author": "Adroit Technologies",
   "category": "Wizards/Analogues",
-  "version": null,
+  "version": "1.0.0",
   "fileName": "Simple Analog.vizw",
   "fileType": "Wizard",
   "previewImages": [
@@ -13,10 +13,7 @@
   "ownerType": "official",
   "licenseType": "free",
   "currency": "ZAR",
-  "previewImageUrls": [],
-  "downloadUrl": "",
   "documentation": "",
-  "documentationUrl": "",
   "industries": [],
   "tags": [],
   "averageRating": 0.0,

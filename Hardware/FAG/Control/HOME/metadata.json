@@ -1,10 +1,10 @@
 {
-  "id": "f7479766-825a-4740-b5ce-84f9772c16c5",
+  "id": "1a09bd0f-b79d-4798-87bc-f85ff7f57c4b",
   "name": "HOME",
   "description": "A HOME.",
   "author": "Adroit Technologies",
   "category": "Hardware/FAG/Control",
-  "version": null,
+  "version": "1.0.0",
   "fileName": "HOME.viz",
   "fileType": "Graphic",
   "previewImages": [
@@ -13,10 +13,7 @@
   "ownerType": "official",
   "licenseType": "free",
   "currency": "ZAR",
-  "previewImageUrls": [],
-  "downloadUrl": "",
   "documentation": "",
-  "documentationUrl": "",
   "industries": [],
   "tags": [],
   "averageRating": 0.0,

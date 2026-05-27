@@ -1,10 +1,10 @@
 {
-  "id": "2818d811-5b09-4049-9d9e-f75c2807788f",
+  "id": "0e62d755-ff89-4c00-a0c2-9f8d481cf534",
   "name": "Elevator 1",
   "description": "A Elevator 1.",
   "author": "Adroit Technologies",
   "category": "Process Symbols/Miscellaneous",
-  "version": null,
+  "version": "1.0.0",
   "fileName": "Elevator 1.viz",
   "fileType": "Graphic",
   "previewImages": [
@@ -13,10 +13,7 @@
   "ownerType": "official",
   "licenseType": "free",
   "currency": "ZAR",
-  "previewImageUrls": [],
-  "downloadUrl": "",
   "documentation": "",
-  "documentationUrl": "",
   "industries": [],
   "tags": [],
   "averageRating": 0.0,

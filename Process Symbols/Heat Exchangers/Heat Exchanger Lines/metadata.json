@@ -1,10 +1,10 @@
 {
-  "id": "a7c177a3-c143-4ab1-9f4b-ebda77378a05",
+  "id": "4381a779-b3a5-4c42-8c1b-b4f524050048",
   "name": "Heat Exchanger Lines",
   "description": "A Heat Exchanger Lines.",
   "author": "Adroit Technologies",
   "category": "Process Symbols/Heat Exchangers",
-  "version": null,
+  "version": "1.0.0",
   "fileName": "Heat Exchanger Lines.viz",
   "fileType": "Graphic",
   "previewImages": [
@@ -13,10 +13,7 @@
   "ownerType": "official",
   "licenseType": "free",
   "currency": "ZAR",
-  "previewImageUrls": [],
-  "downloadUrl": "",
   "documentation": "",
-  "documentationUrl": "",
   "industries": [],
   "tags": [],
   "averageRating": 0.0,

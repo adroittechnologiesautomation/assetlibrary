@@ -1,10 +1,10 @@
 {
-  "id": "26fa15c7-8ff8-4ff5-94d3-98969578377d",
+  "id": "4995cff7-a523-470f-89f3-bfa0efb72b30",
   "name": "Standard Pump (without motor)",
   "description": "A Standard Pump (without motor).",
   "author": "Adroit Technologies",
   "category": "Static Graphics/Pumps",
-  "version": null,
+  "version": "1.0.0",
   "fileName": "Standard Pump (without motor).viz",
   "fileType": "Graphic",
   "previewImages": [
@@ -13,10 +13,7 @@
   "ownerType": "official",
   "licenseType": "free",
   "currency": "ZAR",
-  "previewImageUrls": [],
-  "downloadUrl": "",
   "documentation": "",
-  "documentationUrl": "",
   "industries": [],
   "tags": [
     "Motor",

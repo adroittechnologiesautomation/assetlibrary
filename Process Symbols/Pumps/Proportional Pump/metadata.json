@@ -1,10 +1,10 @@
 {
-  "id": "4c87e0d7-8aa4-469f-9078-3205846d427b",
+  "id": "e6c9faf9-9bae-42f3-8079-9edbb968b42c",
   "name": "Proportional Pump",
   "description": "A Proportional Pump.",
   "author": "Adroit Technologies",
   "category": "Process Symbols/Pumps",
-  "version": null,
+  "version": "1.0.0",
   "fileName": "Proportional Pump.viz",
   "fileType": "Graphic",
   "previewImages": [
@@ -13,10 +13,7 @@
   "ownerType": "official",
   "licenseType": "free",
   "currency": "ZAR",
-  "previewImageUrls": [],
-  "downloadUrl": "",
   "documentation": "",
-  "documentationUrl": "",
   "industries": [],
   "tags": [
     "Pump",

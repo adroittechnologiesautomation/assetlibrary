@@ -1,10 +1,10 @@
 {
-  "id": "495c4c8d-df55-4be0-ab50-422c5f9d8f9a",
+  "id": "87b77d96-6e70-42ce-bbfc-1d0e34e626aa",
   "name": "Photo Resistor",
   "description": "A Photo Resistor.",
   "author": "Adroit Technologies",
   "category": "Electrical Symbols/Static Electrical 2",
-  "version": null,
+  "version": "1.0.0",
   "fileName": "Photo Resistor.viz",
   "fileType": "Graphic",
   "previewImages": [
@@ -13,10 +13,7 @@
   "ownerType": "official",
   "licenseType": "free",
   "currency": "ZAR",
-  "previewImageUrls": [],
-  "downloadUrl": "",
   "documentation": "",
-  "documentationUrl": "",
   "industries": [],
   "tags": [
     "Resistor",

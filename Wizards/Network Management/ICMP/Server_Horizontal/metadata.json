@@ -1,10 +1,10 @@
 {
-  "id": "f8471012-33b0-43c2-952c-3d5624aa8ee6",
+  "id": "7a4b9d6c-fc02-4df4-a88c-ed6629a9c548",
   "name": "Server_Horizontal",
   "description": "A Server_Horizontal.",
   "author": "Adroit Technologies",
   "category": "Wizards/Network Management/ICMP",
-  "version": null,
+  "version": "1.0.0",
   "fileName": "Server_Horizontal.vizw",
   "fileType": "Wizard",
   "previewImages": [
@@ -13,10 +13,7 @@
   "ownerType": "official",
   "licenseType": "free",
   "currency": "ZAR",
-  "previewImageUrls": [],
-  "downloadUrl": "",
   "documentation": "",
-  "documentationUrl": "",
   "industries": [],
   "tags": [],
   "averageRating": 0.0,

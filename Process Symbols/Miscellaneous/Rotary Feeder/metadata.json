@@ -1,10 +1,10 @@
 {
-  "id": "22a18ecf-b55d-4d0d-82eb-40c9b95557d4",
+  "id": "d58281af-b28f-4aa8-88b8-f4cab285d5be",
   "name": "Rotary Feeder",
   "description": "A Rotary Feeder.",
   "author": "Adroit Technologies",
   "category": "Process Symbols/Miscellaneous",
-  "version": null,
+  "version": "1.0.0",
   "fileName": "Rotary Feeder.viz",
   "fileType": "Graphic",
   "previewImages": [
@@ -13,10 +13,7 @@
   "ownerType": "official",
   "licenseType": "free",
   "currency": "ZAR",
-  "previewImageUrls": [],
-  "downloadUrl": "",
   "documentation": "",
-  "documentationUrl": "",
   "industries": [],
   "tags": [],
   "averageRating": 0.0,

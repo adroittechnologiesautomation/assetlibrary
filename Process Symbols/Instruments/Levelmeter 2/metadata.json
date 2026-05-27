@@ -1,10 +1,10 @@
 {
-  "id": "af877802-f9f7-4ee9-91e4-fc9c82aa6e99",
+  "id": "7efce201-0ff8-4f00-8a6d-5160510e12db",
   "name": "Levelmeter 2",
   "description": "A Levelmeter 2.",
   "author": "Adroit Technologies",
   "category": "Process Symbols/Instruments",
-  "version": null,
+  "version": "1.0.0",
   "fileName": "Levelmeter 2.viz",
   "fileType": "Graphic",
   "previewImages": [
@@ -13,10 +13,7 @@
   "ownerType": "official",
   "licenseType": "free",
   "currency": "ZAR",
-  "previewImageUrls": [],
-  "downloadUrl": "",
   "documentation": "",
-  "documentationUrl": "",
   "industries": [],
   "tags": [],
   "averageRating": 0.0,

@@ -1,10 +1,10 @@
 {
-  "id": "d2207dd3-9be7-4d0e-8304-48ac5b425e48",
+  "id": "054e50d0-e0cc-4ef8-ba95-f8a06a413a02",
   "name": "Photo Resistor Filled",
   "description": "A Photo Resistor Filled.",
   "author": "Adroit Technologies",
   "category": "Electrical Symbols/Static Electrical 2",
-  "version": null,
+  "version": "1.0.0",
   "fileName": "Photo Resistor Filled.viz",
   "fileType": "Graphic",
   "previewImages": [
@@ -13,10 +13,7 @@
   "ownerType": "official",
   "licenseType": "free",
   "currency": "ZAR",
-  "previewImageUrls": [],
-  "downloadUrl": "",
   "documentation": "",
-  "documentationUrl": "",
   "industries": [],
   "tags": [
     "Resistor",

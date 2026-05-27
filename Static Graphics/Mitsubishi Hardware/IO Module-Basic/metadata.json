@@ -1,10 +1,10 @@
 {
-  "id": "5cad5df5-fd0b-4cf2-81ec-e1628cfde82e",
+  "id": "6a5e1c9a-198f-4d9f-a59a-010a99886739",
   "name": "IO Module-Basic",
   "description": "A IO Module-Basic.",
   "author": "Adroit Technologies",
   "category": "Static Graphics/Mitsubishi Hardware",
-  "version": null,
+  "version": "1.0.0",
   "fileName": "IO Module-Basic.viz",
   "fileType": "Graphic",
   "previewImages": [
@@ -13,10 +13,7 @@
   "ownerType": "official",
   "licenseType": "free",
   "currency": "ZAR",
-  "previewImageUrls": [],
-  "downloadUrl": "",
   "documentation": "",
-  "documentationUrl": "",
   "industries": [],
   "tags": [],
   "averageRating": 0.0,

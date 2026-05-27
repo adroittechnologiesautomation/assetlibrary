@@ -1,10 +1,10 @@
 {
-  "id": "ca984b3e-8e97-4b6a-9382-13efc6157444",
+  "id": "afca6f4e-2a57-4f93-95fa-e84661488c42",
   "name": "FX5UC-64M_Template",
   "description": "A FX5UC-64M_Template.",
   "author": "Adroit Technologies",
   "category": "Hardware/Mitsubishi/iQ-F/Templates",
-  "version": null,
+  "version": "1.0.0",
   "fileName": "FX5UC-64M_Template.viz",
   "fileType": "Graphic",
   "previewImages": [
@@ -13,10 +13,7 @@
   "ownerType": "official",
   "licenseType": "free",
   "currency": "ZAR",
-  "previewImageUrls": [],
-  "downloadUrl": "",
   "documentation": "",
-  "documentationUrl": "",
   "industries": [],
   "tags": [],
   "averageRating": 0.0,

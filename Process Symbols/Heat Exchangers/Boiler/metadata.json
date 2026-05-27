@@ -1,10 +1,10 @@
 {
-  "id": "ca0d3b41-bda8-4c95-96f9-2dfeb2c820c1",
+  "id": "3db153ac-369f-4ffa-a61c-1fe86aacfb8e",
   "name": "Boiler",
   "description": "A Boiler.",
   "author": "Adroit Technologies",
   "category": "Process Symbols/Heat Exchangers",
-  "version": null,
+  "version": "1.0.0",
   "fileName": "Boiler.viz",
   "fileType": "Graphic",
   "previewImages": [
@@ -13,10 +13,7 @@
   "ownerType": "official",
   "licenseType": "free",
   "currency": "ZAR",
-  "previewImageUrls": [],
-  "downloadUrl": "",
   "documentation": "",
-  "documentationUrl": "",
   "industries": [],
   "tags": [],
   "averageRating": 0.0,

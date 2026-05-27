@@ -1,10 +1,10 @@
 {
-  "id": "40722af4-0334-4a63-b35b-3fc2e5e9f4b1",
+  "id": "cdb3d4b4-cff3-4541-849e-dd0129619f9b",
   "name": "Blue Pressure Meter Large Left",
   "description": "A Blue Pressure Meter Large Left.",
   "author": "Adroit Technologies",
   "category": "Static Graphics/Pressure Meters",
-  "version": null,
+  "version": "1.0.0",
   "fileName": "Blue Pressure Meter Large Left.viz",
   "fileType": "Graphic",
   "previewImages": [
@@ -13,10 +13,7 @@
   "ownerType": "official",
   "licenseType": "free",
   "currency": "ZAR",
-  "previewImageUrls": [],
-  "downloadUrl": "",
   "documentation": "",
-  "documentationUrl": "",
   "industries": [],
   "tags": [],
   "averageRating": 0.0,

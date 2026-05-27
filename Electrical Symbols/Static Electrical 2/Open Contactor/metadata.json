@@ -1,10 +1,10 @@
 {
-  "id": "ab78d859-2069-47c8-bdc5-01a8cd1deccd",
+  "id": "51ce7a3c-85c6-4d34-bec7-6c27fa3e103d",
   "name": "Open Contactor",
   "description": "A Open Contactor.",
   "author": "Adroit Technologies",
   "category": "Electrical Symbols/Static Electrical 2",
-  "version": null,
+  "version": "1.0.0",
   "fileName": "Open Contactor.viz",
   "fileType": "Graphic",
   "previewImages": [
@@ -13,10 +13,7 @@
   "ownerType": "official",
   "licenseType": "free",
   "currency": "ZAR",
-  "previewImageUrls": [],
-  "downloadUrl": "",
   "documentation": "",
-  "documentationUrl": "",
   "industries": [],
   "tags": [],
   "averageRating": 0.0,

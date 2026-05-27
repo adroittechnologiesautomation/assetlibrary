@@ -1,10 +1,10 @@
 {
-  "id": "5d0a0c65-4dd8-44e6-9505-86ea003ae61e",
+  "id": "7e698214-2bea-49d4-b3f6-6b2559d84874",
   "name": "Mitsubishi FX 3G",
   "description": "A Mitsubishi FX 3G.",
   "author": "Adroit Technologies",
   "category": "Static Graphics/Mitsubishi Hardware",
-  "version": null,
+  "version": "1.0.0",
   "fileName": "Mitsubishi FX 3G.viz",
   "fileType": "Graphic",
   "previewImages": [
@@ -13,10 +13,7 @@
   "ownerType": "official",
   "licenseType": "free",
   "currency": "ZAR",
-  "previewImageUrls": [],
-  "downloadUrl": "",
   "documentation": "",
-  "documentationUrl": "",
   "industries": [],
   "tags": [],
   "averageRating": 0.0,

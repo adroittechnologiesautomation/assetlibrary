@@ -1,10 +1,10 @@
 {
-  "id": "f68ab9b0-d3fb-4287-93ef-55c4399b565d",
+  "id": "6fe6db5c-2881-472f-96da-deb0e9acd1ae",
   "name": "Diverter",
   "description": "A Diverter.",
   "author": "Adroit Technologies",
   "category": "Process Symbols/Valves and Fittings",
-  "version": null,
+  "version": "1.0.0",
   "fileName": "Diverter.viz",
   "fileType": "Graphic",
   "previewImages": [
@@ -13,10 +13,7 @@
   "ownerType": "official",
   "licenseType": "free",
   "currency": "ZAR",
-  "previewImageUrls": [],
-  "downloadUrl": "",
   "documentation": "",
-  "documentationUrl": "",
   "industries": [],
   "tags": [],
   "averageRating": 0.0,

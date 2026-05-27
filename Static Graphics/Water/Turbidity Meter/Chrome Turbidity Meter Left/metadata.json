@@ -1,10 +1,10 @@
 {
-  "id": "8e03d112-1fea-4282-b8e3-819561a51963",
+  "id": "d0d1196a-6443-41c9-8d0b-5898cce9b2f2",
   "name": "Chrome Turbidity Meter Left",
   "description": "A Chrome Turbidity Meter Left.",
   "author": "Adroit Technologies",
   "category": "Static Graphics/Water/Turbidity Meter",
-  "version": null,
+  "version": "1.0.0",
   "fileName": "Chrome Turbidity Meter Left.viz",
   "fileType": "Graphic",
   "previewImages": [
@@ -13,10 +13,7 @@
   "ownerType": "official",
   "licenseType": "free",
   "currency": "ZAR",
-  "previewImageUrls": [],
-  "downloadUrl": "",
   "documentation": "",
-  "documentationUrl": "",
   "industries": [],
   "tags": [],
   "averageRating": 0.0,

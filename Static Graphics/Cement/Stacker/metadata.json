@@ -1,10 +1,10 @@
 {
-  "id": "1e3281e2-6073-4af3-847a-c73353a5f742",
+  "id": "92f7da8a-85eb-4482-ac96-3b0b13b8f5c3",
   "name": "Stacker",
   "description": "A Stacker.",
   "author": "Adroit Technologies",
   "category": "Static Graphics/Cement",
-  "version": null,
+  "version": "1.0.0",
   "fileName": "Stacker.viz",
   "fileType": "Graphic",
   "previewImages": [
@@ -13,10 +13,7 @@
   "ownerType": "official",
   "licenseType": "free",
   "currency": "ZAR",
-  "previewImageUrls": [],
-  "downloadUrl": "",
   "documentation": "",
-  "documentationUrl": "",
   "industries": [],
   "tags": [],
   "averageRating": 0.0,

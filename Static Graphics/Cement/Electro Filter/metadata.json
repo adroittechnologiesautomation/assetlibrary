@@ -1,10 +1,10 @@
 {
-  "id": "b6631050-f2e6-4b93-af15-fc867801f5dd",
+  "id": "35093a70-ea78-4d39-a970-0820a45ec5f1",
   "name": "Electro Filter",
   "description": "A Electro Filter.",
   "author": "Adroit Technologies",
   "category": "Static Graphics/Cement",
-  "version": null,
+  "version": "1.0.0",
   "fileName": "Electro Filter.viz",
   "fileType": "Graphic",
   "previewImages": [
@@ -13,10 +13,7 @@
   "ownerType": "official",
   "licenseType": "free",
   "currency": "ZAR",
-  "previewImageUrls": [],
-  "downloadUrl": "",
   "documentation": "",
-  "documentationUrl": "",
   "industries": [],
   "tags": [],
   "averageRating": 0.0,

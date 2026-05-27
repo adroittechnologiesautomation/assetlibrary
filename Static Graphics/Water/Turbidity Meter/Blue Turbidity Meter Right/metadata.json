@@ -1,10 +1,10 @@
 {
-  "id": "dfffb721-2043-4fb6-9fa7-12d6c9a7b5ce",
+  "id": "abea5864-6df5-4ab1-a84d-4571abe4f114",
   "name": "Blue Turbidity Meter Right",
   "description": "A Blue Turbidity Meter Right.",
   "author": "Adroit Technologies",
   "category": "Static Graphics/Water/Turbidity Meter",
-  "version": null,
+  "version": "1.0.0",
   "fileName": "Blue Turbidity Meter Right.viz",
   "fileType": "Graphic",
   "previewImages": [
@@ -13,10 +13,7 @@
   "ownerType": "official",
   "licenseType": "free",
   "currency": "ZAR",
-  "previewImageUrls": [],
-  "downloadUrl": "",
   "documentation": "",
-  "documentationUrl": "",
   "industries": [],
   "tags": [],
   "averageRating": 0.0,

@@ -1,10 +1,10 @@
 {
-  "id": "247c5ac9-cf8f-40b4-b85c-f66a0942250b",
+  "id": "1a478155-d3bc-4bd3-af96-c0cf022ad78d",
   "name": "Chrome Sludge Cutter no motor",
   "description": "A Chrome Sludge Cutter no motor.",
   "author": "Adroit Technologies",
   "category": "Static Graphics/Water/Sludge Cutter",
-  "version": null,
+  "version": "1.0.0",
   "fileName": "Chrome Sludge Cutter no motor.viz",
   "fileType": "Graphic",
   "previewImages": [
@@ -13,10 +13,7 @@
   "ownerType": "official",
   "licenseType": "free",
   "currency": "ZAR",
-  "previewImageUrls": [],
-  "downloadUrl": "",
   "documentation": "",
-  "documentationUrl": "",
   "industries": [],
   "tags": [
     "Motor",

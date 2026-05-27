@@ -1,10 +1,10 @@
 {
-  "id": "a9e42a05-4131-409f-b7c2-c1518d320056",
+  "id": "8f38004a-ed0a-4337-a931-9bd5950a8fd5",
   "name": "Blue Flow Meter Large Right",
   "description": "A Blue Flow Meter Large Right.",
   "author": "Adroit Technologies",
   "category": "Static Graphics/Flow Meters",
-  "version": null,
+  "version": "1.0.0",
   "fileName": "Blue Flow Meter Large Right.viz",
   "fileType": "Graphic",
   "previewImages": [
@@ -13,10 +13,7 @@
   "ownerType": "official",
   "licenseType": "free",
   "currency": "ZAR",
-  "previewImageUrls": [],
-  "downloadUrl": "",
   "documentation": "",
-  "documentationUrl": "",
   "industries": [],
   "tags": [],
   "averageRating": 0.0,

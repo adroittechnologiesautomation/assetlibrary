@@ -1,10 +1,10 @@
 {
-  "id": "a4392643-8a52-4666-9992-d248f6b675fe",
+  "id": "a8be5145-902a-4039-bc7a-87cdf06b376d",
   "name": "Analog Quarter Dial 1",
   "description": "A Analog Quarter Dial 1.",
   "author": "Adroit Technologies",
   "category": "Wizards/Gauges/Quarter Dials",
-  "version": null,
+  "version": "1.0.0",
   "fileName": "Analog Quarter Dial 1.vizw",
   "fileType": "Wizard",
   "previewImages": [
@@ -13,10 +13,7 @@
   "ownerType": "official",
   "licenseType": "free",
   "currency": "ZAR",
-  "previewImageUrls": [],
-  "downloadUrl": "",
   "documentation": "",
-  "documentationUrl": "",
   "industries": [],
   "tags": [],
   "averageRating": 0.0,

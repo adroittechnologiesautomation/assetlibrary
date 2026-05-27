@@ -1,10 +1,10 @@
 {
-  "id": "05319d25-a196-466d-b9fa-f625515fc395",
+  "id": "51820de3-5f62-48a6-90ab-626ba5ac17ac",
   "name": "Bag Packer",
   "description": "A Bag Packer.",
   "author": "Adroit Technologies",
   "category": "Static Graphics/Cement/Cement Bag Packer",
-  "version": null,
+  "version": "1.0.0",
   "fileName": "Bag Packer.viz",
   "fileType": "Graphic",
   "previewImages": [
@@ -13,10 +13,7 @@
   "ownerType": "official",
   "licenseType": "free",
   "currency": "ZAR",
-  "previewImageUrls": [],
-  "downloadUrl": "",
   "documentation": "",
-  "documentationUrl": "",
   "industries": [],
   "tags": [],
   "averageRating": 0.0,

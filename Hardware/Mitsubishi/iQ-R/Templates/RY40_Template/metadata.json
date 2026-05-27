@@ -1,10 +1,10 @@
 {
-  "id": "a3d975cc-1610-489f-8309-eaee038b589e",
+  "id": "136fd001-0db7-4241-ae20-ff60d5911621",
   "name": "RY40_Template",
   "description": "A RY40_Template.",
   "author": "Adroit Technologies",
   "category": "Hardware/Mitsubishi/iQ-R/Templates",
-  "version": null,
+  "version": "1.0.0",
   "fileName": "RY40_Template.viz",
   "fileType": "Graphic",
   "previewImages": [
@@ -13,10 +13,7 @@
   "ownerType": "official",
   "licenseType": "free",
   "currency": "ZAR",
-  "previewImageUrls": [],
-  "downloadUrl": "",
   "documentation": "",
-  "documentationUrl": "",
   "industries": [],
   "tags": [],
   "averageRating": 0.0,

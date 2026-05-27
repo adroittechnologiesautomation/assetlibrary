@@ -1,10 +1,10 @@
 {
-  "id": "0a20aeb4-acd4-4995-9126-30e04bfc889b",
+  "id": "89d67cd7-2da1-49ad-89ea-50ecd8e3b427",
   "name": "Rectifier",
   "description": "A Rectifier.",
   "author": "Adroit Technologies",
   "category": "Electrical Symbols/Static Electrical 1",
-  "version": null,
+  "version": "1.0.0",
   "fileName": "Rectifier.viz",
   "fileType": "Graphic",
   "previewImages": [
@@ -13,10 +13,7 @@
   "ownerType": "official",
   "licenseType": "free",
   "currency": "ZAR",
-  "previewImageUrls": [],
-  "downloadUrl": "",
   "documentation": "",
-  "documentationUrl": "",
   "industries": [],
   "tags": [],
   "averageRating": 0.0,

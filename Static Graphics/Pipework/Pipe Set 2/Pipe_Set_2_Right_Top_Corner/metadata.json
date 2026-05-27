@@ -1,10 +1,10 @@
 {
-  "id": "a39f11a8-d9de-4cd6-b0c2-8e3975e2f4d0",
+  "id": "2ee90f4c-a907-425c-974f-e3417692b852",
   "name": "Pipe_Set_2_Right_Top_Corner",
   "description": "A Pipe_Set_2_Right_Top_Corner.",
   "author": "Adroit Technologies",
   "category": "Static Graphics/Pipework/Pipe Set 2",
-  "version": null,
+  "version": "1.0.0",
   "fileName": "Pipe_Set_2_Right_Top_Corner.viz",
   "fileType": "Graphic",
   "previewImages": [
@@ -13,10 +13,7 @@
   "ownerType": "official",
   "licenseType": "free",
   "currency": "ZAR",
-  "previewImageUrls": [],
-  "downloadUrl": "",
   "documentation": "",
-  "documentationUrl": "",
   "industries": [],
   "tags": [
     "Pipe",

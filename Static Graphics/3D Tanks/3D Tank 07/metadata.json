@@ -1,10 +1,10 @@
 {
-  "id": "2a865668-e96b-46f1-8716-0ce517c3ad72",
+  "id": "e30b1348-ff11-4697-b906-31cb6467b9be",
   "name": "3D Tank 07",
   "description": "A 3D Tank 07.",
   "author": "Adroit Technologies",
   "category": "Static Graphics/3D Tanks",
-  "version": null,
+  "version": "1.0.0",
   "fileName": "3D Tank 07.viz",
   "fileType": "Graphic",
   "previewImages": [
@@ -13,10 +13,7 @@
   "ownerType": "official",
   "licenseType": "free",
   "currency": "ZAR",
-  "previewImageUrls": [],
-  "downloadUrl": "",
   "documentation": "",
-  "documentationUrl": "",
   "industries": [],
   "tags": [
     "Tank",

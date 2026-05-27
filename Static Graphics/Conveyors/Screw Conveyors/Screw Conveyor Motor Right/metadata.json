@@ -1,10 +1,10 @@
 {
-  "id": "a5277941-aebd-486d-b20a-ef1f6a2e06b2",
+  "id": "8dd6c01d-7d48-4eeb-9869-0bd07524c603",
   "name": "Screw Conveyor Motor Right",
   "description": "A Screw Conveyor Motor Right.",
   "author": "Adroit Technologies",
   "category": "Static Graphics/Conveyors/Screw Conveyors",
-  "version": null,
+  "version": "1.0.0",
   "fileName": "Screw Conveyor Motor Right.viz",
   "fileType": "Graphic",
   "previewImages": [
@@ -13,10 +13,7 @@
   "ownerType": "official",
   "licenseType": "free",
   "currency": "ZAR",
-  "previewImageUrls": [],
-  "downloadUrl": "",
   "documentation": "",
-  "documentationUrl": "",
   "industries": [],
   "tags": [
     "Conveyor",

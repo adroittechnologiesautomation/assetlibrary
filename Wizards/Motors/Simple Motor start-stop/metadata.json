@@ -1,10 +1,10 @@
 {
-  "id": "e291ce15-b70e-47d3-9d0a-d15a85bd066d",
+  "id": "d0f6aa92-3318-4e69-a394-8d38013a541a",
   "name": "Simple Motor start-stop",
   "description": "A Simple Motor start-stop.",
   "author": "Adroit Technologies",
   "category": "Wizards/Motors",
-  "version": null,
+  "version": "1.0.0",
   "fileName": "Simple Motor start-stop.vizw",
   "fileType": "Wizard",
   "previewImages": [
@@ -13,10 +13,7 @@
   "ownerType": "official",
   "licenseType": "free",
   "currency": "ZAR",
-  "previewImageUrls": [],
-  "downloadUrl": "",
   "documentation": "",
-  "documentationUrl": "",
   "industries": [],
   "tags": [
     "Motor",

@@ -1,10 +1,10 @@
 {
-  "id": "193d95f4-3ab0-45a3-8f14-b55be6a41a69",
+  "id": "adae2f4f-1892-4aae-bc79-6e8f00312b42",
   "name": "Positive Disp",
   "description": "A Positive Disp.",
   "author": "Adroit Technologies",
   "category": "Process Symbols/Pumps",
-  "version": null,
+  "version": "1.0.0",
   "fileName": "Positive Disp.viz",
   "fileType": "Graphic",
   "previewImages": [
@@ -13,10 +13,7 @@
   "ownerType": "official",
   "licenseType": "free",
   "currency": "ZAR",
-  "previewImageUrls": [],
-  "downloadUrl": "",
   "documentation": "",
-  "documentationUrl": "",
   "industries": [],
   "tags": [],
   "averageRating": 0.0,

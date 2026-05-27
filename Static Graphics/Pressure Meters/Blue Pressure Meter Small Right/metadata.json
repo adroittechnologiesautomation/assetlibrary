@@ -1,10 +1,10 @@
 {
-  "id": "f3e1855e-6e1c-4a63-b318-220281a79f0f",
+  "id": "e5963793-c120-4bc0-8201-2b27e584cd03",
   "name": "Blue Pressure Meter Small Right",
   "description": "A Blue Pressure Meter Small Right.",
   "author": "Adroit Technologies",
   "category": "Static Graphics/Pressure Meters",
-  "version": null,
+  "version": "1.0.0",
   "fileName": "Blue Pressure Meter Small Right.viz",
   "fileType": "Graphic",
   "previewImages": [
@@ -13,10 +13,7 @@
   "ownerType": "official",
   "licenseType": "free",
   "currency": "ZAR",
-  "previewImageUrls": [],
-  "downloadUrl": "",
   "documentation": "",
-  "documentationUrl": "",
   "industries": [],
   "tags": [],
   "averageRating": 0.0,

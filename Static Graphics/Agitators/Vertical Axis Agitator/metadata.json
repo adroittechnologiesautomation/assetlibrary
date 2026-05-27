@@ -1,10 +1,10 @@
 {
-  "id": "a93b5c65-0a09-4b15-a135-2d9ca296d035",
+  "id": "72e4a486-d922-4178-a465-661d2049a2fb",
   "name": "Vertical Axis Agitator",
   "description": "A Vertical Axis Agitator.",
   "author": "Adroit Technologies",
   "category": "Static Graphics/Agitators",
-  "version": null,
+  "version": "1.0.0",
   "fileName": "Vertical Axis Agitator.viz",
   "fileType": "Graphic",
   "previewImages": [
@@ -13,10 +13,7 @@
   "ownerType": "official",
   "licenseType": "free",
   "currency": "ZAR",
-  "previewImageUrls": [],
-  "downloadUrl": "",
   "documentation": "",
-  "documentationUrl": "",
   "industries": [],
   "tags": [],
   "averageRating": 0.0,

@@ -1,10 +1,10 @@
 {
-  "id": "5cace264-94dd-4391-a060-52da16895d4a",
+  "id": "04993930-3c38-47d8-9ce0-ae58083ac656",
   "name": "Chrome Horizontal Flange Motor",
   "description": "A Chrome Horizontal Flange Motor.",
   "author": "Adroit Technologies",
   "category": "Wizards/Motors",
-  "version": null,
+  "version": "1.0.0",
   "fileName": "Chrome Horizontal Flange Motor.vizw",
   "fileType": "Wizard",
   "previewImages": [
@@ -13,10 +13,7 @@
   "ownerType": "official",
   "licenseType": "free",
   "currency": "ZAR",
-  "previewImageUrls": [],
-  "downloadUrl": "",
   "documentation": "",
-  "documentationUrl": "",
   "industries": [],
   "tags": [
     "Motor",

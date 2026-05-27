@@ -1,10 +1,10 @@
 {
-  "id": "f001ee67-0791-4942-8830-62b7af7cdf72",
+  "id": "a3f4f603-e4be-497b-bcb8-a1cdba312445",
   "name": "FX5UC-32M_Wizard",
   "description": "A FX5UC-32M_Wizard.",
   "author": "Adroit Technologies",
   "category": "Hardware/Mitsubishi/iQ-F/Wizards",
-  "version": null,
+  "version": "1.0.0",
   "fileName": "FX5UC-32M_Wizard.vizw",
   "fileType": "Wizard",
   "previewImages": [
@@ -13,10 +13,7 @@
   "ownerType": "official",
   "licenseType": "free",
   "currency": "ZAR",
-  "previewImageUrls": [],
-  "downloadUrl": "",
   "documentation": "",
-  "documentationUrl": "",
   "industries": [],
   "tags": [],
   "averageRating": 0.0,

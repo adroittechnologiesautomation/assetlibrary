@@ -1,10 +1,10 @@
 {
-  "id": "4cb276c0-e098-4f2d-9b67-5925013e9510",
+  "id": "a105fbec-99cc-49ef-a831-33cd6fcf4499",
   "name": "RY18R2A_Template",
   "description": "A RY18R2A_Template.",
   "author": "Adroit Technologies",
   "category": "Hardware/Mitsubishi/iQ-R/Templates",
-  "version": null,
+  "version": "1.0.0",
   "fileName": "RY18R2A_Template.viz",
   "fileType": "Graphic",
   "previewImages": [
@@ -13,10 +13,7 @@
   "ownerType": "official",
   "licenseType": "free",
   "currency": "ZAR",
-  "previewImageUrls": [],
-  "downloadUrl": "",
   "documentation": "",
-  "documentationUrl": "",
   "industries": [],
   "tags": [],
   "averageRating": 0.0,

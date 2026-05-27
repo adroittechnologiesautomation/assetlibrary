@@ -1,10 +1,10 @@
 {
-  "id": "8abb0fed-7791-43b6-93a6-453df5353141",
+  "id": "0cab0477-0ec1-4c10-87d2-e15066069717",
   "name": "Raised Hopper",
   "description": "A Raised Hopper.",
   "author": "Adroit Technologies",
   "category": "Static Graphics/2D Tanks",
-  "version": null,
+  "version": "1.0.0",
   "fileName": "Raised Hopper.viz",
   "fileType": "Graphic",
   "previewImages": [
@@ -13,10 +13,7 @@
   "ownerType": "official",
   "licenseType": "free",
   "currency": "ZAR",
-  "previewImageUrls": [],
-  "downloadUrl": "",
   "documentation": "",
-  "documentationUrl": "",
   "industries": [],
   "tags": [],
   "averageRating": 0.0,

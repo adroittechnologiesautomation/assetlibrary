@@ -1,10 +1,10 @@
 {
-  "id": "09524ff8-870b-4e75-8860-98c24eb7c96b",
+  "id": "7f423e37-1c96-4fe4-bd74-c5a51f48f6a6",
   "name": "Analog Dial 2",
   "description": "A Analog Dial 2.",
   "author": "Adroit Technologies",
   "category": "Wizards/Gauges/Dials",
-  "version": null,
+  "version": "1.0.0",
   "fileName": "Analog Dial 2.vizw",
   "fileType": "Wizard",
   "previewImages": [
@@ -13,10 +13,7 @@
   "ownerType": "official",
   "licenseType": "free",
   "currency": "ZAR",
-  "previewImageUrls": [],
-  "downloadUrl": "",
   "documentation": "",
-  "documentationUrl": "",
   "industries": [],
   "tags": [],
   "averageRating": 0.0,

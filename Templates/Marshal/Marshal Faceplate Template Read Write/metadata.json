@@ -1,10 +1,10 @@
 {
-  "id": "d106d5a9-311a-4b62-a263-b092dde63259",
+  "id": "db4dd149-4767-429d-ab4e-3126256011a6",
   "name": "Marshal Faceplate Template Read Write",
   "description": "A Marshal Faceplate Template Read Write.",
   "author": "Adroit Technologies",
   "category": "Templates/Marshal",
-  "version": null,
+  "version": "1.0.0",
   "fileName": "Marshal Faceplate Template Read Write.viz",
   "fileType": "Graphic",
   "previewImages": [
@@ -13,10 +13,7 @@
   "ownerType": "official",
   "licenseType": "free",
   "currency": "ZAR",
-  "previewImageUrls": [],
-  "downloadUrl": "",
   "documentation": "",
-  "documentationUrl": "",
   "industries": [],
   "tags": [],
   "averageRating": 0.0,

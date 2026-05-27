@@ -1,10 +1,10 @@
 {
-  "id": "f25db5e1-f210-40cb-b4ef-b702d57e8269",
+  "id": "1969af98-5d7e-4018-9f27-c515be060ab4",
   "name": "Valve Component 06",
   "description": "A Valve Component 06.",
   "author": "Adroit Technologies",
   "category": "Static Graphics/Valves/Valve Components",
-  "version": null,
+  "version": "1.0.0",
   "fileName": "Valve Component 06.viz",
   "fileType": "Graphic",
   "previewImages": [
@@ -13,10 +13,7 @@
   "ownerType": "official",
   "licenseType": "free",
   "currency": "ZAR",
-  "previewImageUrls": [],
-  "downloadUrl": "",
   "documentation": "",
-  "documentationUrl": "",
   "industries": [],
   "tags": [
     "Valve",

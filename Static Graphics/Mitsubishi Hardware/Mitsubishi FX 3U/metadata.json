@@ -1,10 +1,10 @@
 {
-  "id": "a5d49e8f-5115-4ba3-ab64-9a4128c9271e",
+  "id": "469d9479-b5c0-45ed-a1db-1743a1dd37ad",
   "name": "Mitsubishi FX 3U",
   "description": "A Mitsubishi FX 3U.",
   "author": "Adroit Technologies",
   "category": "Static Graphics/Mitsubishi Hardware",
-  "version": null,
+  "version": "1.0.0",
   "fileName": "Mitsubishi FX 3U.viz",
   "fileType": "Graphic",
   "previewImages": [
@@ -13,10 +13,7 @@
   "ownerType": "official",
   "licenseType": "free",
   "currency": "ZAR",
-  "previewImageUrls": [],
-  "downloadUrl": "",
   "documentation": "",
-  "documentationUrl": "",
   "industries": [],
   "tags": [],
   "averageRating": 0.0,

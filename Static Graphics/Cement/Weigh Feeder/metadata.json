@@ -1,10 +1,10 @@
 {
-  "id": "0201f127-2678-43e1-95a6-94de3bca4ff1",
+  "id": "b31f355b-aeee-484b-860f-9d8fade7dc41",
   "name": "Weigh Feeder",
   "description": "A Weigh Feeder.",
   "author": "Adroit Technologies",
   "category": "Static Graphics/Cement",
-  "version": null,
+  "version": "1.0.0",
   "fileName": "Weigh Feeder.viz",
   "fileType": "Graphic",
   "previewImages": [
@@ -13,10 +13,7 @@
   "ownerType": "official",
   "licenseType": "free",
   "currency": "ZAR",
-  "previewImageUrls": [],
-  "downloadUrl": "",
   "documentation": "",
-  "documentationUrl": "",
   "industries": [],
   "tags": [],
   "averageRating": 0.0,

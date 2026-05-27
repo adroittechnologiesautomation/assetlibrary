@@ -1,10 +1,10 @@
 {
-  "id": "c9edb3e2-cf65-435f-899b-72cc6bf304ee",
+  "id": "d871c0a9-094b-4cae-9631-2410452797b1",
   "name": "Start Button 1",
   "description": "A Start Button 1.",
   "author": "Adroit Technologies",
   "category": "Wizards/Buttons/Start Stop Buttons 1",
-  "version": null,
+  "version": "1.0.0",
   "fileName": "Start Button 1.vizw",
   "fileType": "Wizard",
   "previewImages": [
@@ -13,10 +13,7 @@
   "ownerType": "official",
   "licenseType": "free",
   "currency": "ZAR",
-  "previewImageUrls": [],
-  "downloadUrl": "",
   "documentation": "",
-  "documentationUrl": "",
   "industries": [],
   "tags": [],
   "averageRating": 0.0,

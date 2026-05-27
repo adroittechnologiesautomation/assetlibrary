@@ -1,10 +1,10 @@
 {
-  "id": "ab34f657-401c-4088-a6a6-1c158e41dbad",
+  "id": "04c3133f-fd49-4379-ae1e-01bacd0335fd",
   "name": "Pipe_Set_1_Top_T",
   "description": "A Pipe_Set_1_Top_T.",
   "author": "Adroit Technologies",
   "category": "Static Graphics/Pipework/Pipe Set 1",
-  "version": null,
+  "version": "1.0.0",
   "fileName": "Pipe_Set_1_Top_T.viz",
   "fileType": "Graphic",
   "previewImages": [
@@ -13,10 +13,7 @@
   "ownerType": "official",
   "licenseType": "free",
   "currency": "ZAR",
-  "previewImageUrls": [],
-  "downloadUrl": "",
   "documentation": "",
-  "documentationUrl": "",
   "industries": [],
   "tags": [
     "Pipe",

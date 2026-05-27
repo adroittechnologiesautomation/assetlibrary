@@ -1,10 +1,10 @@
 {
-  "id": "df0c8492-6b61-4c51-bf80-c263f12751c3",
+  "id": "0c285d0f-1537-448d-94eb-8e563b1aa67b",
   "name": "Mill 01",
   "description": "A Mill 01.",
   "author": "Adroit Technologies",
   "category": "Static Graphics/Mills and Crushers",
-  "version": null,
+  "version": "1.0.0",
   "fileName": "Mill 01.viz",
   "fileType": "Graphic",
   "previewImages": [
@@ -13,10 +13,7 @@
   "ownerType": "official",
   "licenseType": "free",
   "currency": "ZAR",
-  "previewImageUrls": [],
-  "downloadUrl": "",
   "documentation": "",
-  "documentationUrl": "",
   "industries": [],
   "tags": [
     "Mill",

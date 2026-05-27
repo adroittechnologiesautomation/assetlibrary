@@ -1,10 +1,10 @@
 {
-  "id": "cfd16d75-6f22-49ae-951d-d1ceed8c6e00",
+  "id": "930527e7-d5d2-4aae-b3f9-a64793311a5c",
   "name": "Crusher 02",
   "description": "A Crusher 02.",
   "author": "Adroit Technologies",
   "category": "Static Graphics/Mills and Crushers",
-  "version": null,
+  "version": "1.0.0",
   "fileName": "Crusher 02.viz",
   "fileType": "Graphic",
   "previewImages": [
@@ -13,10 +13,7 @@
   "ownerType": "official",
   "licenseType": "free",
   "currency": "ZAR",
-  "previewImageUrls": [],
-  "downloadUrl": "",
   "documentation": "",
-  "documentationUrl": "",
   "industries": [],
   "tags": [
     "Crusher",

@@ -1,10 +1,10 @@
 {
-  "id": "6a2d0445-2200-4552-ad32-76f321dc2bd4",
+  "id": "81e5e9c1-1f28-4cf5-8c44-c6b43c07e792",
   "name": "Simple Motor On Off",
   "description": "A Simple Motor On Off.",
   "author": "Adroit Technologies",
   "category": "Wizards/Motors",
-  "version": null,
+  "version": "1.0.0",
   "fileName": "Simple Motor On Off.vizw",
   "fileType": "Wizard",
   "previewImages": [
@@ -13,10 +13,7 @@
   "ownerType": "official",
   "licenseType": "free",
   "currency": "ZAR",
-  "previewImageUrls": [],
-  "downloadUrl": "",
   "documentation": "",
-  "documentationUrl": "",
   "industries": [],
   "tags": [
     "Motor",

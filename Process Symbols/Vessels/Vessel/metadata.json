@@ -1,10 +1,10 @@
 {
-  "id": "5ef19001-9467-4dcf-9798-f600e152c792",
+  "id": "d96d1a77-7262-4df4-a877-7d0d98beb3d3",
   "name": "Vessel",
   "description": "A Vessel.",
   "author": "Adroit Technologies",
   "category": "Process Symbols/Vessels",
-  "version": null,
+  "version": "1.0.0",
   "fileName": "Vessel.viz",
   "fileType": "Graphic",
   "previewImages": [
@@ -13,10 +13,7 @@
   "ownerType": "official",
   "licenseType": "free",
   "currency": "ZAR",
-  "previewImageUrls": [],
-  "downloadUrl": "",
   "documentation": "",
-  "documentationUrl": "",
   "industries": [],
   "tags": [
     "Vessel",

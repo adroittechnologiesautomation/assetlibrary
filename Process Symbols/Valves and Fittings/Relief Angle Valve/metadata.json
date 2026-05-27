@@ -1,10 +1,10 @@
 {
-  "id": "8aac4514-ba05-4069-9edb-739375a81242",
+  "id": "c21f9068-154a-4d4d-aab5-b1352b07eb19",
   "name": "Relief Angle Valve",
   "description": "A Relief Angle Valve.",
   "author": "Adroit Technologies",
   "category": "Process Symbols/Valves and Fittings",
-  "version": null,
+  "version": "1.0.0",
   "fileName": "Relief Angle Valve.viz",
   "fileType": "Graphic",
   "previewImages": [
@@ -13,10 +13,7 @@
   "ownerType": "official",
   "licenseType": "free",
   "currency": "ZAR",
-  "previewImageUrls": [],
-  "downloadUrl": "",
   "documentation": "",
-  "documentationUrl": "",
   "industries": [],
   "tags": [
     "Valve",

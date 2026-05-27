@@ -1,10 +1,10 @@
 {
-  "id": "29668d60-04f4-47fe-b0de-61784d8f0f9c",
+  "id": "dd90e8ae-c321-4ad2-a1b4-c7661d41aa56",
   "name": "Momentary Switch NO",
   "description": "A Momentary Switch NO.",
   "author": "Adroit Technologies",
   "category": "Electrical Symbols/Static Electrical 2",
-  "version": null,
+  "version": "1.0.0",
   "fileName": "Momentary Switch NO.viz",
   "fileType": "Graphic",
   "previewImages": [
@@ -13,10 +13,7 @@
   "ownerType": "official",
   "licenseType": "free",
   "currency": "ZAR",
-  "previewImageUrls": [],
-  "downloadUrl": "",
   "documentation": "",
-  "documentationUrl": "",
   "industries": [],
   "tags": [
     "Switch",

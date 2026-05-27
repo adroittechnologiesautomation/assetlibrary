@@ -1,10 +1,10 @@
 {
-  "id": "456a843c-73c8-40b2-8b5f-7fca8fb33bcf",
+  "id": "48f1c366-b565-40b5-8cf3-e14644f57071",
   "name": "Alarm Button 2",
   "description": "A Alarm Button 2.",
   "author": "Adroit Technologies",
   "category": "Wizards/Buttons/Alarm Button",
-  "version": null,
+  "version": "1.0.0",
   "fileName": "Alarm Button 2.vizw",
   "fileType": "Wizard",
   "previewImages": [
@@ -13,10 +13,7 @@
   "ownerType": "official",
   "licenseType": "free",
   "currency": "ZAR",
-  "previewImageUrls": [],
-  "downloadUrl": "",
   "documentation": "",
-  "documentationUrl": "",
   "industries": [],
   "tags": [],
   "averageRating": 0.0,

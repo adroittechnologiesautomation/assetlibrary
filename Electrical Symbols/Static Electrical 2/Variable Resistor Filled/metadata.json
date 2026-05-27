@@ -1,10 +1,10 @@
 {
-  "id": "b7834b9e-39aa-42c2-a5e4-d23b4d0c8909",
+  "id": "ed4e0b45-ecb5-4608-b022-262446c43443",
   "name": "Variable Resistor Filled",
   "description": "A Variable Resistor Filled.",
   "author": "Adroit Technologies",
   "category": "Electrical Symbols/Static Electrical 2",
-  "version": null,
+  "version": "1.0.0",
   "fileName": "Variable Resistor Filled.viz",
   "fileType": "Graphic",
   "previewImages": [
@@ -13,10 +13,7 @@
   "ownerType": "official",
   "licenseType": "free",
   "currency": "ZAR",
-  "previewImageUrls": [],
-  "downloadUrl": "",
   "documentation": "",
-  "documentationUrl": "",
   "industries": [],
   "tags": [
     "Resistor",

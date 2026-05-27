@@ -1,10 +1,10 @@
 {
-  "id": "e01bd8f2-cc24-4d38-8092-3ca2efb97a95",
+  "id": "def3359a-344f-456f-bfe3-bd857d27e0f9",
   "name": "Water Reservoir Tank 2",
   "description": "A Water Reservoir Tank 2.",
   "author": "Adroit Technologies",
   "category": "Static Graphics/Water/Reservoir",
-  "version": null,
+  "version": "1.0.0",
   "fileName": "Water Reservoir Tank 2.viz",
   "fileType": "Graphic",
   "previewImages": [
@@ -13,10 +13,7 @@
   "ownerType": "official",
   "licenseType": "free",
   "currency": "ZAR",
-  "previewImageUrls": [],
-  "downloadUrl": "",
   "documentation": "",
-  "documentationUrl": "",
   "industries": [],
   "tags": [
     "Tank",

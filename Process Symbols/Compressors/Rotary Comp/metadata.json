@@ -1,10 +1,10 @@
 {
-  "id": "4f81470c-f5f9-479a-87cd-14a55225c3af",
+  "id": "faa174b3-7323-4f5e-8da4-fab2cb4d7a0d",
   "name": "Rotary Comp",
   "description": "A Rotary Comp.",
   "author": "Adroit Technologies",
   "category": "Process Symbols/Compressors",
-  "version": null,
+  "version": "1.0.0",
   "fileName": "Rotary Comp.viz",
   "fileType": "Graphic",
   "previewImages": [
@@ -13,10 +13,7 @@
   "ownerType": "official",
   "licenseType": "free",
   "currency": "ZAR",
-  "previewImageUrls": [],
-  "downloadUrl": "",
   "documentation": "",
-  "documentationUrl": "",
   "industries": [],
   "tags": [],
   "averageRating": 0.0,

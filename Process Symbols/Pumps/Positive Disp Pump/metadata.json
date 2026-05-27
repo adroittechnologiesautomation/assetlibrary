@@ -1,10 +1,10 @@
 {
-  "id": "b12d0e24-aba0-4140-a85f-81c9986e71b1",
+  "id": "7ccd78d5-ee9c-4d33-92b4-202b238ad727",
   "name": "Positive Disp Pump",
   "description": "A Positive Disp Pump.",
   "author": "Adroit Technologies",
   "category": "Process Symbols/Pumps",
-  "version": null,
+  "version": "1.0.0",
   "fileName": "Positive Disp Pump.viz",
   "fileType": "Graphic",
   "previewImages": [
@@ -13,10 +13,7 @@
   "ownerType": "official",
   "licenseType": "free",
   "currency": "ZAR",
-  "previewImageUrls": [],
-  "downloadUrl": "",
   "documentation": "",
-  "documentationUrl": "",
   "industries": [],
   "tags": [
     "Pump",

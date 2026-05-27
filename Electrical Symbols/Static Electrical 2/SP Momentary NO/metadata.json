@@ -1,10 +1,10 @@
 {
-  "id": "2208a585-c3ca-4fdc-9cae-c023e74912c1",
+  "id": "99060be3-d353-43cf-9e1b-10d4d6f5fefe",
   "name": "SP Momentary NO",
   "description": "A SP Momentary NO.",
   "author": "Adroit Technologies",
   "category": "Electrical Symbols/Static Electrical 2",
-  "version": null,
+  "version": "1.0.0",
   "fileName": "SP Momentary NO.viz",
   "fileType": "Graphic",
   "previewImages": [
@@ -13,10 +13,7 @@
   "ownerType": "official",
   "licenseType": "free",
   "currency": "ZAR",
-  "previewImageUrls": [],
-  "downloadUrl": "",
   "documentation": "",
-  "documentationUrl": "",
   "industries": [],
   "tags": [],
   "averageRating": 0.0,

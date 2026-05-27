@@ -1,10 +1,10 @@
 {
-  "id": "fb289fc5-06e4-459b-bd9b-9d14908026f3",
+  "id": "cda42e50-92c1-4f6c-b03a-eca3ef684f66",
   "name": "Load Hopper",
   "description": "A Load Hopper.",
   "author": "Adroit Technologies",
   "category": "Static Graphics/2D Tanks",
-  "version": null,
+  "version": "1.0.0",
   "fileName": "Load Hopper.viz",
   "fileType": "Graphic",
   "previewImages": [
@@ -13,10 +13,7 @@
   "ownerType": "official",
   "licenseType": "free",
   "currency": "ZAR",
-  "previewImageUrls": [],
-  "downloadUrl": "",
   "documentation": "",
-  "documentationUrl": "",
   "industries": [],
   "tags": [],
   "averageRating": 0.0,

@@ -1,10 +1,10 @@
 {
-  "id": "32ee44de-3b4f-4ffd-85e3-6708d6a90007",
+  "id": "75378408-1074-4a6a-a93c-a9a89160c601",
   "name": "Heat Exchanger Tube",
   "description": "A Heat Exchanger Tube.",
   "author": "Adroit Technologies",
   "category": "Process Symbols/Heat Exchangers",
-  "version": null,
+  "version": "1.0.0",
   "fileName": "Heat Exchanger Tube.viz",
   "fileType": "Graphic",
   "previewImages": [
@@ -13,10 +13,7 @@
   "ownerType": "official",
   "licenseType": "free",
   "currency": "ZAR",
-  "previewImageUrls": [],
-  "downloadUrl": "",
   "documentation": "",
-  "documentationUrl": "",
   "industries": [],
   "tags": [],
   "averageRating": 0.0,

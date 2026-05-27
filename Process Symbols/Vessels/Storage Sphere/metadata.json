@@ -1,10 +1,10 @@
 {
-  "id": "1ee1a7ca-f552-43fa-b889-cf468f57e290",
+  "id": "4fb38147-cd1b-456d-9e0f-1e73669c3a33",
   "name": "Storage Sphere",
   "description": "A Storage Sphere.",
   "author": "Adroit Technologies",
   "category": "Process Symbols/Vessels",
-  "version": null,
+  "version": "1.0.0",
   "fileName": "Storage Sphere.viz",
   "fileType": "Graphic",
   "previewImages": [
@@ -13,10 +13,7 @@
   "ownerType": "official",
   "licenseType": "free",
   "currency": "ZAR",
-  "previewImageUrls": [],
-  "downloadUrl": "",
   "documentation": "",
-  "documentationUrl": "",
   "industries": [],
   "tags": [],
   "averageRating": 0.0,

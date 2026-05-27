@@ -1,10 +1,10 @@
 {
-  "id": "cd935b69-d73d-4994-b4f8-26c9f72e85b6",
+  "id": "fb3d6253-b0b9-4a07-9807-236adde4694e",
   "name": "Mine Truck",
   "description": "A Mine Truck.",
   "author": "Adroit Technologies",
   "category": "Static Graphics/Cement",
-  "version": null,
+  "version": "1.0.0",
   "fileName": "Mine Truck.viz",
   "fileType": "Graphic",
   "previewImages": [
@@ -13,10 +13,7 @@
   "ownerType": "official",
   "licenseType": "free",
   "currency": "ZAR",
-  "previewImageUrls": [],
-  "downloadUrl": "",
   "documentation": "",
-  "documentationUrl": "",
   "industries": [],
   "tags": [],
   "averageRating": 0.0,

@@ -1,10 +1,10 @@
 {
-  "id": "4df21bb2-457b-47cf-9d6f-4b9cde7bd894",
+  "id": "c2eae9c0-212f-4629-bbc2-2cb78b1d806b",
   "name": "QY81P_Wizard",
   "description": "A QY81P_Wizard.",
   "author": "Adroit Technologies",
   "category": "Hardware/Mitsubishi/Q/Wizards",
-  "version": null,
+  "version": "1.0.0",
   "fileName": "QY81P_Wizard.vizw",
   "fileType": "Wizard",
   "previewImages": [
@@ -13,10 +13,7 @@
   "ownerType": "official",
   "licenseType": "free",
   "currency": "ZAR",
-  "previewImageUrls": [],
-  "downloadUrl": "",
   "documentation": "",
-  "documentationUrl": "",
   "industries": [],
   "tags": [],
   "averageRating": 0.0,

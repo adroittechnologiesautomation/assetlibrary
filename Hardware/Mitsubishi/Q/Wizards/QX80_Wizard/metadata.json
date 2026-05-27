@@ -1,10 +1,10 @@
 {
-  "id": "739c7686-6459-4543-b3dd-b141cec475c4",
+  "id": "414d0b14-6100-489f-a87a-663a1c3d7992",
   "name": "QX80_Wizard",
   "description": "A QX80_Wizard.",
   "author": "Adroit Technologies",
   "category": "Hardware/Mitsubishi/Q/Wizards",
-  "version": null,
+  "version": "1.0.0",
   "fileName": "QX80_Wizard.vizw",
   "fileType": "Wizard",
   "previewImages": [
@@ -13,10 +13,7 @@
   "ownerType": "official",
   "licenseType": "free",
   "currency": "ZAR",
-  "previewImageUrls": [],
-  "downloadUrl": "",
   "documentation": "",
-  "documentationUrl": "",
   "industries": [],
   "tags": [],
   "averageRating": 0.0,

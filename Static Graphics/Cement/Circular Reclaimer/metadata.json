@@ -1,10 +1,10 @@
 {
-  "id": "9d7c7640-1132-498a-9784-54d27cc6f1bf",
+  "id": "9d7575f2-ad94-4de8-a6c4-67bd5d5e523e",
   "name": "Circular Reclaimer",
   "description": "A Circular Reclaimer.",
   "author": "Adroit Technologies",
   "category": "Static Graphics/Cement",
-  "version": null,
+  "version": "1.0.0",
   "fileName": "Circular Reclaimer.viz",
   "fileType": "Graphic",
   "previewImages": [
@@ -13,10 +13,7 @@
   "ownerType": "official",
   "licenseType": "free",
   "currency": "ZAR",
-  "previewImageUrls": [],
-  "downloadUrl": "",
   "documentation": "",
-  "documentationUrl": "",
   "industries": [],
   "tags": [],
   "averageRating": 0.0,

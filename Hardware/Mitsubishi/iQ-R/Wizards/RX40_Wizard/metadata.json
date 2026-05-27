@@ -1,10 +1,10 @@
 {
-  "id": "077e8ac5-9b47-4ff1-bd9a-bc86a12c7a0a",
+  "id": "9829761f-ad13-4bec-a846-5752a899a005",
   "name": "RX40_Wizard",
   "description": "A RX40_Wizard.",
   "author": "Adroit Technologies",
   "category": "Hardware/Mitsubishi/iQ-R/Wizards",
-  "version": null,
+  "version": "1.0.0",
   "fileName": "RX40_Wizard.vizw",
   "fileType": "Wizard",
   "previewImages": [
@@ -13,10 +13,7 @@
   "ownerType": "official",
   "licenseType": "free",
   "currency": "ZAR",
-  "previewImageUrls": [],
-  "downloadUrl": "",
   "documentation": "",
-  "documentationUrl": "",
   "industries": [],
   "tags": [],
   "averageRating": 0.0,

@@ -1,10 +1,10 @@
 {
-  "id": "af47a7b6-8eff-4700-9d83-5649d65f070d",
+  "id": "37c3d35d-794c-438e-8d77-6bd5d0b263f5",
   "name": "Various Crusher",
   "description": "A Various Crusher.",
   "author": "Adroit Technologies",
   "category": "Process Symbols/Crushers and Mills",
-  "version": null,
+  "version": "1.0.0",
   "fileName": "Various Crusher.viz",
   "fileType": "Graphic",
   "previewImages": [
@@ -13,10 +13,7 @@
   "ownerType": "official",
   "licenseType": "free",
   "currency": "ZAR",
-  "previewImageUrls": [],
-  "downloadUrl": "",
   "documentation": "",
-  "documentationUrl": "",
   "industries": [],
   "tags": [
     "Crusher",
