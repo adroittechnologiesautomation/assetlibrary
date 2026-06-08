@@ -1,0 +1,25 @@
+{
+  "id": "86b053e2-665a-4194-835f-0cbdd8e0e6ba",
+  "name": "Heat Exchanger Plate",
+  "description": "A Heat Exchanger Plate.",
+  "author": "Adroit Technologies",
+  "category": "Process Symbols/Heat Exchangers",
+  "version": "1.0.0",
+  "fileName": "Heat Exchanger Plate.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Heat Exchanger Plate.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [],
+  "tags": [
+    "Heat Exchanger",
+    "Plate"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

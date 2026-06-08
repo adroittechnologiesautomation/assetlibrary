@@ -1,0 +1,22 @@
+{
+  "id": "9cc29953-1179-4052-ab45-d307e5cced4f",
+  "name": "Buzzer",
+  "description": "A Buzzer.",
+  "author": "Adroit Technologies",
+  "category": "Electrical Symbols/Audio",
+  "version": "1.0.0",
+  "fileName": "Buzzer.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Buzzer.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [],
+  "tags": [],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

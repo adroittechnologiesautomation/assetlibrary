@@ -1,0 +1,22 @@
+{
+  "id": "83f03a12-7f4d-4610-b6dc-118046ef8058",
+  "name": "Averging Pitot Tube",
+  "description": "A Averging Pitot Tube.",
+  "author": "Adroit Technologies",
+  "category": "Process Symbols/Flow Sensors",
+  "version": "1.0.0",
+  "fileName": "Averging Pitot Tube.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Averging Pitot Tube.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [],
+  "tags": [],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

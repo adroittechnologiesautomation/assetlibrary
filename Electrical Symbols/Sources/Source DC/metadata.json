@@ -1,0 +1,22 @@
+{
+  "id": "3f6d2668-f16f-41c7-b959-3de538272358",
+  "name": "Source DC",
+  "description": "A Source DC.",
+  "author": "Adroit Technologies",
+  "category": "Electrical Symbols/Sources",
+  "version": "1.0.0",
+  "fileName": "Source DC.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Source DC.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [],
+  "tags": [],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

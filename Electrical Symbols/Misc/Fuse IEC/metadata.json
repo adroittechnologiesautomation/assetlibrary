@@ -1,0 +1,24 @@
+{
+  "id": "37b2872b-2158-4ce7-8d2d-f7764bf42f57",
+  "name": "Fuse IEC",
+  "description": "A Fuse IEC.",
+  "author": "Adroit Technologies",
+  "category": "Electrical Symbols/Misc",
+  "version": "1.0.0",
+  "fileName": "Fuse IEC.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Fuse IEC.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [],
+  "tags": [
+    "Fuse"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

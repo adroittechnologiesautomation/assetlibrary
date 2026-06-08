@@ -1,0 +1,28 @@
+{
+  "id": "1a9d19f5-bd19-4a87-9fb2-10f4a35df485",
+  "name": "Tank Dished Roof",
+  "description": "A Tank Dished Roof.",
+  "author": "Adroit Technologies",
+  "category": "Process Symbols/Vessels",
+  "version": "1.0.0",
+  "fileName": "Tank Dished Roof.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Tank Dished Roof.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [
+    "Water & Wastewater",
+    "Oil & Gas",
+    "Food & Beverage"
+  ],
+  "tags": [
+    "Tank"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

@@ -1,0 +1,25 @@
+{
+  "id": "9a1c9de8-7b92-4f34-aab0-da2a8ceeb8b1",
+  "name": "InducedDraft Cooling Tower",
+  "description": "A InducedDraft Cooling Tower.",
+  "author": "Adroit Technologies",
+  "category": "Process Symbols/Vessels",
+  "version": "1.0.0",
+  "fileName": "InducedDraft Cooling Tower.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "InducedDraft Cooling Tower.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [],
+  "tags": [
+    "Tower",
+    "Cooling"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

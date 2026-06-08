@@ -1,0 +1,28 @@
+{
+  "id": "2bcb4571-accc-4f62-b92c-4a4fca726d3a",
+  "name": "Container Tank Cistern",
+  "description": "A Container Tank Cistern.",
+  "author": "Adroit Technologies",
+  "category": "Process Symbols/Vessels",
+  "version": "1.0.0",
+  "fileName": "Container Tank Cistern.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Container Tank Cistern.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [
+    "Water & Wastewater",
+    "Oil & Gas",
+    "Food & Beverage"
+  ],
+  "tags": [
+    "Tank"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

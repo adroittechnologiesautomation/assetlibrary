@@ -1,0 +1,29 @@
+{
+  "id": "dd443fa7-ca8a-441a-ad8d-750b32efc35d",
+  "name": "Gate Valve",
+  "description": "A Gate Valve.",
+  "author": "Adroit Technologies",
+  "category": "Process Symbols/Valves",
+  "version": "1.0.0",
+  "fileName": "Gate Valve.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Gate Valve.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [
+    "Water & Wastewater",
+    "Oil & Gas",
+    "Power Generation"
+  ],
+  "tags": [
+    "Valve",
+    "Gate"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

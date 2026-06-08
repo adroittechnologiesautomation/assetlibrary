@@ -1,0 +1,24 @@
+{
+  "id": "402d1912-be76-44b3-8e66-b7e8d47e3e9c",
+  "name": "Gas Blower",
+  "description": "A Gas Blower.",
+  "author": "Adroit Technologies",
+  "category": "Process Symbols/Pumps",
+  "version": "1.0.0",
+  "fileName": "Gas Blower.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Gas Blower.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [],
+  "tags": [
+    "Blower"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

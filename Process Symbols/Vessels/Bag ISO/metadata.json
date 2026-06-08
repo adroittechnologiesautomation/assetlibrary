@@ -1,0 +1,24 @@
+{
+  "id": "984242a9-c0c7-4c44-b8bb-06f62ba4e6b8",
+  "name": "Bag ISO",
+  "description": "A Bag ISO.",
+  "author": "Adroit Technologies",
+  "category": "Process Symbols/Vessels",
+  "version": "1.0.0",
+  "fileName": "Bag ISO.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Bag ISO.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [],
+  "tags": [
+    "ISO"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

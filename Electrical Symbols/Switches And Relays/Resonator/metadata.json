@@ -1,0 +1,22 @@
+{
+  "id": "2d29d6d0-4e62-41a9-bfab-4eca012240c1",
+  "name": "Resonator",
+  "description": "A Resonator.",
+  "author": "Adroit Technologies",
+  "category": "Electrical Symbols/Switches And Relays",
+  "version": "1.0.0",
+  "fileName": "Resonator.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Resonator.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [],
+  "tags": [],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

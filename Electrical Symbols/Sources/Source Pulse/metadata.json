@@ -1,0 +1,22 @@
+{
+  "id": "c61b2385-8076-48ae-8f05-48861bb47430",
+  "name": "Source Pulse",
+  "description": "A Source Pulse.",
+  "author": "Adroit Technologies",
+  "category": "Electrical Symbols/Sources",
+  "version": "1.0.0",
+  "fileName": "Source Pulse.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Source Pulse.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [],
+  "tags": [],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

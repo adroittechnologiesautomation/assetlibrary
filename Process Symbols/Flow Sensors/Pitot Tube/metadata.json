@@ -1,0 +1,22 @@
+{
+  "id": "86133d1e-503f-4841-8dba-b059218288f5",
+  "name": "Pitot Tube",
+  "description": "A Pitot Tube.",
+  "author": "Adroit Technologies",
+  "category": "Process Symbols/Flow Sensors",
+  "version": "1.0.0",
+  "fileName": "Pitot Tube.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Pitot Tube.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [],
+  "tags": [],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

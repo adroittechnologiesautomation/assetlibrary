@@ -1,0 +1,22 @@
+{
+  "id": "abc7a669-2dc5-4eb8-b47e-bb1bce865287",
+  "name": "Firing System Burner",
+  "description": "A Firing System Burner.",
+  "author": "Adroit Technologies",
+  "category": "Process Symbols/Misc",
+  "version": "1.0.0",
+  "fileName": "Firing System Burner.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Firing System Burner.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [],
+  "tags": [],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

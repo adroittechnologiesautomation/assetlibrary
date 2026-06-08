@@ -1,0 +1,29 @@
+{
+  "id": "9f893868-64c6-4874-b023-c80ef3c69935",
+  "name": "Liquid Pump ISO",
+  "description": "A Liquid Pump ISO.",
+  "author": "Adroit Technologies",
+  "category": "Process Symbols/Pumps",
+  "version": "1.0.0",
+  "fileName": "Liquid Pump ISO.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Liquid Pump ISO.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [
+    "Water & Wastewater",
+    "Oil & Gas",
+    "Manufacturing"
+  ],
+  "tags": [
+    "Pump",
+    "ISO"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

@@ -1,0 +1,29 @@
+{
+  "id": "ea749014-ddb1-4cea-a358-6fc700b3740d",
+  "name": "Centrifugal Compressor",
+  "description": "A Centrifugal Compressor.",
+  "author": "Adroit Technologies",
+  "category": "Process Symbols/Compressors",
+  "version": "1.0.0",
+  "fileName": "Centrifugal Compressor.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Centrifugal Compressor.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [
+    "Oil & Gas",
+    "Petrochemical",
+    "Manufacturing"
+  ],
+  "tags": [
+    "Compressor",
+    "Centrifugal"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

@@ -1,0 +1,29 @@
+{
+  "id": "2a2981f7-7b98-4548-bdac-9042bb4749fb",
+  "name": "Conveyor Chain Closed",
+  "description": "A Conveyor Chain Closed.",
+  "author": "Adroit Technologies",
+  "category": "Process Symbols/Misc",
+  "version": "1.0.0",
+  "fileName": "Conveyor Chain Closed.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Conveyor Chain Closed.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [
+    "Mining",
+    "Manufacturing",
+    "Logistics & Warehousing"
+  ],
+  "tags": [
+    "Conveyor",
+    "Closed"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

@@ -1,0 +1,22 @@
+{
+  "id": "27682378-7155-43cf-82a0-0bbd096c3082",
+  "name": "DAC",
+  "description": "A DAC.",
+  "author": "Adroit Technologies",
+  "category": "Electrical Symbols/Misc",
+  "version": "1.0.0",
+  "fileName": "DAC.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "DAC.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [],
+  "tags": [],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

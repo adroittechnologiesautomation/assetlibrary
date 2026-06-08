@@ -1,0 +1,28 @@
+{
+  "id": "6ee4d766-e483-4df8-af5a-b570628c0a37",
+  "name": "Angle Blowdown Valve",
+  "description": "A Angle Blowdown Valve.",
+  "author": "Adroit Technologies",
+  "category": "Process Symbols/Valves",
+  "version": "1.0.0",
+  "fileName": "Angle Blowdown Valve.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Angle Blowdown Valve.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [
+    "Water & Wastewater",
+    "Oil & Gas",
+    "Power Generation"
+  ],
+  "tags": [
+    "Valve"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

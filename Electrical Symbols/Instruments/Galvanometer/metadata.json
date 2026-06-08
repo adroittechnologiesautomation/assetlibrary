@@ -1,0 +1,24 @@
+{
+  "id": "0b601ea4-af2c-41ff-abae-d1d2964682e6",
+  "name": "Galvanometer",
+  "description": "A Galvanometer.",
+  "author": "Adroit Technologies",
+  "category": "Electrical Symbols/Instruments",
+  "version": "1.0.0",
+  "fileName": "Galvanometer.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Galvanometer.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [],
+  "tags": [
+    "Meter"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

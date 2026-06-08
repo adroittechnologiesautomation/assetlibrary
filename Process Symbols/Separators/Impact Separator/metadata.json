@@ -1,0 +1,25 @@
+{
+  "id": "ed59477b-a00c-4370-a21b-bc03a56acee1",
+  "name": "Impact Separator",
+  "description": "A Impact Separator.",
+  "author": "Adroit Technologies",
+  "category": "Process Symbols/Separators",
+  "version": "1.0.0",
+  "fileName": "Impact Separator.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Impact Separator.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [],
+  "tags": [
+    "Separator",
+    "Impact"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

@@ -1,0 +1,28 @@
+{
+  "id": "4e7be321-0279-41b4-b6ff-3f3b114fea48",
+  "name": "Vessel Dished Ends Ring",
+  "description": "A Vessel Dished Ends Ring.",
+  "author": "Adroit Technologies",
+  "category": "Process Symbols/Vessels",
+  "version": "1.0.0",
+  "fileName": "Vessel Dished Ends Ring.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Vessel Dished Ends Ring.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [
+    "Petrochemical",
+    "Pharmaceuticals",
+    "Power Generation"
+  ],
+  "tags": [
+    "Vessel"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

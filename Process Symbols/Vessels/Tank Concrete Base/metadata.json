@@ -1,0 +1,28 @@
+{
+  "id": "3789514f-7394-49c2-a36c-d919de22648c",
+  "name": "Tank Concrete Base",
+  "description": "A Tank Concrete Base.",
+  "author": "Adroit Technologies",
+  "category": "Process Symbols/Vessels",
+  "version": "1.0.0",
+  "fileName": "Tank Concrete Base.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Tank Concrete Base.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [
+    "Water & Wastewater",
+    "Oil & Gas",
+    "Food & Beverage"
+  ],
+  "tags": [
+    "Tank"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

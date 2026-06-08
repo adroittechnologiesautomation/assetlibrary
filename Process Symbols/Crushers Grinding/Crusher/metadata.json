@@ -1,0 +1,28 @@
+{
+  "id": "86f63f3f-b913-4a7e-afc9-4b9c6e598590",
+  "name": "Crusher",
+  "description": "A Crusher.",
+  "author": "Adroit Technologies",
+  "category": "Process Symbols/Crushers Grinding",
+  "version": "1.0.0",
+  "fileName": "Crusher.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Crusher.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [
+    "Mining",
+    "Cement & Lime",
+    "Metals & Steel"
+  ],
+  "tags": [
+    "Crusher"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

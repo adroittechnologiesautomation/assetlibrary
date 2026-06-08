@@ -1,0 +1,22 @@
+{
+  "id": "55f6d3b9-9666-4c68-9727-6df49db1ba3e",
+  "name": "Thermocouple",
+  "description": "A Thermocouple.",
+  "author": "Adroit Technologies",
+  "category": "Electrical Symbols/Misc",
+  "version": "1.0.0",
+  "fileName": "Thermocouple.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Thermocouple.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [],
+  "tags": [],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

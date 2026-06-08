@@ -1,0 +1,27 @@
+{
+  "id": "d18ace01-1dde-4077-9b89-331b6347734b",
+  "name": "Transformer Iron Core 1",
+  "description": "A Transformer Iron Core 1.",
+  "author": "Adroit Technologies",
+  "category": "Electrical Symbols/Inductors",
+  "version": "1.0.0",
+  "fileName": "Transformer Iron Core 1.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Transformer Iron Core 1.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [
+    "Utilities",
+    "Power Generation"
+  ],
+  "tags": [
+    "Transformer"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

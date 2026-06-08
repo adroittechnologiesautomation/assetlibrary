@@ -1,0 +1,27 @@
+{
+  "id": "0541a887-6691-420b-bf3d-25c58cc2476c",
+  "name": "Transformer 1",
+  "description": "A Transformer 1.",
+  "author": "Adroit Technologies",
+  "category": "Electrical Symbols/Inductors",
+  "version": "1.0.0",
+  "fileName": "Transformer 1.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Transformer 1.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [
+    "Utilities",
+    "Power Generation"
+  ],
+  "tags": [
+    "Transformer"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

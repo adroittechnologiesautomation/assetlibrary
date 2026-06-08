@@ -1,0 +1,22 @@
+{
+  "id": "5957267c-02e4-47a6-ba81-86f44428bd6a",
+  "name": "Venturi",
+  "description": "A Venturi.",
+  "author": "Adroit Technologies",
+  "category": "Process Symbols/Flow Sensors",
+  "version": "1.0.0",
+  "fileName": "Venturi.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Venturi.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [],
+  "tags": [],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

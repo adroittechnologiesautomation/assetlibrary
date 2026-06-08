@@ -1,0 +1,25 @@
+{
+  "id": "d4d70380-a23f-45bb-862d-e524ac9c1c8e",
+  "name": "ForcedDraft Cooling Tower",
+  "description": "A ForcedDraft Cooling Tower.",
+  "author": "Adroit Technologies",
+  "category": "Process Symbols/Vessels",
+  "version": "1.0.0",
+  "fileName": "ForcedDraft Cooling Tower.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "ForcedDraft Cooling Tower.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [],
+  "tags": [
+    "Tower",
+    "Cooling"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

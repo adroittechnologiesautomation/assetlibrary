@@ -1,0 +1,22 @@
+{
+  "id": "b1b91354-7c09-44bb-ad66-5d923b6465e5",
+  "name": "Drier Fluidized Bed",
+  "description": "A Drier Fluidized Bed.",
+  "author": "Adroit Technologies",
+  "category": "Process Symbols/Driers",
+  "version": "1.0.0",
+  "fileName": "Drier Fluidized Bed.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Drier Fluidized Bed.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [],
+  "tags": [],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

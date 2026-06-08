@@ -1,0 +1,22 @@
+{
+  "id": "e45d1462-d5ec-463b-befc-cc63fe3e5d51",
+  "name": "Combustion Chamber",
+  "description": "A Combustion Chamber.",
+  "author": "Adroit Technologies",
+  "category": "Process Symbols/Misc",
+  "version": "1.0.0",
+  "fileName": "Combustion Chamber.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Combustion Chamber.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [],
+  "tags": [],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

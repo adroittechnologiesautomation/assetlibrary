@@ -1,0 +1,27 @@
+{
+  "id": "9f59f445-e3dd-4ade-9f75-dc4cc1cc94df",
+  "name": "Transformer 2",
+  "description": "A Transformer 2.",
+  "author": "Adroit Technologies",
+  "category": "Electrical Symbols/Inductors",
+  "version": "1.0.0",
+  "fileName": "Transformer 2.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Transformer 2.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [
+    "Utilities",
+    "Power Generation"
+  ],
+  "tags": [
+    "Transformer"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

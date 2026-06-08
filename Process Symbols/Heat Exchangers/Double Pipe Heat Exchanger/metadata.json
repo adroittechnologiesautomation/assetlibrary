@@ -1,0 +1,24 @@
+{
+  "id": "6c034dff-f272-4977-99b7-41c3043c4de2",
+  "name": "Double Pipe Heat Exchanger",
+  "description": "A Double Pipe Heat Exchanger.",
+  "author": "Adroit Technologies",
+  "category": "Process Symbols/Heat Exchangers",
+  "version": "1.0.0",
+  "fileName": "Double Pipe Heat Exchanger.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Double Pipe Heat Exchanger.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [],
+  "tags": [
+    "Heat Exchanger"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

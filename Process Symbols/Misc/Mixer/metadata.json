@@ -1,0 +1,24 @@
+{
+  "id": "d93a03ee-ebca-4834-ab4e-179b381fb2be",
+  "name": "Mixer",
+  "description": "A Mixer.",
+  "author": "Adroit Technologies",
+  "category": "Process Symbols/Misc",
+  "version": "1.0.0",
+  "fileName": "Mixer.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Mixer.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [],
+  "tags": [
+    "Mixer"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

@@ -1,0 +1,29 @@
+{
+  "id": "4a437a7d-46b9-4d7d-af57-d7b807cb4f3d",
+  "name": "Centrifugal Pump 1",
+  "description": "A Centrifugal Pump 1.",
+  "author": "Adroit Technologies",
+  "category": "Process Symbols/Pumps",
+  "version": "1.0.0",
+  "fileName": "Centrifugal Pump 1.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Centrifugal Pump 1.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [
+    "Water & Wastewater",
+    "Oil & Gas",
+    "Manufacturing"
+  ],
+  "tags": [
+    "Pump",
+    "Centrifugal"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

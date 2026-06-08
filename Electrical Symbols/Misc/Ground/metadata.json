@@ -1,0 +1,22 @@
+{
+  "id": "93851662-a276-4e77-9de1-8394304fc287",
+  "name": "Ground",
+  "description": "A Ground.",
+  "author": "Adroit Technologies",
+  "category": "Electrical Symbols/Misc",
+  "version": "1.0.0",
+  "fileName": "Ground.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Ground.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [],
+  "tags": [],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

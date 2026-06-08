@@ -1,0 +1,28 @@
+{
+  "id": "7bd72624-9453-4768-81bb-8458a21f1b06",
+  "name": "Vertical Pump",
+  "description": "A Vertical Pump.",
+  "author": "Adroit Technologies",
+  "category": "Process Symbols/Pumps",
+  "version": "1.0.0",
+  "fileName": "Vertical Pump.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Vertical Pump.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [
+    "Water & Wastewater",
+    "Oil & Gas",
+    "Manufacturing"
+  ],
+  "tags": [
+    "Pump"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

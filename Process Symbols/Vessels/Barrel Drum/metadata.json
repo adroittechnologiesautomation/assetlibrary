@@ -1,0 +1,22 @@
+{
+  "id": "b4ac83cb-7520-47f5-b1a7-4fde5b955d97",
+  "name": "Barrel Drum",
+  "description": "A Barrel Drum.",
+  "author": "Adroit Technologies",
+  "category": "Process Symbols/Vessels",
+  "version": "1.0.0",
+  "fileName": "Barrel Drum.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Barrel Drum.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [],
+  "tags": [],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

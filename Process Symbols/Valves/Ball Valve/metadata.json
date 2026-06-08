@@ -1,0 +1,29 @@
+{
+  "id": "598cf4a6-4ad9-4933-b7d1-e50fb90f59bb",
+  "name": "Ball Valve",
+  "description": "A Ball Valve.",
+  "author": "Adroit Technologies",
+  "category": "Process Symbols/Valves",
+  "version": "1.0.0",
+  "fileName": "Ball Valve.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Ball Valve.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [
+    "Water & Wastewater",
+    "Oil & Gas",
+    "Power Generation"
+  ],
+  "tags": [
+    "Valve",
+    "Ball"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

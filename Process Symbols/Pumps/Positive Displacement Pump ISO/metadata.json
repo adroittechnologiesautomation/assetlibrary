@@ -1,0 +1,29 @@
+{
+  "id": "461b3dea-e981-43bc-9d67-090234d07de4",
+  "name": "Positive Displacement Pump ISO",
+  "description": "A Positive Displacement Pump ISO.",
+  "author": "Adroit Technologies",
+  "category": "Process Symbols/Pumps",
+  "version": "1.0.0",
+  "fileName": "Positive Displacement Pump ISO.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Positive Displacement Pump ISO.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [
+    "Water & Wastewater",
+    "Oil & Gas",
+    "Manufacturing"
+  ],
+  "tags": [
+    "Pump",
+    "ISO"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

@@ -1,0 +1,30 @@
+{
+  "id": "a26b1f62-f95d-49cf-a964-d2935294527b",
+  "name": "Gate Valve Solenoid",
+  "description": "A Gate Valve Solenoid.",
+  "author": "Adroit Technologies",
+  "category": "Process Symbols/Valves",
+  "version": "1.0.0",
+  "fileName": "Gate Valve Solenoid.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Gate Valve Solenoid.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [
+    "Water & Wastewater",
+    "Oil & Gas",
+    "Power Generation"
+  ],
+  "tags": [
+    "Valve",
+    "Gate",
+    "Solenoid"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

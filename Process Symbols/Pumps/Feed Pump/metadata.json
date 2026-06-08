@@ -1,0 +1,28 @@
+{
+  "id": "ecb7ad60-1063-4cbe-a1c3-8395891dcae6",
+  "name": "Feed Pump",
+  "description": "A Feed Pump.",
+  "author": "Adroit Technologies",
+  "category": "Process Symbols/Pumps",
+  "version": "1.0.0",
+  "fileName": "Feed Pump.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Feed Pump.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [
+    "Water & Wastewater",
+    "Oil & Gas",
+    "Manufacturing"
+  ],
+  "tags": [
+    "Pump"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

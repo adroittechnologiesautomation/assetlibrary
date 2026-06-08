@@ -1,0 +1,24 @@
+{
+  "id": "7eb7d9fe-9cef-4e64-bd07-3ec31a083be7",
+  "name": "Inductor Air Core 2",
+  "description": "A Inductor Air Core 2.",
+  "author": "Adroit Technologies",
+  "category": "Electrical Symbols/Inductors",
+  "version": "1.0.0",
+  "fileName": "Inductor Air Core 2.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Inductor Air Core 2.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [],
+  "tags": [
+    "Inductor"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

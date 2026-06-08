@@ -1,0 +1,24 @@
+{
+  "id": "71c8a6b4-d0d8-4841-b15f-9e85b30e05cc",
+  "name": "Fan 1",
+  "description": "A Fan 1.",
+  "author": "Adroit Technologies",
+  "category": "Process Symbols/Misc",
+  "version": "1.0.0",
+  "fileName": "Fan 1.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Fan 1.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [],
+  "tags": [
+    "Fan"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

@@ -1,0 +1,30 @@
+{
+  "id": "20dd55cc-6f08-40f1-ae34-0376461d3e12",
+  "name": "Gear Pump ISO",
+  "description": "A Gear Pump ISO.",
+  "author": "Adroit Technologies",
+  "category": "Process Symbols/Pumps",
+  "version": "1.0.0",
+  "fileName": "Gear Pump ISO.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Gear Pump ISO.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [
+    "Water & Wastewater",
+    "Oil & Gas",
+    "Manufacturing"
+  ],
+  "tags": [
+    "Pump",
+    "Gear",
+    "ISO"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

@@ -1,0 +1,29 @@
+{
+  "id": "e61e2387-c2e4-4861-b834-d80ad9c5c943",
+  "name": "Crusher Impact",
+  "description": "A Crusher Impact.",
+  "author": "Adroit Technologies",
+  "category": "Process Symbols/Crushers Grinding",
+  "version": "1.0.0",
+  "fileName": "Crusher Impact.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Crusher Impact.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [
+    "Mining",
+    "Cement & Lime",
+    "Metals & Steel"
+  ],
+  "tags": [
+    "Crusher",
+    "Impact"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

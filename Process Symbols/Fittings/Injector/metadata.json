@@ -1,0 +1,22 @@
+{
+  "id": "805da4c4-85f2-4178-8a0d-b84c927cd305",
+  "name": "Injector",
+  "description": "A Injector.",
+  "author": "Adroit Technologies",
+  "category": "Process Symbols/Fittings",
+  "version": "1.0.0",
+  "fileName": "Injector.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Injector.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [],
+  "tags": [],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

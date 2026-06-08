@@ -1,0 +1,28 @@
+{
+  "id": "2ce7c3e0-0d13-4c93-93c0-7606a6bfb100",
+  "name": "Mill Pulverizer",
+  "description": "A Mill Pulverizer.",
+  "author": "Adroit Technologies",
+  "category": "Process Symbols/Crushers Grinding",
+  "version": "1.0.0",
+  "fileName": "Mill Pulverizer.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Mill Pulverizer.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [
+    "Mining",
+    "Metals & Steel",
+    "Pulp & Paper"
+  ],
+  "tags": [
+    "Mill"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

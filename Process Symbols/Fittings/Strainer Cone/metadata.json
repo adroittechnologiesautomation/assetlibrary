@@ -1,0 +1,24 @@
+{
+  "id": "dd498351-832a-43a7-a722-89301510638e",
+  "name": "Strainer Cone",
+  "description": "A Strainer Cone.",
+  "author": "Adroit Technologies",
+  "category": "Process Symbols/Fittings",
+  "version": "1.0.0",
+  "fileName": "Strainer Cone.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Strainer Cone.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [],
+  "tags": [
+    "Cone"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

@@ -1,0 +1,29 @@
+{
+  "id": "5f9dd08b-1423-4054-8ad9-176d9bcde12c",
+  "name": "Mill Roller",
+  "description": "A Mill Roller.",
+  "author": "Adroit Technologies",
+  "category": "Process Symbols/Crushers Grinding",
+  "version": "1.0.0",
+  "fileName": "Mill Roller.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Mill Roller.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [
+    "Mining",
+    "Metals & Steel",
+    "Pulp & Paper"
+  ],
+  "tags": [
+    "Mill",
+    "Roller"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

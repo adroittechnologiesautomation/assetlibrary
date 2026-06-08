@@ -1,0 +1,29 @@
+{
+  "id": "243e6d6f-33bf-4ce8-b43e-b850d92c8d3f",
+  "name": "Gate Valve Digital",
+  "description": "A Gate Valve Digital.",
+  "author": "Adroit Technologies",
+  "category": "Process Symbols/Valves",
+  "version": "1.0.0",
+  "fileName": "Gate Valve Digital.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Gate Valve Digital.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [
+    "Water & Wastewater",
+    "Oil & Gas",
+    "Power Generation"
+  ],
+  "tags": [
+    "Valve",
+    "Gate"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

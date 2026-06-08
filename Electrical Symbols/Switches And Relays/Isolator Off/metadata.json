@@ -1,0 +1,24 @@
+{
+  "id": "34d9e9d5-de09-40ba-8261-b915543b8b60",
+  "name": "Isolator Off",
+  "description": "A Isolator Off.",
+  "author": "Adroit Technologies",
+  "category": "Electrical Symbols/Switches And Relays",
+  "version": "1.0.0",
+  "fileName": "Isolator Off.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Isolator Off.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [],
+  "tags": [
+    "ISO"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

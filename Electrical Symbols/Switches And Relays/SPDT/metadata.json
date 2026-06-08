@@ -1,0 +1,22 @@
+{
+  "id": "1c12a998-3fb6-4669-b931-4a0583df71c8",
+  "name": "SPDT",
+  "description": "A SPDT.",
+  "author": "Adroit Technologies",
+  "category": "Electrical Symbols/Switches And Relays",
+  "version": "1.0.0",
+  "fileName": "SPDT.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "SPDT.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [],
+  "tags": [],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

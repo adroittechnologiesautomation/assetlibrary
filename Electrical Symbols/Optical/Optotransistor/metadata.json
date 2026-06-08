@@ -1,0 +1,22 @@
+{
+  "id": "3e579c49-cfc3-44cd-a1ed-6eff7da43bb0",
+  "name": "Optotransistor",
+  "description": "A Optotransistor.",
+  "author": "Adroit Technologies",
+  "category": "Electrical Symbols/Optical",
+  "version": "1.0.0",
+  "fileName": "Optotransistor.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Optotransistor.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [],
+  "tags": [],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

@@ -1,0 +1,22 @@
+{
+  "id": "78e3c548-1f62-423c-9829-a52445d13956",
+  "name": "Lamp",
+  "description": "A Lamp.",
+  "author": "Adroit Technologies",
+  "category": "Electrical Symbols/Misc",
+  "version": "1.0.0",
+  "fileName": "Lamp.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Lamp.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [],
+  "tags": [],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

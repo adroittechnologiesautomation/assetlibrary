@@ -1,0 +1,24 @@
+{
+  "id": "2ee52d00-8bb0-49d6-bba5-218b7de3bbfb",
+  "name": "Tower",
+  "description": "A Tower.",
+  "author": "Adroit Technologies",
+  "category": "Process Symbols/Vessels",
+  "version": "1.0.0",
+  "fileName": "Tower.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Tower.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [],
+  "tags": [
+    "Tower"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

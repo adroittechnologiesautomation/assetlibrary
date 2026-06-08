@@ -1,0 +1,24 @@
+{
+  "id": "58173aff-36f8-44a2-ad5b-061a1744ae81",
+  "name": "Monocell Battery",
+  "description": "A Monocell Battery.",
+  "author": "Adroit Technologies",
+  "category": "Electrical Symbols/Sources",
+  "version": "1.0.0",
+  "fileName": "Monocell Battery.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Monocell Battery.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [],
+  "tags": [
+    "Battery"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

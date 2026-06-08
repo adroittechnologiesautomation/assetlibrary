@@ -1,0 +1,22 @@
+{
+  "id": "5929ea37-2886-48f7-ad76-04434f0c7eb0",
+  "name": "Column",
+  "description": "A Column.",
+  "author": "Adroit Technologies",
+  "category": "Process Symbols/Misc",
+  "version": "1.0.0",
+  "fileName": "Column.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Column.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [],
+  "tags": [],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

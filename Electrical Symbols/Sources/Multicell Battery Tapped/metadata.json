@@ -1,0 +1,24 @@
+{
+  "id": "cc0fc216-43b6-44b4-91ca-7c177d8c8c79",
+  "name": "Multicell Battery Tapped",
+  "description": "A Multicell Battery Tapped.",
+  "author": "Adroit Technologies",
+  "category": "Electrical Symbols/Sources",
+  "version": "1.0.0",
+  "fileName": "Multicell Battery Tapped.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Multicell Battery Tapped.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [],
+  "tags": [
+    "Battery"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

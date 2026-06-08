@@ -1,0 +1,29 @@
+{
+  "id": "41f3fe7d-208b-4eb7-b020-504b0d620bd2",
+  "name": "Reciprocating Pump DIN",
+  "description": "A Reciprocating Pump DIN.",
+  "author": "Adroit Technologies",
+  "category": "Process Symbols/Pumps",
+  "version": "1.0.0",
+  "fileName": "Reciprocating Pump DIN.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Reciprocating Pump DIN.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [
+    "Water & Wastewater",
+    "Oil & Gas",
+    "Manufacturing"
+  ],
+  "tags": [
+    "Pump",
+    "DIN"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

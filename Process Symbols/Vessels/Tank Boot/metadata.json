@@ -1,0 +1,28 @@
+{
+  "id": "3dfc67f1-9498-4803-85d2-8839ba1e1d2a",
+  "name": "Tank Boot",
+  "description": "A Tank Boot.",
+  "author": "Adroit Technologies",
+  "category": "Process Symbols/Vessels",
+  "version": "1.0.0",
+  "fileName": "Tank Boot.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Tank Boot.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [
+    "Water & Wastewater",
+    "Oil & Gas",
+    "Food & Beverage"
+  ],
+  "tags": [
+    "Tank"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

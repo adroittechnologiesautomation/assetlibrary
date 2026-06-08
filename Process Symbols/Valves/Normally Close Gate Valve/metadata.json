@@ -1,0 +1,29 @@
+{
+  "id": "eaaa867d-d4ac-40a2-a254-61fb89df4b23",
+  "name": "Normally Close Gate Valve",
+  "description": "A Normally Close Gate Valve.",
+  "author": "Adroit Technologies",
+  "category": "Process Symbols/Valves",
+  "version": "1.0.0",
+  "fileName": "Normally Close Gate Valve.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Normally Close Gate Valve.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [
+    "Water & Wastewater",
+    "Oil & Gas",
+    "Power Generation"
+  ],
+  "tags": [
+    "Valve",
+    "Gate"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

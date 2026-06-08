@@ -1,0 +1,24 @@
+{
+  "id": "27558939-a114-4e61-92e9-b2632986a7f7",
+  "name": "Boiler Dome",
+  "description": "A Boiler Dome.",
+  "author": "Adroit Technologies",
+  "category": "Process Symbols/Misc",
+  "version": "1.0.0",
+  "fileName": "Boiler Dome.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Boiler Dome.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [],
+  "tags": [
+    "Boiler"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

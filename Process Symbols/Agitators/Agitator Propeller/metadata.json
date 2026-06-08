@@ -1,0 +1,24 @@
+{
+  "id": "13cea0e7-414a-4db2-84a9-93901bbe1cea",
+  "name": "Agitator Propeller",
+  "description": "A Agitator Propeller.",
+  "author": "Adroit Technologies",
+  "category": "Process Symbols/Agitators",
+  "version": "1.0.0",
+  "fileName": "Agitator Propeller.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Agitator Propeller.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [],
+  "tags": [
+    "Agitator"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

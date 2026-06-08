@@ -1,0 +1,29 @@
+{
+  "id": "781eb2de-80c0-4293-87d7-4a1e9d50a72d",
+  "name": "Needle Valve",
+  "description": "A Needle Valve.",
+  "author": "Adroit Technologies",
+  "category": "Process Symbols/Valves",
+  "version": "1.0.0",
+  "fileName": "Needle Valve.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Needle Valve.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [
+    "Water & Wastewater",
+    "Oil & Gas",
+    "Power Generation"
+  ],
+  "tags": [
+    "Valve",
+    "Needle"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

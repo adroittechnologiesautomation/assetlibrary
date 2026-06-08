@@ -1,0 +1,24 @@
+{
+  "id": "ddc73570-d0e8-488d-9af1-e861bd776933",
+  "name": "Feed Through Capacitor",
+  "description": "A Feed Through Capacitor.",
+  "author": "Adroit Technologies",
+  "category": "Electrical Symbols/Capacitors",
+  "version": "1.0.0",
+  "fileName": "Feed Through Capacitor.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Feed Through Capacitor.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [],
+  "tags": [
+    "Capacitor"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

@@ -1,0 +1,28 @@
+{
+  "id": "ba1eb342-ea9b-4806-83fc-87db38537b0d",
+  "name": "Gas Compressor",
+  "description": "A Gas Compressor.",
+  "author": "Adroit Technologies",
+  "category": "Process Symbols/Pumps",
+  "version": "1.0.0",
+  "fileName": "Gas Compressor.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Gas Compressor.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [
+    "Oil & Gas",
+    "Petrochemical",
+    "Manufacturing"
+  ],
+  "tags": [
+    "Compressor"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

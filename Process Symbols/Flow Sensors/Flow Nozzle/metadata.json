@@ -1,0 +1,24 @@
+{
+  "id": "3c09809b-6779-41be-8088-3ff83e18f194",
+  "name": "Flow Nozzle",
+  "description": "A Flow Nozzle.",
+  "author": "Adroit Technologies",
+  "category": "Process Symbols/Flow Sensors",
+  "version": "1.0.0",
+  "fileName": "Flow Nozzle.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Flow Nozzle.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [],
+  "tags": [
+    "Flow Meter"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

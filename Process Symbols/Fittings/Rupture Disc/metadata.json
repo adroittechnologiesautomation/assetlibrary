@@ -1,0 +1,22 @@
+{
+  "id": "b1e7178a-33c6-47f6-a586-675f85c37ffd",
+  "name": "Rupture Disc",
+  "description": "A Rupture Disc.",
+  "author": "Adroit Technologies",
+  "category": "Process Symbols/Fittings",
+  "version": "1.0.0",
+  "fileName": "Rupture Disc.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Rupture Disc.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [],
+  "tags": [],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

@@ -1,0 +1,22 @@
+{
+  "id": "c393ca7a-564f-4f50-b2ae-7a23ae70e181",
+  "name": "Solar Cell",
+  "description": "A Solar Cell.",
+  "author": "Adroit Technologies",
+  "category": "Electrical Symbols/Optical",
+  "version": "1.0.0",
+  "fileName": "Solar Cell.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Solar Cell.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [],
+  "tags": [],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

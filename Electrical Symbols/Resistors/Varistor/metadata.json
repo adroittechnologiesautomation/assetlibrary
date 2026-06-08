@@ -1,0 +1,22 @@
+{
+  "id": "c3f6eb8a-fe5c-4ca8-a8cf-14d6aabfbc56",
+  "name": "Varistor",
+  "description": "A Varistor.",
+  "author": "Adroit Technologies",
+  "category": "Electrical Symbols/Resistors",
+  "version": "1.0.0",
+  "fileName": "Varistor.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Varistor.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [],
+  "tags": [],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

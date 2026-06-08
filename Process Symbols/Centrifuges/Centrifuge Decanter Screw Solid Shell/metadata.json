@@ -1,0 +1,25 @@
+{
+  "id": "a2e7fa78-aae3-4590-9987-5fdf62459542",
+  "name": "Centrifuge Decanter Screw Solid Shell",
+  "description": "A Centrifuge Decanter Screw Solid Shell.",
+  "author": "Adroit Technologies",
+  "category": "Process Symbols/Centrifuges",
+  "version": "1.0.0",
+  "fileName": "Centrifuge Decanter Screw Solid Shell.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Centrifuge Decanter Screw Solid Shell.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [],
+  "tags": [
+    "Centrifuge",
+    "Screw"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

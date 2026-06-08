@@ -1,0 +1,28 @@
+{
+  "id": "ecb8a446-dd74-4d3c-af88-a743bb47cb97",
+  "name": "Tank Conical Bottom",
+  "description": "A Tank Conical Bottom.",
+  "author": "Adroit Technologies",
+  "category": "Process Symbols/Vessels",
+  "version": "1.0.0",
+  "fileName": "Tank Conical Bottom.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Tank Conical Bottom.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [
+    "Water & Wastewater",
+    "Oil & Gas",
+    "Food & Beverage"
+  ],
+  "tags": [
+    "Tank"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

@@ -1,0 +1,24 @@
+{
+  "id": "97ad893d-8fc3-401d-923a-05b7579747e3",
+  "name": "Loading Arm",
+  "description": "A Loading Arm.",
+  "author": "Adroit Technologies",
+  "category": "Process Symbols/Misc",
+  "version": "1.0.0",
+  "fileName": "Loading Arm.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Loading Arm.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [],
+  "tags": [
+    "DIN"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

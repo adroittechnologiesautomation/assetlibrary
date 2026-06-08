@@ -1,0 +1,28 @@
+{
+  "id": "3c6df987-dcda-4bce-a293-ad952e06d34f",
+  "name": "Tank Covered",
+  "description": "A Tank Covered.",
+  "author": "Adroit Technologies",
+  "category": "Process Symbols/Vessels",
+  "version": "1.0.0",
+  "fileName": "Tank Covered.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Tank Covered.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [
+    "Water & Wastewater",
+    "Oil & Gas",
+    "Food & Beverage"
+  ],
+  "tags": [
+    "Tank"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

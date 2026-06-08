@@ -1,0 +1,24 @@
+{
+  "id": "6aeeb5a6-32e3-4d64-9b7f-d68d8175edf5",
+  "name": "Four Layer Diode",
+  "description": "A Four Layer Diode.",
+  "author": "Adroit Technologies",
+  "category": "Electrical Symbols/Diodes",
+  "version": "1.0.0",
+  "fileName": "Four Layer Diode.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Four Layer Diode.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [],
+  "tags": [
+    "Diode"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

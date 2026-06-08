@@ -1,0 +1,24 @@
+{
+  "id": "4161e425-8b5a-4862-8e5c-ad47cd64257c",
+  "name": "Proportional Feeder Metering",
+  "description": "A Proportional Feeder Metering.",
+  "author": "Adroit Technologies",
+  "category": "Process Symbols/Feeders",
+  "version": "1.0.0",
+  "fileName": "Proportional Feeder Metering.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Proportional Feeder Metering.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [],
+  "tags": [
+    "Feeder"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

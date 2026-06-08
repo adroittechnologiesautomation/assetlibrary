@@ -1,0 +1,22 @@
+{
+  "id": "d8ca486b-7497-4e14-9629-955c39b84db7",
+  "name": "Breakthrough",
+  "description": "A Breakthrough.",
+  "author": "Adroit Technologies",
+  "category": "Process Symbols/Fittings",
+  "version": "1.0.0",
+  "fileName": "Breakthrough.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Breakthrough.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [],
+  "tags": [],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

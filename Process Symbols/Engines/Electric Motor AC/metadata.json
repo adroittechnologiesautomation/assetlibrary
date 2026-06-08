@@ -1,0 +1,29 @@
+{
+  "id": "a2d427b6-e847-4b33-92e8-7fc5f43f5919",
+  "name": "Electric Motor AC",
+  "description": "A Electric Motor AC.",
+  "author": "Adroit Technologies",
+  "category": "Process Symbols/Engines",
+  "version": "1.0.0",
+  "fileName": "Electric Motor AC.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Electric Motor AC.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [
+    "Manufacturing",
+    "Mining",
+    "Power Generation"
+  ],
+  "tags": [
+    "Motor",
+    "Motorized"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

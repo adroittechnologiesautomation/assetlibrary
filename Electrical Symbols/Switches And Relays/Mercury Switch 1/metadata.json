@@ -1,0 +1,24 @@
+{
+  "id": "7565bbcd-34b8-402c-a436-41b2106d2502",
+  "name": "Mercury Switch 1",
+  "description": "A Mercury Switch 1.",
+  "author": "Adroit Technologies",
+  "category": "Electrical Symbols/Switches And Relays",
+  "version": "1.0.0",
+  "fileName": "Mercury Switch 1.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Mercury Switch 1.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [],
+  "tags": [
+    "Switch"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

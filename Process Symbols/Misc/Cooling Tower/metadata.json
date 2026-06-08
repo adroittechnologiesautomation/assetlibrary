@@ -1,0 +1,25 @@
+{
+  "id": "3282e550-34e4-4619-8599-f8f3701b7843",
+  "name": "Cooling Tower",
+  "description": "A Cooling Tower.",
+  "author": "Adroit Technologies",
+  "category": "Process Symbols/Misc",
+  "version": "1.0.0",
+  "fileName": "Cooling Tower.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Cooling Tower.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [],
+  "tags": [
+    "Tower",
+    "Cooling"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

@@ -1,0 +1,22 @@
+{
+  "id": "56c29cf0-a1f4-4168-9eb5-f67ae90be00b",
+  "name": "Flume",
+  "description": "A Flume.",
+  "author": "Adroit Technologies",
+  "category": "Process Symbols/Flow Sensors",
+  "version": "1.0.0",
+  "fileName": "Flume.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Flume.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [],
+  "tags": [],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

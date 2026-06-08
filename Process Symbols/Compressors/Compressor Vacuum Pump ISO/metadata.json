@@ -1,0 +1,30 @@
+{
+  "id": "4fee568b-2fc6-4f57-8be6-fc39d08cc1eb",
+  "name": "Compressor Vacuum Pump ISO",
+  "description": "A Compressor Vacuum Pump ISO.",
+  "author": "Adroit Technologies",
+  "category": "Process Symbols/Compressors",
+  "version": "1.0.0",
+  "fileName": "Compressor Vacuum Pump ISO.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Compressor Vacuum Pump ISO.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [
+    "Water & Wastewater",
+    "Oil & Gas",
+    "Manufacturing"
+  ],
+  "tags": [
+    "Pump",
+    "Vacuum",
+    "ISO"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

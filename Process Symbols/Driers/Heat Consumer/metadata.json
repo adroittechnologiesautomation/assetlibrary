@@ -1,0 +1,22 @@
+{
+  "id": "f768cde4-e366-4ef1-84e6-6781becb2241",
+  "name": "Heat Consumer",
+  "description": "A Heat Consumer.",
+  "author": "Adroit Technologies",
+  "category": "Process Symbols/Driers",
+  "version": "1.0.0",
+  "fileName": "Heat Consumer.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Heat Consumer.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [],
+  "tags": [],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

@@ -1,0 +1,24 @@
+{
+  "id": "70c24f31-c441-47b1-ab70-ff11d2df3a36",
+  "name": "Voltmeter",
+  "description": "A Voltmeter.",
+  "author": "Adroit Technologies",
+  "category": "Electrical Symbols/Instruments",
+  "version": "1.0.0",
+  "fileName": "Voltmeter.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Voltmeter.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [],
+  "tags": [
+    "Meter"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

@@ -1,0 +1,30 @@
+{
+  "id": "f70d3f27-b6c7-43b1-9b78-582dfe6bded2",
+  "name": "Gate Valve Manual",
+  "description": "A Gate Valve Manual.",
+  "author": "Adroit Technologies",
+  "category": "Process Symbols/Valves",
+  "version": "1.0.0",
+  "fileName": "Gate Valve Manual.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Gate Valve Manual.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [
+    "Water & Wastewater",
+    "Oil & Gas",
+    "Power Generation"
+  ],
+  "tags": [
+    "Valve",
+    "Gate",
+    "Manual"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

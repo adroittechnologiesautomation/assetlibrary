@@ -1,0 +1,22 @@
+{
+  "id": "c626ffb8-f038-4d61-ae8a-ff9c5ab8fb46",
+  "name": "Wedge",
+  "description": "A Wedge.",
+  "author": "Adroit Technologies",
+  "category": "Process Symbols/Flow Sensors",
+  "version": "1.0.0",
+  "fileName": "Wedge.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Wedge.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [],
+  "tags": [],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

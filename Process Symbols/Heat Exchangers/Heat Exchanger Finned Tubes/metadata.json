@@ -1,0 +1,24 @@
+{
+  "id": "66b88140-eb16-407f-9779-fec1ca28a135",
+  "name": "Heat Exchanger Finned Tubes",
+  "description": "A Heat Exchanger Finned Tubes.",
+  "author": "Adroit Technologies",
+  "category": "Process Symbols/Heat Exchangers",
+  "version": "1.0.0",
+  "fileName": "Heat Exchanger Finned Tubes.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Heat Exchanger Finned Tubes.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [],
+  "tags": [
+    "Heat Exchanger"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

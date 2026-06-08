@@ -1,0 +1,22 @@
+{
+  "id": "02e64c7a-3f93-47f8-902a-3dd70ab95010",
+  "name": "ThinFilm Evaporator",
+  "description": "A ThinFilm Evaporator.",
+  "author": "Adroit Technologies",
+  "category": "Process Symbols/Heat Exchangers",
+  "version": "1.0.0",
+  "fileName": "ThinFilm Evaporator.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "ThinFilm Evaporator.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [],
+  "tags": [],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

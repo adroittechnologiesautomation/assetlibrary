@@ -1,0 +1,24 @@
+{
+  "id": "928ae5f0-f0a4-4296-9902-ec24faa3db3b",
+  "name": "Proportional Feeder",
+  "description": "A Proportional Feeder.",
+  "author": "Adroit Technologies",
+  "category": "Process Symbols/Feeders",
+  "version": "1.0.0",
+  "fileName": "Proportional Feeder.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Proportional Feeder.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [],
+  "tags": [
+    "Feeder"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

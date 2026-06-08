@@ -1,0 +1,29 @@
+{
+  "id": "1d6756f6-d056-4044-9ee2-a9fc4f9efefc",
+  "name": "Electric Motor DC",
+  "description": "A Electric Motor DC.",
+  "author": "Adroit Technologies",
+  "category": "Process Symbols/Engines",
+  "version": "1.0.0",
+  "fileName": "Electric Motor DC.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Electric Motor DC.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [
+    "Manufacturing",
+    "Mining",
+    "Power Generation"
+  ],
+  "tags": [
+    "Motor",
+    "Motorized"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

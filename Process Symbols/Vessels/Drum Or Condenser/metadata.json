@@ -1,0 +1,22 @@
+{
+  "id": "b47d0f28-0306-4f3d-bfd9-7e7475d89a29",
+  "name": "Drum Or Condenser",
+  "description": "A Drum Or Condenser.",
+  "author": "Adroit Technologies",
+  "category": "Process Symbols/Vessels",
+  "version": "1.0.0",
+  "fileName": "Drum Or Condenser.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Drum Or Condenser.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [],
+  "tags": [],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

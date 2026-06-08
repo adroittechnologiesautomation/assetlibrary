@@ -1,0 +1,28 @@
+{
+  "id": "3a31a7f5-c6f8-4853-bf8a-7e66baeff508",
+  "name": "Tank False Bottom",
+  "description": "A Tank False Bottom.",
+  "author": "Adroit Technologies",
+  "category": "Process Symbols/Vessels",
+  "version": "1.0.0",
+  "fileName": "Tank False Bottom.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Tank False Bottom.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [
+    "Water & Wastewater",
+    "Oil & Gas",
+    "Food & Beverage"
+  ],
+  "tags": [
+    "Tank"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

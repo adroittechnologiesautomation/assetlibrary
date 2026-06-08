@@ -1,0 +1,28 @@
+{
+  "id": "fa04935d-9973-4526-958f-640f8f35e01a",
+  "name": "Tank Dished Roof Conical Bottom",
+  "description": "A Tank Dished Roof Conical Bottom.",
+  "author": "Adroit Technologies",
+  "category": "Process Symbols/Vessels",
+  "version": "1.0.0",
+  "fileName": "Tank Dished Roof Conical Bottom.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Tank Dished Roof Conical Bottom.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [
+    "Water & Wastewater",
+    "Oil & Gas",
+    "Food & Beverage"
+  ],
+  "tags": [
+    "Tank"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

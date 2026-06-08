@@ -1,0 +1,25 @@
+{
+  "id": "d464edf3-2cc3-4074-83ff-105b2d43988c",
+  "name": "Centrifuge Screw Perforated Shell",
+  "description": "A Centrifuge Screw Perforated Shell.",
+  "author": "Adroit Technologies",
+  "category": "Process Symbols/Centrifuges",
+  "version": "1.0.0",
+  "fileName": "Centrifuge Screw Perforated Shell.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Centrifuge Screw Perforated Shell.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [],
+  "tags": [
+    "Centrifuge",
+    "Screw"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

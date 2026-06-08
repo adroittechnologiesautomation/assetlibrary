@@ -1,0 +1,24 @@
+{
+  "id": "43dcc6ac-2b1d-4786-83cd-5176d87cbcf8",
+  "name": "Schottky Diode",
+  "description": "A Schottky Diode.",
+  "author": "Adroit Technologies",
+  "category": "Electrical Symbols/Diodes",
+  "version": "1.0.0",
+  "fileName": "Schottky Diode.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Schottky Diode.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [],
+  "tags": [
+    "Diode"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

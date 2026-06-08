@@ -1,0 +1,28 @@
+{
+  "id": "b0627f05-1075-4852-801c-e807f0ada191",
+  "name": "Tank Vessel",
+  "description": "A Tank Vessel.",
+  "author": "Adroit Technologies",
+  "category": "Process Symbols/Vessels",
+  "version": "1.0.0",
+  "fileName": "Tank Vessel.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Tank Vessel.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [
+    "Water & Wastewater",
+    "Oil & Gas",
+    "Food & Beverage"
+  ],
+  "tags": [
+    "Tank"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

@@ -1,0 +1,24 @@
+{
+  "id": "b8abdd31-25c1-49df-b491-058358d04d9c",
+  "name": "PN Diode",
+  "description": "A PN Diode.",
+  "author": "Adroit Technologies",
+  "category": "Electrical Symbols/Diodes",
+  "version": "1.0.0",
+  "fileName": "PN Diode.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "PN Diode.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [],
+  "tags": [
+    "Diode"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

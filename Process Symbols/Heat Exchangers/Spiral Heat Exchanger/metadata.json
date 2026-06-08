@@ -1,0 +1,25 @@
+{
+  "id": "b068873d-99de-4bcf-8696-239e29ce2cca",
+  "name": "Spiral Heat Exchanger",
+  "description": "A Spiral Heat Exchanger.",
+  "author": "Adroit Technologies",
+  "category": "Process Symbols/Heat Exchangers",
+  "version": "1.0.0",
+  "fileName": "Spiral Heat Exchanger.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Spiral Heat Exchanger.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [],
+  "tags": [
+    "Heat Exchanger",
+    "Spiral"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

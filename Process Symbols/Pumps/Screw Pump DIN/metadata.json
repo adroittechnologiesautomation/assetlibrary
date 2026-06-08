@@ -1,0 +1,30 @@
+{
+  "id": "2cc912b9-cba5-4546-9e13-45c2a13ede92",
+  "name": "Screw Pump DIN",
+  "description": "A Screw Pump DIN.",
+  "author": "Adroit Technologies",
+  "category": "Process Symbols/Pumps",
+  "version": "1.0.0",
+  "fileName": "Screw Pump DIN.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Screw Pump DIN.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [
+    "Water & Wastewater",
+    "Oil & Gas",
+    "Manufacturing"
+  ],
+  "tags": [
+    "Pump",
+    "Screw",
+    "DIN"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

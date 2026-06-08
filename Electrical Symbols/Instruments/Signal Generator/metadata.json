@@ -1,0 +1,24 @@
+{
+  "id": "3fa11075-e315-442f-8bef-fd86fb93c460",
+  "name": "Signal Generator",
+  "description": "A Signal Generator.",
+  "author": "Adroit Technologies",
+  "category": "Electrical Symbols/Instruments",
+  "version": "1.0.0",
+  "fileName": "Signal Generator.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Signal Generator.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [],
+  "tags": [
+    "Generator"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

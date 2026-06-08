@@ -1,0 +1,24 @@
+{
+  "id": "3727d195-6e2e-4238-ad36-78fb12b58fc9",
+  "name": "UTube Heat Exchanger",
+  "description": "A UTube Heat Exchanger.",
+  "author": "Adroit Technologies",
+  "category": "Process Symbols/Heat Exchangers",
+  "version": "1.0.0",
+  "fileName": "UTube Heat Exchanger.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "UTube Heat Exchanger.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [],
+  "tags": [
+    "Heat Exchanger"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

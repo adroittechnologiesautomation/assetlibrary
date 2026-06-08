@@ -1,0 +1,28 @@
+{
+  "id": "c8a38b74-d3cd-42f2-b1b7-13e190c30065",
+  "name": "Double Concrete Tank",
+  "description": "A Double Concrete Tank.",
+  "author": "Adroit Technologies",
+  "category": "Process Symbols/Vessels",
+  "version": "1.0.0",
+  "fileName": "Double Concrete Tank.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Double Concrete Tank.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [
+    "Water & Wastewater",
+    "Oil & Gas",
+    "Food & Beverage"
+  ],
+  "tags": [
+    "Tank"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

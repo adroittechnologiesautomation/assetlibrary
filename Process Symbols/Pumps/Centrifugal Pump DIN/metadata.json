@@ -1,0 +1,30 @@
+{
+  "id": "ad137ec4-62d8-4454-a1d9-44406d023c63",
+  "name": "Centrifugal Pump DIN",
+  "description": "A Centrifugal Pump DIN.",
+  "author": "Adroit Technologies",
+  "category": "Process Symbols/Pumps",
+  "version": "1.0.0",
+  "fileName": "Centrifugal Pump DIN.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Centrifugal Pump DIN.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [
+    "Water & Wastewater",
+    "Oil & Gas",
+    "Manufacturing"
+  ],
+  "tags": [
+    "Pump",
+    "Centrifugal",
+    "DIN"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

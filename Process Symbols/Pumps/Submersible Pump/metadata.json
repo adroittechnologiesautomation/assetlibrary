@@ -1,0 +1,29 @@
+{
+  "id": "ce330c47-7858-417b-bad2-34d13ef3a74b",
+  "name": "Submersible Pump",
+  "description": "A Submersible Pump.",
+  "author": "Adroit Technologies",
+  "category": "Process Symbols/Pumps",
+  "version": "1.0.0",
+  "fileName": "Submersible Pump.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Submersible Pump.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [
+    "Water & Wastewater",
+    "Oil & Gas",
+    "Manufacturing"
+  ],
+  "tags": [
+    "Pump",
+    "Submersible"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

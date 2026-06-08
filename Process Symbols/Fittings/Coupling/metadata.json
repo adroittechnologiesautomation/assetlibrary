@@ -1,0 +1,22 @@
+{
+  "id": "73405412-8db2-41ba-92ad-3d91eda6961a",
+  "name": "Coupling",
+  "description": "A Coupling.",
+  "author": "Adroit Technologies",
+  "category": "Process Symbols/Fittings",
+  "version": "1.0.0",
+  "fileName": "Coupling.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Coupling.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [],
+  "tags": [],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

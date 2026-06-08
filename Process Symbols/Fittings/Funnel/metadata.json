@@ -1,0 +1,22 @@
+{
+  "id": "5e884e73-ed48-4223-8845-79d5929748b4",
+  "name": "Funnel",
+  "description": "A Funnel.",
+  "author": "Adroit Technologies",
+  "category": "Process Symbols/Fittings",
+  "version": "1.0.0",
+  "fileName": "Funnel.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Funnel.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [],
+  "tags": [],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

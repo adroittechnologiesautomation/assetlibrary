@@ -1,0 +1,24 @@
+{
+  "id": "db99b533-d002-4d5c-920d-461b45c3a63d",
+  "name": "Cooler",
+  "description": "A Cooler.",
+  "author": "Adroit Technologies",
+  "category": "Process Symbols/Misc",
+  "version": "1.0.0",
+  "fileName": "Cooler.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Cooler.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [],
+  "tags": [
+    "Cooler"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

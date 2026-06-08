@@ -1,0 +1,30 @@
+{
+  "id": "68151648-a549-4c2d-b14d-5453fc4afc40",
+  "name": "Gate Valve ElectroHydraulic",
+  "description": "A Gate Valve ElectroHydraulic.",
+  "author": "Adroit Technologies",
+  "category": "Process Symbols/Valves",
+  "version": "1.0.0",
+  "fileName": "Gate Valve ElectroHydraulic.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Gate Valve ElectroHydraulic.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [
+    "Water & Wastewater",
+    "Oil & Gas",
+    "Power Generation"
+  ],
+  "tags": [
+    "Valve",
+    "Gate",
+    "Hydraulic"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

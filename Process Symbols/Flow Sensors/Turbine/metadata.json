@@ -1,0 +1,24 @@
+{
+  "id": "c7af9db4-0ca1-4c0e-9bf6-90ce87772d1e",
+  "name": "Turbine",
+  "description": "A Turbine.",
+  "author": "Adroit Technologies",
+  "category": "Process Symbols/Flow Sensors",
+  "version": "1.0.0",
+  "fileName": "Turbine.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Turbine.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [],
+  "tags": [
+    "Turbine"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

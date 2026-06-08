@@ -1,0 +1,28 @@
+{
+  "id": "f540c30f-f250-4c7a-af9d-6362ba6c94d5",
+  "name": "Half Pipe Mixing Vessel",
+  "description": "A Half Pipe Mixing Vessel.",
+  "author": "Adroit Technologies",
+  "category": "Process Symbols/Vessels",
+  "version": "1.0.0",
+  "fileName": "Half Pipe Mixing Vessel.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Half Pipe Mixing Vessel.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [
+    "Petrochemical",
+    "Pharmaceuticals",
+    "Power Generation"
+  ],
+  "tags": [
+    "Vessel"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

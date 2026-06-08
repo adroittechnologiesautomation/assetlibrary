@@ -1,0 +1,29 @@
+{
+  "id": "e8456327-950a-428d-a7c0-3a65c2dc6459",
+  "name": "Conveyor Belt Closed",
+  "description": "A Conveyor Belt Closed.",
+  "author": "Adroit Technologies",
+  "category": "Process Symbols/Misc",
+  "version": "1.0.0",
+  "fileName": "Conveyor Belt Closed.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Conveyor Belt Closed.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [
+    "Mining",
+    "Manufacturing",
+    "Logistics & Warehousing"
+  ],
+  "tags": [
+    "Conveyor",
+    "Closed"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

@@ -1,0 +1,24 @@
+{
+  "id": "635807f1-1509-4c46-b6da-1d00341d87c8",
+  "name": "Rotameter",
+  "description": "A Rotameter.",
+  "author": "Adroit Technologies",
+  "category": "Process Symbols/Flow Sensors",
+  "version": "1.0.0",
+  "fileName": "Rotameter.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Rotameter.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [],
+  "tags": [
+    "Meter"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

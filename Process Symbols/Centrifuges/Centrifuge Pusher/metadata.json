@@ -1,0 +1,24 @@
+{
+  "id": "48dd7b7c-f139-4202-858b-dc7797b610a9",
+  "name": "Centrifuge Pusher",
+  "description": "A Centrifuge Pusher.",
+  "author": "Adroit Technologies",
+  "category": "Process Symbols/Centrifuges",
+  "version": "1.0.0",
+  "fileName": "Centrifuge Pusher.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Centrifuge Pusher.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [],
+  "tags": [
+    "Centrifuge"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

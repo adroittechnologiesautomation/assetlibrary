@@ -1,0 +1,24 @@
+{
+  "id": "5439bb89-7b7c-4bc6-a602-939f40260ba1",
+  "name": "Separator Permanent Magnet",
+  "description": "A Separator Permanent Magnet.",
+  "author": "Adroit Technologies",
+  "category": "Process Symbols/Separators",
+  "version": "1.0.0",
+  "fileName": "Separator Permanent Magnet.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Separator Permanent Magnet.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [],
+  "tags": [
+    "Separator"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

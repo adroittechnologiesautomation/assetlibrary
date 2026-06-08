@@ -1,0 +1,29 @@
+{
+  "id": "c2325c2e-57ab-4097-929d-20f3ddace4e4",
+  "name": "Proportional Feeder Rotary Valve",
+  "description": "A Proportional Feeder Rotary Valve.",
+  "author": "Adroit Technologies",
+  "category": "Process Symbols/Feeders",
+  "version": "1.0.0",
+  "fileName": "Proportional Feeder Rotary Valve.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Proportional Feeder Rotary Valve.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [
+    "Water & Wastewater",
+    "Oil & Gas",
+    "Power Generation"
+  ],
+  "tags": [
+    "Valve",
+    "Rotary"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

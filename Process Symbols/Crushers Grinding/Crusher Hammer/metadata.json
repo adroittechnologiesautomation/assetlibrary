@@ -1,0 +1,29 @@
+{
+  "id": "703b50e1-07e0-4004-b0c9-4a5134b167b3",
+  "name": "Crusher Hammer",
+  "description": "A Crusher Hammer.",
+  "author": "Adroit Technologies",
+  "category": "Process Symbols/Crushers Grinding",
+  "version": "1.0.0",
+  "fileName": "Crusher Hammer.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Crusher Hammer.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [
+    "Mining",
+    "Cement & Lime",
+    "Metals & Steel"
+  ],
+  "tags": [
+    "Crusher",
+    "Hammer"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

@@ -1,0 +1,22 @@
+{
+  "id": "9a1f093d-0e5e-4217-9a12-607ca2260f31",
+  "name": "Weir",
+  "description": "A Weir.",
+  "author": "Adroit Technologies",
+  "category": "Process Symbols/Flow Sensors",
+  "version": "1.0.0",
+  "fileName": "Weir.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Weir.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [],
+  "tags": [],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

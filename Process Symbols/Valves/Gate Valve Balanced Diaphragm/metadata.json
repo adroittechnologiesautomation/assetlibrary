@@ -1,0 +1,29 @@
+{
+  "id": "354e7856-7559-41a7-af5c-ae2633d678b4",
+  "name": "Gate Valve Balanced Diaphragm",
+  "description": "A Gate Valve Balanced Diaphragm.",
+  "author": "Adroit Technologies",
+  "category": "Process Symbols/Valves",
+  "version": "1.0.0",
+  "fileName": "Gate Valve Balanced Diaphragm.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Gate Valve Balanced Diaphragm.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [
+    "Water & Wastewater",
+    "Oil & Gas",
+    "Power Generation"
+  ],
+  "tags": [
+    "Valve",
+    "Diaphragm"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

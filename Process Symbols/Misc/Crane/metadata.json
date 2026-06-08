@@ -1,0 +1,22 @@
+{
+  "id": "99da6e0a-41ba-4c74-80d7-a1db583f54a7",
+  "name": "Crane",
+  "description": "A Crane.",
+  "author": "Adroit Technologies",
+  "category": "Process Symbols/Misc",
+  "version": "1.0.0",
+  "fileName": "Crane.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Crane.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [],
+  "tags": [],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

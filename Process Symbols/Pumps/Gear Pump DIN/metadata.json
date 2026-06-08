@@ -1,0 +1,30 @@
+{
+  "id": "569174d1-de61-430a-8308-78f73a035bf0",
+  "name": "Gear Pump DIN",
+  "description": "A Gear Pump DIN.",
+  "author": "Adroit Technologies",
+  "category": "Process Symbols/Pumps",
+  "version": "1.0.0",
+  "fileName": "Gear Pump DIN.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Gear Pump DIN.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [
+    "Water & Wastewater",
+    "Oil & Gas",
+    "Manufacturing"
+  ],
+  "tags": [
+    "Pump",
+    "Gear",
+    "DIN"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

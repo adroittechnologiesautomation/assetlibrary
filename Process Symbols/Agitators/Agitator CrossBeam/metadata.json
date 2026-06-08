@@ -1,0 +1,24 @@
+{
+  "id": "8fd8a2ad-fc16-486d-b55f-1708dade63d8",
+  "name": "Agitator CrossBeam",
+  "description": "A Agitator CrossBeam.",
+  "author": "Adroit Technologies",
+  "category": "Process Symbols/Agitators",
+  "version": "1.0.0",
+  "fileName": "Agitator CrossBeam.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Agitator CrossBeam.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [],
+  "tags": [
+    "Agitator"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

@@ -1,0 +1,30 @@
+{
+  "id": "9b5bb9d0-dfbc-4279-87b0-465b9987fba4",
+  "name": "Compressor Piston ISO",
+  "description": "A Compressor Piston ISO.",
+  "author": "Adroit Technologies",
+  "category": "Process Symbols/Compressors",
+  "version": "1.0.0",
+  "fileName": "Compressor Piston ISO.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Compressor Piston ISO.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [
+    "Oil & Gas",
+    "Petrochemical",
+    "Manufacturing"
+  ],
+  "tags": [
+    "Compressor",
+    "Piston",
+    "ISO"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

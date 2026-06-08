@@ -1,0 +1,29 @@
+{
+  "id": "8c270e11-fcf9-4a3a-9a10-66eeab42660b",
+  "name": "Eccentric Worm Pump DIN",
+  "description": "A Eccentric Worm Pump DIN.",
+  "author": "Adroit Technologies",
+  "category": "Process Symbols/Pumps",
+  "version": "1.0.0",
+  "fileName": "Eccentric Worm Pump DIN.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Eccentric Worm Pump DIN.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [
+    "Water & Wastewater",
+    "Oil & Gas",
+    "Manufacturing"
+  ],
+  "tags": [
+    "Pump",
+    "DIN"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

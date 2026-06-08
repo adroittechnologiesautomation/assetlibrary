@@ -1,0 +1,28 @@
+{
+  "id": "a76bd70a-0b38-40ec-b3cd-d468f1992d56",
+  "name": "Vessel Different Diameters",
+  "description": "A Vessel Different Diameters.",
+  "author": "Adroit Technologies",
+  "category": "Process Symbols/Vessels",
+  "version": "1.0.0",
+  "fileName": "Vessel Different Diameters.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Vessel Different Diameters.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [
+    "Petrochemical",
+    "Pharmaceuticals",
+    "Power Generation"
+  ],
+  "tags": [
+    "Vessel"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

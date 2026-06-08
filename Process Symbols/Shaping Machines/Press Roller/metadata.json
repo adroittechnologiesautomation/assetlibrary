@@ -1,0 +1,24 @@
+{
+  "id": "4c8f5bb1-604e-4185-86ee-034bc1b1bdab",
+  "name": "Press Roller",
+  "description": "A Press Roller.",
+  "author": "Adroit Technologies",
+  "category": "Process Symbols/Shaping Machines",
+  "version": "1.0.0",
+  "fileName": "Press Roller.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Press Roller.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [],
+  "tags": [
+    "Roller"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

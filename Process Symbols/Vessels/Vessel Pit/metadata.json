@@ -1,0 +1,28 @@
+{
+  "id": "dbc298b3-2c83-4e2a-9a91-deb45120629d",
+  "name": "Vessel Pit",
+  "description": "A Vessel Pit.",
+  "author": "Adroit Technologies",
+  "category": "Process Symbols/Vessels",
+  "version": "1.0.0",
+  "fileName": "Vessel Pit.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Vessel Pit.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [
+    "Petrochemical",
+    "Pharmaceuticals",
+    "Power Generation"
+  ],
+  "tags": [
+    "Vessel"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

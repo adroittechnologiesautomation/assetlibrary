@@ -1,0 +1,29 @@
+{
+  "id": "f9b6b51e-5525-4724-bb6e-07f930bce100",
+  "name": "Gate Valve Pilot",
+  "description": "A Gate Valve Pilot.",
+  "author": "Adroit Technologies",
+  "category": "Process Symbols/Valves",
+  "version": "1.0.0",
+  "fileName": "Gate Valve Pilot.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Gate Valve Pilot.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [
+    "Water & Wastewater",
+    "Oil & Gas",
+    "Power Generation"
+  ],
+  "tags": [
+    "Valve",
+    "Gate"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

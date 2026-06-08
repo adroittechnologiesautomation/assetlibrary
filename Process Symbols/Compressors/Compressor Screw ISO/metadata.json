@@ -1,0 +1,30 @@
+{
+  "id": "c34d5c78-06c4-4c4f-b7ff-629bfcd45294",
+  "name": "Compressor Screw ISO",
+  "description": "A Compressor Screw ISO.",
+  "author": "Adroit Technologies",
+  "category": "Process Symbols/Compressors",
+  "version": "1.0.0",
+  "fileName": "Compressor Screw ISO.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Compressor Screw ISO.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [
+    "Oil & Gas",
+    "Petrochemical",
+    "Manufacturing"
+  ],
+  "tags": [
+    "Compressor",
+    "Screw",
+    "ISO"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

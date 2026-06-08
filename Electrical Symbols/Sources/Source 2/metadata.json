@@ -1,0 +1,22 @@
+{
+  "id": "8a563178-ff95-4ef8-9e18-4f97977ae131",
+  "name": "Source 2",
+  "description": "A Source 2.",
+  "author": "Adroit Technologies",
+  "category": "Electrical Symbols/Sources",
+  "version": "1.0.0",
+  "fileName": "Source 2.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Source 2.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [],
+  "tags": [],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

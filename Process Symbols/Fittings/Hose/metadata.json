@@ -1,0 +1,22 @@
+{
+  "id": "ced19a55-2f2d-4473-8ac6-89ef98477b31",
+  "name": "Hose",
+  "description": "A Hose.",
+  "author": "Adroit Technologies",
+  "category": "Process Symbols/Fittings",
+  "version": "1.0.0",
+  "fileName": "Hose.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Hose.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [],
+  "tags": [],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

@@ -1,0 +1,22 @@
+{
+  "id": "b65ad377-428b-4cf6-9c30-0424d5a0a3f7",
+  "name": "Co-Ax",
+  "description": "A Co-Ax.",
+  "author": "Adroit Technologies",
+  "category": "Electrical Symbols/Misc",
+  "version": "1.0.0",
+  "fileName": "Co-Ax.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Co-Ax.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [],
+  "tags": [],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

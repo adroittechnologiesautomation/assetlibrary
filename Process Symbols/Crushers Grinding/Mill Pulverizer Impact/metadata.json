@@ -1,0 +1,29 @@
+{
+  "id": "68eb10f6-2d53-498e-9372-0f90c75c6ed6",
+  "name": "Mill Pulverizer Impact",
+  "description": "A Mill Pulverizer Impact.",
+  "author": "Adroit Technologies",
+  "category": "Process Symbols/Crushers Grinding",
+  "version": "1.0.0",
+  "fileName": "Mill Pulverizer Impact.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Mill Pulverizer Impact.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [
+    "Mining",
+    "Metals & Steel",
+    "Pulp & Paper"
+  ],
+  "tags": [
+    "Mill",
+    "Impact"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

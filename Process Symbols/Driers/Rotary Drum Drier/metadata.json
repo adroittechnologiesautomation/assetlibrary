@@ -1,0 +1,24 @@
+{
+  "id": "912f24ab-e554-4082-8e78-878ea61b66f4",
+  "name": "Rotary Drum Drier",
+  "description": "A Rotary Drum Drier.",
+  "author": "Adroit Technologies",
+  "category": "Process Symbols/Driers",
+  "version": "1.0.0",
+  "fileName": "Rotary Drum Drier.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Rotary Drum Drier.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [],
+  "tags": [
+    "Rotary"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

@@ -1,0 +1,24 @@
+{
+  "id": "2e742903-5146-431d-a9c6-fff930708992",
+  "name": "Dryer",
+  "description": "A Dryer.",
+  "author": "Adroit Technologies",
+  "category": "Process Symbols/Misc",
+  "version": "1.0.0",
+  "fileName": "Dryer.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Dryer.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [],
+  "tags": [
+    "Dryer"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

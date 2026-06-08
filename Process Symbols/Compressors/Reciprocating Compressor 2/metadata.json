@@ -1,0 +1,28 @@
+{
+  "id": "7c09ff47-ee92-461e-a3d5-b534c784282b",
+  "name": "Reciprocating Compressor 2",
+  "description": "A Reciprocating Compressor 2.",
+  "author": "Adroit Technologies",
+  "category": "Process Symbols/Compressors",
+  "version": "1.0.0",
+  "fileName": "Reciprocating Compressor 2.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Reciprocating Compressor 2.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [
+    "Oil & Gas",
+    "Petrochemical",
+    "Manufacturing"
+  ],
+  "tags": [
+    "Compressor"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

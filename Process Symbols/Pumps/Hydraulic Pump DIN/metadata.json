@@ -1,0 +1,29 @@
+{
+  "id": "325495ba-b8b8-45a7-a3b8-71c5f5636d41",
+  "name": "Hydraulic Pump DIN",
+  "description": "A Hydraulic Pump DIN.",
+  "author": "Adroit Technologies",
+  "category": "Process Symbols/Pumps",
+  "version": "1.0.0",
+  "fileName": "Hydraulic Pump DIN.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Hydraulic Pump DIN.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [
+    "Water & Wastewater",
+    "Oil & Gas",
+    "Manufacturing"
+  ],
+  "tags": [
+    "Pump",
+    "DIN"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

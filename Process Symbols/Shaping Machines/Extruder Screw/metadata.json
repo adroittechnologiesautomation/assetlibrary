@@ -1,0 +1,24 @@
+{
+  "id": "5e48e522-c993-449d-8f0b-52413640676b",
+  "name": "Extruder Screw",
+  "description": "A Extruder Screw.",
+  "author": "Adroit Technologies",
+  "category": "Process Symbols/Shaping Machines",
+  "version": "1.0.0",
+  "fileName": "Extruder Screw.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Extruder Screw.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [],
+  "tags": [
+    "Screw"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

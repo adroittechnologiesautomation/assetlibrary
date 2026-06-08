@@ -1,0 +1,28 @@
+{
+  "id": "48ac8248-8dff-4cbc-a2fc-115c0738600d",
+  "name": "Liquid Ring Compressor",
+  "description": "A Liquid Ring Compressor.",
+  "author": "Adroit Technologies",
+  "category": "Process Symbols/Compressors",
+  "version": "1.0.0",
+  "fileName": "Liquid Ring Compressor.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Liquid Ring Compressor.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [
+    "Oil & Gas",
+    "Petrochemical",
+    "Manufacturing"
+  ],
+  "tags": [
+    "Compressor"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

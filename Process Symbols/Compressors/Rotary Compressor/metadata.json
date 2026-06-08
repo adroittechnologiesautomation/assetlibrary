@@ -1,0 +1,29 @@
+{
+  "id": "887d1cb9-cd6f-416c-80c4-4468448b670f",
+  "name": "Rotary Compressor",
+  "description": "A Rotary Compressor.",
+  "author": "Adroit Technologies",
+  "category": "Process Symbols/Compressors",
+  "version": "1.0.0",
+  "fileName": "Rotary Compressor.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Rotary Compressor.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [
+    "Oil & Gas",
+    "Petrochemical",
+    "Manufacturing"
+  ],
+  "tags": [
+    "Compressor",
+    "Rotary"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

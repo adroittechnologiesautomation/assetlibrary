@@ -1,0 +1,29 @@
+{
+  "id": "66309bfc-ef9f-4979-974b-c7d7ee2a1030",
+  "name": "Tank Floating Roof Boot",
+  "description": "A Tank Floating Roof Boot.",
+  "author": "Adroit Technologies",
+  "category": "Process Symbols/Vessels",
+  "version": "1.0.0",
+  "fileName": "Tank Floating Roof Boot.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Tank Floating Roof Boot.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [
+    "Water & Wastewater",
+    "Oil & Gas",
+    "Food & Beverage"
+  ],
+  "tags": [
+    "Tank",
+    "Floating Roof"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

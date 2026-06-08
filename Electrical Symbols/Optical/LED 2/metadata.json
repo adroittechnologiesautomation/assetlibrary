@@ -1,0 +1,22 @@
+{
+  "id": "0d9ad100-85c4-47f8-a477-816af4066bef",
+  "name": "LED 2",
+  "description": "A LED 2.",
+  "author": "Adroit Technologies",
+  "category": "Electrical Symbols/Optical",
+  "version": "1.0.0",
+  "fileName": "LED 2.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "LED 2.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [],
+  "tags": [],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

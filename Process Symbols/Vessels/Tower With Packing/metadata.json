@@ -1,0 +1,24 @@
+{
+  "id": "ac35cb34-4937-459b-b0bb-9cedd4b9fb26",
+  "name": "Tower With Packing",
+  "description": "A Tower With Packing.",
+  "author": "Adroit Technologies",
+  "category": "Process Symbols/Vessels",
+  "version": "1.0.0",
+  "fileName": "Tower With Packing.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Tower With Packing.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [],
+  "tags": [
+    "Tower"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

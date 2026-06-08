@@ -1,0 +1,22 @@
+{
+  "id": "20dd4b9d-cd11-402f-b29b-c37e141108f7",
+  "name": "LED 1",
+  "description": "A LED 1.",
+  "author": "Adroit Technologies",
+  "category": "Electrical Symbols/Optical",
+  "version": "1.0.0",
+  "fileName": "LED 1.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "LED 1.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [],
+  "tags": [],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

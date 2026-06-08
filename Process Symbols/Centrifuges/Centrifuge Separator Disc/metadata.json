@@ -1,0 +1,24 @@
+{
+  "id": "2a9273bd-79cd-4cad-9a8f-cb3d917ea11a",
+  "name": "Centrifuge Separator Disc",
+  "description": "A Centrifuge Separator Disc.",
+  "author": "Adroit Technologies",
+  "category": "Process Symbols/Centrifuges",
+  "version": "1.0.0",
+  "fileName": "Centrifuge Separator Disc.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Centrifuge Separator Disc.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [],
+  "tags": [
+    "Centrifuge"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

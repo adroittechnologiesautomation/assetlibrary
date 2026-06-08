@@ -1,0 +1,30 @@
+{
+  "id": "0dd166da-4ef6-48ae-bf7d-79ebc27ebb4f",
+  "name": "Compressor Rotary ISO",
+  "description": "A Compressor Rotary ISO.",
+  "author": "Adroit Technologies",
+  "category": "Process Symbols/Compressors",
+  "version": "1.0.0",
+  "fileName": "Compressor Rotary ISO.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Compressor Rotary ISO.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [
+    "Oil & Gas",
+    "Petrochemical",
+    "Manufacturing"
+  ],
+  "tags": [
+    "Compressor",
+    "Rotary",
+    "ISO"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

@@ -1,0 +1,22 @@
+{
+  "id": "d61d7032-c64c-416e-b736-dadc5e753499",
+  "name": "Attenuator",
+  "description": "A Attenuator.",
+  "author": "Adroit Technologies",
+  "category": "Electrical Symbols/Resistors",
+  "version": "1.0.0",
+  "fileName": "Attenuator.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Attenuator.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [],
+  "tags": [],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

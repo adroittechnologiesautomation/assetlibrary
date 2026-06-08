@@ -1,0 +1,24 @@
+{
+  "id": "b212df1c-37e6-4154-a280-25a4ee40bdc4",
+  "name": "Field Effect Diode",
+  "description": "A Field Effect Diode.",
+  "author": "Adroit Technologies",
+  "category": "Electrical Symbols/Diodes",
+  "version": "1.0.0",
+  "fileName": "Field Effect Diode.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Field Effect Diode.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [],
+  "tags": [
+    "Diode"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

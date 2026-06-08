@@ -1,0 +1,24 @@
+{
+  "id": "4b1ad650-4ad9-41bb-a717-28510254ec73",
+  "name": "Rotary Screen",
+  "description": "A Rotary Screen.",
+  "author": "Adroit Technologies",
+  "category": "Process Symbols/Misc",
+  "version": "1.0.0",
+  "fileName": "Rotary Screen.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Rotary Screen.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [],
+  "tags": [
+    "Rotary"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

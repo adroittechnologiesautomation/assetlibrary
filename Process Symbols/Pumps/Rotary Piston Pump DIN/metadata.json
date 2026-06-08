@@ -1,0 +1,30 @@
+{
+  "id": "31785ec2-eeb7-44b3-afc4-fac79ee53131",
+  "name": "Rotary Piston Pump DIN",
+  "description": "A Rotary Piston Pump DIN.",
+  "author": "Adroit Technologies",
+  "category": "Process Symbols/Pumps",
+  "version": "1.0.0",
+  "fileName": "Rotary Piston Pump DIN.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Rotary Piston Pump DIN.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [
+    "Water & Wastewater",
+    "Oil & Gas",
+    "Manufacturing"
+  ],
+  "tags": [
+    "Pump",
+    "Rotary",
+    "DIN"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

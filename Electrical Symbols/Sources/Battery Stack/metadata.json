@@ -1,0 +1,24 @@
+{
+  "id": "c286001d-a3bd-4772-b361-ee45b0be3686",
+  "name": "Battery Stack",
+  "description": "A Battery Stack.",
+  "author": "Adroit Technologies",
+  "category": "Electrical Symbols/Sources",
+  "version": "1.0.0",
+  "fileName": "Battery Stack.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Battery Stack.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [],
+  "tags": [
+    "Battery"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

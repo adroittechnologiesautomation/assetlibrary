@@ -1,0 +1,28 @@
+{
+  "id": "e23522f9-068f-4a8b-b853-08db2496c042",
+  "name": "Settling Tank",
+  "description": "A Settling Tank.",
+  "author": "Adroit Technologies",
+  "category": "Process Symbols/Vessels",
+  "version": "1.0.0",
+  "fileName": "Settling Tank.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Settling Tank.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [
+    "Water & Wastewater",
+    "Oil & Gas",
+    "Food & Beverage"
+  ],
+  "tags": [
+    "Tank"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

@@ -1,0 +1,29 @@
+{
+  "id": "c578011f-52cf-4293-b10e-4c1eb84693f8",
+  "name": "Gate Valve Spring",
+  "description": "A Gate Valve Spring.",
+  "author": "Adroit Technologies",
+  "category": "Process Symbols/Valves",
+  "version": "1.0.0",
+  "fileName": "Gate Valve Spring.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Gate Valve Spring.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [
+    "Water & Wastewater",
+    "Oil & Gas",
+    "Power Generation"
+  ],
+  "tags": [
+    "Valve",
+    "Gate"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

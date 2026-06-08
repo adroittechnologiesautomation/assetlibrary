@@ -1,0 +1,28 @@
+{
+  "id": "4553b87f-1b07-4025-a460-3691df4fac0b",
+  "name": "Container Tank Cistern Legs",
+  "description": "A Container Tank Cistern Legs.",
+  "author": "Adroit Technologies",
+  "category": "Process Symbols/Vessels",
+  "version": "1.0.0",
+  "fileName": "Container Tank Cistern Legs.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Container Tank Cistern Legs.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [
+    "Water & Wastewater",
+    "Oil & Gas",
+    "Food & Beverage"
+  ],
+  "tags": [
+    "Tank"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

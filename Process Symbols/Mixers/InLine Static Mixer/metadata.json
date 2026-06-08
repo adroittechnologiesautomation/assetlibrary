@@ -1,0 +1,24 @@
+{
+  "id": "1b7f9898-e0d8-4645-9e0f-3a55107677de",
+  "name": "InLine Static Mixer",
+  "description": "A InLine Static Mixer.",
+  "author": "Adroit Technologies",
+  "category": "Process Symbols/Mixers",
+  "version": "1.0.0",
+  "fileName": "InLine Static Mixer.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "InLine Static Mixer.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [],
+  "tags": [
+    "Mixer"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

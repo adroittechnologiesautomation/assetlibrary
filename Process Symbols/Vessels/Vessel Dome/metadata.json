@@ -1,0 +1,28 @@
+{
+  "id": "d4c5c250-ecfc-4f90-9ce8-6158cc6d5d67",
+  "name": "Vessel Dome",
+  "description": "A Vessel Dome.",
+  "author": "Adroit Technologies",
+  "category": "Process Symbols/Vessels",
+  "version": "1.0.0",
+  "fileName": "Vessel Dome.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Vessel Dome.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [
+    "Petrochemical",
+    "Pharmaceuticals",
+    "Power Generation"
+  ],
+  "tags": [
+    "Vessel"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

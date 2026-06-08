@@ -1,0 +1,24 @@
+{
+  "id": "a6e27493-88e2-4fe6-a9f5-4a8f4964891c",
+  "name": "Relay",
+  "description": "A Relay.",
+  "author": "Adroit Technologies",
+  "category": "Electrical Symbols/Switches And Relays",
+  "version": "1.0.0",
+  "fileName": "Relay.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Relay.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [],
+  "tags": [
+    "Relay"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

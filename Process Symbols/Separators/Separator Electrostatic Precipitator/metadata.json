@@ -1,0 +1,24 @@
+{
+  "id": "1819ffba-b40f-440b-9306-99916319033c",
+  "name": "Separator Electrostatic Precipitator",
+  "description": "A Separator Electrostatic Precipitator.",
+  "author": "Adroit Technologies",
+  "category": "Process Symbols/Separators",
+  "version": "1.0.0",
+  "fileName": "Separator Electrostatic Precipitator.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Separator Electrostatic Precipitator.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [],
+  "tags": [
+    "Separator"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

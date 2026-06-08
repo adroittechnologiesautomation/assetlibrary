@@ -1,0 +1,30 @@
+{
+  "id": "9bc97899-c272-4255-994c-607d3012e2ce",
+  "name": "Angle Globe Valve Manual",
+  "description": "A Angle Globe Valve Manual.",
+  "author": "Adroit Technologies",
+  "category": "Process Symbols/Valves",
+  "version": "1.0.0",
+  "fileName": "Angle Globe Valve Manual.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Angle Globe Valve Manual.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [
+    "Water & Wastewater",
+    "Oil & Gas",
+    "Power Generation"
+  ],
+  "tags": [
+    "Valve",
+    "Globe",
+    "Manual"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

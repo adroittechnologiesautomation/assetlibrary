@@ -1,0 +1,24 @@
+{
+  "id": "9720a17f-ab33-4f86-8ea7-2b6c58dfc07c",
+  "name": "Centrifuge Skimmer",
+  "description": "A Centrifuge Skimmer.",
+  "author": "Adroit Technologies",
+  "category": "Process Symbols/Centrifuges",
+  "version": "1.0.0",
+  "fileName": "Centrifuge Skimmer.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Centrifuge Skimmer.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [],
+  "tags": [
+    "Centrifuge"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

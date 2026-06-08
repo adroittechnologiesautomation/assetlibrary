@@ -1,0 +1,30 @@
+{
+  "id": "2afe639d-03c9-4cd6-a73e-672e31ed7610",
+  "name": "Conveyor Screw Closed",
+  "description": "A Conveyor Screw Closed.",
+  "author": "Adroit Technologies",
+  "category": "Process Symbols/Misc",
+  "version": "1.0.0",
+  "fileName": "Conveyor Screw Closed.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Conveyor Screw Closed.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [
+    "Mining",
+    "Manufacturing",
+    "Logistics & Warehousing"
+  ],
+  "tags": [
+    "Conveyor",
+    "Screw",
+    "Closed"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

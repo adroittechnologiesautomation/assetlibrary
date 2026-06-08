@@ -1,0 +1,22 @@
+{
+  "id": "00e26680-28b3-451a-897c-2623bb6954ef",
+  "name": "Ultrasonic",
+  "description": "A Ultrasonic.",
+  "author": "Adroit Technologies",
+  "category": "Process Symbols/Flow Sensors",
+  "version": "1.0.0",
+  "fileName": "Ultrasonic.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Ultrasonic.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [],
+  "tags": [],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

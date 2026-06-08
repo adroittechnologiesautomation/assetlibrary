@@ -1,0 +1,28 @@
+{
+  "id": "76dd91e7-c7b1-4f52-b684-8c8c558a176a",
+  "name": "Tank Conical Roof",
+  "description": "A Tank Conical Roof.",
+  "author": "Adroit Technologies",
+  "category": "Process Symbols/Vessels",
+  "version": "1.0.0",
+  "fileName": "Tank Conical Roof.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Tank Conical Roof.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [
+    "Water & Wastewater",
+    "Oil & Gas",
+    "Food & Beverage"
+  ],
+  "tags": [
+    "Tank"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

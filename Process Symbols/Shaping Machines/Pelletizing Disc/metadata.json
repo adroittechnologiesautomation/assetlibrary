@@ -1,0 +1,22 @@
+{
+  "id": "9adba561-2c8a-4cd5-9355-102bb4f04d27",
+  "name": "Pelletizing Disc",
+  "description": "A Pelletizing Disc.",
+  "author": "Adroit Technologies",
+  "category": "Process Symbols/Shaping Machines",
+  "version": "1.0.0",
+  "fileName": "Pelletizing Disc.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Pelletizing Disc.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [],
+  "tags": [],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

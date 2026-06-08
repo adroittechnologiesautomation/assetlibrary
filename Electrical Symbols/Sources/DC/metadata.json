@@ -1,0 +1,22 @@
+{
+  "id": "37d56e92-e98e-4ed4-989c-9b28e1f6b01e",
+  "name": "DC",
+  "description": "A DC.",
+  "author": "Adroit Technologies",
+  "category": "Electrical Symbols/Sources",
+  "version": "1.0.0",
+  "fileName": "DC.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "DC.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [],
+  "tags": [],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

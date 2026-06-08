@@ -1,0 +1,22 @@
+{
+  "id": "a8a59676-509e-4461-aa4c-dd7582bb4d35",
+  "name": "Belt Skimmer",
+  "description": "A Belt Skimmer.",
+  "author": "Adroit Technologies",
+  "category": "Process Symbols/Misc",
+  "version": "1.0.0",
+  "fileName": "Belt Skimmer.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Belt Skimmer.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [],
+  "tags": [],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

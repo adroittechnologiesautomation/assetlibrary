@@ -1,0 +1,24 @@
+{
+  "id": "ab4e34f9-7960-413c-b3e3-9b091bc44fea",
+  "name": "Chiller",
+  "description": "A Chiller.",
+  "author": "Adroit Technologies",
+  "category": "Process Symbols/Misc",
+  "version": "1.0.0",
+  "fileName": "Chiller.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Chiller.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [],
+  "tags": [
+    "Chiller"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

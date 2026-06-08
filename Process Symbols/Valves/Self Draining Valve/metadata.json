@@ -1,0 +1,28 @@
+{
+  "id": "602fb7cc-c978-446e-942f-a7fac09ca98b",
+  "name": "Self Draining Valve",
+  "description": "A Self Draining Valve.",
+  "author": "Adroit Technologies",
+  "category": "Process Symbols/Valves",
+  "version": "1.0.0",
+  "fileName": "Self Draining Valve.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Self Draining Valve.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [
+    "Water & Wastewater",
+    "Oil & Gas",
+    "Power Generation"
+  ],
+  "tags": [
+    "Valve"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

@@ -1,0 +1,30 @@
+{
+  "id": "78a5bc09-9743-4fd1-9155-74d0d8ed55ed",
+  "name": "Diaphragm Pump ISO",
+  "description": "A Diaphragm Pump ISO.",
+  "author": "Adroit Technologies",
+  "category": "Process Symbols/Pumps",
+  "version": "1.0.0",
+  "fileName": "Diaphragm Pump ISO.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Diaphragm Pump ISO.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [
+    "Water & Wastewater",
+    "Oil & Gas",
+    "Manufacturing"
+  ],
+  "tags": [
+    "Pump",
+    "Diaphragm",
+    "ISO"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

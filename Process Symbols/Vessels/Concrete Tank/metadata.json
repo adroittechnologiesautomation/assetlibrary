@@ -1,0 +1,28 @@
+{
+  "id": "d8b52d1b-5947-45f0-a2f1-ff2946fd38ba",
+  "name": "Concrete Tank",
+  "description": "A Concrete Tank.",
+  "author": "Adroit Technologies",
+  "category": "Process Symbols/Vessels",
+  "version": "1.0.0",
+  "fileName": "Concrete Tank.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Concrete Tank.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [
+    "Water & Wastewater",
+    "Oil & Gas",
+    "Food & Beverage"
+  ],
+  "tags": [
+    "Tank"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

@@ -1,0 +1,30 @@
+{
+  "id": "40be7eea-1f4d-4b5a-b623-57bec8c2b79c",
+  "name": "Compressor Diaphragm ISO",
+  "description": "A Compressor Diaphragm ISO.",
+  "author": "Adroit Technologies",
+  "category": "Process Symbols/Compressors",
+  "version": "1.0.0",
+  "fileName": "Compressor Diaphragm ISO.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Compressor Diaphragm ISO.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [
+    "Oil & Gas",
+    "Petrochemical",
+    "Manufacturing"
+  ],
+  "tags": [
+    "Compressor",
+    "Diaphragm",
+    "ISO"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

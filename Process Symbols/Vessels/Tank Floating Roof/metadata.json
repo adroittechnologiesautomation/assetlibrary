@@ -1,0 +1,29 @@
+{
+  "id": "d0c8558a-d5cf-48f3-b452-3cd329469d17",
+  "name": "Tank Floating Roof",
+  "description": "A Tank Floating Roof.",
+  "author": "Adroit Technologies",
+  "category": "Process Symbols/Vessels",
+  "version": "1.0.0",
+  "fileName": "Tank Floating Roof.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Tank Floating Roof.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [
+    "Water & Wastewater",
+    "Oil & Gas",
+    "Food & Beverage"
+  ],
+  "tags": [
+    "Tank",
+    "Floating Roof"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

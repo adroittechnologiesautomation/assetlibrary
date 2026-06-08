@@ -1,0 +1,29 @@
+{
+  "id": "9293c75d-62bb-45ea-bfad-68fc22c208a1",
+  "name": "Roller Conveyor",
+  "description": "A Roller Conveyor.",
+  "author": "Adroit Technologies",
+  "category": "Process Symbols/Misc",
+  "version": "1.0.0",
+  "fileName": "Roller Conveyor.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Roller Conveyor.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [
+    "Mining",
+    "Manufacturing",
+    "Logistics & Warehousing"
+  ],
+  "tags": [
+    "Conveyor",
+    "Roller"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

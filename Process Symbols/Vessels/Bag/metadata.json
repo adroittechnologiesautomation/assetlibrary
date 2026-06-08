@@ -1,0 +1,22 @@
+{
+  "id": "754b52b3-46c2-4f81-80dc-c3c34375fb79",
+  "name": "Bag",
+  "description": "A Bag.",
+  "author": "Adroit Technologies",
+  "category": "Process Symbols/Vessels",
+  "version": "1.0.0",
+  "fileName": "Bag.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Bag.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [],
+  "tags": [],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

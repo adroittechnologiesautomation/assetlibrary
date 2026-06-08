@@ -1,0 +1,24 @@
+{
+  "id": "a642cf45-27e4-4a62-9d85-41deb4c12053",
+  "name": "Ammeter",
+  "description": "A Ammeter.",
+  "author": "Adroit Technologies",
+  "category": "Electrical Symbols/Instruments",
+  "version": "1.0.0",
+  "fileName": "Ammeter.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Ammeter.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [],
+  "tags": [
+    "Meter"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

@@ -1,0 +1,22 @@
+{
+  "id": "ffe96e06-7e67-4c36-86cf-447e3c09130d",
+  "name": "Palletizer",
+  "description": "A Palletizer.",
+  "author": "Adroit Technologies",
+  "category": "Process Symbols/Misc",
+  "version": "1.0.0",
+  "fileName": "Palletizer.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Palletizer.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [],
+  "tags": [],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

@@ -1,0 +1,30 @@
+{
+  "id": "fd6f7b8d-18c7-4a4f-9fa5-5e818a7f2c95",
+  "name": "Reciprocating Piston Pump ISO",
+  "description": "A Reciprocating Piston Pump ISO.",
+  "author": "Adroit Technologies",
+  "category": "Process Symbols/Pumps",
+  "version": "1.0.0",
+  "fileName": "Reciprocating Piston Pump ISO.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Reciprocating Piston Pump ISO.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [
+    "Water & Wastewater",
+    "Oil & Gas",
+    "Manufacturing"
+  ],
+  "tags": [
+    "Pump",
+    "Piston",
+    "ISO"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

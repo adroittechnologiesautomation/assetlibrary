@@ -1,0 +1,24 @@
+{
+  "id": "31cac500-5a1e-4764-977c-3ef8d0606dfd",
+  "name": "Centrifuge Perforated Shell",
+  "description": "A Centrifuge Perforated Shell.",
+  "author": "Adroit Technologies",
+  "category": "Process Symbols/Centrifuges",
+  "version": "1.0.0",
+  "fileName": "Centrifuge Perforated Shell.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Centrifuge Perforated Shell.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [],
+  "tags": [
+    "Centrifuge"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

@@ -1,0 +1,22 @@
+{
+  "id": "afabb98d-54f4-4ec2-bfe2-d8d09bf90192",
+  "name": "Optocoupler",
+  "description": "A Optocoupler.",
+  "author": "Adroit Technologies",
+  "category": "Electrical Symbols/Optical",
+  "version": "1.0.0",
+  "fileName": "Optocoupler.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Optocoupler.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [],
+  "tags": [],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

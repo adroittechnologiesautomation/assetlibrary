@@ -1,0 +1,29 @@
+{
+  "id": "aa42f916-56e6-4851-8d14-95312eaa4eb8",
+  "name": "Crusher Jaw",
+  "description": "A Crusher Jaw.",
+  "author": "Adroit Technologies",
+  "category": "Process Symbols/Crushers Grinding",
+  "version": "1.0.0",
+  "fileName": "Crusher Jaw.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Crusher Jaw.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [
+    "Mining",
+    "Cement & Lime",
+    "Metals & Steel"
+  ],
+  "tags": [
+    "Crusher",
+    "Jaw"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

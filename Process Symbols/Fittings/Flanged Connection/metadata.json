@@ -1,0 +1,22 @@
+{
+  "id": "136dd16c-a94e-4a0d-8f50-ea940198ffb3",
+  "name": "Flanged Connection",
+  "description": "A Flanged Connection.",
+  "author": "Adroit Technologies",
+  "category": "Process Symbols/Fittings",
+  "version": "1.0.0",
+  "fileName": "Flanged Connection.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Flanged Connection.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [],
+  "tags": [],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

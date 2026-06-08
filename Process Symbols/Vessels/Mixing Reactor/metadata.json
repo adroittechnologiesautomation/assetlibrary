@@ -1,0 +1,24 @@
+{
+  "id": "1d7f847c-cdd7-4011-aada-6ca4e4012fd6",
+  "name": "Mixing Reactor",
+  "description": "A Mixing Reactor.",
+  "author": "Adroit Technologies",
+  "category": "Process Symbols/Vessels",
+  "version": "1.0.0",
+  "fileName": "Mixing Reactor.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Mixing Reactor.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [],
+  "tags": [
+    "Reactor"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

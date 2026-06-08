@@ -1,0 +1,24 @@
+{
+  "id": "b15cbb5e-06ff-4937-ac50-ccc7ff8c4c47",
+  "name": "Fuse IEEE 1",
+  "description": "A Fuse IEEE 1.",
+  "author": "Adroit Technologies",
+  "category": "Electrical Symbols/Misc",
+  "version": "1.0.0",
+  "fileName": "Fuse IEEE 1.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Fuse IEEE 1.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [],
+  "tags": [
+    "Fuse"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

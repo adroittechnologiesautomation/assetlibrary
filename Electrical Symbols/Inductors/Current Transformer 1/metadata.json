@@ -1,0 +1,27 @@
+{
+  "id": "f7dc169b-f740-4f2e-ae1e-4e41d3880ce9",
+  "name": "Current Transformer 1",
+  "description": "A Current Transformer 1.",
+  "author": "Adroit Technologies",
+  "category": "Electrical Symbols/Inductors",
+  "version": "1.0.0",
+  "fileName": "Current Transformer 1.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Current Transformer 1.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [
+    "Utilities",
+    "Power Generation"
+  ],
+  "tags": [
+    "Transformer"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

@@ -1,0 +1,22 @@
+{
+  "id": "5ab618b2-b089-4013-a290-3ddf28cbd833",
+  "name": "Magnetic",
+  "description": "A Magnetic.",
+  "author": "Adroit Technologies",
+  "category": "Process Symbols/Flow Sensors",
+  "version": "1.0.0",
+  "fileName": "Magnetic.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Magnetic.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [],
+  "tags": [],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

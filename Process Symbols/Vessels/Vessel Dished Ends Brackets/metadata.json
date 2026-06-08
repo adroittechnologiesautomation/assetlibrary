@@ -1,0 +1,28 @@
+{
+  "id": "ba6fc2da-16c5-44cc-b039-6bfdf533702f",
+  "name": "Vessel Dished Ends Brackets",
+  "description": "A Vessel Dished Ends Brackets.",
+  "author": "Adroit Technologies",
+  "category": "Process Symbols/Vessels",
+  "version": "1.0.0",
+  "fileName": "Vessel Dished Ends Brackets.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Vessel Dished Ends Brackets.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [
+    "Petrochemical",
+    "Pharmaceuticals",
+    "Power Generation"
+  ],
+  "tags": [
+    "Vessel"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

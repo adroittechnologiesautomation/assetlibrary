@@ -1,0 +1,29 @@
+{
+  "id": "d5d8d564-13ef-402e-b564-fcbfaea6e2b2",
+  "name": "Gate Valve Powered",
+  "description": "A Gate Valve Powered.",
+  "author": "Adroit Technologies",
+  "category": "Process Symbols/Valves",
+  "version": "1.0.0",
+  "fileName": "Gate Valve Powered.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Gate Valve Powered.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [
+    "Water & Wastewater",
+    "Oil & Gas",
+    "Power Generation"
+  ],
+  "tags": [
+    "Valve",
+    "Gate"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

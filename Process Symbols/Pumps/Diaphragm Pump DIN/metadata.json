@@ -1,0 +1,30 @@
+{
+  "id": "b90ea607-1436-45b8-9b7f-bb50b914c6d1",
+  "name": "Diaphragm Pump DIN",
+  "description": "A Diaphragm Pump DIN.",
+  "author": "Adroit Technologies",
+  "category": "Process Symbols/Pumps",
+  "version": "1.0.0",
+  "fileName": "Diaphragm Pump DIN.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Diaphragm Pump DIN.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [
+    "Water & Wastewater",
+    "Oil & Gas",
+    "Manufacturing"
+  ],
+  "tags": [
+    "Pump",
+    "Diaphragm",
+    "DIN"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

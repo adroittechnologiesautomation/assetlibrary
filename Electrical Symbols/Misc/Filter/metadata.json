@@ -1,0 +1,24 @@
+{
+  "id": "a18ad23c-79dc-454c-9ac6-5b995ae36948",
+  "name": "Filter",
+  "description": "A Filter.",
+  "author": "Adroit Technologies",
+  "category": "Electrical Symbols/Misc",
+  "version": "1.0.0",
+  "fileName": "Filter.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Filter.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [],
+  "tags": [
+    "Filter"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

@@ -1,0 +1,24 @@
+{
+  "id": "f3319cdf-8a07-4f41-bd8f-043438532198",
+  "name": "Barrel Drum ISO",
+  "description": "A Barrel Drum ISO.",
+  "author": "Adroit Technologies",
+  "category": "Process Symbols/Vessels",
+  "version": "1.0.0",
+  "fileName": "Barrel Drum ISO.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Barrel Drum ISO.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [],
+  "tags": [
+    "ISO"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

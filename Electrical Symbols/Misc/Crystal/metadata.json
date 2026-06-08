@@ -1,0 +1,22 @@
+{
+  "id": "507fcfd2-4fd3-46be-8aeb-3b7efd07b112",
+  "name": "Crystal",
+  "description": "A Crystal.",
+  "author": "Adroit Technologies",
+  "category": "Electrical Symbols/Misc",
+  "version": "1.0.0",
+  "fileName": "Crystal.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Crystal.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [],
+  "tags": [],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

@@ -1,0 +1,28 @@
+{
+  "id": "fe81b581-5a47-4f8d-8a06-b4bb1b6cceb4",
+  "name": "Container Tank Cistern Boot",
+  "description": "A Container Tank Cistern Boot.",
+  "author": "Adroit Technologies",
+  "category": "Process Symbols/Vessels",
+  "version": "1.0.0",
+  "fileName": "Container Tank Cistern Boot.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Container Tank Cistern Boot.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [
+    "Water & Wastewater",
+    "Oil & Gas",
+    "Food & Beverage"
+  ],
+  "tags": [
+    "Tank"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

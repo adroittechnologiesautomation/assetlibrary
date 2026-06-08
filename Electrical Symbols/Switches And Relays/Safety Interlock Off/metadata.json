@@ -1,0 +1,22 @@
+{
+  "id": "bd96c5b6-d7e5-45a2-8a7c-5d4571f506e6",
+  "name": "Safety Interlock Off",
+  "description": "A Safety Interlock Off.",
+  "author": "Adroit Technologies",
+  "category": "Electrical Symbols/Switches And Relays",
+  "version": "1.0.0",
+  "fileName": "Safety Interlock Off.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Safety Interlock Off.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [],
+  "tags": [],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

@@ -1,0 +1,29 @@
+{
+  "id": "69c0b3ad-f753-42ab-ae9c-afc193b30077",
+  "name": "Drier Roller Conveyor Belt",
+  "description": "A Drier Roller Conveyor Belt.",
+  "author": "Adroit Technologies",
+  "category": "Process Symbols/Driers",
+  "version": "1.0.0",
+  "fileName": "Drier Roller Conveyor Belt.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Drier Roller Conveyor Belt.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [
+    "Mining",
+    "Manufacturing",
+    "Logistics & Warehousing"
+  ],
+  "tags": [
+    "Conveyor",
+    "Roller"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

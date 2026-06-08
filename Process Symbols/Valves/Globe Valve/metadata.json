@@ -1,0 +1,29 @@
+{
+  "id": "e6b1243f-0643-4e39-bb4d-1c052ce21845",
+  "name": "Globe Valve",
+  "description": "A Globe Valve.",
+  "author": "Adroit Technologies",
+  "category": "Process Symbols/Valves",
+  "version": "1.0.0",
+  "fileName": "Globe Valve.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Globe Valve.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [
+    "Water & Wastewater",
+    "Oil & Gas",
+    "Power Generation"
+  ],
+  "tags": [
+    "Valve",
+    "Globe"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

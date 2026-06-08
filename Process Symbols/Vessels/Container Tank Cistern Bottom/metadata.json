@@ -1,0 +1,28 @@
+{
+  "id": "efd6143d-95cc-4fce-ad7f-fd97416b98ce",
+  "name": "Container Tank Cistern Bottom",
+  "description": "A Container Tank Cistern Bottom.",
+  "author": "Adroit Technologies",
+  "category": "Process Symbols/Vessels",
+  "version": "1.0.0",
+  "fileName": "Container Tank Cistern Bottom.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Container Tank Cistern Bottom.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [
+    "Water & Wastewater",
+    "Oil & Gas",
+    "Food & Beverage"
+  ],
+  "tags": [
+    "Tank"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

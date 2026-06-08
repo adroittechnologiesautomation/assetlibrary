@@ -1,0 +1,25 @@
+{
+  "id": "18638a58-55d2-4f04-9676-35045a2841f0",
+  "name": "Turbine Agitator",
+  "description": "A Turbine Agitator.",
+  "author": "Adroit Technologies",
+  "category": "Process Symbols/Vessels",
+  "version": "1.0.0",
+  "fileName": "Turbine Agitator.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Turbine Agitator.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [],
+  "tags": [
+    "Agitator",
+    "Turbine"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

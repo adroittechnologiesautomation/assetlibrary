@@ -1,0 +1,30 @@
+{
+  "id": "3a7658c4-fedc-48be-b2c4-43661cd9801b",
+  "name": "Screw Pump ISO",
+  "description": "A Screw Pump ISO.",
+  "author": "Adroit Technologies",
+  "category": "Process Symbols/Pumps",
+  "version": "1.0.0",
+  "fileName": "Screw Pump ISO.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Screw Pump ISO.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [
+    "Water & Wastewater",
+    "Oil & Gas",
+    "Manufacturing"
+  ],
+  "tags": [
+    "Pump",
+    "Screw",
+    "ISO"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

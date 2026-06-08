@@ -1,0 +1,24 @@
+{
+  "id": "392e60c6-a557-408e-8903-17993cba1257",
+  "name": "Potentiometer 2",
+  "description": "A Potentiometer 2.",
+  "author": "Adroit Technologies",
+  "category": "Electrical Symbols/Resistors",
+  "version": "1.0.0",
+  "fileName": "Potentiometer 2.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Potentiometer 2.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [],
+  "tags": [
+    "Meter"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

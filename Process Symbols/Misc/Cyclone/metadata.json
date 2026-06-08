@@ -1,0 +1,22 @@
+{
+  "id": "586d64f6-7241-4690-b883-013437fbe2d5",
+  "name": "Cyclone",
+  "description": "A Cyclone.",
+  "author": "Adroit Technologies",
+  "category": "Process Symbols/Misc",
+  "version": "1.0.0",
+  "fileName": "Cyclone.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Cyclone.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [],
+  "tags": [],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

@@ -1,0 +1,24 @@
+{
+  "id": "b398dd94-4977-4fc1-a6ea-f453e22cee7f",
+  "name": "Reboiler",
+  "description": "A Reboiler.",
+  "author": "Adroit Technologies",
+  "category": "Process Symbols/Heat Exchangers",
+  "version": "1.0.0",
+  "fileName": "Reboiler.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Reboiler.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [],
+  "tags": [
+    "Boiler"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

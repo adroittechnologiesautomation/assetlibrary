@@ -1,0 +1,22 @@
+{
+  "id": "d188b55f-fddd-4f9f-ab49-6404259d59e8",
+  "name": "Drying Oven",
+  "description": "A Drying Oven.",
+  "author": "Adroit Technologies",
+  "category": "Process Symbols/Driers",
+  "version": "1.0.0",
+  "fileName": "Drying Oven.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Drying Oven.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [],
+  "tags": [],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

@@ -1,0 +1,28 @@
+{
+  "id": "f21b1486-5bd2-4114-806f-3083f9c3e35e",
+  "name": "SelfOperating Release Valve",
+  "description": "A SelfOperating Release Valve.",
+  "author": "Adroit Technologies",
+  "category": "Process Symbols/Fittings",
+  "version": "1.0.0",
+  "fileName": "SelfOperating Release Valve.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "SelfOperating Release Valve.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [
+    "Water & Wastewater",
+    "Oil & Gas",
+    "Power Generation"
+  ],
+  "tags": [
+    "Valve"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

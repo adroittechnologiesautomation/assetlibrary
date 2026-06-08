@@ -1,0 +1,22 @@
+{
+  "id": "5bec2e35-142d-43a4-8b14-4de481972530",
+  "name": "Spraying Device",
+  "description": "A Spraying Device.",
+  "author": "Adroit Technologies",
+  "category": "Process Symbols/Misc",
+  "version": "1.0.0",
+  "fileName": "Spraying Device.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Spraying Device.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [],
+  "tags": [],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

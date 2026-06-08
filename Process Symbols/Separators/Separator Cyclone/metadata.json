@@ -1,0 +1,24 @@
+{
+  "id": "1d0e9ae3-4d8f-4623-813d-5cf91c14e5e4",
+  "name": "Separator Cyclone",
+  "description": "A Separator Cyclone.",
+  "author": "Adroit Technologies",
+  "category": "Process Symbols/Separators",
+  "version": "1.0.0",
+  "fileName": "Separator Cyclone.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Separator Cyclone.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [],
+  "tags": [
+    "Separator"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

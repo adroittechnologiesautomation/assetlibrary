@@ -1,0 +1,24 @@
+{
+  "id": "0e703067-0ef6-4ab2-8fff-d64223a47c50",
+  "name": "Photo Resistor 3",
+  "description": "A Photo Resistor 3.",
+  "author": "Adroit Technologies",
+  "category": "Electrical Symbols/Optical",
+  "version": "1.0.0",
+  "fileName": "Photo Resistor 3.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Photo Resistor 3.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [],
+  "tags": [
+    "Resistor"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

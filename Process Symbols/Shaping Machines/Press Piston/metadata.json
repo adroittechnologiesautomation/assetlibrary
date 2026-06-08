@@ -1,0 +1,24 @@
+{
+  "id": "3797f5be-3698-45d2-a23b-45c9906be3c7",
+  "name": "Press Piston",
+  "description": "A Press Piston.",
+  "author": "Adroit Technologies",
+  "category": "Process Symbols/Shaping Machines",
+  "version": "1.0.0",
+  "fileName": "Press Piston.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Press Piston.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [],
+  "tags": [
+    "Piston"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

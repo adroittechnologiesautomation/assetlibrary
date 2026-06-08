@@ -1,0 +1,29 @@
+{
+  "id": "57bbea12-23b2-489b-a102-2e3eda215345",
+  "name": "Compressor Turbo ISO",
+  "description": "A Compressor Turbo ISO.",
+  "author": "Adroit Technologies",
+  "category": "Process Symbols/Compressors",
+  "version": "1.0.0",
+  "fileName": "Compressor Turbo ISO.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Compressor Turbo ISO.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [
+    "Oil & Gas",
+    "Petrochemical",
+    "Manufacturing"
+  ],
+  "tags": [
+    "Compressor",
+    "ISO"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

@@ -1,0 +1,25 @@
+{
+  "id": "10c6054a-e644-4c89-9cf0-5b0c5fff1220",
+  "name": "Blower Fan ISO",
+  "description": "A Blower Fan ISO.",
+  "author": "Adroit Technologies",
+  "category": "Process Symbols/Compressors",
+  "version": "1.0.0",
+  "fileName": "Blower Fan ISO.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Blower Fan ISO.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [],
+  "tags": [
+    "Blower",
+    "ISO"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

@@ -1,0 +1,22 @@
+{
+  "id": "73edbfab-0044-465e-8332-3fc5a4011941",
+  "name": "Silencer",
+  "description": "A Silencer.",
+  "author": "Adroit Technologies",
+  "category": "Process Symbols/Fittings",
+  "version": "1.0.0",
+  "fileName": "Silencer.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Silencer.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [],
+  "tags": [],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

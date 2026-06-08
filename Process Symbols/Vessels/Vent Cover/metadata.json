@@ -1,0 +1,22 @@
+{
+  "id": "c5cbfe2b-82d3-4ccf-ade2-dfb5b1a5bb90",
+  "name": "Vent Cover",
+  "description": "A Vent Cover.",
+  "author": "Adroit Technologies",
+  "category": "Process Symbols/Vessels",
+  "version": "1.0.0",
+  "fileName": "Vent Cover.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Vent Cover.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [],
+  "tags": [],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

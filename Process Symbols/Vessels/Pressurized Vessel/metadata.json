@@ -1,0 +1,28 @@
+{
+  "id": "d81582cc-ee3c-4cf5-9a16-b69ca3fed0ef",
+  "name": "Pressurized Vessel",
+  "description": "A Pressurized Vessel.",
+  "author": "Adroit Technologies",
+  "category": "Process Symbols/Vessels",
+  "version": "1.0.0",
+  "fileName": "Pressurized Vessel.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Pressurized Vessel.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [
+    "Petrochemical",
+    "Pharmaceuticals",
+    "Power Generation"
+  ],
+  "tags": [
+    "Vessel"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

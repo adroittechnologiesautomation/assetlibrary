@@ -1,0 +1,29 @@
+{
+  "id": "8fedf041-939e-41f2-913d-f1b4dd11596b",
+  "name": "Electromagnetic Pump DIN",
+  "description": "A Electromagnetic Pump DIN.",
+  "author": "Adroit Technologies",
+  "category": "Process Symbols/Pumps",
+  "version": "1.0.0",
+  "fileName": "Electromagnetic Pump DIN.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Electromagnetic Pump DIN.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [
+    "Water & Wastewater",
+    "Oil & Gas",
+    "Manufacturing"
+  ],
+  "tags": [
+    "Pump",
+    "DIN"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

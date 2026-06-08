@@ -1,0 +1,24 @@
+{
+  "id": "39815763-98e1-4b99-932f-c4fcf5ce0aa5",
+  "name": "Relay Coil 1",
+  "description": "A Relay Coil 1.",
+  "author": "Adroit Technologies",
+  "category": "Electrical Symbols/Switches And Relays",
+  "version": "1.0.0",
+  "fileName": "Relay Coil 1.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Relay Coil 1.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [],
+  "tags": [
+    "Relay"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

@@ -1,0 +1,29 @@
+{
+  "id": "3ff55a18-84c8-45da-b6d5-063a76c79aab",
+  "name": "Vacuum Pump",
+  "description": "A Vacuum Pump.",
+  "author": "Adroit Technologies",
+  "category": "Process Symbols/Pumps",
+  "version": "1.0.0",
+  "fileName": "Vacuum Pump.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Vacuum Pump.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [
+    "Water & Wastewater",
+    "Oil & Gas",
+    "Manufacturing"
+  ],
+  "tags": [
+    "Pump",
+    "Vacuum"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

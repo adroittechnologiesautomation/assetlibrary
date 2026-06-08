@@ -1,0 +1,28 @@
+{
+  "id": "306f723b-f91b-4301-aa3f-3b4e6f5733cd",
+  "name": "AC Air Compressor",
+  "description": "A AC Air Compressor.",
+  "author": "Adroit Technologies",
+  "category": "Process Symbols/Compressors",
+  "version": "1.0.0",
+  "fileName": "AC Air Compressor.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "AC Air Compressor.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [
+    "Oil & Gas",
+    "Petrochemical",
+    "Manufacturing"
+  ],
+  "tags": [
+    "Compressor"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

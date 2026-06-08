@@ -1,0 +1,30 @@
+{
+  "id": "da22d47b-7cf7-4fb2-a684-234d19994b2a",
+  "name": "Centrifugal Pump ISO",
+  "description": "A Centrifugal Pump ISO.",
+  "author": "Adroit Technologies",
+  "category": "Process Symbols/Pumps",
+  "version": "1.0.0",
+  "fileName": "Centrifugal Pump ISO.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Centrifugal Pump ISO.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [
+    "Water & Wastewater",
+    "Oil & Gas",
+    "Manufacturing"
+  ],
+  "tags": [
+    "Pump",
+    "Centrifugal",
+    "ISO"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

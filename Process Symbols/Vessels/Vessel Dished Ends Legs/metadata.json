@@ -1,0 +1,28 @@
+{
+  "id": "f09a9221-4a45-4d1d-97e1-53839caaae64",
+  "name": "Vessel Dished Ends Legs",
+  "description": "A Vessel Dished Ends Legs.",
+  "author": "Adroit Technologies",
+  "category": "Process Symbols/Vessels",
+  "version": "1.0.0",
+  "fileName": "Vessel Dished Ends Legs.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Vessel Dished Ends Legs.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [
+    "Petrochemical",
+    "Pharmaceuticals",
+    "Power Generation"
+  ],
+  "tags": [
+    "Vessel"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

@@ -1,0 +1,29 @@
+{
+  "id": "77864a47-0e2e-40ae-91d3-08a060d0dcbb",
+  "name": "Liquid Jet Pump ISO",
+  "description": "A Liquid Jet Pump ISO.",
+  "author": "Adroit Technologies",
+  "category": "Process Symbols/Pumps",
+  "version": "1.0.0",
+  "fileName": "Liquid Jet Pump ISO.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Liquid Jet Pump ISO.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [
+    "Water & Wastewater",
+    "Oil & Gas",
+    "Manufacturing"
+  ],
+  "tags": [
+    "Pump",
+    "ISO"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

@@ -1,0 +1,22 @@
+{
+  "id": "1c84b9b0-53ee-4fb0-9c90-ba19b079a6ac",
+  "name": "Spray Nozzle",
+  "description": "A Spray Nozzle.",
+  "author": "Adroit Technologies",
+  "category": "Process Symbols/Feeders",
+  "version": "1.0.0",
+  "fileName": "Spray Nozzle.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Spray Nozzle.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [],
+  "tags": [],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

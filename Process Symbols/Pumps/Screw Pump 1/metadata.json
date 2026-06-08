@@ -1,0 +1,29 @@
+{
+  "id": "2ea20b2c-1a70-4e1f-8a75-81b567aae5fa",
+  "name": "Screw Pump 1",
+  "description": "A Screw Pump 1.",
+  "author": "Adroit Technologies",
+  "category": "Process Symbols/Pumps",
+  "version": "1.0.0",
+  "fileName": "Screw Pump 1.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Screw Pump 1.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [
+    "Water & Wastewater",
+    "Oil & Gas",
+    "Manufacturing"
+  ],
+  "tags": [
+    "Pump",
+    "Screw"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

@@ -1,0 +1,22 @@
+{
+  "id": "2d3486a8-944f-4d8a-8e2a-2b9d058847b1",
+  "name": "Hairpin Exchanger",
+  "description": "A Hairpin Exchanger.",
+  "author": "Adroit Technologies",
+  "category": "Process Symbols/Heat Exchangers",
+  "version": "1.0.0",
+  "fileName": "Hairpin Exchanger.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Hairpin Exchanger.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [],
+  "tags": [],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

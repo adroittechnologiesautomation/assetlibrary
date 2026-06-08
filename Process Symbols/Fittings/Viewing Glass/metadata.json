@@ -1,0 +1,22 @@
+{
+  "id": "1bbe4e42-bf56-45e8-a572-e1ced761273f",
+  "name": "Viewing Glass",
+  "description": "A Viewing Glass.",
+  "author": "Adroit Technologies",
+  "category": "Process Symbols/Fittings",
+  "version": "1.0.0",
+  "fileName": "Viewing Glass.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Viewing Glass.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [],
+  "tags": [],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

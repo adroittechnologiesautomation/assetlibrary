@@ -1,0 +1,25 @@
+{
+  "id": "e9f72c30-ddbf-4a0e-82cb-d22b480c11c8",
+  "name": "Shell And Tube Heat Exchanger 1",
+  "description": "A Shell And Tube Heat Exchanger 1.",
+  "author": "Adroit Technologies",
+  "category": "Process Symbols/Heat Exchangers",
+  "version": "1.0.0",
+  "fileName": "Shell And Tube Heat Exchanger 1.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Shell And Tube Heat Exchanger 1.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [],
+  "tags": [
+    "Heat Exchanger",
+    "Shell & Tube"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

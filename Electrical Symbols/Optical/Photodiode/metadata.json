@@ -1,0 +1,24 @@
+{
+  "id": "2b05dc9e-6eae-4b8f-9c08-c068251a87a2",
+  "name": "Photodiode",
+  "description": "A Photodiode.",
+  "author": "Adroit Technologies",
+  "category": "Electrical Symbols/Optical",
+  "version": "1.0.0",
+  "fileName": "Photodiode.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Photodiode.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [],
+  "tags": [
+    "Diode"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

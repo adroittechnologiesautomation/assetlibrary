@@ -1,0 +1,25 @@
+{
+  "id": "3f6a35e9-7ce8-4474-a474-0c2472012b76",
+  "name": "Feeder Rotary Table",
+  "description": "A Feeder Rotary Table.",
+  "author": "Adroit Technologies",
+  "category": "Process Symbols/Feeders",
+  "version": "1.0.0",
+  "fileName": "Feeder Rotary Table.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Feeder Rotary Table.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [],
+  "tags": [
+    "Feeder",
+    "Rotary"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

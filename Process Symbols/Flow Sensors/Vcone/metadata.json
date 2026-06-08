@@ -1,0 +1,24 @@
+{
+  "id": "76691079-7ba7-4e90-9dba-20f726020335",
+  "name": "Vcone",
+  "description": "A Vcone.",
+  "author": "Adroit Technologies",
+  "category": "Process Symbols/Flow Sensors",
+  "version": "1.0.0",
+  "fileName": "Vcone.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Vcone.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [],
+  "tags": [
+    "Cone"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

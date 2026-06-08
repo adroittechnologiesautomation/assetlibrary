@@ -1,0 +1,29 @@
+{
+  "id": "8e9c8aac-0c7c-4881-a5e7-a803ec92ecd9",
+  "name": "Crusher Cone",
+  "description": "A Crusher Cone.",
+  "author": "Adroit Technologies",
+  "category": "Process Symbols/Crushers Grinding",
+  "version": "1.0.0",
+  "fileName": "Crusher Cone.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Crusher Cone.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [
+    "Mining",
+    "Cement & Lime",
+    "Metals & Steel"
+  ],
+  "tags": [
+    "Crusher",
+    "Cone"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

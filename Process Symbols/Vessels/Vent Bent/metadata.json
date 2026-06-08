@@ -1,0 +1,22 @@
+{
+  "id": "e8b95ef5-e0c3-4ba1-985b-33e56c90852c",
+  "name": "Vent Bent",
+  "description": "A Vent Bent.",
+  "author": "Adroit Technologies",
+  "category": "Process Symbols/Vessels",
+  "version": "1.0.0",
+  "fileName": "Vent Bent.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Vent Bent.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [],
+  "tags": [],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

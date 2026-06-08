@@ -1,0 +1,24 @@
+{
+  "id": "3ed235df-c726-4dd2-bc4a-84c1b3d7851c",
+  "name": "Single Switch Off",
+  "description": "A Single Switch Off.",
+  "author": "Adroit Technologies",
+  "category": "Electrical Symbols/Switches And Relays",
+  "version": "1.0.0",
+  "fileName": "Single Switch Off.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Single Switch Off.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [],
+  "tags": [
+    "Switch"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

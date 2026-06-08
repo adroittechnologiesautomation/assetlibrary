@@ -1,0 +1,22 @@
+{
+  "id": "ff74b298-103f-40ea-9d4c-5a11b941d2ee",
+  "name": "Vortex",
+  "description": "A Vortex.",
+  "author": "Adroit Technologies",
+  "category": "Process Symbols/Flow Sensors",
+  "version": "1.0.0",
+  "fileName": "Vortex.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Vortex.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [],
+  "tags": [],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

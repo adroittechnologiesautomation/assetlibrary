@@ -1,0 +1,22 @@
+{
+  "id": "fbb522da-e5f7-4593-a924-a0c21a387714",
+  "name": "Furnace 2",
+  "description": "A Furnace 2.",
+  "author": "Adroit Technologies",
+  "category": "Process Symbols/Vessels",
+  "version": "1.0.0",
+  "fileName": "Furnace 2.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Furnace 2.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [],
+  "tags": [],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

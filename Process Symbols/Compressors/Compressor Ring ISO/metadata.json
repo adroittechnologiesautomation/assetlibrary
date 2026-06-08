@@ -1,0 +1,29 @@
+{
+  "id": "ef0d664c-b1d9-4e43-950d-491b9798a678",
+  "name": "Compressor Ring ISO",
+  "description": "A Compressor Ring ISO.",
+  "author": "Adroit Technologies",
+  "category": "Process Symbols/Compressors",
+  "version": "1.0.0",
+  "fileName": "Compressor Ring ISO.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Compressor Ring ISO.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [
+    "Oil & Gas",
+    "Petrochemical",
+    "Manufacturing"
+  ],
+  "tags": [
+    "Compressor",
+    "ISO"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

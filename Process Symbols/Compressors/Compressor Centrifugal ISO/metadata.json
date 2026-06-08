@@ -1,0 +1,30 @@
+{
+  "id": "7e0b94c8-ae7a-4507-b5fe-ef3337ebcc92",
+  "name": "Compressor Centrifugal ISO",
+  "description": "A Compressor Centrifugal ISO.",
+  "author": "Adroit Technologies",
+  "category": "Process Symbols/Compressors",
+  "version": "1.0.0",
+  "fileName": "Compressor Centrifugal ISO.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Compressor Centrifugal ISO.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [
+    "Oil & Gas",
+    "Petrochemical",
+    "Manufacturing"
+  ],
+  "tags": [
+    "Compressor",
+    "Centrifugal",
+    "ISO"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

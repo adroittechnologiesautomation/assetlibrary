@@ -1,0 +1,22 @@
+{
+  "id": "bd9bf50d-586b-47fc-95a3-261f25121241",
+  "name": "Bin",
+  "description": "A Bin.",
+  "author": "Adroit Technologies",
+  "category": "Process Symbols/Misc",
+  "version": "1.0.0",
+  "fileName": "Bin.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Bin.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [],
+  "tags": [],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

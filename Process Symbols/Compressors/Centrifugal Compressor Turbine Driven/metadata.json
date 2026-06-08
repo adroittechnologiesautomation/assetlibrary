@@ -1,0 +1,29 @@
+{
+  "id": "8cdf6ca7-3a2e-4bdc-80c5-cc27edd3a24e",
+  "name": "Centrifugal Compressor Turbine Driven",
+  "description": "A Centrifugal Compressor Turbine Driven.",
+  "author": "Adroit Technologies",
+  "category": "Process Symbols/Compressors",
+  "version": "1.0.0",
+  "fileName": "Centrifugal Compressor Turbine Driven.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Centrifugal Compressor Turbine Driven.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [
+    "Oil & Gas",
+    "Petrochemical",
+    "Manufacturing"
+  ],
+  "tags": [
+    "Compressor",
+    "Centrifugal"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

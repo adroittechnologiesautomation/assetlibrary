@@ -1,0 +1,24 @@
+{
+  "id": "a3752d9a-01c7-490a-a06a-0474d623f471",
+  "name": "Peristaltic",
+  "description": "A Peristaltic.",
+  "author": "Adroit Technologies",
+  "category": "Process Symbols/Pumps",
+  "version": "1.0.0",
+  "fileName": "Peristaltic.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Peristaltic.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [],
+  "tags": [
+    "Peristaltic"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

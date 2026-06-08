@@ -1,0 +1,30 @@
+{
+  "id": "24f5bd67-217b-4399-b070-5f2a12602854",
+  "name": "Normally Closed Ball Valve",
+  "description": "A Normally Closed Ball Valve.",
+  "author": "Adroit Technologies",
+  "category": "Process Symbols/Valves",
+  "version": "1.0.0",
+  "fileName": "Normally Closed Ball Valve.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Normally Closed Ball Valve.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [
+    "Water & Wastewater",
+    "Oil & Gas",
+    "Power Generation"
+  ],
+  "tags": [
+    "Valve",
+    "Ball",
+    "Closed"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

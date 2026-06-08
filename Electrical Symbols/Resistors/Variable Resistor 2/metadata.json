@@ -1,0 +1,24 @@
+{
+  "id": "b6b4eece-3239-4776-9c0c-798e0532a666",
+  "name": "Variable Resistor 2",
+  "description": "A Variable Resistor 2.",
+  "author": "Adroit Technologies",
+  "category": "Electrical Symbols/Resistors",
+  "version": "1.0.0",
+  "fileName": "Variable Resistor 2.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Variable Resistor 2.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [],
+  "tags": [
+    "Resistor"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

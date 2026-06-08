@@ -1,0 +1,24 @@
+{
+  "id": "52de1a4a-e94f-424e-9ba5-5d63c1eeff83",
+  "name": "Open Bulk Storage",
+  "description": "A Open Bulk Storage.",
+  "author": "Adroit Technologies",
+  "category": "Process Symbols/Vessels",
+  "version": "1.0.0",
+  "fileName": "Open Bulk Storage.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Open Bulk Storage.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [],
+  "tags": [
+    "Open"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

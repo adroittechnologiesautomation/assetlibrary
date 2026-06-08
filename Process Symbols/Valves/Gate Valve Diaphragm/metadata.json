@@ -1,0 +1,29 @@
+{
+  "id": "64b3211d-613e-4420-93c1-2b22c620ed62",
+  "name": "Gate Valve Diaphragm",
+  "description": "A Gate Valve Diaphragm.",
+  "author": "Adroit Technologies",
+  "category": "Process Symbols/Valves",
+  "version": "1.0.0",
+  "fileName": "Gate Valve Diaphragm.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Gate Valve Diaphragm.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [
+    "Water & Wastewater",
+    "Oil & Gas",
+    "Power Generation"
+  ],
+  "tags": [
+    "Valve",
+    "Diaphragm"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

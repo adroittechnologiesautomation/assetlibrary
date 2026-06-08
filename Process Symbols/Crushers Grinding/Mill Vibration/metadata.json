@@ -1,0 +1,28 @@
+{
+  "id": "7bc3ca58-3f3c-427c-aea6-e8afdba6f610",
+  "name": "Mill Vibration",
+  "description": "A Mill Vibration.",
+  "author": "Adroit Technologies",
+  "category": "Process Symbols/Crushers Grinding",
+  "version": "1.0.0",
+  "fileName": "Mill Vibration.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Mill Vibration.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [
+    "Mining",
+    "Metals & Steel",
+    "Pulp & Paper"
+  ],
+  "tags": [
+    "Mill"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

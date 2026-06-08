@@ -1,0 +1,28 @@
+{
+  "id": "1cebeb9e-60e8-46d0-ad54-ce37924c559a",
+  "name": "Tank Car",
+  "description": "A Tank Car.",
+  "author": "Adroit Technologies",
+  "category": "Process Symbols/Misc",
+  "version": "1.0.0",
+  "fileName": "Tank Car.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Tank Car.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [
+    "Water & Wastewater",
+    "Oil & Gas",
+    "Food & Beverage"
+  ],
+  "tags": [
+    "Tank"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

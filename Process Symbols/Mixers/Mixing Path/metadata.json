@@ -1,0 +1,22 @@
+{
+  "id": "ec251deb-2911-47d2-bb22-ba715b3ac144",
+  "name": "Mixing Path",
+  "description": "A Mixing Path.",
+  "author": "Adroit Technologies",
+  "category": "Process Symbols/Mixers",
+  "version": "1.0.0",
+  "fileName": "Mixing Path.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Mixing Path.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [],
+  "tags": [],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

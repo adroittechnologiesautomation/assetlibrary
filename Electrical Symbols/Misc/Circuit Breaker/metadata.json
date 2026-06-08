@@ -1,0 +1,24 @@
+{
+  "id": "898d1a7b-cf8f-4064-a0ef-7fbfa2e56f1e",
+  "name": "Circuit Breaker",
+  "description": "A Circuit Breaker.",
+  "author": "Adroit Technologies",
+  "category": "Electrical Symbols/Misc",
+  "version": "1.0.0",
+  "fileName": "Circuit Breaker.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Circuit Breaker.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [],
+  "tags": [
+    "Circuit Breaker"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

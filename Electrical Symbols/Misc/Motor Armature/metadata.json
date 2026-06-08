@@ -1,0 +1,29 @@
+{
+  "id": "2d214a15-4cec-4cae-995f-fa1db40c8c8d",
+  "name": "Motor Armature",
+  "description": "A Motor Armature.",
+  "author": "Adroit Technologies",
+  "category": "Electrical Symbols/Misc",
+  "version": "1.0.0",
+  "fileName": "Motor Armature.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Motor Armature.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [
+    "Manufacturing",
+    "Mining",
+    "Power Generation"
+  ],
+  "tags": [
+    "Motor",
+    "Motorized"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

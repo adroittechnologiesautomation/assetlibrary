@@ -1,0 +1,28 @@
+{
+  "id": "39c4e5f4-65ff-4f43-bba2-38537f2732e8",
+  "name": "Conveyor 1",
+  "description": "A Conveyor 1.",
+  "author": "Adroit Technologies",
+  "category": "Process Symbols/Misc",
+  "version": "1.0.0",
+  "fileName": "Conveyor 1.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Conveyor 1.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [
+    "Mining",
+    "Manufacturing",
+    "Logistics & Warehousing"
+  ],
+  "tags": [
+    "Conveyor"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

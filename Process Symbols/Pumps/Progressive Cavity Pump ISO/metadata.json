@@ -1,0 +1,29 @@
+{
+  "id": "7fe1c10a-d5db-4874-b0aa-8f7dfeaefdb0",
+  "name": "Progressive Cavity Pump ISO",
+  "description": "A Progressive Cavity Pump ISO.",
+  "author": "Adroit Technologies",
+  "category": "Process Symbols/Pumps",
+  "version": "1.0.0",
+  "fileName": "Progressive Cavity Pump ISO.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Progressive Cavity Pump ISO.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [
+    "Water & Wastewater",
+    "Oil & Gas",
+    "Manufacturing"
+  ],
+  "tags": [
+    "Pump",
+    "ISO"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

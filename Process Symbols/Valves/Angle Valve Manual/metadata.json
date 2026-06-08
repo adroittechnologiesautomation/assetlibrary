@@ -1,0 +1,29 @@
+{
+  "id": "eb824006-68e2-4687-8d77-348f31f85f69",
+  "name": "Angle Valve Manual",
+  "description": "A Angle Valve Manual.",
+  "author": "Adroit Technologies",
+  "category": "Process Symbols/Valves",
+  "version": "1.0.0",
+  "fileName": "Angle Valve Manual.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Angle Valve Manual.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [
+    "Water & Wastewater",
+    "Oil & Gas",
+    "Power Generation"
+  ],
+  "tags": [
+    "Valve",
+    "Manual"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

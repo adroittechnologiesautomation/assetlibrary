@@ -1,0 +1,29 @@
+{
+  "id": "969a936c-ba07-4cdd-a774-f4337a22ad2f",
+  "name": "Three Way Valve Manual",
+  "description": "A Three Way Valve Manual.",
+  "author": "Adroit Technologies",
+  "category": "Process Symbols/Valves",
+  "version": "1.0.0",
+  "fileName": "Three Way Valve Manual.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Three Way Valve Manual.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [
+    "Water & Wastewater",
+    "Oil & Gas",
+    "Power Generation"
+  ],
+  "tags": [
+    "Valve",
+    "Manual"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

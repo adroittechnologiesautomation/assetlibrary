@@ -1,0 +1,22 @@
+{
+  "id": "02c02631-1916-4a15-88d0-3c27c512025d",
+  "name": "Bell",
+  "description": "A Bell.",
+  "author": "Adroit Technologies",
+  "category": "Electrical Symbols/Audio",
+  "version": "1.0.0",
+  "fileName": "Bell.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Bell.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [],
+  "tags": [],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

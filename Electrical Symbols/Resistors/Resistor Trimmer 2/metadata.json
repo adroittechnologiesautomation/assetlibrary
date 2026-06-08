@@ -1,0 +1,24 @@
+{
+  "id": "639b2dbb-efc2-4fc3-952a-fc61096e57a4",
+  "name": "Resistor Trimmer 2",
+  "description": "A Resistor Trimmer 2.",
+  "author": "Adroit Technologies",
+  "category": "Electrical Symbols/Resistors",
+  "version": "1.0.0",
+  "fileName": "Resistor Trimmer 2.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Resistor Trimmer 2.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [],
+  "tags": [
+    "Resistor"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

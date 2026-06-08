@@ -1,0 +1,29 @@
+{
+  "id": "40e12456-3f96-40c7-9dff-3d2edd068841",
+  "name": "Compressor Ejector ISO",
+  "description": "A Compressor Ejector ISO.",
+  "author": "Adroit Technologies",
+  "category": "Process Symbols/Compressors",
+  "version": "1.0.0",
+  "fileName": "Compressor Ejector ISO.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Compressor Ejector ISO.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [
+    "Oil & Gas",
+    "Petrochemical",
+    "Manufacturing"
+  ],
+  "tags": [
+    "Compressor",
+    "ISO"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

@@ -1,0 +1,28 @@
+{
+  "id": "d237f07e-9c3f-411a-8be5-17bf3259b16b",
+  "name": "Vessel Dished Bottom Surface Indication",
+  "description": "A Vessel Dished Bottom Surface Indication.",
+  "author": "Adroit Technologies",
+  "category": "Process Symbols/Vessels",
+  "version": "1.0.0",
+  "fileName": "Vessel Dished Bottom Surface Indication.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Vessel Dished Bottom Surface Indication.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [
+    "Petrochemical",
+    "Pharmaceuticals",
+    "Power Generation"
+  ],
+  "tags": [
+    "Vessel"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

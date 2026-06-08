@@ -1,0 +1,24 @@
+{
+  "id": "4c39086b-067a-442a-8369-6a9e9f0c69f4",
+  "name": "Turbine",
+  "description": "A Turbine.",
+  "author": "Adroit Technologies",
+  "category": "Process Symbols/Pumps",
+  "version": "1.0.0",
+  "fileName": "Turbine.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Turbine.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [],
+  "tags": [
+    "Turbine"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

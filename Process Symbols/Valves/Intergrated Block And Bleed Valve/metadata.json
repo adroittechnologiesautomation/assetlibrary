@@ -1,0 +1,28 @@
+{
+  "id": "a4f4ab1f-8850-4666-b193-eda83584c209",
+  "name": "Intergrated Block And Bleed Valve",
+  "description": "A Intergrated Block And Bleed Valve.",
+  "author": "Adroit Technologies",
+  "category": "Process Symbols/Valves",
+  "version": "1.0.0",
+  "fileName": "Intergrated Block And Bleed Valve.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Intergrated Block And Bleed Valve.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [
+    "Water & Wastewater",
+    "Oil & Gas",
+    "Power Generation"
+  ],
+  "tags": [
+    "Valve"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

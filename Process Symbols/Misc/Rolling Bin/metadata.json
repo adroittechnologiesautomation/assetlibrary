@@ -1,0 +1,22 @@
+{
+  "id": "cb4645b3-92db-47b6-a50b-351c0cdb4a08",
+  "name": "Rolling Bin",
+  "description": "A Rolling Bin.",
+  "author": "Adroit Technologies",
+  "category": "Process Symbols/Misc",
+  "version": "1.0.0",
+  "fileName": "Rolling Bin.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Rolling Bin.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [],
+  "tags": [],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

@@ -1,0 +1,24 @@
+{
+  "id": "b26f9962-4bb3-4af4-b404-dc016d736a46",
+  "name": "Prop Agitator",
+  "description": "A Prop Agitator.",
+  "author": "Adroit Technologies",
+  "category": "Process Symbols/Vessels",
+  "version": "1.0.0",
+  "fileName": "Prop Agitator.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Prop Agitator.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [],
+  "tags": [
+    "Agitator"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

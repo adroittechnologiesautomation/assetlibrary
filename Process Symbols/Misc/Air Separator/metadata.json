@@ -1,0 +1,24 @@
+{
+  "id": "53328889-a6fb-4773-9962-6200993dbac4",
+  "name": "Air Separator",
+  "description": "A Air Separator.",
+  "author": "Adroit Technologies",
+  "category": "Process Symbols/Misc",
+  "version": "1.0.0",
+  "fileName": "Air Separator.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Air Separator.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [],
+  "tags": [
+    "Separator"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

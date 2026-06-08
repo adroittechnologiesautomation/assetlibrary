@@ -1,0 +1,24 @@
+{
+  "id": "a2bab2e6-530c-47af-b1c3-6149badb1f07",
+  "name": "Crushing Grinding Machine",
+  "description": "A Crushing Grinding Machine.",
+  "author": "Adroit Technologies",
+  "category": "Process Symbols/Crushers Grinding",
+  "version": "1.0.0",
+  "fileName": "Crushing Grinding Machine.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Crushing Grinding Machine.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [],
+  "tags": [
+    "DIN"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

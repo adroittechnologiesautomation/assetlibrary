@@ -1,0 +1,24 @@
+{
+  "id": "0ea8d6b7-aaa6-4dfc-a0dc-795afac81cfd",
+  "name": "Resistor 2",
+  "description": "A Resistor 2.",
+  "author": "Adroit Technologies",
+  "category": "Electrical Symbols/Resistors",
+  "version": "1.0.0",
+  "fileName": "Resistor 2.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Resistor 2.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [],
+  "tags": [
+    "Resistor"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

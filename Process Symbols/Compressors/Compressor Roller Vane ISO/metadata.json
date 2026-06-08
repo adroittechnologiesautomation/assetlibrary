@@ -1,0 +1,30 @@
+{
+  "id": "280395cb-09eb-47b5-8c4d-237a3d64f82b",
+  "name": "Compressor Roller Vane ISO",
+  "description": "A Compressor Roller Vane ISO.",
+  "author": "Adroit Technologies",
+  "category": "Process Symbols/Compressors",
+  "version": "1.0.0",
+  "fileName": "Compressor Roller Vane ISO.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Compressor Roller Vane ISO.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [
+    "Oil & Gas",
+    "Petrochemical",
+    "Manufacturing"
+  ],
+  "tags": [
+    "Compressor",
+    "Roller",
+    "ISO"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

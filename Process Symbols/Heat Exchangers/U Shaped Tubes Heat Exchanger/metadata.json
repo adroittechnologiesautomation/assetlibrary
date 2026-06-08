@@ -1,0 +1,24 @@
+{
+  "id": "0e9f5d94-93ea-474a-944e-c4c36900b5bd",
+  "name": "U Shaped Tubes Heat Exchanger",
+  "description": "A U Shaped Tubes Heat Exchanger.",
+  "author": "Adroit Technologies",
+  "category": "Process Symbols/Heat Exchangers",
+  "version": "1.0.0",
+  "fileName": "U Shaped Tubes Heat Exchanger.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "U Shaped Tubes Heat Exchanger.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [],
+  "tags": [
+    "Heat Exchanger"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

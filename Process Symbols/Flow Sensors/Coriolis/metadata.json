@@ -1,0 +1,22 @@
+{
+  "id": "74fb5119-a074-4f94-b963-d0d185ff666a",
+  "name": "Coriolis",
+  "description": "A Coriolis.",
+  "author": "Adroit Technologies",
+  "category": "Process Symbols/Flow Sensors",
+  "version": "1.0.0",
+  "fileName": "Coriolis.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Coriolis.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [],
+  "tags": [],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

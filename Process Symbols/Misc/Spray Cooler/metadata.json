@@ -1,0 +1,24 @@
+{
+  "id": "6f87cdca-a543-48ae-92b2-19bece94ee56",
+  "name": "Spray Cooler",
+  "description": "A Spray Cooler.",
+  "author": "Adroit Technologies",
+  "category": "Process Symbols/Misc",
+  "version": "1.0.0",
+  "fileName": "Spray Cooler.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Spray Cooler.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [],
+  "tags": [
+    "Cooler"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

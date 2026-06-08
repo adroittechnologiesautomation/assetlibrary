@@ -1,0 +1,24 @@
+{
+  "id": "22f0ea0d-988d-4d09-aa92-0c1da0388922",
+  "name": "Open Disc",
+  "description": "A Open Disc.",
+  "author": "Adroit Technologies",
+  "category": "Process Symbols/Fittings",
+  "version": "1.0.0",
+  "fileName": "Open Disc.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Open Disc.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [],
+  "tags": [
+    "Open"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

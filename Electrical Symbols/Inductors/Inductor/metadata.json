@@ -1,0 +1,24 @@
+{
+  "id": "fae65ca5-c682-47fe-ba03-62b79fd006cf",
+  "name": "Inductor",
+  "description": "A Inductor.",
+  "author": "Adroit Technologies",
+  "category": "Electrical Symbols/Inductors",
+  "version": "1.0.0",
+  "fileName": "Inductor.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Inductor.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [],
+  "tags": [
+    "Inductor"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

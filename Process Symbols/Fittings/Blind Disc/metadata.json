@@ -1,0 +1,22 @@
+{
+  "id": "8dd8982b-9b45-4e40-929c-46351a7a4f58",
+  "name": "Blind Disc",
+  "description": "A Blind Disc.",
+  "author": "Adroit Technologies",
+  "category": "Process Symbols/Fittings",
+  "version": "1.0.0",
+  "fileName": "Blind Disc.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Blind Disc.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [],
+  "tags": [],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

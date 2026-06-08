@@ -1,0 +1,24 @@
+{
+  "id": "65ef936b-2167-44ad-a517-da704cd9ddc9",
+  "name": "Heat Exchanger Floating Head",
+  "description": "A Heat Exchanger Floating Head.",
+  "author": "Adroit Technologies",
+  "category": "Process Symbols/Heat Exchangers",
+  "version": "1.0.0",
+  "fileName": "Heat Exchanger Floating Head.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Heat Exchanger Floating Head.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [],
+  "tags": [
+    "Heat Exchanger"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

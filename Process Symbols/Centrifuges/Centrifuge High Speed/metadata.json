@@ -1,0 +1,24 @@
+{
+  "id": "8a1a552d-f165-447e-9123-73e817865960",
+  "name": "Centrifuge High Speed",
+  "description": "A Centrifuge High Speed.",
+  "author": "Adroit Technologies",
+  "category": "Process Symbols/Centrifuges",
+  "version": "1.0.0",
+  "fileName": "Centrifuge High Speed.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Centrifuge High Speed.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [],
+  "tags": [
+    "Centrifuge"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

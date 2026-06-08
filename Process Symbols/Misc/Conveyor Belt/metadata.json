@@ -1,0 +1,28 @@
+{
+  "id": "ee446bd6-0b65-4f92-8446-604d6e017c90",
+  "name": "Conveyor Belt",
+  "description": "A Conveyor Belt.",
+  "author": "Adroit Technologies",
+  "category": "Process Symbols/Misc",
+  "version": "1.0.0",
+  "fileName": "Conveyor Belt.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Conveyor Belt.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [
+    "Mining",
+    "Manufacturing",
+    "Logistics & Warehousing"
+  ],
+  "tags": [
+    "Conveyor"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

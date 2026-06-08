@@ -1,0 +1,24 @@
+{
+  "id": "4a503cf8-6820-4ad9-99f0-14de6f7d1946",
+  "name": "Orifice Plate",
+  "description": "A Orifice Plate.",
+  "author": "Adroit Technologies",
+  "category": "Process Symbols/Fittings",
+  "version": "1.0.0",
+  "fileName": "Orifice Plate.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Orifice Plate.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [],
+  "tags": [
+    "Plate"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

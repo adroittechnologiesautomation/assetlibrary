@@ -1,0 +1,24 @@
+{
+  "id": "401a497f-fdfd-43f5-ac87-dcade0552912",
+  "name": "Reactor",
+  "description": "A Reactor.",
+  "author": "Adroit Technologies",
+  "category": "Process Symbols/Vessels",
+  "version": "1.0.0",
+  "fileName": "Reactor.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Reactor.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [],
+  "tags": [
+    "Reactor"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

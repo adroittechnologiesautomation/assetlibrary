@@ -1,0 +1,22 @@
+{
+  "id": "75f2d707-fbbf-4090-8a77-12418af10d1b",
+  "name": "Spray Drier",
+  "description": "A Spray Drier.",
+  "author": "Adroit Technologies",
+  "category": "Process Symbols/Driers",
+  "version": "1.0.0",
+  "fileName": "Spray Drier.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Spray Drier.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [],
+  "tags": [],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

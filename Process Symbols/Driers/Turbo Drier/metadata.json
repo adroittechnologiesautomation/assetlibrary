@@ -1,0 +1,22 @@
+{
+  "id": "25d33086-44f9-4807-84e5-1ed2b9b6224e",
+  "name": "Turbo Drier",
+  "description": "A Turbo Drier.",
+  "author": "Adroit Technologies",
+  "category": "Process Symbols/Driers",
+  "version": "1.0.0",
+  "fileName": "Turbo Drier.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Turbo Drier.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [],
+  "tags": [],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}
