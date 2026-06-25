@@ -1,0 +1,455 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Template Name="TPL_wzd_Analog_Display_v1" Descriptor="">
+  <Sections>
+    <Metadata>
+      <Attributes>
+        <Attribute Name="Type" Required="Yes">Analog</Attribute>
+      </Attributes>
+      <SubstitutionHints>
+        <Hint Name="{DeviceName}">Name of the Device</Hint>
+        <Hint Name="{Adroit DS}">Adroit Datasource</Hint>
+        <Hint Name="{Analog Data Element}">Adroit.{Analog Data Element}</Hint>
+        <Hint Name="{Alarm Agent}">Adroit.{Alarm Agent}</Hint>
+        <Hint Name="{Alarm List}">Adroit.{Alarm List}</Hint>
+        <Hint Name="{ScanAddress}">Scan Address</Hint>
+        <Hint Name="{Admin-Group}">Administrators Group Name</Hint>
+      </SubstitutionHints>
+    </Metadata>
+    <Scripts>
+    </Scripts>
+    <Children>
+    </Children>
+    <UI>
+      <TemplateGFPaths>
+        <GF Path="Object Repository.Analog Display Alarmstate v1.Wizards.wzd_Analog_Display_Light_v1" AdroitDatasourcePortion="">
+          <Substitution Name="{Adroit DS}">Adroit</Substitution>
+          <Substitution Name="{Analog Data Element}">_SAMPLEANALOGUE</Substitution>
+        </GF>
+        <GF Path="Object Repository.Analog Display Alarmstate v1.Wizards.wzd_Analog_Display_Dark_v1" />
+      </TemplateGFPaths>
+    </UI>
+    <Section DSType="Adroit" DSName="[DatasourceName]">
+      <Agents>
+        <Agent Name="[DatasourceName].{Analog Data Element}" Description="Sample Analogue" Type="Analog" TPL_EditName="Adroit._SAMPLEANALOGUE" TPL_EditParentPath="">
+          <Slot Name="unit" Type="String" />
+          <Slot Name="rawMin" Type="Real">0</Slot>
+          <Slot Name="rawMax" Type="Real">1000</Slot>
+          <Slot Name="engMin" Type="Real">0</Slot>
+          <Slot Name="engMax" Type="Real">1000</Slot>
+          <Slot Name="hiHi" Type="Real">1000</Slot>
+          <Slot Name="hi" Type="Real">1000</Slot>
+          <Slot Name="lo" Type="Real">0</Slot>
+          <Slot Name="loLo" Type="Real">0</Slot>
+          <Slot Name="initValue" Type="Real">0</Slot>
+          <Slot Name="value" Type="Real">0</Slot>
+          <Slot Name="sqRoot" Type="Boolean">0</Slot>
+          <Slot Name="roc" Type="Real">1000</Slot>
+          <Slot Name="loDeadBand" Type="Real">0</Slot>
+          <Slot Name="hiDeadBand" Type="Real">0</Slot>
+          <Slot Name="time" Type="Time">2026/06/25 06:49:38</Slot>
+          <Slot Name="enableChange" Type="Boolean">0</Slot>
+          <Slot Name="statsPeriod" Type="Integer">0</Slot>
+        </Agent>
+      </Agents>
+      <Scanning>
+        <Headers>
+          <Header Name="Tag" Type="TagName" />
+          <Header Name="Address" Type="String" />
+          <Header Name="ScanRate" Type="Integer" />
+          <Header Name="Deadband" Type="Integer" />
+          <Header Name="OutputEnabled" Type="Boolean" />
+          <Header Name="InputDisabled" Type="Boolean" />
+          <Header Name="DemandScan" Type="Boolean" />
+          <Header Name="OutputInitialize" Type="Boolean" />
+        </Headers>
+        <Device Name="{DeviceName}" Type="OPC_CL" TPL_EditName="{DeviceName}" TPL_EditType="OPC_CL">
+          <Properties>
+            <Primary>
+              <Property Name="OPC PC name" Group="OPC Server" Type="String" />
+              <Property Name="OPC Name" Group="OPC Server" Type="String">Adroit Batch OPC Server</Property>
+              <Property Name="Use OPC 1.0 interface" Group="OPC Server" Type="Boolean">0</Property>
+              <Property Name="Override DCOM security" Group="OPC Server" Type="Boolean">1</Property>
+              <Property Name="Item access path" Group="OPC Server" Type="String" />
+              <Property Name="Do not validate items" Group="OPC Server" Type="Boolean">0</Property>
+              <Property Name="Use alternate validation" Group="OPC Server" Type="Boolean">0</Property>
+              <Property Name="Use synchronised polling" Group="OPC Server" Type="Boolean">0</Property>
+              <Property Name="Poll from device" Group="OPC Server" Type="Boolean">1</Property>
+              <Property Name="Use OPC Server timestamps" Group="OPC Server" Type="Boolean">0</Property>
+              <Property Name="Enable auto recovery" Group="OPC Server" Type="Boolean">1</Property>
+              <Property Name="Auto recovery interval" Group="OPC Server" Type="Integer">30</Property>
+              <Property Name="HDA PC name" Group="HDA Server" Type="String" />
+              <Property Name="HDA Name" Group="HDA Server" Type="String">No Server</Property>
+            </Primary>
+            <Secondary Enabled="0">
+              <Property Name="OPC PC name" Group="OPC Server" Type="String" />
+              <Property Name="OPC Name" Group="OPC Server" Type="String">Adroit Batch OPC Server</Property>
+              <Property Name="Use OPC 1.0 interface" Group="OPC Server" Type="Boolean">0</Property>
+              <Property Name="Override DCOM security" Group="OPC Server" Type="Boolean">1</Property>
+              <Property Name="Item access path" Group="OPC Server" Type="String" />
+              <Property Name="Do not validate items" Group="OPC Server" Type="Boolean">0</Property>
+              <Property Name="Use alternate validation" Group="OPC Server" Type="Boolean">0</Property>
+              <Property Name="Use synchronised polling" Group="OPC Server" Type="Boolean">0</Property>
+              <Property Name="Poll from device" Group="OPC Server" Type="Boolean">1</Property>
+              <Property Name="Use OPC Server timestamps" Group="OPC Server" Type="Boolean">0</Property>
+              <Property Name="Enable auto recovery" Group="OPC Server" Type="Boolean">1</Property>
+              <Property Name="Auto recovery interval" Group="OPC Server" Type="Integer">30</Property>
+              <Property Name="HDA PC name" Group="HDA Server" Type="String" />
+              <Property Name="HDA Name" Group="HDA Server" Type="String">No Server</Property>
+            </Secondary>
+          </Properties>
+          <Taglist>
+            <Scan Tag="[DatasourceName].{Analog Data Element}.rawValue" Address="{ScanAddress}" ScanRate="4000" Deadband="0" OutputEnabled="0" InputDisabled="0" DemandScan="0" OutputInitialize="0" />
+          </Taglist>
+        </Device>
+      </Scanning>
+      <Logging>
+        <Headers>
+          <Header Name="Tag" Type="TagName" />
+          <Header Name="Period" Type="Real" />
+          <Header Name="Set" Type="Integer" />
+          <Header Name="Rate" Type="Integer" />
+          <Header Name="LogFile" Type="String" />
+          <Header Name="Mode" Type="Integer" />
+          <Header Name="Trigger" Type="TagName" />
+          <Header Name="Compression" Type="Integer" />
+          <Header Name="HousekeepPeriod" Type="Integer" />
+          <Header Name="Start" Type="Boolean" />
+        </Headers>
+        <Log Tag="[DatasourceName].{Analog Data Element}.value" Period="240" Set="0" Rate="10000" LogFile="C:\ProgramData\Adroit Technologies\Adroit\Configurations\Borchards Quarry_WWTP\Datalogs\Object Model Testing" Mode="0" Trigger="" Compression="0" HousekeepPeriod="90" Start="1" />
+      </Logging>
+      <DBLogging>
+        <Headers>
+          <Header Name="Name" Type="TagName" />
+          <Header Name="Method" Type="Integer" />
+          <Header Name="Interval" Type="Real" />
+          <Header Name="Trigger" Type="TagName" />
+          <Header Name="DisableOnStandby" Type="Boolean" />
+          <Header Name="Connection" Type="String" />
+          <Header Name="Table" Type="String" />
+          <Header Name="Enable" Type="Boolean" />
+          <Header Name="LogAsStringValues" Type="Boolean" />
+          <Header Name="HousekeepDays" Type="Integer" />
+          <Header Name="HousekeepFolder" Type="String" />
+        </Headers>
+        <TagList>
+          <Headers>
+            <Header Name="Name" Type="TagName" />
+            <Header Name="DBLogAgent" Type="TagName" />
+            <Header Name="Deadband" Type="Real" />
+          </Headers>
+        </TagList>
+      </DBLogging>
+      <Alarming>
+        <AlarmAgent Name="[DatasourceName].{Alarm Agent}" Description="Default Alarm Routing Agent">
+          <Types>
+            <Headers>
+              <Header Name="AlarmType" Type="String" />
+              <Header Name="AgentType" Type="String" />
+              <Header Name="StatusMask" Type="Integer" />
+              <Header Name="Slots" Type="String" />
+              <Header Name="OffState" Type="Boolean" />
+            </Headers>
+            <Type AlarmType="Alarm message" AgentType="Statistical" StatusMask="16777216" Slots="" OffState="0" />
+            <Type AlarmType="Activated" AgentType="Recipe" StatusMask="131072" Slots="" OffState="0" />
+            <Type AlarmType="Active" AgentType="Scheduler" StatusMask="65536" Slots="" OffState="0" />
+            <Type AlarmType="Alarm" AgentType="Device" StatusMask="1048576" Slots="" OffState="0" />
+            <Type AlarmType="Alarm message" AgentType="Statistical" StatusMask="16777216" Slots="" OffState="0" />
+            <Type AlarmType="BadData" AgentType="Expression" StatusMask="2097152" Slots="" OffState="0" />
+            <Type AlarmType="Bit00 Off" AgentType="Marshal" StatusMask="65536" Slots="dig00.textValue" OffState="1" />
+            <Type AlarmType="Bit00 On" AgentType="Marshal" StatusMask="65536" Slots="dig00.textValue" OffState="0" />
+            <Type AlarmType="Bit01 Off" AgentType="Marshal" StatusMask="131072" Slots="dig01.textValue" OffState="1" />
+            <Type AlarmType="Bit01 On" AgentType="Marshal" StatusMask="131072" Slots="dig01.textValue" OffState="0" />
+            <Type AlarmType="Bit02 Off" AgentType="Marshal" StatusMask="262144" Slots="dig02.textValue" OffState="1" />
+            <Type AlarmType="Bit02 On" AgentType="Marshal" StatusMask="262144" Slots="dig02.textValue" OffState="0" />
+            <Type AlarmType="Bit03 Off" AgentType="Marshal" StatusMask="524288" Slots="dig03.textValue" OffState="1" />
+            <Type AlarmType="Bit03 On" AgentType="Marshal" StatusMask="524288" Slots="dig03.textValue" OffState="0" />
+            <Type AlarmType="Bit04 Off" AgentType="Marshal" StatusMask="1048576" Slots="dig04.textValue" OffState="1" />
+            <Type AlarmType="Bit04 On" AgentType="Marshal" StatusMask="1048576" Slots="dig04.textValue" OffState="0" />
+            <Type AlarmType="Bit05 Off" AgentType="Marshal" StatusMask="2097152" Slots="dig05.textValue" OffState="1" />
+            <Type AlarmType="Bit05 On" AgentType="Marshal" StatusMask="2097152" Slots="dig05.textValue" OffState="0" />
+            <Type AlarmType="Bit06 Off" AgentType="Marshal" StatusMask="4194304" Slots="dig06.textValue" OffState="1" />
+            <Type AlarmType="Bit06 On" AgentType="Marshal" StatusMask="4194304" Slots="dig06.textValue" OffState="0" />
+            <Type AlarmType="Bit07 Off" AgentType="Marshal" StatusMask="8388608" Slots="dig07.textValue" OffState="1" />
+            <Type AlarmType="Bit07 On" AgentType="Marshal" StatusMask="8388608" Slots="dig07.textValue" OffState="0" />
+            <Type AlarmType="Bit08 Off" AgentType="Marshal" StatusMask="16777216" Slots="dig08.textValue" OffState="1" />
+            <Type AlarmType="Bit08 On" AgentType="Marshal" StatusMask="16777216" Slots="dig08.textValue" OffState="0" />
+            <Type AlarmType="Bit09 Off" AgentType="Marshal" StatusMask="33554432" Slots="dig09.textValue" OffState="1" />
+            <Type AlarmType="Bit09 On" AgentType="Marshal" StatusMask="33554432" Slots="dig09.textValue" OffState="0" />
+            <Type AlarmType="Bit10 Off" AgentType="Marshal" StatusMask="67108864" Slots="dig10.textValue" OffState="1" />
+            <Type AlarmType="Bit10 On" AgentType="Marshal" StatusMask="67108864" Slots="dig10.textValue" OffState="0" />
+            <Type AlarmType="Bit11 Off" AgentType="Marshal" StatusMask="134217728" Slots="dig11.textValue" OffState="1" />
+            <Type AlarmType="Bit11 On" AgentType="Marshal" StatusMask="134217728" Slots="dig11.textValue" OffState="0" />
+            <Type AlarmType="Bit12 Off" AgentType="Marshal" StatusMask="268435456" Slots="dig12.textValue" OffState="1" />
+            <Type AlarmType="Bit12 On" AgentType="Marshal" StatusMask="268435456" Slots="dig12.textValue" OffState="0" />
+            <Type AlarmType="Bit13 Off" AgentType="Marshal" StatusMask="536870912" Slots="dig13.textValue" OffState="1" />
+            <Type AlarmType="Bit13 On" AgentType="Marshal" StatusMask="536870912" Slots="dig13.textValue" OffState="0" />
+            <Type AlarmType="Bit14 Off" AgentType="Marshal" StatusMask="1073741824" Slots="dig14.textValue" OffState="1" />
+            <Type AlarmType="Bit14 On" AgentType="Marshal" StatusMask="1073741824" Slots="dig14.textValue" OffState="0" />
+            <Type AlarmType="Bit15 Off" AgentType="Marshal" StatusMask="-2147483648" Slots="dig15.textValue" OffState="1" />
+            <Type AlarmType="Bit15 On" AgentType="Marshal" StatusMask="-2147483648" Slots="dig15.textValue" OffState="0" />
+            <Type AlarmType="Changed" AgentType="Analog" StatusMask="4194304" Slots="value valuePrev" OffState="0" />
+            <Type AlarmType="Changed" AgentType="Digital" StatusMask="262144" Slots="value valuePrev" OffState="0" />
+            <Type AlarmType="CompilationError" AgentType="Script" StatusMask="262144" Slots="" OffState="0" />
+            <Type AlarmType="Connected" AgentType="DbAccess" StatusMask="131072" Slots="" OffState="0" />
+            <Type AlarmType="ConnectionError" AgentType="AlarmManagement" StatusMask="65536" Slots="connection" OffState="0" />
+            <Type AlarmType="ConnectionError" AgentType="DBLog" StatusMask="65536" Slots="connection" OffState="0" />
+            <Type AlarmType="ConnectionError" AgentType="DbAccess" StatusMask="1048576" Slots="" OffState="0" />
+            <Type AlarmType="Disconnected" AgentType="DbAccess" StatusMask="65536" Slots="" OffState="0" />
+            <Type AlarmType="EHigh" AgentType="PID" StatusMask="1048576" Slots="value" OffState="0" />
+            <Type AlarmType="EHigh-High" AgentType="PID" StatusMask="2097152" Slots="value" OffState="0" />
+            <Type AlarmType="ETZero" AgentType="Expression" StatusMask="65536" Slots="" OffState="0" />
+            <Type AlarmType="Error" AgentType="SNMPManager" StatusMask="2097152" Slots="errorMsg" OffState="0" />
+            <Type AlarmType="ExecutionFailure" AgentType="Recipe" StatusMask="524288" Slots="" OffState="0" />
+            <Type AlarmType="GTEZero" AgentType="Expression" StatusMask="524288" Slots="" OffState="0" />
+            <Type AlarmType="GTZero" AgentType="Expression" StatusMask="131072" Slots="" OffState="0" />
+            <Type AlarmType="Healthy" AgentType="Device" StatusMask="131072" Slots="" OffState="0" />
+            <Type AlarmType="High" AgentType="Analog" StatusMask="262144" Slots="value hi unit" OffState="0" />
+            <Type AlarmType="High" AgentType="PID" StatusMask="262144" Slots="value" OffState="0" />
+            <Type AlarmType="High-High" AgentType="PID" StatusMask="524288" Slots="value" OffState="0" />
+            <Type AlarmType="High-high" AgentType="Analog" StatusMask="524288" Slots="value hiHi unit" OffState="0" />
+            <Type AlarmType="Invalid" AgentType="StringList" StatusMask="65536" Slots="index" OffState="0" />
+            <Type AlarmType="InvalidConnection" AgentType="SNMPManager" StatusMask="65536" Slots="ipAddress community" OffState="0" />
+            <Type AlarmType="LBAverage" AgentType="Statistical" StatusMask="1048576" Slots="" OffState="0" />
+            <Type AlarmType="LBMin" AgentType="Statistical" StatusMask="262144" Slots="" OffState="0" />
+            <Type AlarmType="LBTotal" AgentType="Statistical" StatusMask="4194304" Slots="" OffState="0" />
+            <Type AlarmType="LTEZero" AgentType="Expression" StatusMask="1048576" Slots="" OffState="0" />
+            <Type AlarmType="LTZero" AgentType="Expression" StatusMask="262144" Slots="" OffState="0" />
+            <Type AlarmType="Low" AgentType="Analog" StatusMask="65536" Slots="value lo unit" OffState="0" />
+            <Type AlarmType="Low" AgentType="PID" StatusMask="65536" Slots="value" OffState="0" />
+            <Type AlarmType="Low-Low" AgentType="PID" StatusMask="131072" Slots="value" OffState="0" />
+            <Type AlarmType="Low-low" AgentType="Analog" StatusMask="131072" Slots="value loLo unit" OffState="0" />
+            <Type AlarmType="MaxDemand" AgentType="MaxDemand" StatusMask="65536" Slots="mdPredict mdLimit" OffState="0" />
+            <Type AlarmType="NewMaxValue" AgentType="Statistical" StatusMask="131072" Slots="" OffState="0" />
+            <Type AlarmType="NewMinValue" AgentType="Statistical" StatusMask="65536" Slots="" OffState="0" />
+            <Type AlarmType="Off" AgentType="Digital" StatusMask="65536" Slots="textValue" OffState="0" />
+            <Type AlarmType="OffCount" AgentType="Counter" StatusMask="2097152" Slots="" OffState="0" />
+            <Type AlarmType="OffTime" AgentType="Counter" StatusMask="524288" Slots="" OffState="0" />
+            <Type AlarmType="On" AgentType="Digital" StatusMask="131072" Slots="textValue" OffState="0" />
+            <Type AlarmType="OnCount" AgentType="Counter" StatusMask="262144" Slots="" OffState="0" />
+            <Type AlarmType="OnTime" AgentType="Counter" StatusMask="65536" Slots="" OffState="0" />
+            <Type AlarmType="OutOfRange" AgentType="Analog" StatusMask="8388608" Slots="rawValue" OffState="0" />
+            <Type AlarmType="OverrunError" AgentType="DbAccess" StatusMask="524288" Slots="" OffState="0" />
+            <Type AlarmType="OverrunError" AgentType="Script" StatusMask="1048576" Slots="" OffState="0" />
+            <Type AlarmType="Primary" AgentType="Device" StatusMask="2097152" Slots="" OffState="0" />
+            <Type AlarmType="PulseError" AgentType="MaxDemand" StatusMask="262144" Slots="" OffState="0" />
+            <Type AlarmType="QueryError" AgentType="AlarmManagement" StatusMask="131072" Slots="" OffState="0" />
+            <Type AlarmType="QueueDump" AgentType="DBLog" StatusMask="524288" Slots="" OffState="0" />
+            <Type AlarmType="QueueFilling" AgentType="DBLog" StatusMask="262144" Slots="" OffState="0" />
+            <Type AlarmType="Rate-of-change" AgentType="Analog" StatusMask="1048576" Slots="value valuePrev roc" OffState="0" />
+            <Type AlarmType="Ready" AgentType="Recipe" StatusMask="65536" Slots="" OffState="0" />
+            <Type AlarmType="ReasonsRequired" AgentType="AlarmManagement" StatusMask="262144" Slots="" OffState="0" />
+            <Type AlarmType="Running" AgentType="Device" StatusMask="262144" Slots="" OffState="0" />
+            <Type AlarmType="Running" AgentType="Digital" StatusMask="131072" Slots="" OffState="0" />
+            <Type AlarmType="Running" AgentType="Script" StatusMask="131072" Slots="" OffState="0" />
+            <Type AlarmType="RuntimeError" AgentType="Script" StatusMask="524288" Slots="" OffState="0" />
+            <Type AlarmType="Secondary" AgentType="Device" StatusMask="4194304" Slots="" OffState="0" />
+            <Type AlarmType="SendError" AgentType="Command" StatusMask="65536" Slots="rawValue" OffState="0" />
+            <Type AlarmType="SignalError" AgentType="Command" StatusMask="16777216" Slots="signalStrength" OffState="0" />
+            <Type AlarmType="Started" AgentType="Device" StatusMask="65536" Slots="" OffState="0" />
+            <Type AlarmType="Stopped" AgentType="Device" StatusMask="524288" Slots="" OffState="0" />
+            <Type AlarmType="Stopped" AgentType="Digital" StatusMask="65536" Slots="" OffState="0" />
+            <Type AlarmType="Stopped" AgentType="SNMPManager" StatusMask="131072" Slots="" OffState="0" />
+            <Type AlarmType="TotalOffTime" AgentType="Counter" StatusMask="1048576" Slots="" OffState="0" />
+            <Type AlarmType="TotalOnTime" AgentType="Counter" StatusMask="131072" Slots="" OffState="0" />
+            <Type AlarmType="TransactionError" AgentType="DBLog" StatusMask="131072" Slots="" OffState="0" />
+            <Type AlarmType="TransactionError" AgentType="DbAccess" StatusMask="262144" Slots="" OffState="0" />
+            <Type AlarmType="TransactionSuccess" AgentType="DbAccess" StatusMask="2097152" Slots="" OffState="0" />
+            <Type AlarmType="Transmit" AgentType="Notify" StatusMask="65536" Slots="" OffState="0" />
+            <Type AlarmType="UBAverage" AgentType="Statistical" StatusMask="2097152" Slots="" OffState="0" />
+            <Type AlarmType="UBMin" AgentType="Statistical" StatusMask="524288" Slots="" OffState="0" />
+            <Type AlarmType="UBTotal" AgentType="Statistical" StatusMask="8388608" Slots="" OffState="0" />
+            <Type AlarmType="Unlicenced" AgentType="AlarmManagement" StatusMask="524288" Slots="" OffState="0" />
+            <Type AlarmType="Unlicenced" AgentType="MaxDemand" StatusMask="131072" Slots="" OffState="0" />
+            <Type AlarmType="Unlicenced" AgentType="SNMPManager" StatusMask="524288" Slots="errorMsg" OffState="0" />
+            <Type AlarmType="VerificationFailure" AgentType="Recipe" StatusMask="262144" Slots="" OffState="0" />
+          </Types>
+          <Routes>
+            <Headers>
+              <Header Name="Number" Type="Integer" />
+              <Header Name="AlarmListAgents" Type="String" />
+              <Header Name="AudioAgents" Type="String" />
+              <Header Name="OutputAgents" Type="String" />
+              <Header Name="EventLogs" Type="String" />
+            </Headers>
+            <Route Number="0" AlarmListAgents="" AudioAgents="" OutputAgents="" EventLogs="LOCAL" />
+            <Route Number="1" AlarmListAgents="" AudioAgents="" OutputAgents="" EventLogs="LOCAL" />
+            <Route Number="2" AlarmListAgents="[DatasourceName].{Alarm List}" AudioAgents="[DatasourceName].aBeeper.start" OutputAgents="" EventLogs="LOCAL" />
+            <Route Number="3" AlarmListAgents="" AudioAgents="" OutputAgents="" EventLogs="LOCAL" />
+          </Routes>
+          <Alarms>
+            <Headers>
+              <Header Name="Agent" Type="TagName" />
+              <Header Name="Type" Type="String" />
+              <Header Name="Route" Type="Integer" Values="0,1,2,3" />
+              <Header Name="Ack" Type="Boolean" />
+              <Header Name="Priority" Type="Integer" Values="0,1,2,3,4" />
+              <Header Name="Delay" Type="Integer" />
+              <Header Name="Condition" Type="String" />
+            </Headers>
+          </Alarms>
+        </AlarmAgent>
+        <AlarmAgent Name="[DatasourceName].[DatasourceName].[DatasourceName].{Alarm Agent}" Description="Default Alarm Routing Agent">
+          <Types>
+            <Headers>
+              <Header Name="AlarmType" Type="String" />
+              <Header Name="AgentType" Type="String" />
+              <Header Name="StatusMask" Type="Integer" />
+              <Header Name="Slots" Type="String" />
+              <Header Name="OffState" Type="Boolean" />
+            </Headers>
+            <Type AlarmType="Alarm message" AgentType="Statistical" StatusMask="16777216" Slots="" OffState="0" />
+            <Type AlarmType="Activated" AgentType="Recipe" StatusMask="131072" Slots="" OffState="0" />
+            <Type AlarmType="Active" AgentType="Scheduler" StatusMask="65536" Slots="" OffState="0" />
+            <Type AlarmType="Alarm" AgentType="Device" StatusMask="1048576" Slots="" OffState="0" />
+            <Type AlarmType="Alarm message" AgentType="Statistical" StatusMask="16777216" Slots="" OffState="0" />
+            <Type AlarmType="BadData" AgentType="Expression" StatusMask="2097152" Slots="" OffState="0" />
+            <Type AlarmType="Bit00 Off" AgentType="Marshal" StatusMask="65536" Slots="dig00.textValue" OffState="1" />
+            <Type AlarmType="Bit00 On" AgentType="Marshal" StatusMask="65536" Slots="dig00.textValue" OffState="0" />
+            <Type AlarmType="Bit01 Off" AgentType="Marshal" StatusMask="131072" Slots="dig01.textValue" OffState="1" />
+            <Type AlarmType="Bit01 On" AgentType="Marshal" StatusMask="131072" Slots="dig01.textValue" OffState="0" />
+            <Type AlarmType="Bit02 Off" AgentType="Marshal" StatusMask="262144" Slots="dig02.textValue" OffState="1" />
+            <Type AlarmType="Bit02 On" AgentType="Marshal" StatusMask="262144" Slots="dig02.textValue" OffState="0" />
+            <Type AlarmType="Bit03 Off" AgentType="Marshal" StatusMask="524288" Slots="dig03.textValue" OffState="1" />
+            <Type AlarmType="Bit03 On" AgentType="Marshal" StatusMask="524288" Slots="dig03.textValue" OffState="0" />
+            <Type AlarmType="Bit04 Off" AgentType="Marshal" StatusMask="1048576" Slots="dig04.textValue" OffState="1" />
+            <Type AlarmType="Bit04 On" AgentType="Marshal" StatusMask="1048576" Slots="dig04.textValue" OffState="0" />
+            <Type AlarmType="Bit05 Off" AgentType="Marshal" StatusMask="2097152" Slots="dig05.textValue" OffState="1" />
+            <Type AlarmType="Bit05 On" AgentType="Marshal" StatusMask="2097152" Slots="dig05.textValue" OffState="0" />
+            <Type AlarmType="Bit06 Off" AgentType="Marshal" StatusMask="4194304" Slots="dig06.textValue" OffState="1" />
+            <Type AlarmType="Bit06 On" AgentType="Marshal" StatusMask="4194304" Slots="dig06.textValue" OffState="0" />
+            <Type AlarmType="Bit07 Off" AgentType="Marshal" StatusMask="8388608" Slots="dig07.textValue" OffState="1" />
+            <Type AlarmType="Bit07 On" AgentType="Marshal" StatusMask="8388608" Slots="dig07.textValue" OffState="0" />
+            <Type AlarmType="Bit08 Off" AgentType="Marshal" StatusMask="16777216" Slots="dig08.textValue" OffState="1" />
+            <Type AlarmType="Bit08 On" AgentType="Marshal" StatusMask="16777216" Slots="dig08.textValue" OffState="0" />
+            <Type AlarmType="Bit09 Off" AgentType="Marshal" StatusMask="33554432" Slots="dig09.textValue" OffState="1" />
+            <Type AlarmType="Bit09 On" AgentType="Marshal" StatusMask="33554432" Slots="dig09.textValue" OffState="0" />
+            <Type AlarmType="Bit10 Off" AgentType="Marshal" StatusMask="67108864" Slots="dig10.textValue" OffState="1" />
+            <Type AlarmType="Bit10 On" AgentType="Marshal" StatusMask="67108864" Slots="dig10.textValue" OffState="0" />
+            <Type AlarmType="Bit11 Off" AgentType="Marshal" StatusMask="134217728" Slots="dig11.textValue" OffState="1" />
+            <Type AlarmType="Bit11 On" AgentType="Marshal" StatusMask="134217728" Slots="dig11.textValue" OffState="0" />
+            <Type AlarmType="Bit12 Off" AgentType="Marshal" StatusMask="268435456" Slots="dig12.textValue" OffState="1" />
+            <Type AlarmType="Bit12 On" AgentType="Marshal" StatusMask="268435456" Slots="dig12.textValue" OffState="0" />
+            <Type AlarmType="Bit13 Off" AgentType="Marshal" StatusMask="536870912" Slots="dig13.textValue" OffState="1" />
+            <Type AlarmType="Bit13 On" AgentType="Marshal" StatusMask="536870912" Slots="dig13.textValue" OffState="0" />
+            <Type AlarmType="Bit14 Off" AgentType="Marshal" StatusMask="1073741824" Slots="dig14.textValue" OffState="1" />
+            <Type AlarmType="Bit14 On" AgentType="Marshal" StatusMask="1073741824" Slots="dig14.textValue" OffState="0" />
+            <Type AlarmType="Bit15 Off" AgentType="Marshal" StatusMask="-2147483648" Slots="dig15.textValue" OffState="1" />
+            <Type AlarmType="Bit15 On" AgentType="Marshal" StatusMask="-2147483648" Slots="dig15.textValue" OffState="0" />
+            <Type AlarmType="Changed" AgentType="Analog" StatusMask="4194304" Slots="value valuePrev" OffState="0" />
+            <Type AlarmType="Changed" AgentType="Digital" StatusMask="262144" Slots="value valuePrev" OffState="0" />
+            <Type AlarmType="CompilationError" AgentType="Script" StatusMask="262144" Slots="" OffState="0" />
+            <Type AlarmType="Connected" AgentType="DbAccess" StatusMask="131072" Slots="" OffState="0" />
+            <Type AlarmType="ConnectionError" AgentType="AlarmManagement" StatusMask="65536" Slots="connection" OffState="0" />
+            <Type AlarmType="ConnectionError" AgentType="DBLog" StatusMask="65536" Slots="connection" OffState="0" />
+            <Type AlarmType="ConnectionError" AgentType="DbAccess" StatusMask="1048576" Slots="" OffState="0" />
+            <Type AlarmType="Disconnected" AgentType="DbAccess" StatusMask="65536" Slots="" OffState="0" />
+            <Type AlarmType="EHigh" AgentType="PID" StatusMask="1048576" Slots="value" OffState="0" />
+            <Type AlarmType="EHigh-High" AgentType="PID" StatusMask="2097152" Slots="value" OffState="0" />
+            <Type AlarmType="ETZero" AgentType="Expression" StatusMask="65536" Slots="" OffState="0" />
+            <Type AlarmType="Error" AgentType="SNMPManager" StatusMask="2097152" Slots="errorMsg" OffState="0" />
+            <Type AlarmType="ExecutionFailure" AgentType="Recipe" StatusMask="524288" Slots="" OffState="0" />
+            <Type AlarmType="GTEZero" AgentType="Expression" StatusMask="524288" Slots="" OffState="0" />
+            <Type AlarmType="GTZero" AgentType="Expression" StatusMask="131072" Slots="" OffState="0" />
+            <Type AlarmType="Healthy" AgentType="Device" StatusMask="131072" Slots="" OffState="0" />
+            <Type AlarmType="High" AgentType="Analog" StatusMask="262144" Slots="value hi unit" OffState="0" />
+            <Type AlarmType="High" AgentType="PID" StatusMask="262144" Slots="value" OffState="0" />
+            <Type AlarmType="High-High" AgentType="PID" StatusMask="524288" Slots="value" OffState="0" />
+            <Type AlarmType="High-high" AgentType="Analog" StatusMask="524288" Slots="value hiHi unit" OffState="0" />
+            <Type AlarmType="Invalid" AgentType="StringList" StatusMask="65536" Slots="index" OffState="0" />
+            <Type AlarmType="InvalidConnection" AgentType="SNMPManager" StatusMask="65536" Slots="ipAddress community" OffState="0" />
+            <Type AlarmType="LBAverage" AgentType="Statistical" StatusMask="1048576" Slots="" OffState="0" />
+            <Type AlarmType="LBMin" AgentType="Statistical" StatusMask="262144" Slots="" OffState="0" />
+            <Type AlarmType="LBTotal" AgentType="Statistical" StatusMask="4194304" Slots="" OffState="0" />
+            <Type AlarmType="LTEZero" AgentType="Expression" StatusMask="1048576" Slots="" OffState="0" />
+            <Type AlarmType="LTZero" AgentType="Expression" StatusMask="262144" Slots="" OffState="0" />
+            <Type AlarmType="Low" AgentType="Analog" StatusMask="65536" Slots="value lo unit" OffState="0" />
+            <Type AlarmType="Low" AgentType="PID" StatusMask="65536" Slots="value" OffState="0" />
+            <Type AlarmType="Low-Low" AgentType="PID" StatusMask="131072" Slots="value" OffState="0" />
+            <Type AlarmType="Low-low" AgentType="Analog" StatusMask="131072" Slots="value loLo unit" OffState="0" />
+            <Type AlarmType="MaxDemand" AgentType="MaxDemand" StatusMask="65536" Slots="mdPredict mdLimit" OffState="0" />
+            <Type AlarmType="NewMaxValue" AgentType="Statistical" StatusMask="131072" Slots="" OffState="0" />
+            <Type AlarmType="NewMinValue" AgentType="Statistical" StatusMask="65536" Slots="" OffState="0" />
+            <Type AlarmType="Off" AgentType="Digital" StatusMask="65536" Slots="textValue" OffState="0" />
+            <Type AlarmType="OffCount" AgentType="Counter" StatusMask="2097152" Slots="" OffState="0" />
+            <Type AlarmType="OffTime" AgentType="Counter" StatusMask="524288" Slots="" OffState="0" />
+            <Type AlarmType="On" AgentType="Digital" StatusMask="131072" Slots="textValue" OffState="0" />
+            <Type AlarmType="OnCount" AgentType="Counter" StatusMask="262144" Slots="" OffState="0" />
+            <Type AlarmType="OnTime" AgentType="Counter" StatusMask="65536" Slots="" OffState="0" />
+            <Type AlarmType="OutOfRange" AgentType="Analog" StatusMask="8388608" Slots="rawValue" OffState="0" />
+            <Type AlarmType="OverrunError" AgentType="DbAccess" StatusMask="524288" Slots="" OffState="0" />
+            <Type AlarmType="OverrunError" AgentType="Script" StatusMask="1048576" Slots="" OffState="0" />
+            <Type AlarmType="Primary" AgentType="Device" StatusMask="2097152" Slots="" OffState="0" />
+            <Type AlarmType="PulseError" AgentType="MaxDemand" StatusMask="262144" Slots="" OffState="0" />
+            <Type AlarmType="QueryError" AgentType="AlarmManagement" StatusMask="131072" Slots="" OffState="0" />
+            <Type AlarmType="QueueDump" AgentType="DBLog" StatusMask="524288" Slots="" OffState="0" />
+            <Type AlarmType="QueueFilling" AgentType="DBLog" StatusMask="262144" Slots="" OffState="0" />
+            <Type AlarmType="Rate-of-change" AgentType="Analog" StatusMask="1048576" Slots="value valuePrev roc" OffState="0" />
+            <Type AlarmType="Ready" AgentType="Recipe" StatusMask="65536" Slots="" OffState="0" />
+            <Type AlarmType="ReasonsRequired" AgentType="AlarmManagement" StatusMask="262144" Slots="" OffState="0" />
+            <Type AlarmType="Running" AgentType="Device" StatusMask="262144" Slots="" OffState="0" />
+            <Type AlarmType="Running" AgentType="Digital" StatusMask="131072" Slots="" OffState="0" />
+            <Type AlarmType="Running" AgentType="Script" StatusMask="131072" Slots="" OffState="0" />
+            <Type AlarmType="RuntimeError" AgentType="Script" StatusMask="524288" Slots="" OffState="0" />
+            <Type AlarmType="Secondary" AgentType="Device" StatusMask="4194304" Slots="" OffState="0" />
+            <Type AlarmType="SendError" AgentType="Command" StatusMask="65536" Slots="rawValue" OffState="0" />
+            <Type AlarmType="SignalError" AgentType="Command" StatusMask="16777216" Slots="signalStrength" OffState="0" />
+            <Type AlarmType="Started" AgentType="Device" StatusMask="65536" Slots="" OffState="0" />
+            <Type AlarmType="Stopped" AgentType="Device" StatusMask="524288" Slots="" OffState="0" />
+            <Type AlarmType="Stopped" AgentType="Digital" StatusMask="65536" Slots="" OffState="0" />
+            <Type AlarmType="Stopped" AgentType="SNMPManager" StatusMask="131072" Slots="" OffState="0" />
+            <Type AlarmType="TotalOffTime" AgentType="Counter" StatusMask="1048576" Slots="" OffState="0" />
+            <Type AlarmType="TotalOnTime" AgentType="Counter" StatusMask="131072" Slots="" OffState="0" />
+            <Type AlarmType="TransactionError" AgentType="DBLog" StatusMask="131072" Slots="" OffState="0" />
+            <Type AlarmType="TransactionError" AgentType="DbAccess" StatusMask="262144" Slots="" OffState="0" />
+            <Type AlarmType="TransactionSuccess" AgentType="DbAccess" StatusMask="2097152" Slots="" OffState="0" />
+            <Type AlarmType="Transmit" AgentType="Notify" StatusMask="65536" Slots="" OffState="0" />
+            <Type AlarmType="UBAverage" AgentType="Statistical" StatusMask="2097152" Slots="" OffState="0" />
+            <Type AlarmType="UBMin" AgentType="Statistical" StatusMask="524288" Slots="" OffState="0" />
+            <Type AlarmType="UBTotal" AgentType="Statistical" StatusMask="8388608" Slots="" OffState="0" />
+            <Type AlarmType="Unlicenced" AgentType="AlarmManagement" StatusMask="524288" Slots="" OffState="0" />
+            <Type AlarmType="Unlicenced" AgentType="MaxDemand" StatusMask="131072" Slots="" OffState="0" />
+            <Type AlarmType="Unlicenced" AgentType="SNMPManager" StatusMask="524288" Slots="errorMsg" OffState="0" />
+            <Type AlarmType="VerificationFailure" AgentType="Recipe" StatusMask="262144" Slots="" OffState="0" />
+          </Types>
+          <Routes>
+            <Headers>
+              <Header Name="Number" Type="Integer" />
+              <Header Name="AlarmListAgents" Type="String" />
+              <Header Name="AudioAgents" Type="String" />
+              <Header Name="OutputAgents" Type="String" />
+              <Header Name="EventLogs" Type="String" />
+            </Headers>
+            <Route Number="0" AlarmListAgents="" AudioAgents="" OutputAgents="" EventLogs="LOCAL" />
+            <Route Number="1" AlarmListAgents="" AudioAgents="" OutputAgents="" EventLogs="LOCAL" />
+            <Route Number="2" AlarmListAgents="[DatasourceName].[DatasourceName].[DatasourceName].{Alarm List}" AudioAgents="[DatasourceName].aBeeper.start" OutputAgents="" EventLogs="LOCAL" />
+            <Route Number="3" AlarmListAgents="" AudioAgents="" OutputAgents="" EventLogs="LOCAL" />
+          </Routes>
+          <Alarms>
+            <Headers>
+              <Header Name="Agent" Type="TagName" />
+              <Header Name="Type" Type="String" />
+              <Header Name="Route" Type="Integer" Values="0,1,2,3" />
+              <Header Name="Ack" Type="Boolean" />
+              <Header Name="Priority" Type="Integer" Values="0,1,2,3,4" />
+              <Header Name="Delay" Type="Integer" />
+              <Header Name="Condition" Type="String" />
+            </Headers>
+            <Alarm Agent="[DatasourceName].{Analog Data Element}" Type="Low" Route="2" Ack="0" Priority="2" Delay="0" Condition="" />
+            <Alarm Agent="[DatasourceName].{Analog Data Element}" Type="High-high" Route="2" Ack="1" Priority="4" Delay="0" Condition="" />
+            <Alarm Agent="[DatasourceName].{Analog Data Element}" Type="Low-low" Route="2" Ack="0" Priority="2" Delay="0" Condition="" />
+            <Alarm Agent="[DatasourceName].{Analog Data Element}" Type="High" Route="2" Ack="1" Priority="3" Delay="0" Condition="" />
+          </Alarms>
+        </AlarmAgent>
+      </Alarming>
+    </Section>
+    <Security>
+      <Tag Name="Adroit.AlarmList.{Alarm List}">
+        <Group Name="Administrators" ConfigureAccess="true" ReadAccess="true" WiteAccess="true" RemoveAccess="true" />
+        <User Name="Guest" ConfigureAccess="false" ReadAccess="true" WiteAccess="true" RemoveAccess="false" />
+        <User Name="Adr_Admin" ConfigureAccess="true" ReadAccess="true" WiteAccess="true" RemoveAccess="true" />
+        <Audit>true</Audit>
+        <AuthorizationRequired>true</AuthorizationRequired>
+      </Tag>
+    </Security>
+  </Sections>
+</Template>
