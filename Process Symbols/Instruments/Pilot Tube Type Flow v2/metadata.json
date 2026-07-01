@@ -1,0 +1,24 @@
+{
+  "id": "2f1854a1-c46c-4796-a79c-893fa6b614ef",
+  "name": "Pilot Tube Type Flow v2",
+  "description": "A Pilot Tube Type Flow v2.",
+  "author": "Adroit Technologies",
+  "category": "Instruments",
+  "version": "1.0.0",
+  "fileName": "Pilot Tube Type Flow v2.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Pilot Tube Type Flow v2.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [],
+  "tags": [
+    "Flow Meter"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

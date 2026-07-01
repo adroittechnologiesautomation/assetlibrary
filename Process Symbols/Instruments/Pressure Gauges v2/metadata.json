@@ -1,0 +1,24 @@
+{
+  "id": "19abd91f-3ef8-450e-803a-617c6449aeb1",
+  "name": "Pressure Gauges v2",
+  "description": "A Pressure Gauges v2.",
+  "author": "Adroit Technologies",
+  "category": "Instruments",
+  "version": "1.0.0",
+  "fileName": "Pressure Gauges v2.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Pressure Gauges v2.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [],
+  "tags": [
+    "Pressure Instrument"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

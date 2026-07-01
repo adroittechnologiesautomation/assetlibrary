@@ -1,0 +1,22 @@
+{
+  "id": "38198fd1-82a0-4ced-922b-a2050a3c63f2",
+  "name": "Computer Indicator v1",
+  "description": "A Computer Indicator v1.",
+  "author": "Adroit Technologies",
+  "category": "Instruments",
+  "version": "1.0.0",
+  "fileName": "Computer Indicator v1.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Computer Indicator v1.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [],
+  "tags": [],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

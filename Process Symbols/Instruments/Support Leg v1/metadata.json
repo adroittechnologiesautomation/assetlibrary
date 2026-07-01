@@ -1,0 +1,22 @@
+{
+  "id": "7d311c05-dad1-4dba-875b-bf44feaf2af3",
+  "name": "Support Leg v1",
+  "description": "A Support Leg v1.",
+  "author": "Adroit Technologies",
+  "category": "Instruments",
+  "version": "1.0.0",
+  "fileName": "Support Leg v1.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Support Leg v1.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [],
+  "tags": [],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

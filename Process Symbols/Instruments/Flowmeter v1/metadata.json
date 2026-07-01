@@ -1,0 +1,24 @@
+{
+  "id": "0c801495-f3a9-46b2-a529-e0d6a55b656d",
+  "name": "Flowmeter v1",
+  "description": "A Flowmeter v1.",
+  "author": "Adroit Technologies",
+  "category": "Instruments",
+  "version": "1.0.0",
+  "fileName": "Flowmeter v1.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Flowmeter v1.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [],
+  "tags": [
+    "Flow Meter"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

@@ -1,0 +1,24 @@
+{
+  "id": "25cbc29b-d385-46fd-92c9-9e92646bf074",
+  "name": "Flow Indicator v1",
+  "description": "A Flow Indicator v1.",
+  "author": "Adroit Technologies",
+  "category": "Instruments",
+  "version": "1.0.0",
+  "fileName": "Flow Indicator v1.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Flow Indicator v1.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [],
+  "tags": [
+    "Flow Meter"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

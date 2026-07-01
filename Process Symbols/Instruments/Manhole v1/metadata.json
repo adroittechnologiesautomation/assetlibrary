@@ -1,0 +1,22 @@
+{
+  "id": "89862d9d-f4eb-4676-898e-8210e654c62d",
+  "name": "Manhole v1",
+  "description": "A Manhole v1.",
+  "author": "Adroit Technologies",
+  "category": "Instruments",
+  "version": "1.0.0",
+  "fileName": "Manhole v1.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Manhole v1.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [],
+  "tags": [],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

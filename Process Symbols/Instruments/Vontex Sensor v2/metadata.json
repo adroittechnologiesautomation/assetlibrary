@@ -1,0 +1,28 @@
+{
+  "id": "65e8ef3e-24cd-4ae4-b126-b54ddd7d6ee2",
+  "name": "Vontex Sensor v2",
+  "description": "A Vontex Sensor v2.",
+  "author": "Adroit Technologies",
+  "category": "Instruments",
+  "version": "1.0.0",
+  "fileName": "Vontex Sensor v2.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Vontex Sensor v2.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [
+    "Manufacturing",
+    "Building Automation",
+    "Data Centers"
+  ],
+  "tags": [
+    "Sensor"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

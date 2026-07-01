@@ -1,0 +1,24 @@
+{
+  "id": "1f876cde-b709-4b81-9576-759fb3677909",
+  "name": "Flow Recorder v2",
+  "description": "A Flow Recorder v2.",
+  "author": "Adroit Technologies",
+  "category": "Instruments",
+  "version": "1.0.0",
+  "fileName": "Flow Recorder v2.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Flow Recorder v2.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [],
+  "tags": [
+    "Flow Meter"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

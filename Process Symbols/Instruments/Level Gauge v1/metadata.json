@@ -1,0 +1,24 @@
+{
+  "id": "977ec2fc-47b4-4622-85a0-cf8abe6d05da",
+  "name": "Level Gauge v1",
+  "description": "A Level Gauge v1.",
+  "author": "Adroit Technologies",
+  "category": "Instruments",
+  "version": "1.0.0",
+  "fileName": "Level Gauge v1.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Level Gauge v1.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [],
+  "tags": [
+    "Level Instrument"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

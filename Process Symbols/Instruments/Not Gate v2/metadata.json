@@ -1,0 +1,24 @@
+{
+  "id": "d277fa1e-d4da-40d0-85ee-3e78d97c3203",
+  "name": "Not Gate v2",
+  "description": "A Not Gate v2.",
+  "author": "Adroit Technologies",
+  "category": "Instruments",
+  "version": "1.0.0",
+  "fileName": "Not Gate v2.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Not Gate v2.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [],
+  "tags": [
+    "Gate"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

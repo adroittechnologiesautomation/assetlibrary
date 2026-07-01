@@ -1,0 +1,25 @@
+{
+  "id": "2aaf62ce-80ed-4973-a5b8-7b05a52bfb32",
+  "name": "Level Controller v1",
+  "description": "A Level Controller v1.",
+  "author": "Adroit Technologies",
+  "category": "Instruments",
+  "version": "1.0.0",
+  "fileName": "Level Controller v1.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Level Controller v1.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [],
+  "tags": [
+    "Level Instrument",
+    "Roller"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

@@ -1,0 +1,24 @@
+{
+  "id": "79ea388c-11ec-4d4d-9f74-8aff75348d84",
+  "name": "Ultrasonic Meter v1",
+  "description": "A Ultrasonic Meter v1.",
+  "author": "Adroit Technologies",
+  "category": "Instruments",
+  "version": "1.0.0",
+  "fileName": "Ultrasonic Meter v1.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Ultrasonic Meter v1.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [],
+  "tags": [
+    "Meter"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

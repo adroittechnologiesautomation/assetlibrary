@@ -1,0 +1,25 @@
+{
+  "id": "092399e9-00ff-47d3-bdc9-1c6781a5ed14",
+  "name": "Turbine Meter v2",
+  "description": "A Turbine Meter v2.",
+  "author": "Adroit Technologies",
+  "category": "Instruments",
+  "version": "1.0.0",
+  "fileName": "Turbine Meter v2.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Turbine Meter v2.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [],
+  "tags": [
+    "Meter",
+    "Turbine"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

@@ -1,0 +1,24 @@
+{
+  "id": "1b15110d-7981-4f5b-b78a-8c7f8a6093c9",
+  "name": "Pressure Transmitter v1",
+  "description": "A Pressure Transmitter v1.",
+  "author": "Adroit Technologies",
+  "category": "Instruments",
+  "version": "1.0.0",
+  "fileName": "Pressure Transmitter v1.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Pressure Transmitter v1.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [],
+  "tags": [
+    "Pressure Instrument"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

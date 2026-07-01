@@ -1,0 +1,25 @@
+{
+  "id": "e5a8882f-be9e-4d55-9b0f-0e4bbd4f42f2",
+  "name": "V-cone Meter v1",
+  "description": "A V-cone Meter v1.",
+  "author": "Adroit Technologies",
+  "category": "Instruments",
+  "version": "1.0.0",
+  "fileName": "V-cone Meter v1.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "V-cone Meter v1.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [],
+  "tags": [
+    "Meter",
+    "Cone"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

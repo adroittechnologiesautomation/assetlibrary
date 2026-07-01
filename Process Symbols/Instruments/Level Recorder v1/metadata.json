@@ -1,0 +1,24 @@
+{
+  "id": "081b18ce-82b0-42a5-bb59-3395d02b34d7",
+  "name": "Level Recorder v1",
+  "description": "A Level Recorder v1.",
+  "author": "Adroit Technologies",
+  "category": "Instruments",
+  "version": "1.0.0",
+  "fileName": "Level Recorder v1.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Level Recorder v1.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [],
+  "tags": [
+    "Level Instrument"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

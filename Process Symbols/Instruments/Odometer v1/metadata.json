@@ -1,0 +1,24 @@
+{
+  "id": "d326683e-1771-42cd-a853-2d82b115aee7",
+  "name": "Odometer v1",
+  "description": "A Odometer v1.",
+  "author": "Adroit Technologies",
+  "category": "Instruments",
+  "version": "1.0.0",
+  "fileName": "Odometer v1.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Odometer v1.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [],
+  "tags": [
+    "Meter"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

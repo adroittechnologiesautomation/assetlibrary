@@ -1,0 +1,25 @@
+{
+  "id": "99515cf0-fa59-4dcf-bf8e-9d3c1ffc9bbf",
+  "name": "Pressure Controller v2",
+  "description": "A Pressure Controller v2.",
+  "author": "Adroit Technologies",
+  "category": "Instruments",
+  "version": "1.0.0",
+  "fileName": "Pressure Controller v2.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Pressure Controller v2.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [],
+  "tags": [
+    "Pressure Instrument",
+    "Roller"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

@@ -1,0 +1,24 @@
+{
+  "id": "d62baff3-ba36-49ab-81d2-1a8b884128b4",
+  "name": "Pressure Recorder v1",
+  "description": "A Pressure Recorder v1.",
+  "author": "Adroit Technologies",
+  "category": "Instruments",
+  "version": "1.0.0",
+  "fileName": "Pressure Recorder v1.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Pressure Recorder v1.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [],
+  "tags": [
+    "Pressure Instrument"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

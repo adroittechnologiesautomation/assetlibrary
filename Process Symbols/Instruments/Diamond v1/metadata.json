@@ -1,0 +1,22 @@
+{
+  "id": "d6d0b081-5770-479c-8d3d-999273e6bf8c",
+  "name": "Diamond v1",
+  "description": "A Diamond v1.",
+  "author": "Adroit Technologies",
+  "category": "Instruments",
+  "version": "1.0.0",
+  "fileName": "Diamond v1.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Diamond v1.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [],
+  "tags": [],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

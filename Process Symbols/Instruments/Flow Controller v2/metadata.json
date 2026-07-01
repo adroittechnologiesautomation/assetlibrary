@@ -1,0 +1,25 @@
+{
+  "id": "78db298d-34b8-4a41-9c4d-0f69859002ae",
+  "name": "Flow Controller v2",
+  "description": "A Flow Controller v2.",
+  "author": "Adroit Technologies",
+  "category": "Instruments",
+  "version": "1.0.0",
+  "fileName": "Flow Controller v2.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Flow Controller v2.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [],
+  "tags": [
+    "Flow Meter",
+    "Roller"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

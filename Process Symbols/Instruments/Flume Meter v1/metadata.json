@@ -1,0 +1,24 @@
+{
+  "id": "a0a85f85-4eac-4ae4-bdde-64bfc03794e1",
+  "name": "Flume Meter v1",
+  "description": "A Flume Meter v1.",
+  "author": "Adroit Technologies",
+  "category": "Instruments",
+  "version": "1.0.0",
+  "fileName": "Flume Meter v1.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Flume Meter v1.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [],
+  "tags": [
+    "Meter"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

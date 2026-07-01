@@ -1,0 +1,24 @@
+{
+  "id": "ed3fe412-b38a-41ce-8daa-ccfe614d96d0",
+  "name": "Rotometer v2",
+  "description": "A Rotometer v2.",
+  "author": "Adroit Technologies",
+  "category": "Instruments",
+  "version": "1.0.0",
+  "fileName": "Rotometer v2.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Rotometer v2.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [],
+  "tags": [
+    "Meter"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

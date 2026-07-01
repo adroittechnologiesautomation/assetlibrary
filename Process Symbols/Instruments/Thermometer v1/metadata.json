@@ -1,0 +1,24 @@
+{
+  "id": "d14f34e6-d7ab-4e94-bc9b-5cbb41f4d65c",
+  "name": "Thermometer v1",
+  "description": "A Thermometer v1.",
+  "author": "Adroit Technologies",
+  "category": "Instruments",
+  "version": "1.0.0",
+  "fileName": "Thermometer v1.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Thermometer v1.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [],
+  "tags": [
+    "Meter"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

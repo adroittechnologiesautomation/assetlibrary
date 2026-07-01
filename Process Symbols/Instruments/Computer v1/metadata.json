@@ -1,0 +1,22 @@
+{
+  "id": "9474f238-e60b-40d0-8169-cd7535669b40",
+  "name": "Computer v1",
+  "description": "A Computer v1.",
+  "author": "Adroit Technologies",
+  "category": "Instruments",
+  "version": "1.0.0",
+  "fileName": "Computer v1.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Computer v1.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [],
+  "tags": [],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

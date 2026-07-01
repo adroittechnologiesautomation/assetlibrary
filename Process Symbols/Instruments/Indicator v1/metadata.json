@@ -1,0 +1,22 @@
+{
+  "id": "6e96518a-1065-4e8a-b4e4-4d453aa20f31",
+  "name": "Indicator v1",
+  "description": "A Indicator v1.",
+  "author": "Adroit Technologies",
+  "category": "Instruments",
+  "version": "1.0.0",
+  "fileName": "Indicator v1.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Indicator v1.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [],
+  "tags": [],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

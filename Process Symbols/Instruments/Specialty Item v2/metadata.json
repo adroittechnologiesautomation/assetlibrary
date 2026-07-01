@@ -1,0 +1,22 @@
+{
+  "id": "8488e895-c887-4c61-bb35-d7a5747f4375",
+  "name": "Specialty Item v2",
+  "description": "A Specialty Item v2.",
+  "author": "Adroit Technologies",
+  "category": "Instruments",
+  "version": "1.0.0",
+  "fileName": "Specialty Item v2.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Specialty Item v2.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [],
+  "tags": [],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

@@ -1,0 +1,24 @@
+{
+  "id": "e15517ef-cc32-41a5-af44-ab0e09dbb8c9",
+  "name": "Temperature Element v1",
+  "description": "A Temperature Element v1.",
+  "author": "Adroit Technologies",
+  "category": "Instruments",
+  "version": "1.0.0",
+  "fileName": "Temperature Element v1.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Temperature Element v1.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [],
+  "tags": [
+    "Temperature Instrument"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

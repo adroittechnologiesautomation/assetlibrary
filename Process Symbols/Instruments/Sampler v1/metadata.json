@@ -1,0 +1,22 @@
+{
+  "id": "46562906-a932-4ad3-a711-aba2941ba14c",
+  "name": "Sampler v1",
+  "description": "A Sampler v1.",
+  "author": "Adroit Technologies",
+  "category": "Instruments",
+  "version": "1.0.0",
+  "fileName": "Sampler v1.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Sampler v1.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [],
+  "tags": [],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

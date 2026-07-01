@@ -1,0 +1,22 @@
+{
+  "id": "f8b1ef64-ada3-4c7e-8516-6e6d2ea93a7a",
+  "name": "Shared Indicator v2",
+  "description": "A Shared Indicator v2.",
+  "author": "Adroit Technologies",
+  "category": "Instruments",
+  "version": "1.0.0",
+  "fileName": "Shared Indicator v2.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Shared Indicator v2.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [],
+  "tags": [],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

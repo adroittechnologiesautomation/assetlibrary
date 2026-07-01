@@ -1,0 +1,25 @@
+{
+  "id": "e28a09fa-a456-4b1b-b0d9-a6b61b3086b1",
+  "name": "Pressure Recording v1",
+  "description": "A Pressure Recording v1.",
+  "author": "Adroit Technologies",
+  "category": "Instruments",
+  "version": "1.0.0",
+  "fileName": "Pressure Recording v1.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Pressure Recording v1.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [],
+  "tags": [
+    "Pressure Instrument",
+    "DIN"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

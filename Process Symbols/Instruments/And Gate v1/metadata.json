@@ -1,0 +1,24 @@
+{
+  "id": "deebd39e-7947-40eb-a0b0-3ad978a8b2a9",
+  "name": "And Gate v1",
+  "description": "A And Gate v1.",
+  "author": "Adroit Technologies",
+  "category": "Instruments",
+  "version": "1.0.0",
+  "fileName": "And Gate v1.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "And Gate v1.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [],
+  "tags": [
+    "Gate"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

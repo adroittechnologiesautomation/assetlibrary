@@ -1,0 +1,24 @@
+{
+  "id": "e9cf8fde-5d90-4d0b-914d-525d70f1d056",
+  "name": "Venturi Meter v2",
+  "description": "A Venturi Meter v2.",
+  "author": "Adroit Technologies",
+  "category": "Instruments",
+  "version": "1.0.0",
+  "fileName": "Venturi Meter v2.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Venturi Meter v2.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [],
+  "tags": [
+    "Meter"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

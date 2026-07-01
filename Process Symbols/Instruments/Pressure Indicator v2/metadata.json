@@ -1,0 +1,24 @@
+{
+  "id": "5c8aa3a6-1296-4a10-ae8b-568fe04aed48",
+  "name": "Pressure Indicator v2",
+  "description": "A Pressure Indicator v2.",
+  "author": "Adroit Technologies",
+  "category": "Instruments",
+  "version": "1.0.0",
+  "fileName": "Pressure Indicator v2.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Pressure Indicator v2.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [],
+  "tags": [
+    "Pressure Instrument"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

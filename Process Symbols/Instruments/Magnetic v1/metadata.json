@@ -1,0 +1,22 @@
+{
+  "id": "92d97d9f-f70b-49b1-af20-aeaaa70e963e",
+  "name": "Magnetic v1",
+  "description": "A Magnetic v1.",
+  "author": "Adroit Technologies",
+  "category": "Instruments",
+  "version": "1.0.0",
+  "fileName": "Magnetic v1.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Magnetic v1.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [],
+  "tags": [],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

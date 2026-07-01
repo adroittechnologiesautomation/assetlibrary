@@ -1,0 +1,24 @@
+{
+  "id": "35c07623-8ad6-4543-9373-1ed15bb6d6b6",
+  "name": "Level Transmitter v2",
+  "description": "A Level Transmitter v2.",
+  "author": "Adroit Technologies",
+  "category": "Instruments",
+  "version": "1.0.0",
+  "fileName": "Level Transmitter v2.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Level Transmitter v2.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [],
+  "tags": [
+    "Level Instrument"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}
