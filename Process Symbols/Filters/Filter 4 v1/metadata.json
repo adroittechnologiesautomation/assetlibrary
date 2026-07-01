@@ -1,0 +1,24 @@
+{
+  "id": "894b1def-cb22-4afd-a208-e8f67840d3f7",
+  "name": "Filter 4 v1",
+  "description": "A Filter 4 v1.",
+  "author": "Adroit Technologies",
+  "category": "Filters",
+  "version": "1.0.0",
+  "fileName": "Filter 4 v1.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Filter 4 v1.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [],
+  "tags": [
+    "Filter"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

@@ -1,0 +1,24 @@
+{
+  "id": "64ca2701-c236-4303-b9b4-6e432adfc5cd",
+  "name": "Oxygenenriched Filter v2",
+  "description": "A Oxygenenriched Filter v2.",
+  "author": "Adroit Technologies",
+  "category": "Filters",
+  "version": "1.0.0",
+  "fileName": "Oxygenenriched Filter v2.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Oxygenenriched Filter v2.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [],
+  "tags": [
+    "Filter"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

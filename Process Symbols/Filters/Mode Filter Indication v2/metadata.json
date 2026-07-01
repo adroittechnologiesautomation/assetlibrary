@@ -1,0 +1,24 @@
+{
+  "id": "a3df4922-c6c2-432a-a15c-768ad383cb59",
+  "name": "Mode Filter Indication v2",
+  "description": "A Mode Filter Indication v2.",
+  "author": "Adroit Technologies",
+  "category": "Filters",
+  "version": "1.0.0",
+  "fileName": "Mode Filter Indication v2.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Mode Filter Indication v2.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [],
+  "tags": [
+    "Filter"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

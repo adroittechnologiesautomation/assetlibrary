@@ -1,0 +1,24 @@
+{
+  "id": "c39a005e-ffa9-44e4-a07f-abeaf3d97f8f",
+  "name": "Filter v2",
+  "description": "A Filter v2.",
+  "author": "Adroit Technologies",
+  "category": "Filters",
+  "version": "1.0.0",
+  "fileName": "Filter v2.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Filter v2.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [],
+  "tags": [
+    "Filter"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

@@ -1,0 +1,24 @@
+{
+  "id": "3f2e4c36-9c73-419a-86bd-ba5fd9da6b7f",
+  "name": "Suction Filter v2",
+  "description": "A Suction Filter v2.",
+  "author": "Adroit Technologies",
+  "category": "Filters",
+  "version": "1.0.0",
+  "fileName": "Suction Filter v2.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Suction Filter v2.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [],
+  "tags": [
+    "Filter"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

@@ -1,0 +1,24 @@
+{
+  "id": "a7f6fbf4-2706-427e-8fc6-682db43f13fa",
+  "name": "Highpass Filter v2",
+  "description": "A Highpass Filter v2.",
+  "author": "Adroit Technologies",
+  "category": "Filters",
+  "version": "1.0.0",
+  "fileName": "Highpass Filter v2.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Highpass Filter v2.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [],
+  "tags": [
+    "Filter"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

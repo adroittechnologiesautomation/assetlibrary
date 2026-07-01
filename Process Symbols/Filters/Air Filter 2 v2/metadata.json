@@ -1,0 +1,24 @@
+{
+  "id": "6068f998-83a9-4e95-93f2-cb9d069bdcea",
+  "name": "Air Filter 2 v2",
+  "description": "A Air Filter 2 v2.",
+  "author": "Adroit Technologies",
+  "category": "Filters",
+  "version": "1.0.0",
+  "fileName": "Air Filter 2 v2.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Air Filter 2 v2.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [],
+  "tags": [
+    "Filter"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

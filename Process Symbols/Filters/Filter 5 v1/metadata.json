@@ -1,0 +1,24 @@
+{
+  "id": "18961f0e-defc-4102-b611-539b6fa7e22f",
+  "name": "Filter 5 v1",
+  "description": "A Filter 5 v1.",
+  "author": "Adroit Technologies",
+  "category": "Filters",
+  "version": "1.0.0",
+  "fileName": "Filter 5 v1.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Filter 5 v1.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [],
+  "tags": [
+    "Filter"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

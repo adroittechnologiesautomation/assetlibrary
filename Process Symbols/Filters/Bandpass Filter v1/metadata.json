@@ -1,0 +1,24 @@
+{
+  "id": "6fd15f35-6ceb-4a47-80a1-8b27b053f3a2",
+  "name": "Bandpass Filter v1",
+  "description": "A Bandpass Filter v1.",
+  "author": "Adroit Technologies",
+  "category": "Filters",
+  "version": "1.0.0",
+  "fileName": "Bandpass Filter v1.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Bandpass Filter v1.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [],
+  "tags": [
+    "Filter"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

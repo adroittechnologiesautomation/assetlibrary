@@ -1,0 +1,24 @@
+{
+  "id": "7a89f295-107e-451d-b683-942a89241fe9",
+  "name": "Vartridge Gas Filter v1",
+  "description": "A Vartridge Gas Filter v1.",
+  "author": "Adroit Technologies",
+  "category": "Filters",
+  "version": "1.0.0",
+  "fileName": "Vartridge Gas Filter v1.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Vartridge Gas Filter v1.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [],
+  "tags": [
+    "Filter"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

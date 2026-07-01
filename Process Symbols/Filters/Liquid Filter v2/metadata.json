@@ -1,0 +1,24 @@
+{
+  "id": "55beee69-6dc9-4879-b3e0-dc5ba87e1f7f",
+  "name": "Liquid Filter v2",
+  "description": "A Liquid Filter v2.",
+  "author": "Adroit Technologies",
+  "category": "Filters",
+  "version": "1.0.0",
+  "fileName": "Liquid Filter v2.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Liquid Filter v2.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [],
+  "tags": [
+    "Filter"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

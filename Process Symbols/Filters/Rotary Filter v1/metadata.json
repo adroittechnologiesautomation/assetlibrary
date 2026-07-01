@@ -1,0 +1,25 @@
+{
+  "id": "79232a53-b324-4598-a587-73bf583da19e",
+  "name": "Rotary Filter v1",
+  "description": "A Rotary Filter v1.",
+  "author": "Adroit Technologies",
+  "category": "Filters",
+  "version": "1.0.0",
+  "fileName": "Rotary Filter v1.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Rotary Filter v1.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [],
+  "tags": [
+    "Filter",
+    "Rotary"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

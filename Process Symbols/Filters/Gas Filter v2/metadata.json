@@ -1,0 +1,24 @@
+{
+  "id": "ae24abe5-b96c-445c-afc6-480aa50a4b1c",
+  "name": "Gas Filter v2",
+  "description": "A Gas Filter v2.",
+  "author": "Adroit Technologies",
+  "category": "Filters",
+  "version": "1.0.0",
+  "fileName": "Gas Filter v2.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Gas Filter v2.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [],
+  "tags": [
+    "Filter"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

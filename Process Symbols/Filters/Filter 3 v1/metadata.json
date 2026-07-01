@@ -1,0 +1,24 @@
+{
+  "id": "cc817337-5c69-4d11-b699-42c5459db99f",
+  "name": "Filter 3 v1",
+  "description": "A Filter 3 v1.",
+  "author": "Adroit Technologies",
+  "category": "Filters",
+  "version": "1.0.0",
+  "fileName": "Filter 3 v1.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Filter 3 v1.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [],
+  "tags": [
+    "Filter"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

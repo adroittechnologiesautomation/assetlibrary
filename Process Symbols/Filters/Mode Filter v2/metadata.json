@@ -1,0 +1,24 @@
+{
+  "id": "8a99050b-2c7c-4fcc-8c02-d212ff02fae3",
+  "name": "Mode Filter v2",
+  "description": "A Mode Filter v2.",
+  "author": "Adroit Technologies",
+  "category": "Filters",
+  "version": "1.0.0",
+  "fileName": "Mode Filter v2.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Mode Filter v2.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [],
+  "tags": [
+    "Filter"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

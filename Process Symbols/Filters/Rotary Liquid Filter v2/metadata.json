@@ -1,0 +1,25 @@
+{
+  "id": "c06e3a71-d0c7-49c0-8705-b72d885a7715",
+  "name": "Rotary Liquid Filter v2",
+  "description": "A Rotary Liquid Filter v2.",
+  "author": "Adroit Technologies",
+  "category": "Filters",
+  "version": "1.0.0",
+  "fileName": "Rotary Liquid Filter v2.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Rotary Liquid Filter v2.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [],
+  "tags": [
+    "Filter",
+    "Rotary"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}
