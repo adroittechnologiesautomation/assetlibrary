@@ -1,0 +1,28 @@
+{
+  "id": "9bdc9995-1ba3-4511-86a7-ec2253b2e669",
+  "name": "Double Wall Tank v2",
+  "description": "A Double Wall Tank v2.",
+  "author": "Adroit Technologies",
+  "category": "Vessels",
+  "version": "1.0.0",
+  "fileName": "Double Wall Tank v2.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Double Wall Tank v2.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [
+    "Water & Wastewater",
+    "Oil & Gas",
+    "Food & Beverage"
+  ],
+  "tags": [
+    "Tank"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

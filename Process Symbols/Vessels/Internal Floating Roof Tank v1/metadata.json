@@ -1,0 +1,29 @@
+{
+  "id": "b4f7fbdc-121d-48e0-b86f-22bfa08a8eb1",
+  "name": "Internal Floating Roof Tank v1",
+  "description": "A Internal Floating Roof Tank v1.",
+  "author": "Adroit Technologies",
+  "category": "Vessels",
+  "version": "1.0.0",
+  "fileName": "Internal Floating Roof Tank v1.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Internal Floating Roof Tank v1.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [
+    "Water & Wastewater",
+    "Oil & Gas",
+    "Food & Beverage"
+  ],
+  "tags": [
+    "Tank",
+    "Floating Roof"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

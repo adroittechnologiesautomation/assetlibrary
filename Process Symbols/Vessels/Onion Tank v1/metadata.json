@@ -1,0 +1,28 @@
+{
+  "id": "c93d2e30-ed61-4cfc-bb4b-6538d0326518",
+  "name": "Onion Tank v1",
+  "description": "A Onion Tank v1.",
+  "author": "Adroit Technologies",
+  "category": "Vessels",
+  "version": "1.0.0",
+  "fileName": "Onion Tank v1.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Onion Tank v1.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [
+    "Water & Wastewater",
+    "Oil & Gas",
+    "Food & Beverage"
+  ],
+  "tags": [
+    "Tank"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

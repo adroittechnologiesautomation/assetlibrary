@@ -1,0 +1,24 @@
+{
+  "id": "491c5938-3ab7-4382-ba3b-f06c2d8cf4ed",
+  "name": "Heating-cooling Jacket Vessek v2",
+  "description": "A Heating-cooling Jacket Vessek v2.",
+  "author": "Adroit Technologies",
+  "category": "Vessels",
+  "version": "1.0.0",
+  "fileName": "Heating-cooling Jacket Vessek v2.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Heating-cooling Jacket Vessek v2.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [],
+  "tags": [
+    "Cooling"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

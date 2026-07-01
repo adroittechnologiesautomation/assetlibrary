@@ -1,0 +1,22 @@
+{
+  "id": "916ee4cd-e07e-4c0b-b534-e5e334e50d36",
+  "name": "Drum v1",
+  "description": "A Drum v1.",
+  "author": "Adroit Technologies",
+  "category": "Vessels",
+  "version": "1.0.0",
+  "fileName": "Drum v1.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Drum v1.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [],
+  "tags": [],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

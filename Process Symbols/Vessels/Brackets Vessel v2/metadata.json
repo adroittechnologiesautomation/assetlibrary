@@ -1,0 +1,28 @@
+{
+  "id": "b3792253-2914-46b1-81a7-9a0854e7116f",
+  "name": "Brackets Vessel v2",
+  "description": "A Brackets Vessel v2.",
+  "author": "Adroit Technologies",
+  "category": "Vessels",
+  "version": "1.0.0",
+  "fileName": "Brackets Vessel v2.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Brackets Vessel v2.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [
+    "Petrochemical",
+    "Pharmaceuticals",
+    "Power Generation"
+  ],
+  "tags": [
+    "Vessel"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

@@ -1,0 +1,24 @@
+{
+  "id": "72088539-df74-4d83-a4b7-e1deb5419793",
+  "name": "Boiler v1",
+  "description": "A Boiler v1.",
+  "author": "Adroit Technologies",
+  "category": "Vessels",
+  "version": "1.0.0",
+  "fileName": "Boiler v1.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Boiler v1.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [],
+  "tags": [
+    "Boiler"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

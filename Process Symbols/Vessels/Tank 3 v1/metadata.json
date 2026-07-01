@@ -1,0 +1,28 @@
+{
+  "id": "acda8948-6b76-4574-a2dc-a72f42957027",
+  "name": "Tank 3 v1",
+  "description": "A Tank 3 v1.",
+  "author": "Adroit Technologies",
+  "category": "Vessels",
+  "version": "1.0.0",
+  "fileName": "Tank 3 v1.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Tank 3 v1.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [
+    "Water & Wastewater",
+    "Oil & Gas",
+    "Food & Beverage"
+  ],
+  "tags": [
+    "Tank"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

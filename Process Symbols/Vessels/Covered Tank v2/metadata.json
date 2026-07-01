@@ -1,0 +1,28 @@
+{
+  "id": "15bc49d2-cacd-4b64-b7ae-5da388cc72df",
+  "name": "Covered Tank v2",
+  "description": "A Covered Tank v2.",
+  "author": "Adroit Technologies",
+  "category": "Vessels",
+  "version": "1.0.0",
+  "fileName": "Covered Tank v2.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Covered Tank v2.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [
+    "Water & Wastewater",
+    "Oil & Gas",
+    "Food & Beverage"
+  ],
+  "tags": [
+    "Tank"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

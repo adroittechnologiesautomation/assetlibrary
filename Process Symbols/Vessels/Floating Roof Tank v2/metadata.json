@@ -1,0 +1,29 @@
+{
+  "id": "4fd81b1a-2dbb-4b5e-8bed-57060ab92de0",
+  "name": "Floating Roof Tank v2",
+  "description": "A Floating Roof Tank v2.",
+  "author": "Adroit Technologies",
+  "category": "Vessels",
+  "version": "1.0.0",
+  "fileName": "Floating Roof Tank v2.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Floating Roof Tank v2.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [
+    "Water & Wastewater",
+    "Oil & Gas",
+    "Food & Beverage"
+  ],
+  "tags": [
+    "Tank",
+    "Floating Roof"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

@@ -1,0 +1,28 @@
+{
+  "id": "63784f02-0e9e-4933-b4f4-d8bcea538b7d",
+  "name": "Dished Ends Vessel v2",
+  "description": "A Dished Ends Vessel v2.",
+  "author": "Adroit Technologies",
+  "category": "Vessels",
+  "version": "1.0.0",
+  "fileName": "Dished Ends Vessel v2.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Dished Ends Vessel v2.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [
+    "Petrochemical",
+    "Pharmaceuticals",
+    "Power Generation"
+  ],
+  "tags": [
+    "Vessel"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

@@ -1,0 +1,22 @@
+{
+  "id": "6dc815fb-0b5a-4013-bcbd-f8dbf5f31cf4",
+  "name": "Bag v1",
+  "description": "A Bag v1.",
+  "author": "Adroit Technologies",
+  "category": "Vessels",
+  "version": "1.0.0",
+  "fileName": "Bag v1.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Bag v1.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [],
+  "tags": [],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

@@ -1,0 +1,22 @@
+{
+  "id": "5b6c2473-485d-46c2-916f-1a07fecc5226",
+  "name": "Bin v1",
+  "description": "A Bin v1.",
+  "author": "Adroit Technologies",
+  "category": "Vessels",
+  "version": "1.0.0",
+  "fileName": "Bin v1.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Bin v1.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [],
+  "tags": [],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

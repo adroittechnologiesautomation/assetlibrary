@@ -1,0 +1,24 @@
+{
+  "id": "a888a45e-48f0-44b3-91fa-d20852ab9089",
+  "name": "Bag (ISO) v2",
+  "description": "A Bag (ISO) v2.",
+  "author": "Adroit Technologies",
+  "category": "Vessels",
+  "version": "1.0.0",
+  "fileName": "Bag (ISO) v2.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Bag (ISO) v2.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [],
+  "tags": [
+    "ISO"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

@@ -1,0 +1,28 @@
+{
+  "id": "e0612631-d475-447e-badc-5aa1b1141454",
+  "name": "Tank v2",
+  "description": "A Tank v2.",
+  "author": "Adroit Technologies",
+  "category": "Vessels",
+  "version": "1.0.0",
+  "fileName": "Tank v2.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Tank v2.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [
+    "Water & Wastewater",
+    "Oil & Gas",
+    "Food & Beverage"
+  ],
+  "tags": [
+    "Tank"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

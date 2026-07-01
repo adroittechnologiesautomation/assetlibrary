@@ -1,0 +1,28 @@
+{
+  "id": "5d577847-46a9-4876-8d7e-7e6f84bdfa15",
+  "name": "Thermal Insulation Vessel v1",
+  "description": "A Thermal Insulation Vessel v1.",
+  "author": "Adroit Technologies",
+  "category": "Vessels",
+  "version": "1.0.0",
+  "fileName": "Thermal Insulation Vessel v1.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Thermal Insulation Vessel v1.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [
+    "Petrochemical",
+    "Pharmaceuticals",
+    "Power Generation"
+  ],
+  "tags": [
+    "Vessel"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

@@ -1,0 +1,29 @@
+{
+  "id": "06966694-01d4-4f41-a5d6-a99b33637852",
+  "name": "Electrical Heating Vessel v2",
+  "description": "A Electrical Heating Vessel v2.",
+  "author": "Adroit Technologies",
+  "category": "Vessels",
+  "version": "1.0.0",
+  "fileName": "Electrical Heating Vessel v2.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Electrical Heating Vessel v2.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [
+    "Petrochemical",
+    "Pharmaceuticals",
+    "Power Generation"
+  ],
+  "tags": [
+    "Vessel",
+    "Heating"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

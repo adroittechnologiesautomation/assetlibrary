@@ -1,0 +1,24 @@
+{
+  "id": "dd0f5639-c2a0-428d-9d63-aa624cf0ee92",
+  "name": "Dome Boiler v2",
+  "description": "A Dome Boiler v2.",
+  "author": "Adroit Technologies",
+  "category": "Vessels",
+  "version": "1.0.0",
+  "fileName": "Dome Boiler v2.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Dome Boiler v2.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [],
+  "tags": [
+    "Boiler"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

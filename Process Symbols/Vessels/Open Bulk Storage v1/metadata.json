@@ -1,0 +1,24 @@
+{
+  "id": "4703b2fc-f862-4589-937b-45e1c058d602",
+  "name": "Open Bulk Storage v1",
+  "description": "A Open Bulk Storage v1.",
+  "author": "Adroit Technologies",
+  "category": "Vessels",
+  "version": "1.0.0",
+  "fileName": "Open Bulk Storage v1.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Open Bulk Storage v1.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [],
+  "tags": [
+    "Open"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}
