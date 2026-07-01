@@ -1,0 +1,30 @@
+{
+  "id": "d3d5d48b-a9f6-46d2-90ac-2f5afce8c9f5",
+  "name": "ISO Screw Pump v2",
+  "description": "A ISO Screw Pump v2.",
+  "author": "Adroit Technologies",
+  "category": "Pumps",
+  "version": "1.0.0",
+  "fileName": "ISO Screw Pump v2.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "ISO Screw Pump v2.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [
+    "Water & Wastewater",
+    "Oil & Gas",
+    "Manufacturing"
+  ],
+  "tags": [
+    "Pump",
+    "Screw",
+    "ISO"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

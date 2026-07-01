@@ -1,0 +1,30 @@
+{
+  "id": "db3f04b1-ccc6-413a-abfe-4a739f3de710",
+  "name": "ISO Centrifugal Pump v1",
+  "description": "A ISO Centrifugal Pump v1.",
+  "author": "Adroit Technologies",
+  "category": "Pumps",
+  "version": "1.0.0",
+  "fileName": "ISO Centrifugal Pump v1.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "ISO Centrifugal Pump v1.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [
+    "Water & Wastewater",
+    "Oil & Gas",
+    "Manufacturing"
+  ],
+  "tags": [
+    "Pump",
+    "Centrifugal",
+    "ISO"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

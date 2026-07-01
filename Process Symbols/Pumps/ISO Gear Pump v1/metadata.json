@@ -1,0 +1,30 @@
+{
+  "id": "831fc6fe-fbe9-4156-a2c1-0d09f70da0a5",
+  "name": "ISO Gear Pump v1",
+  "description": "A ISO Gear Pump v1.",
+  "author": "Adroit Technologies",
+  "category": "Pumps",
+  "version": "1.0.0",
+  "fileName": "ISO Gear Pump v1.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "ISO Gear Pump v1.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [
+    "Water & Wastewater",
+    "Oil & Gas",
+    "Manufacturing"
+  ],
+  "tags": [
+    "Pump",
+    "Gear",
+    "ISO"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

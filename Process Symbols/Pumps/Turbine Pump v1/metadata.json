@@ -1,0 +1,29 @@
+{
+  "id": "aea70613-2690-4935-90ae-54a780236230",
+  "name": "Turbine Pump v1",
+  "description": "A Turbine Pump v1.",
+  "author": "Adroit Technologies",
+  "category": "Pumps",
+  "version": "1.0.0",
+  "fileName": "Turbine Pump v1.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Turbine Pump v1.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [
+    "Water & Wastewater",
+    "Oil & Gas",
+    "Manufacturing"
+  ],
+  "tags": [
+    "Pump",
+    "Turbine"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

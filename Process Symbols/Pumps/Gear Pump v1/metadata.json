@@ -1,0 +1,29 @@
+{
+  "id": "8846e1e5-f6b1-4c08-8cbe-23c79def5767",
+  "name": "Gear Pump v1",
+  "description": "A Gear Pump v1.",
+  "author": "Adroit Technologies",
+  "category": "Pumps",
+  "version": "1.0.0",
+  "fileName": "Gear Pump v1.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Gear Pump v1.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [
+    "Water & Wastewater",
+    "Oil & Gas",
+    "Manufacturing"
+  ],
+  "tags": [
+    "Pump",
+    "Gear"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

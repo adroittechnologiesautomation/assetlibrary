@@ -1,0 +1,29 @@
+{
+  "id": "80a5e080-f08c-4177-b02a-f8b2bdbf7887",
+  "name": "ISO Liquid Pump v1",
+  "description": "A ISO Liquid Pump v1.",
+  "author": "Adroit Technologies",
+  "category": "Pumps",
+  "version": "1.0.0",
+  "fileName": "ISO Liquid Pump v1.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "ISO Liquid Pump v1.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [
+    "Water & Wastewater",
+    "Oil & Gas",
+    "Manufacturing"
+  ],
+  "tags": [
+    "Pump",
+    "ISO"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

@@ -1,0 +1,24 @@
+{
+  "id": "9a87fe7e-0be5-47c4-ba76-17a57c34a7f9",
+  "name": "Axial Flow Fan v1",
+  "description": "A Axial Flow Fan v1.",
+  "author": "Adroit Technologies",
+  "category": "Pumps",
+  "version": "1.0.0",
+  "fileName": "Axial Flow Fan v1.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Axial Flow Fan v1.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [],
+  "tags": [
+    "Fan"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

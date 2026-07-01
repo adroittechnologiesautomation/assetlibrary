@@ -1,0 +1,28 @@
+{
+  "id": "8994a8de-cbb6-4569-8ac1-39a1d487e8e1",
+  "name": "Compressor v2",
+  "description": "A Compressor v2.",
+  "author": "Adroit Technologies",
+  "category": "Pumps",
+  "version": "1.0.0",
+  "fileName": "Compressor v2.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Compressor v2.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [
+    "Oil & Gas",
+    "Petrochemical",
+    "Manufacturing"
+  ],
+  "tags": [
+    "Compressor"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

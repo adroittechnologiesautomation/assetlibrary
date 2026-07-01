@@ -1,0 +1,29 @@
+{
+  "id": "c6801c66-bccc-4f83-833d-0dbf05e9a97f",
+  "name": "Screw Pump 2 v2",
+  "description": "A Screw Pump 2 v2.",
+  "author": "Adroit Technologies",
+  "category": "Pumps",
+  "version": "1.0.0",
+  "fileName": "Screw Pump 2 v2.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Screw Pump 2 v2.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [
+    "Water & Wastewater",
+    "Oil & Gas",
+    "Manufacturing"
+  ],
+  "tags": [
+    "Pump",
+    "Screw"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

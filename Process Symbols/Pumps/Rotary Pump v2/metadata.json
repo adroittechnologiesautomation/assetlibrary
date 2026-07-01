@@ -1,0 +1,29 @@
+{
+  "id": "b4e73ce8-8b45-405a-b7cd-e7632ff537b0",
+  "name": "Rotary Pump v2",
+  "description": "A Rotary Pump v2.",
+  "author": "Adroit Technologies",
+  "category": "Pumps",
+  "version": "1.0.0",
+  "fileName": "Rotary Pump v2.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Rotary Pump v2.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [
+    "Water & Wastewater",
+    "Oil & Gas",
+    "Manufacturing"
+  ],
+  "tags": [
+    "Pump",
+    "Rotary"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

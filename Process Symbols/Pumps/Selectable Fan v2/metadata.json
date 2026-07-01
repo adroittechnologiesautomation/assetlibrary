@@ -1,0 +1,24 @@
+{
+  "id": "23c56cab-d89d-46d8-9f98-20eb7c969402",
+  "name": "Selectable Fan v2",
+  "description": "A Selectable Fan v2.",
+  "author": "Adroit Technologies",
+  "category": "Pumps",
+  "version": "1.0.0",
+  "fileName": "Selectable Fan v2.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Selectable Fan v2.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [],
+  "tags": [
+    "Fan"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

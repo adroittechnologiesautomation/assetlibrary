@@ -1,0 +1,25 @@
+{
+  "id": "e0bb0412-9639-4d40-b225-b42a986df89a",
+  "name": "Centrifugal Blower v1",
+  "description": "A Centrifugal Blower v1.",
+  "author": "Adroit Technologies",
+  "category": "Pumps",
+  "version": "1.0.0",
+  "fileName": "Centrifugal Blower v1.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Centrifugal Blower v1.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [],
+  "tags": [
+    "Blower",
+    "Centrifugal"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

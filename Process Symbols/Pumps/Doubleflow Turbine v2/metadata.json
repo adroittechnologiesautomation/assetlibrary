@@ -1,0 +1,25 @@
+{
+  "id": "18de35ad-70f9-4b15-af1a-121606326555",
+  "name": "Doubleflow Turbine v2",
+  "description": "A Doubleflow Turbine v2.",
+  "author": "Adroit Technologies",
+  "category": "Pumps",
+  "version": "1.0.0",
+  "fileName": "Doubleflow Turbine v2.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Doubleflow Turbine v2.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [],
+  "tags": [
+    "Flow Meter",
+    "Turbine"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

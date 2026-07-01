@@ -1,0 +1,28 @@
+{
+  "id": "21b1b776-ac4f-4def-8f93-47457e916a45",
+  "name": "Liquid Ring Compressor v1",
+  "description": "A Liquid Ring Compressor v1.",
+  "author": "Adroit Technologies",
+  "category": "Pumps",
+  "version": "1.0.0",
+  "fileName": "Liquid Ring Compressor v1.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Liquid Ring Compressor v1.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [
+    "Oil & Gas",
+    "Petrochemical",
+    "Manufacturing"
+  ],
+  "tags": [
+    "Compressor"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

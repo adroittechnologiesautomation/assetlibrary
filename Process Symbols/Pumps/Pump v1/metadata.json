@@ -1,0 +1,28 @@
+{
+  "id": "dcca0fdf-c291-4c10-9bce-bd071b9da904",
+  "name": "Pump v1",
+  "description": "A Pump v1.",
+  "author": "Adroit Technologies",
+  "category": "Pumps",
+  "version": "1.0.0",
+  "fileName": "Pump v1.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Pump v1.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [
+    "Water & Wastewater",
+    "Oil & Gas",
+    "Manufacturing"
+  ],
+  "tags": [
+    "Pump"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

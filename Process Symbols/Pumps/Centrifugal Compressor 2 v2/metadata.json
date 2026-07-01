@@ -1,0 +1,29 @@
+{
+  "id": "f013284b-b4e5-49c7-ad92-997c8cc83198",
+  "name": "Centrifugal Compressor 2 v2",
+  "description": "A Centrifugal Compressor 2 v2.",
+  "author": "Adroit Technologies",
+  "category": "Pumps",
+  "version": "1.0.0",
+  "fileName": "Centrifugal Compressor 2 v2.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Centrifugal Compressor 2 v2.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [
+    "Oil & Gas",
+    "Petrochemical",
+    "Manufacturing"
+  ],
+  "tags": [
+    "Compressor",
+    "Centrifugal"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

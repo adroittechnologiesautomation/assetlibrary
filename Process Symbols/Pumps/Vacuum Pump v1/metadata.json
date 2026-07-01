@@ -1,0 +1,29 @@
+{
+  "id": "28c3a850-21b1-4858-8671-ba4123d23b37",
+  "name": "Vacuum Pump v1",
+  "description": "A Vacuum Pump v1.",
+  "author": "Adroit Technologies",
+  "category": "Pumps",
+  "version": "1.0.0",
+  "fileName": "Vacuum Pump v1.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Vacuum Pump v1.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [
+    "Water & Wastewater",
+    "Oil & Gas",
+    "Manufacturing"
+  ],
+  "tags": [
+    "Pump",
+    "Vacuum"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

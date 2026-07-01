@@ -1,0 +1,28 @@
+{
+  "id": "c50126a6-efb0-4b06-a056-b552d4e4a99d",
+  "name": "Cavity Pump v2",
+  "description": "A Cavity Pump v2.",
+  "author": "Adroit Technologies",
+  "category": "Pumps",
+  "version": "1.0.0",
+  "fileName": "Cavity Pump v2.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Cavity Pump v2.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [
+    "Water & Wastewater",
+    "Oil & Gas",
+    "Manufacturing"
+  ],
+  "tags": [
+    "Pump"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

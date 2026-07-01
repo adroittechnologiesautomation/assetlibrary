@@ -1,0 +1,24 @@
+{
+  "id": "f5a31cc4-909b-41ff-afeb-e998a744cb8a",
+  "name": "Centrifugal v1",
+  "description": "A Centrifugal v1.",
+  "author": "Adroit Technologies",
+  "category": "Pumps",
+  "version": "1.0.0",
+  "fileName": "Centrifugal v1.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Centrifugal v1.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [],
+  "tags": [
+    "Centrifugal"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

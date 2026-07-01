@@ -1,0 +1,30 @@
+{
+  "id": "f68349d4-0b09-4c3f-bb35-b408811ad62f",
+  "name": "ISO Diaphragm Pump v1",
+  "description": "A ISO Diaphragm Pump v1.",
+  "author": "Adroit Technologies",
+  "category": "Pumps",
+  "version": "1.0.0",
+  "fileName": "ISO Diaphragm Pump v1.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "ISO Diaphragm Pump v1.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [
+    "Water & Wastewater",
+    "Oil & Gas",
+    "Manufacturing"
+  ],
+  "tags": [
+    "Pump",
+    "Diaphragm",
+    "ISO"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

@@ -1,0 +1,28 @@
+{
+  "id": "bb2f5678-9fb5-449b-9530-c93a581a3243",
+  "name": "Sump Pump v2",
+  "description": "A Sump Pump v2.",
+  "author": "Adroit Technologies",
+  "category": "Pumps",
+  "version": "1.0.0",
+  "fileName": "Sump Pump v2.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Sump Pump v2.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [
+    "Water & Wastewater",
+    "Oil & Gas",
+    "Manufacturing"
+  ],
+  "tags": [
+    "Pump"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

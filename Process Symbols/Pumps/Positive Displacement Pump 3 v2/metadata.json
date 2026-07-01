@@ -1,0 +1,28 @@
+{
+  "id": "d61162e1-bc2d-4437-9f0b-1d95ab9ba415",
+  "name": "Positive Displacement Pump 3 v2",
+  "description": "A Positive Displacement Pump 3 v2.",
+  "author": "Adroit Technologies",
+  "category": "Pumps",
+  "version": "1.0.0",
+  "fileName": "Positive Displacement Pump 3 v2.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Positive Displacement Pump 3 v2.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [
+    "Water & Wastewater",
+    "Oil & Gas",
+    "Manufacturing"
+  ],
+  "tags": [
+    "Pump"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

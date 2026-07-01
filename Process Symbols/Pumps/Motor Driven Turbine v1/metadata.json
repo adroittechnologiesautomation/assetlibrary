@@ -1,0 +1,30 @@
+{
+  "id": "351756bb-19bb-4ac4-adcc-f10a62588bf4",
+  "name": "Motor Driven Turbine v1",
+  "description": "A Motor Driven Turbine v1.",
+  "author": "Adroit Technologies",
+  "category": "Pumps",
+  "version": "1.0.0",
+  "fileName": "Motor Driven Turbine v1.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Motor Driven Turbine v1.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [
+    "Manufacturing",
+    "Mining",
+    "Power Generation"
+  ],
+  "tags": [
+    "Motor",
+    "Turbine",
+    "Motorized"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

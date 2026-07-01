@@ -1,0 +1,29 @@
+{
+  "id": "d18b508f-d37a-4773-826e-6def20bdd315",
+  "name": "Centrifugal Pump v2",
+  "description": "A Centrifugal Pump v2.",
+  "author": "Adroit Technologies",
+  "category": "Pumps",
+  "version": "1.0.0",
+  "fileName": "Centrifugal Pump v2.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Centrifugal Pump v2.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [
+    "Water & Wastewater",
+    "Oil & Gas",
+    "Manufacturing"
+  ],
+  "tags": [
+    "Pump",
+    "Centrifugal"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

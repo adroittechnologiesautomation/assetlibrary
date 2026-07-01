@@ -1,0 +1,29 @@
+{
+  "id": "626e6a99-8db0-4335-ab66-b42da127fb59",
+  "name": "Rotary Compressor v2",
+  "description": "A Rotary Compressor v2.",
+  "author": "Adroit Technologies",
+  "category": "Pumps",
+  "version": "1.0.0",
+  "fileName": "Rotary Compressor v2.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Rotary Compressor v2.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [
+    "Oil & Gas",
+    "Petrochemical",
+    "Manufacturing"
+  ],
+  "tags": [
+    "Compressor",
+    "Rotary"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

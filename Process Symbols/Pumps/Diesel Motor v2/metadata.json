@@ -1,0 +1,29 @@
+{
+  "id": "653dcd70-8647-43ca-92ed-ab7da12e7ebd",
+  "name": "Diesel Motor v2",
+  "description": "A Diesel Motor v2.",
+  "author": "Adroit Technologies",
+  "category": "Pumps",
+  "version": "1.0.0",
+  "fileName": "Diesel Motor v2.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Diesel Motor v2.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [
+    "Manufacturing",
+    "Mining",
+    "Power Generation"
+  ],
+  "tags": [
+    "Motor",
+    "Motorized"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

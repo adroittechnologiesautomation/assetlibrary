@@ -1,0 +1,28 @@
+{
+  "id": "9496867c-85b8-4d57-b464-b88b6c9d3235",
+  "name": "Proportioning Pump v2",
+  "description": "A Proportioning Pump v2.",
+  "author": "Adroit Technologies",
+  "category": "Pumps",
+  "version": "1.0.0",
+  "fileName": "Proportioning Pump v2.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Proportioning Pump v2.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [
+    "Water & Wastewater",
+    "Oil & Gas",
+    "Manufacturing"
+  ],
+  "tags": [
+    "Pump"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

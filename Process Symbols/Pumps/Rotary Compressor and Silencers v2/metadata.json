@@ -1,0 +1,29 @@
+{
+  "id": "2c677fe8-9169-4ac7-a2d4-5f00c4947775",
+  "name": "Rotary Compressor and Silencers v2",
+  "description": "A Rotary Compressor and Silencers v2.",
+  "author": "Adroit Technologies",
+  "category": "Pumps",
+  "version": "1.0.0",
+  "fileName": "Rotary Compressor and Silencers v2.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Rotary Compressor and Silencers v2.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [
+    "Oil & Gas",
+    "Petrochemical",
+    "Manufacturing"
+  ],
+  "tags": [
+    "Compressor",
+    "Rotary"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

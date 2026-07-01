@@ -1,0 +1,29 @@
+{
+  "id": "1f7de665-1abc-4c19-af21-94a3856aa6db",
+  "name": "Peristaltic Pump v1",
+  "description": "A Peristaltic Pump v1.",
+  "author": "Adroit Technologies",
+  "category": "Pumps",
+  "version": "1.0.0",
+  "fileName": "Peristaltic Pump v1.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Peristaltic Pump v1.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [
+    "Water & Wastewater",
+    "Oil & Gas",
+    "Manufacturing"
+  ],
+  "tags": [
+    "Pump",
+    "Peristaltic"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

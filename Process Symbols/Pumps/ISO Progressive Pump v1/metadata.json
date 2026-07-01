@@ -1,0 +1,29 @@
+{
+  "id": "dc25b3d0-8f70-4e72-81f2-128b4cb106c4",
+  "name": "ISO Progressive Pump v1",
+  "description": "A ISO Progressive Pump v1.",
+  "author": "Adroit Technologies",
+  "category": "Pumps",
+  "version": "1.0.0",
+  "fileName": "ISO Progressive Pump v1.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "ISO Progressive Pump v1.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [
+    "Water & Wastewater",
+    "Oil & Gas",
+    "Manufacturing"
+  ],
+  "tags": [
+    "Pump",
+    "ISO"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

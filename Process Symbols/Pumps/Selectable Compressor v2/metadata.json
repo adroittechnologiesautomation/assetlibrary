@@ -1,0 +1,28 @@
+{
+  "id": "90b9cc40-6d25-4457-8f05-6608810c970b",
+  "name": "Selectable Compressor v2",
+  "description": "A Selectable Compressor v2.",
+  "author": "Adroit Technologies",
+  "category": "Pumps",
+  "version": "1.0.0",
+  "fileName": "Selectable Compressor v2.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Selectable Compressor v2.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [
+    "Oil & Gas",
+    "Petrochemical",
+    "Manufacturing"
+  ],
+  "tags": [
+    "Compressor"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

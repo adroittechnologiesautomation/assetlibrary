@@ -1,0 +1,28 @@
+{
+  "id": "f72122c8-c257-4c4d-92df-6440bcd8a987",
+  "name": "Reciprocating Pump 2 v2",
+  "description": "A Reciprocating Pump 2 v2.",
+  "author": "Adroit Technologies",
+  "category": "Pumps",
+  "version": "1.0.0",
+  "fileName": "Reciprocating Pump 2 v2.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Reciprocating Pump 2 v2.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [
+    "Water & Wastewater",
+    "Oil & Gas",
+    "Manufacturing"
+  ],
+  "tags": [
+    "Pump"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

@@ -1,0 +1,29 @@
+{
+  "id": "53e720b4-a573-4b88-a867-cd79385cec8a",
+  "name": "Rotary Gear Pump v2",
+  "description": "A Rotary Gear Pump v2.",
+  "author": "Adroit Technologies",
+  "category": "Pumps",
+  "version": "1.0.0",
+  "fileName": "Rotary Gear Pump v2.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Rotary Gear Pump v2.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [
+    "Water & Wastewater",
+    "Oil & Gas",
+    "Manufacturing"
+  ],
+  "tags": [
+    "Pump",
+    "Gear"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

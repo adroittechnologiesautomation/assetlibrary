@@ -1,0 +1,24 @@
+{
+  "id": "1f6525f0-ed44-499c-b7d9-f98866258bc1",
+  "name": "Gas Blower v2",
+  "description": "A Gas Blower v2.",
+  "author": "Adroit Technologies",
+  "category": "Pumps",
+  "version": "1.0.0",
+  "fileName": "Gas Blower v2.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Gas Blower v2.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [],
+  "tags": [
+    "Blower"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

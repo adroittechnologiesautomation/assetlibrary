@@ -1,0 +1,24 @@
+{
+  "id": "4db466d4-ce90-4b16-9763-5e6deee400e3",
+  "name": "Turbine Driver v2",
+  "description": "A Turbine Driver v2.",
+  "author": "Adroit Technologies",
+  "category": "Pumps",
+  "version": "1.0.0",
+  "fileName": "Turbine Driver v2.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Turbine Driver v2.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [],
+  "tags": [
+    "Turbine"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

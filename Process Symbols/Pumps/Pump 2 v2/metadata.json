@@ -1,0 +1,28 @@
+{
+  "id": "8763d416-f772-4e85-a8c9-988012ab7ceb",
+  "name": "Pump 2 v2",
+  "description": "A Pump 2 v2.",
+  "author": "Adroit Technologies",
+  "category": "Pumps",
+  "version": "1.0.0",
+  "fileName": "Pump 2 v2.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Pump 2 v2.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [
+    "Water & Wastewater",
+    "Oil & Gas",
+    "Manufacturing"
+  ],
+  "tags": [
+    "Pump"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

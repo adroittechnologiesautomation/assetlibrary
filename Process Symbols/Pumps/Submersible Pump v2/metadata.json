@@ -1,0 +1,29 @@
+{
+  "id": "7900039a-22ab-41e2-b68a-83dfe345dc23",
+  "name": "Submersible Pump v2",
+  "description": "A Submersible Pump v2.",
+  "author": "Adroit Technologies",
+  "category": "Pumps",
+  "version": "1.0.0",
+  "fileName": "Submersible Pump v2.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Submersible Pump v2.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [
+    "Water & Wastewater",
+    "Oil & Gas",
+    "Manufacturing"
+  ],
+  "tags": [
+    "Pump",
+    "Submersible"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}
