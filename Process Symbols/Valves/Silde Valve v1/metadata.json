@@ -1,0 +1,28 @@
+{
+  "id": "19e1dc08-f91d-4a6f-b9c9-dcc4f3e4aa38",
+  "name": "Silde Valve v1",
+  "description": "A Silde Valve v1.",
+  "author": "Adroit Technologies",
+  "category": "Valves",
+  "version": "1.0.0",
+  "fileName": "Silde Valve v1.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Silde Valve v1.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [
+    "Water & Wastewater",
+    "Oil & Gas",
+    "Power Generation"
+  ],
+  "tags": [
+    "Valve"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

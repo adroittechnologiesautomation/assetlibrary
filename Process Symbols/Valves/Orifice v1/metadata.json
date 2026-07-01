@@ -1,0 +1,22 @@
+{
+  "id": "74c0b964-5203-4d8f-8087-40deab801e10",
+  "name": "Orifice v1",
+  "description": "A Orifice v1.",
+  "author": "Adroit Technologies",
+  "category": "Valves",
+  "version": "1.0.0",
+  "fileName": "Orifice v1.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Orifice v1.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [],
+  "tags": [],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

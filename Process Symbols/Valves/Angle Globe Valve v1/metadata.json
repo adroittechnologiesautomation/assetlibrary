@@ -1,0 +1,29 @@
+{
+  "id": "efdc87a3-5878-460e-acec-bfce7affb0ca",
+  "name": "Angle Globe Valve v1",
+  "description": "A Angle Globe Valve v1.",
+  "author": "Adroit Technologies",
+  "category": "Valves",
+  "version": "1.0.0",
+  "fileName": "Angle Globe Valve v1.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Angle Globe Valve v1.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [
+    "Water & Wastewater",
+    "Oil & Gas",
+    "Power Generation"
+  ],
+  "tags": [
+    "Valve",
+    "Globe"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

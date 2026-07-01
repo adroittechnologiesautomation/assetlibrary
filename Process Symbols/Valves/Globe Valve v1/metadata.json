@@ -1,0 +1,29 @@
+{
+  "id": "0792f844-c11b-445c-aa5b-d68823cc482e",
+  "name": "Globe Valve v1",
+  "description": "A Globe Valve v1.",
+  "author": "Adroit Technologies",
+  "category": "Valves",
+  "version": "1.0.0",
+  "fileName": "Globe Valve v1.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Globe Valve v1.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [
+    "Water & Wastewater",
+    "Oil & Gas",
+    "Power Generation"
+  ],
+  "tags": [
+    "Valve",
+    "Globe"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

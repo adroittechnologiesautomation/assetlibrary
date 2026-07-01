@@ -1,0 +1,29 @@
+{
+  "id": "13682b54-e7fc-41a8-a4bf-e8c924d95d63",
+  "name": "Pilot Gate Valve v2",
+  "description": "A Pilot Gate Valve v2.",
+  "author": "Adroit Technologies",
+  "category": "Valves",
+  "version": "1.0.0",
+  "fileName": "Pilot Gate Valve v2.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Pilot Gate Valve v2.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [
+    "Water & Wastewater",
+    "Oil & Gas",
+    "Power Generation"
+  ],
+  "tags": [
+    "Valve",
+    "Gate"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

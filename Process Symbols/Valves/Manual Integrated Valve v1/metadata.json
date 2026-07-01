@@ -1,0 +1,29 @@
+{
+  "id": "89a36f01-be37-4e03-8e2e-d479962161e8",
+  "name": "Manual Integrated Valve v1",
+  "description": "A Manual Integrated Valve v1.",
+  "author": "Adroit Technologies",
+  "category": "Valves",
+  "version": "1.0.0",
+  "fileName": "Manual Integrated Valve v1.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Manual Integrated Valve v1.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [
+    "Water & Wastewater",
+    "Oil & Gas",
+    "Power Generation"
+  ],
+  "tags": [
+    "Valve",
+    "Manual"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

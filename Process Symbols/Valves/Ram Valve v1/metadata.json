@@ -1,0 +1,28 @@
+{
+  "id": "30f97f08-8434-4d0a-80ae-5257157c42cf",
+  "name": "Ram Valve v1",
+  "description": "A Ram Valve v1.",
+  "author": "Adroit Technologies",
+  "category": "Valves",
+  "version": "1.0.0",
+  "fileName": "Ram Valve v1.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Ram Valve v1.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [
+    "Water & Wastewater",
+    "Oil & Gas",
+    "Power Generation"
+  ],
+  "tags": [
+    "Valve"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

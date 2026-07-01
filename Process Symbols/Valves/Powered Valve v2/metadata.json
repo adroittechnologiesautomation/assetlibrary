@@ -1,0 +1,28 @@
+{
+  "id": "9eba5d87-be17-4838-ad33-bb95c4d7934e",
+  "name": "Powered Valve v2",
+  "description": "A Powered Valve v2.",
+  "author": "Adroit Technologies",
+  "category": "Valves",
+  "version": "1.0.0",
+  "fileName": "Powered Valve v2.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Powered Valve v2.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [
+    "Water & Wastewater",
+    "Oil & Gas",
+    "Power Generation"
+  ],
+  "tags": [
+    "Valve"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

@@ -1,0 +1,28 @@
+{
+  "id": "4c2eb796-2062-4ca7-ad5b-db34e251e572",
+  "name": "Hand-Operated Flanged Valve v2",
+  "description": "A Hand-Operated Flanged Valve v2.",
+  "author": "Adroit Technologies",
+  "category": "Valves",
+  "version": "1.0.0",
+  "fileName": "Hand-Operated Flanged Valve v2.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Hand-Operated Flanged Valve v2.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [
+    "Water & Wastewater",
+    "Oil & Gas",
+    "Power Generation"
+  ],
+  "tags": [
+    "Valve"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

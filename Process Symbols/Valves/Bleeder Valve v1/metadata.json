@@ -1,0 +1,28 @@
+{
+  "id": "07176bdd-f7b4-48ae-aff5-2d734625074f",
+  "name": "Bleeder Valve v1",
+  "description": "A Bleeder Valve v1.",
+  "author": "Adroit Technologies",
+  "category": "Valves",
+  "version": "1.0.0",
+  "fileName": "Bleeder Valve v1.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Bleeder Valve v1.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [
+    "Water & Wastewater",
+    "Oil & Gas",
+    "Power Generation"
+  ],
+  "tags": [
+    "Valve"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

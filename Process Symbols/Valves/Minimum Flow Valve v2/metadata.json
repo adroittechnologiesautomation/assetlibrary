@@ -1,0 +1,28 @@
+{
+  "id": "884c14cf-d0e3-470f-ae78-70769bf7fe8e",
+  "name": "Minimum Flow Valve v2",
+  "description": "A Minimum Flow Valve v2.",
+  "author": "Adroit Technologies",
+  "category": "Valves",
+  "version": "1.0.0",
+  "fileName": "Minimum Flow Valve v2.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Minimum Flow Valve v2.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [
+    "Water & Wastewater",
+    "Oil & Gas",
+    "Power Generation"
+  ],
+  "tags": [
+    "Valve"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

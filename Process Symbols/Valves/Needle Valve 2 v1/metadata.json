@@ -1,0 +1,29 @@
+{
+  "id": "30cafcb0-6fac-4e13-a45e-c27a07fc6c1f",
+  "name": "Needle Valve 2 v1",
+  "description": "A Needle Valve 2 v1.",
+  "author": "Adroit Technologies",
+  "category": "Valves",
+  "version": "1.0.0",
+  "fileName": "Needle Valve 2 v1.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Needle Valve 2 v1.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [
+    "Water & Wastewater",
+    "Oil & Gas",
+    "Power Generation"
+  ],
+  "tags": [
+    "Valve",
+    "Needle"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

@@ -1,0 +1,28 @@
+{
+  "id": "05a12a74-a1cc-4a30-b74e-39e890ade4e6",
+  "name": "Angle Blowdown Valve v1",
+  "description": "A Angle Blowdown Valve v1.",
+  "author": "Adroit Technologies",
+  "category": "Valves",
+  "version": "1.0.0",
+  "fileName": "Angle Blowdown Valve v1.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Angle Blowdown Valve v1.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [
+    "Water & Wastewater",
+    "Oil & Gas",
+    "Power Generation"
+  ],
+  "tags": [
+    "Valve"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

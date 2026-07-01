@@ -1,0 +1,28 @@
+{
+  "id": "b02b35f8-e7fb-44af-a297-7efb637289a0",
+  "name": "Three-Way Valve v1",
+  "description": "A Three-Way Valve v1.",
+  "author": "Adroit Technologies",
+  "category": "Valves",
+  "version": "1.0.0",
+  "fileName": "Three-Way Valve v1.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Three-Way Valve v1.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [
+    "Water & Wastewater",
+    "Oil & Gas",
+    "Power Generation"
+  ],
+  "tags": [
+    "Valve"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

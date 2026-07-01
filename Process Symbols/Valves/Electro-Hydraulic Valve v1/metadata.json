@@ -1,0 +1,29 @@
+{
+  "id": "a07e0c1b-6cce-49a2-a6b7-7c1dd3e56f62",
+  "name": "Electro-Hydraulic Valve v1",
+  "description": "A Electro-Hydraulic Valve v1.",
+  "author": "Adroit Technologies",
+  "category": "Valves",
+  "version": "1.0.0",
+  "fileName": "Electro-Hydraulic Valve v1.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Electro-Hydraulic Valve v1.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [
+    "Water & Wastewater",
+    "Oil & Gas",
+    "Power Generation"
+  ],
+  "tags": [
+    "Valve",
+    "Hydraulic"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

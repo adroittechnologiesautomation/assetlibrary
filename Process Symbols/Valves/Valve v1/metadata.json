@@ -1,0 +1,28 @@
+{
+  "id": "d659075b-cb7b-41a2-8e6d-4193d4c339a3",
+  "name": "Valve v1",
+  "description": "A Valve v1.",
+  "author": "Adroit Technologies",
+  "category": "Valves",
+  "version": "1.0.0",
+  "fileName": "Valve v1.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Valve v1.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [
+    "Water & Wastewater",
+    "Oil & Gas",
+    "Power Generation"
+  ],
+  "tags": [
+    "Valve"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

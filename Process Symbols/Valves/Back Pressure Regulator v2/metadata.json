@@ -1,0 +1,24 @@
+{
+  "id": "69b848e7-497b-4d03-89d7-2dd9460c0e82",
+  "name": "Back Pressure Regulator v2",
+  "description": "A Back Pressure Regulator v2.",
+  "author": "Adroit Technologies",
+  "category": "Valves",
+  "version": "1.0.0",
+  "fileName": "Back Pressure Regulator v2.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Back Pressure Regulator v2.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [],
+  "tags": [
+    "Pressure Instrument"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

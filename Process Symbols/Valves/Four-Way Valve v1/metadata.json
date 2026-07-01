@@ -1,0 +1,28 @@
+{
+  "id": "198bfdac-7f38-4f79-86c0-cce81ef4c3ab",
+  "name": "Four-Way Valve v1",
+  "description": "A Four-Way Valve v1.",
+  "author": "Adroit Technologies",
+  "category": "Valves",
+  "version": "1.0.0",
+  "fileName": "Four-Way Valve v1.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Four-Way Valve v1.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [
+    "Water & Wastewater",
+    "Oil & Gas",
+    "Power Generation"
+  ],
+  "tags": [
+    "Valve"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

@@ -1,0 +1,29 @@
+{
+  "id": "9e1f2575-51af-4679-b1bb-4926ec410de7",
+  "name": "Hydraulic Valve v1",
+  "description": "A Hydraulic Valve v1.",
+  "author": "Adroit Technologies",
+  "category": "Valves",
+  "version": "1.0.0",
+  "fileName": "Hydraulic Valve v1.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Hydraulic Valve v1.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [
+    "Water & Wastewater",
+    "Oil & Gas",
+    "Power Generation"
+  ],
+  "tags": [
+    "Valve",
+    "Hydraulic"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

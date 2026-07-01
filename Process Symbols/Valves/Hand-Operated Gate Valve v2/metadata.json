@@ -1,0 +1,29 @@
+{
+  "id": "206d8211-c399-4da3-967c-197671722250",
+  "name": "Hand-Operated Gate Valve v2",
+  "description": "A Hand-Operated Gate Valve v2.",
+  "author": "Adroit Technologies",
+  "category": "Valves",
+  "version": "1.0.0",
+  "fileName": "Hand-Operated Gate Valve v2.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Hand-Operated Gate Valve v2.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [
+    "Water & Wastewater",
+    "Oil & Gas",
+    "Power Generation"
+  ],
+  "tags": [
+    "Valve",
+    "Gate"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

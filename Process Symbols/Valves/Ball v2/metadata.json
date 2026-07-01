@@ -1,0 +1,24 @@
+{
+  "id": "7825e722-a13e-436b-be6b-df8666ea9917",
+  "name": "Ball v2",
+  "description": "A Ball v2.",
+  "author": "Adroit Technologies",
+  "category": "Valves",
+  "version": "1.0.0",
+  "fileName": "Ball v2.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Ball v2.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [],
+  "tags": [
+    "Ball"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

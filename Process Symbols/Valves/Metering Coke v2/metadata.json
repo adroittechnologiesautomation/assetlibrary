@@ -1,0 +1,24 @@
+{
+  "id": "75130d71-b60b-4eb9-978b-addcff5c150c",
+  "name": "Metering Coke v2",
+  "description": "A Metering Coke v2.",
+  "author": "Adroit Technologies",
+  "category": "Valves",
+  "version": "1.0.0",
+  "fileName": "Metering Coke v2.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Metering Coke v2.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [],
+  "tags": [
+    "Meter"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

@@ -1,0 +1,28 @@
+{
+  "id": "c61709b8-373f-4703-9ba5-b5d96cdebc0f",
+  "name": "Knife Valve v1",
+  "description": "A Knife Valve v1.",
+  "author": "Adroit Technologies",
+  "category": "Valves",
+  "version": "1.0.0",
+  "fileName": "Knife Valve v1.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Knife Valve v1.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [
+    "Water & Wastewater",
+    "Oil & Gas",
+    "Power Generation"
+  ],
+  "tags": [
+    "Valve"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

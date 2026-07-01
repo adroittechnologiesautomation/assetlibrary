@@ -1,0 +1,25 @@
+{
+  "id": "ea5bc992-7a17-40bf-bc49-7e8d03f517b0",
+  "name": "Normally Closed Ball v1",
+  "description": "A Normally Closed Ball v1.",
+  "author": "Adroit Technologies",
+  "category": "Valves",
+  "version": "1.0.0",
+  "fileName": "Normally Closed Ball v1.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Normally Closed Ball v1.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [],
+  "tags": [
+    "Ball",
+    "Closed"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

@@ -1,0 +1,28 @@
+{
+  "id": "206e1581-81ad-4668-84c4-4f38b229b4f3",
+  "name": "Pinch Valve v1",
+  "description": "A Pinch Valve v1.",
+  "author": "Adroit Technologies",
+  "category": "Valves",
+  "version": "1.0.0",
+  "fileName": "Pinch Valve v1.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Pinch Valve v1.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [
+    "Water & Wastewater",
+    "Oil & Gas",
+    "Power Generation"
+  ],
+  "tags": [
+    "Valve"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

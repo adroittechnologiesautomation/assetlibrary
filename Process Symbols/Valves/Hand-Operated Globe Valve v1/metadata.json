@@ -1,0 +1,29 @@
+{
+  "id": "35be0e42-e7af-4870-8e3c-120108df2792",
+  "name": "Hand-Operated Globe Valve v1",
+  "description": "A Hand-Operated Globe Valve v1.",
+  "author": "Adroit Technologies",
+  "category": "Valves",
+  "version": "1.0.0",
+  "fileName": "Hand-Operated Globe Valve v1.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Hand-Operated Globe Valve v1.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [
+    "Water & Wastewater",
+    "Oil & Gas",
+    "Power Generation"
+  ],
+  "tags": [
+    "Valve",
+    "Globe"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

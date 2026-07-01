@@ -1,0 +1,29 @@
+{
+  "id": "4a1032ac-ffa5-40be-b5b8-941ef333eb26",
+  "name": "Check Valve 2 v2",
+  "description": "A Check Valve 2 v2.",
+  "author": "Adroit Technologies",
+  "category": "Valves",
+  "version": "1.0.0",
+  "fileName": "Check Valve 2 v2.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Check Valve 2 v2.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [
+    "Water & Wastewater",
+    "Oil & Gas",
+    "Power Generation"
+  ],
+  "tags": [
+    "Valve",
+    "Check"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

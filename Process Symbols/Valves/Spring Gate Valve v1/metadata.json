@@ -1,0 +1,29 @@
+{
+  "id": "aa6ec983-f1a5-4b72-8f26-ad97a09e0b6b",
+  "name": "Spring Gate Valve v1",
+  "description": "A Spring Gate Valve v1.",
+  "author": "Adroit Technologies",
+  "category": "Valves",
+  "version": "1.0.0",
+  "fileName": "Spring Gate Valve v1.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Spring Gate Valve v1.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [
+    "Water & Wastewater",
+    "Oil & Gas",
+    "Power Generation"
+  ],
+  "tags": [
+    "Valve",
+    "Gate"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

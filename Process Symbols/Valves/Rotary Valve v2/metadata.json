@@ -1,0 +1,29 @@
+{
+  "id": "7fcd645d-e8bd-41b7-997d-40a6f0c58b11",
+  "name": "Rotary Valve v2",
+  "description": "A Rotary Valve v2.",
+  "author": "Adroit Technologies",
+  "category": "Valves",
+  "version": "1.0.0",
+  "fileName": "Rotary Valve v2.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Rotary Valve v2.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [
+    "Water & Wastewater",
+    "Oil & Gas",
+    "Power Generation"
+  ],
+  "tags": [
+    "Valve",
+    "Rotary"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

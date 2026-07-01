@@ -1,0 +1,28 @@
+{
+  "id": "a7f4e7ba-63fb-48da-b4e7-19a95d5118b6",
+  "name": "Flanged Valve 2 v1",
+  "description": "A Flanged Valve 2 v1.",
+  "author": "Adroit Technologies",
+  "category": "Valves",
+  "version": "1.0.0",
+  "fileName": "Flanged Valve 2 v1.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Flanged Valve 2 v1.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [
+    "Water & Wastewater",
+    "Oil & Gas",
+    "Power Generation"
+  ],
+  "tags": [
+    "Valve"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

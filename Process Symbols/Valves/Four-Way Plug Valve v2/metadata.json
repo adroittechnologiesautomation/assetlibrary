@@ -1,0 +1,28 @@
+{
+  "id": "676f735d-dfd5-4b42-abd8-16ff8667dffa",
+  "name": "Four-Way Plug Valve v2",
+  "description": "A Four-Way Plug Valve v2.",
+  "author": "Adroit Technologies",
+  "category": "Valves",
+  "version": "1.0.0",
+  "fileName": "Four-Way Plug Valve v2.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Four-Way Plug Valve v2.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [
+    "Water & Wastewater",
+    "Oil & Gas",
+    "Power Generation"
+  ],
+  "tags": [
+    "Valve"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

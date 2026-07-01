@@ -1,0 +1,28 @@
+{
+  "id": "ec2ef92c-26fe-4ba6-a3c0-097c83ad3796",
+  "name": "Float-Operated Valve v1",
+  "description": "A Float-Operated Valve v1.",
+  "author": "Adroit Technologies",
+  "category": "Valves",
+  "version": "1.0.0",
+  "fileName": "Float-Operated Valve v1.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Float-Operated Valve v1.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [
+    "Water & Wastewater",
+    "Oil & Gas",
+    "Power Generation"
+  ],
+  "tags": [
+    "Valve"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

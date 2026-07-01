@@ -1,0 +1,28 @@
+{
+  "id": "1279e866-2d27-437a-9fd7-69d1b466ee6c",
+  "name": "Relief Valve v1",
+  "description": "A Relief Valve v1.",
+  "author": "Adroit Technologies",
+  "category": "Valves",
+  "version": "1.0.0",
+  "fileName": "Relief Valve v1.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Relief Valve v1.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [
+    "Water & Wastewater",
+    "Oil & Gas",
+    "Power Generation"
+  ],
+  "tags": [
+    "Valve"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

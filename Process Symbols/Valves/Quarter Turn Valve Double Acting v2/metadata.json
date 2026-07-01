@@ -1,0 +1,28 @@
+{
+  "id": "a37575a0-dc64-4bec-8bfd-2ffe7e2a165f",
+  "name": "Quarter Turn Valve Double Acting v2",
+  "description": "A Quarter Turn Valve Double Acting v2.",
+  "author": "Adroit Technologies",
+  "category": "Valves",
+  "version": "1.0.0",
+  "fileName": "Quarter Turn Valve Double Acting v2.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Quarter Turn Valve Double Acting v2.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [
+    "Water & Wastewater",
+    "Oil & Gas",
+    "Power Generation"
+  ],
+  "tags": [
+    "Valve"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}
