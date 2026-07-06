@@ -4,7 +4,7 @@
   "description": "A Crusher Hammer.",
   "author": "Adroit Technologies",
   "category": "Process Symbols/Crushers Grinding",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "fileName": "Crusher Hammer.viz",
   "fileType": "Graphic",
   "previewImages": [
@@ -16,8 +16,8 @@
   "documentation": "",
   "industries": [
     "Mining",
-    "Cement & Lime",
-    "Metals & Steel"
+    "Cement \u0026 Lime",
+    "Metals \u0026 Steel"
   ],
   "tags": [
     "Crusher",

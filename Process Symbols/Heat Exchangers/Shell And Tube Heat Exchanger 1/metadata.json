@@ -4,7 +4,7 @@
   "description": "A Shell And Tube Heat Exchanger 1.",
   "author": "Adroit Technologies",
   "category": "Process Symbols/Heat Exchangers",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "fileName": "Shell And Tube Heat Exchanger 1.viz",
   "fileType": "Graphic",
   "previewImages": [
@@ -17,7 +17,7 @@
   "industries": [],
   "tags": [
     "Heat Exchanger",
-    "Shell & Tube"
+    "Shell \u0026 Tube"
   ],
   "averageRating": 0.0,
   "ratingCount": 0,

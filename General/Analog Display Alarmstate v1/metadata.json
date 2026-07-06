@@ -4,7 +4,7 @@
   "description": "An object template for Analog Display Alarmstate.",
   "author": "Adroit Technologies",
   "category": "General",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "fileName": "Analog Display Alarmstate v1.vizt",
   "fileType": "Object",
   "previewImages": [
@@ -19,8 +19,14 @@
   "licenseType": "free",
   "currency": "ZAR",
   "documentation": "",
-  "industries": ["General"],
-  "tags": ["Analog Display", "Alarmstate", "Template"],
+  "industries": [
+    "General"
+  ],
+  "tags": [
+    "Analog Display",
+    "Alarmstate",
+    "Template"
+  ],
   "averageRating": 0.0,
   "ratingCount": 0,
   "downloadCount": 0

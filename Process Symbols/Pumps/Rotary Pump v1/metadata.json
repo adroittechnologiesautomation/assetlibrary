@@ -4,7 +4,7 @@
   "description": "A Rotary Pump v1.",
   "author": "Adroit Technologies",
   "category": "Pumps",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "fileName": "Rotary Pump v1.viz",
   "fileType": "Graphic",
   "previewImages": [
@@ -15,8 +15,8 @@
   "currency": "ZAR",
   "documentation": "",
   "industries": [
-    "Water & Wastewater",
-    "Oil & Gas",
+    "Water \u0026 Wastewater",
+    "Oil \u0026 Gas",
     "Manufacturing"
   ],
   "tags": [

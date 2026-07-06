@@ -4,7 +4,7 @@
   "description": "A Reciprocating Compressor 1.",
   "author": "Adroit Technologies",
   "category": "Process Symbols/Compressors",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "fileName": "Reciprocating Compressor 1.viz",
   "fileType": "Graphic",
   "previewImages": [
@@ -15,7 +15,7 @@
   "currency": "ZAR",
   "documentation": "",
   "industries": [
-    "Oil & Gas",
+    "Oil \u0026 Gas",
     "Petrochemical",
     "Manufacturing"
   ],

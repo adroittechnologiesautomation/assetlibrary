@@ -4,7 +4,7 @@
   "description": "A Mill Pulverizer Impact.",
   "author": "Adroit Technologies",
   "category": "Process Symbols/Crushers Grinding",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "fileName": "Mill Pulverizer Impact.viz",
   "fileType": "Graphic",
   "previewImages": [
@@ -16,8 +16,8 @@
   "documentation": "",
   "industries": [
     "Mining",
-    "Metals & Steel",
-    "Pulp & Paper"
+    "Metals \u0026 Steel",
+    "Pulp \u0026 Paper"
   ],
   "tags": [
     "Mill",

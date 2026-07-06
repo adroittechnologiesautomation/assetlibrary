@@ -4,7 +4,7 @@
   "description": "A Conveyor 1.",
   "author": "Adroit Technologies",
   "category": "Process Symbols/Misc",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "fileName": "Conveyor 1.viz",
   "fileType": "Graphic",
   "previewImages": [
@@ -17,7 +17,7 @@
   "industries": [
     "Mining",
     "Manufacturing",
-    "Logistics & Warehousing"
+    "Logistics \u0026 Warehousing"
   ],
   "tags": [
     "Conveyor"

@@ -4,7 +4,7 @@
   "description": "A Hand-Operated Flanged Valve v1.",
   "author": "Adroit Technologies",
   "category": "Valves",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "fileName": "Hand-Operated Flanged Valve v1.viz",
   "fileType": "Graphic",
   "previewImages": [
@@ -15,8 +15,8 @@
   "currency": "ZAR",
   "documentation": "",
   "industries": [
-    "Water & Wastewater",
-    "Oil & Gas",
+    "Water \u0026 Wastewater",
+    "Oil \u0026 Gas",
     "Power Generation"
   ],
   "tags": [

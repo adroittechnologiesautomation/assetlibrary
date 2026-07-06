@@ -4,7 +4,7 @@
   "description": "A Compressor Ring ISO.",
   "author": "Adroit Technologies",
   "category": "Process Symbols/Compressors",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "fileName": "Compressor Ring ISO.viz",
   "fileType": "Graphic",
   "previewImages": [
@@ -15,7 +15,7 @@
   "currency": "ZAR",
   "documentation": "",
   "industries": [
-    "Oil & Gas",
+    "Oil \u0026 Gas",
     "Petrochemical",
     "Manufacturing"
   ],
