@@ -1,7 +1,7 @@
 {
   "id": "b90ea607-1436-45b8-9b7f-bb50b914c6d1",
   "name": "Diaphragm Pump DIN",
-  "description": "A Diaphragm Pump DIN.",
+  "description": "Diaphragm Pump DIN.",
   "author": "Adroit Technologies",
   "category": "Process Symbols/Pumps",
   "version": "0.0.1",
@@ -15,8 +15,8 @@
   "currency": "ZAR",
   "documentation": "",
   "industries": [
-    "Water \u0026 Wastewater",
-    "Oil \u0026 Gas",
+    "Water & Wastewater",
+    "Oil & Gas",
     "Manufacturing"
   ],
   "tags": [

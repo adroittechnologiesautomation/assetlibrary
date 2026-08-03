@@ -1,7 +1,7 @@
 {
   "id": "e23522f9-068f-4a8b-b853-08db2496c042",
   "name": "Settling Tank",
-  "description": "A Settling Tank.",
+  "description": "Settling Tank.",
   "author": "Adroit Technologies",
   "category": "Process Symbols/Vessels",
   "version": "0.0.1",
@@ -15,9 +15,9 @@
   "currency": "ZAR",
   "documentation": "",
   "industries": [
-    "Water \u0026 Wastewater",
-    "Oil \u0026 Gas",
-    "Food \u0026 Beverage"
+    "Water & Wastewater",
+    "Oil & Gas",
+    "Food & Beverage"
   ],
   "tags": [
     "Tank"

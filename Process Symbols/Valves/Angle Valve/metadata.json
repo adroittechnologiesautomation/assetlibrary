@@ -1,7 +1,7 @@
 {
   "id": "636e3e9a-e9f1-41ce-89cd-19c14b8c17aa",
   "name": "Angle Valve",
-  "description": "A Angle Valve.",
+  "description": "Angle Valve.",
   "author": "Adroit Technologies",
   "category": "Process Symbols/Valves",
   "version": "0.0.1",
@@ -15,8 +15,8 @@
   "currency": "ZAR",
   "documentation": "",
   "industries": [
-    "Water \u0026 Wastewater",
-    "Oil \u0026 Gas",
+    "Water & Wastewater",
+    "Oil & Gas",
     "Power Generation"
   ],
   "tags": [

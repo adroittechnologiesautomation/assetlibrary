@@ -1,7 +1,7 @@
 {
   "id": "7c09ff47-ee92-461e-a3d5-b534c784282b",
   "name": "Reciprocating Compressor 2",
-  "description": "A Reciprocating Compressor 2.",
+  "description": "Reciprocating Compressor 2.",
   "author": "Adroit Technologies",
   "category": "Process Symbols/Compressors",
   "version": "0.0.1",
@@ -15,7 +15,7 @@
   "currency": "ZAR",
   "documentation": "",
   "industries": [
-    "Oil \u0026 Gas",
+    "Oil & Gas",
     "Petrochemical",
     "Manufacturing"
   ],

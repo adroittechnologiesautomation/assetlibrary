@@ -1,7 +1,7 @@
 {
   "id": "f3588d3b-6371-43ba-8fc0-3961aca0a058",
   "name": "Shell And Tube Heat Exchanger 3",
-  "description": "A Shell And Tube Heat Exchanger 3.",
+  "description": "Shell And Tube Heat Exchanger 3.",
   "author": "Adroit Technologies",
   "category": "Process Symbols/Heat Exchangers",
   "version": "0.0.1",
@@ -17,7 +17,7 @@
   "industries": [],
   "tags": [
     "Heat Exchanger",
-    "Shell \u0026 Tube"
+    "Shell & Tube"
   ],
   "averageRating": 0.0,
   "ratingCount": 0,

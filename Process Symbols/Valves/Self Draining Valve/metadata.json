@@ -1,7 +1,7 @@
 {
   "id": "602fb7cc-c978-446e-942f-a7fac09ca98b",
   "name": "Self Draining Valve",
-  "description": "A Self Draining Valve.",
+  "description": "Self Draining Valve.",
   "author": "Adroit Technologies",
   "category": "Process Symbols/Valves",
   "version": "0.0.1",
@@ -15,8 +15,8 @@
   "currency": "ZAR",
   "documentation": "",
   "industries": [
-    "Water \u0026 Wastewater",
-    "Oil \u0026 Gas",
+    "Water & Wastewater",
+    "Oil & Gas",
     "Power Generation"
   ],
   "tags": [

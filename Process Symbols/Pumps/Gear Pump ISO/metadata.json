@@ -1,7 +1,7 @@
 {
   "id": "20dd55cc-6f08-40f1-ae34-0376461d3e12",
   "name": "Gear Pump ISO",
-  "description": "A Gear Pump ISO.",
+  "description": "Gear Pump ISO.",
   "author": "Adroit Technologies",
   "category": "Process Symbols/Pumps",
   "version": "0.0.1",
@@ -15,8 +15,8 @@
   "currency": "ZAR",
   "documentation": "",
   "industries": [
-    "Water \u0026 Wastewater",
-    "Oil \u0026 Gas",
+    "Water & Wastewater",
+    "Oil & Gas",
     "Manufacturing"
   ],
   "tags": [

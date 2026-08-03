@@ -1,7 +1,7 @@
 {
   "id": "7e0b94c8-ae7a-4507-b5fe-ef3337ebcc92",
   "name": "Compressor Centrifugal ISO",
-  "description": "A Compressor Centrifugal ISO.",
+  "description": "Compressor Centrifugal ISO.",
   "author": "Adroit Technologies",
   "category": "Process Symbols/Compressors",
   "version": "0.0.1",
@@ -15,7 +15,7 @@
   "currency": "ZAR",
   "documentation": "",
   "industries": [
-    "Oil \u0026 Gas",
+    "Oil & Gas",
     "Petrochemical",
     "Manufacturing"
   ],

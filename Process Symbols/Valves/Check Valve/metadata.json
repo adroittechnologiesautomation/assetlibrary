@@ -1,7 +1,7 @@
 {
   "id": "2387b494-689b-4f89-8bdd-860267a3729a",
   "name": "Check Valve",
-  "description": "A Check Valve.",
+  "description": "Check Valve.",
   "author": "Adroit Technologies",
   "category": "Process Symbols/Valves",
   "version": "0.0.1",
@@ -15,8 +15,8 @@
   "currency": "ZAR",
   "documentation": "",
   "industries": [
-    "Water \u0026 Wastewater",
-    "Oil \u0026 Gas",
+    "Water & Wastewater",
+    "Oil & Gas",
     "Power Generation"
   ],
   "tags": [

@@ -1,7 +1,7 @@
 {
   "id": "d7a061f8-3c95-4bde-8a55-e4203ff9a601",
   "name": "Gear Pump",
-  "description": "A Gear Pump.",
+  "description": "Gear Pump.",
   "author": "Adroit Technologies",
   "category": "Process Symbols/Pumps",
   "version": "0.0.1",
@@ -15,8 +15,8 @@
   "currency": "ZAR",
   "documentation": "",
   "industries": [
-    "Water \u0026 Wastewater",
-    "Oil \u0026 Gas",
+    "Water & Wastewater",
+    "Oil & Gas",
     "Manufacturing"
   ],
   "tags": [

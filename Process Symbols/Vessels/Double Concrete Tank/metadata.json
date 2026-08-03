@@ -1,7 +1,7 @@
 {
   "id": "c8a38b74-d3cd-42f2-b1b7-13e190c30065",
   "name": "Double Concrete Tank",
-  "description": "A Double Concrete Tank.",
+  "description": "Double Concrete Tank.",
   "author": "Adroit Technologies",
   "category": "Process Symbols/Vessels",
   "version": "0.0.1",
@@ -15,9 +15,9 @@
   "currency": "ZAR",
   "documentation": "",
   "industries": [
-    "Water \u0026 Wastewater",
-    "Oil \u0026 Gas",
-    "Food \u0026 Beverage"
+    "Water & Wastewater",
+    "Oil & Gas",
+    "Food & Beverage"
   ],
   "tags": [
     "Tank"

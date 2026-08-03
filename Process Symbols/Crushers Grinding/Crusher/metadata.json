@@ -1,7 +1,7 @@
 {
   "id": "86f63f3f-b913-4a7e-afc9-4b9c6e598590",
   "name": "Crusher",
-  "description": "A Crusher.",
+  "description": "Crusher.",
   "author": "Adroit Technologies",
   "category": "Process Symbols/Crushers Grinding",
   "version": "0.0.1",
@@ -16,8 +16,8 @@
   "documentation": "",
   "industries": [
     "Mining",
-    "Cement \u0026 Lime",
-    "Metals \u0026 Steel"
+    "Cement & Lime",
+    "Metals & Steel"
   ],
   "tags": [
     "Crusher"

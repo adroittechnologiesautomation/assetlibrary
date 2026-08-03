@@ -1,7 +1,7 @@
 {
   "id": "6ee4d766-e483-4df8-af5a-b570628c0a37",
   "name": "Angle Blowdown Valve",
-  "description": "A Angle Blowdown Valve.",
+  "description": "Angle Blowdown Valve.",
   "author": "Adroit Technologies",
   "category": "Process Symbols/Valves",
   "version": "0.0.1",
@@ -15,8 +15,8 @@
   "currency": "ZAR",
   "documentation": "",
   "industries": [
-    "Water \u0026 Wastewater",
-    "Oil \u0026 Gas",
+    "Water & Wastewater",
+    "Oil & Gas",
     "Power Generation"
   ],
   "tags": [

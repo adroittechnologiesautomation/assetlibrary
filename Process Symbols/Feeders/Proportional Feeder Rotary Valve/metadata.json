@@ -1,7 +1,7 @@
 {
   "id": "c2325c2e-57ab-4097-929d-20f3ddace4e4",
   "name": "Proportional Feeder Rotary Valve",
-  "description": "A Proportional Feeder Rotary Valve.",
+  "description": "Proportional Feeder Rotary Valve.",
   "author": "Adroit Technologies",
   "category": "Process Symbols/Feeders",
   "version": "0.0.1",
@@ -15,8 +15,8 @@
   "currency": "ZAR",
   "documentation": "",
   "industries": [
-    "Water \u0026 Wastewater",
-    "Oil \u0026 Gas",
+    "Water & Wastewater",
+    "Oil & Gas",
     "Power Generation"
   ],
   "tags": [

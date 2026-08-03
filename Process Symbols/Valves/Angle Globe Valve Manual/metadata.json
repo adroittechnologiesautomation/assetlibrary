@@ -1,7 +1,7 @@
 {
   "id": "9bc97899-c272-4255-994c-607d3012e2ce",
   "name": "Angle Globe Valve Manual",
-  "description": "A Angle Globe Valve Manual.",
+  "description": "Angle Globe Valve Manual.",
   "author": "Adroit Technologies",
   "category": "Process Symbols/Valves",
   "version": "0.0.1",
@@ -15,8 +15,8 @@
   "currency": "ZAR",
   "documentation": "",
   "industries": [
-    "Water \u0026 Wastewater",
-    "Oil \u0026 Gas",
+    "Water & Wastewater",
+    "Oil & Gas",
     "Power Generation"
   ],
   "tags": [

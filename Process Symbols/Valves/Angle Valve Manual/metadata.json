@@ -1,7 +1,7 @@
 {
   "id": "eb824006-68e2-4687-8d77-348f31f85f69",
   "name": "Angle Valve Manual",
-  "description": "A Angle Valve Manual.",
+  "description": "Angle Valve Manual.",
   "author": "Adroit Technologies",
   "category": "Process Symbols/Valves",
   "version": "0.0.1",
@@ -15,8 +15,8 @@
   "currency": "ZAR",
   "documentation": "",
   "industries": [
-    "Water \u0026 Wastewater",
-    "Oil \u0026 Gas",
+    "Water & Wastewater",
+    "Oil & Gas",
     "Power Generation"
   ],
   "tags": [

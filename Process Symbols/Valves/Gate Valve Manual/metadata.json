@@ -1,7 +1,7 @@
 {
   "id": "f70d3f27-b6c7-43b1-9b78-582dfe6bded2",
   "name": "Gate Valve Manual",
-  "description": "A Gate Valve Manual.",
+  "description": "Gate Valve Manual.",
   "author": "Adroit Technologies",
   "category": "Process Symbols/Valves",
   "version": "0.0.1",
@@ -15,8 +15,8 @@
   "currency": "ZAR",
   "documentation": "",
   "industries": [
-    "Water \u0026 Wastewater",
-    "Oil \u0026 Gas",
+    "Water & Wastewater",
+    "Oil & Gas",
     "Power Generation"
   ],
   "tags": [

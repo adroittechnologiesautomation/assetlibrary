@@ -1,7 +1,7 @@
 {
   "id": "a26b1f62-f95d-49cf-a964-d2935294527b",
   "name": "Gate Valve Solenoid",
-  "description": "A Gate Valve Solenoid.",
+  "description": "Gate Valve Solenoid.",
   "author": "Adroit Technologies",
   "category": "Process Symbols/Valves",
   "version": "0.0.1",
@@ -15,8 +15,8 @@
   "currency": "ZAR",
   "documentation": "",
   "industries": [
-    "Water \u0026 Wastewater",
-    "Oil \u0026 Gas",
+    "Water & Wastewater",
+    "Oil & Gas",
     "Power Generation"
   ],
   "tags": [

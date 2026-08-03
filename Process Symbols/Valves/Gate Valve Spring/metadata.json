@@ -1,7 +1,7 @@
 {
   "id": "c578011f-52cf-4293-b10e-4c1eb84693f8",
   "name": "Gate Valve Spring",
-  "description": "A Gate Valve Spring.",
+  "description": "Gate Valve Spring.",
   "author": "Adroit Technologies",
   "category": "Process Symbols/Valves",
   "version": "0.0.1",
@@ -15,8 +15,8 @@
   "currency": "ZAR",
   "documentation": "",
   "industries": [
-    "Water \u0026 Wastewater",
-    "Oil \u0026 Gas",
+    "Water & Wastewater",
+    "Oil & Gas",
     "Power Generation"
   ],
   "tags": [

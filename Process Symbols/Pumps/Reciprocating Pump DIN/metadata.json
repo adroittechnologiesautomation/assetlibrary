@@ -1,7 +1,7 @@
 {
   "id": "41f3fe7d-208b-4eb7-b020-504b0d620bd2",
   "name": "Reciprocating Pump DIN",
-  "description": "A Reciprocating Pump DIN.",
+  "description": "Reciprocating Pump DIN.",
   "author": "Adroit Technologies",
   "category": "Process Symbols/Pumps",
   "version": "0.0.1",
@@ -15,8 +15,8 @@
   "currency": "ZAR",
   "documentation": "",
   "industries": [
-    "Water \u0026 Wastewater",
-    "Oil \u0026 Gas",
+    "Water & Wastewater",
+    "Oil & Gas",
     "Manufacturing"
   ],
   "tags": [

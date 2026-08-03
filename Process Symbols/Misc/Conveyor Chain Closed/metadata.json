@@ -1,7 +1,7 @@
 {
   "id": "2a2981f7-7b98-4548-bdac-9042bb4749fb",
   "name": "Conveyor Chain Closed",
-  "description": "A Conveyor Chain Closed.",
+  "description": "Conveyor Chain Closed.",
   "author": "Adroit Technologies",
   "category": "Process Symbols/Misc",
   "version": "0.0.1",
@@ -17,7 +17,7 @@
   "industries": [
     "Mining",
     "Manufacturing",
-    "Logistics \u0026 Warehousing"
+    "Logistics & Warehousing"
   ],
   "tags": [
     "Conveyor",

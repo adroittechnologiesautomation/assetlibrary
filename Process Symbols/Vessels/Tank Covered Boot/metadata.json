@@ -1,7 +1,7 @@
 {
   "id": "0858f29f-217d-4a99-a109-fd145e79f231",
   "name": "Tank Covered Boot",
-  "description": "A Tank Covered Boot.",
+  "description": "Tank Covered Boot.",
   "author": "Adroit Technologies",
   "category": "Process Symbols/Vessels",
   "version": "0.0.1",
@@ -15,9 +15,9 @@
   "currency": "ZAR",
   "documentation": "",
   "industries": [
-    "Water \u0026 Wastewater",
-    "Oil \u0026 Gas",
-    "Food \u0026 Beverage"
+    "Water & Wastewater",
+    "Oil & Gas",
+    "Food & Beverage"
   ],
   "tags": [
     "Tank"

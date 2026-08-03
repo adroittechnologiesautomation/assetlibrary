@@ -1,7 +1,7 @@
 {
   "id": "d1771b8a-51ef-46d4-8355-2091bd03fa0e",
   "name": "Gate Valve Motor",
-  "description": "A Gate Valve Motor.",
+  "description": "Gate Valve Motor.",
   "author": "Adroit Technologies",
   "category": "Process Symbols/Valves",
   "version": "0.0.1",
@@ -15,8 +15,8 @@
   "currency": "ZAR",
   "documentation": "",
   "industries": [
-    "Water \u0026 Wastewater",
-    "Oil \u0026 Gas",
+    "Water & Wastewater",
+    "Oil & Gas",
     "Power Generation"
   ],
   "tags": [

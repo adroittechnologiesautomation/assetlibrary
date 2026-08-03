@@ -1,7 +1,7 @@
 {
   "id": "ad137ec4-62d8-4454-a1d9-44406d023c63",
   "name": "Centrifugal Pump DIN",
-  "description": "A Centrifugal Pump DIN.",
+  "description": "Centrifugal Pump DIN.",
   "author": "Adroit Technologies",
   "category": "Process Symbols/Pumps",
   "version": "0.0.1",
@@ -15,8 +15,8 @@
   "currency": "ZAR",
   "documentation": "",
   "industries": [
-    "Water \u0026 Wastewater",
-    "Oil \u0026 Gas",
+    "Water & Wastewater",
+    "Oil & Gas",
     "Manufacturing"
   ],
   "tags": [

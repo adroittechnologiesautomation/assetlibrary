@@ -1,7 +1,7 @@
 {
   "id": "da22d47b-7cf7-4fb2-a684-234d19994b2a",
   "name": "Centrifugal Pump ISO",
-  "description": "A Centrifugal Pump ISO.",
+  "description": "Centrifugal Pump ISO.",
   "author": "Adroit Technologies",
   "category": "Process Symbols/Pumps",
   "version": "0.0.1",
@@ -15,8 +15,8 @@
   "currency": "ZAR",
   "documentation": "",
   "industries": [
-    "Water \u0026 Wastewater",
-    "Oil \u0026 Gas",
+    "Water & Wastewater",
+    "Oil & Gas",
     "Manufacturing"
   ],
   "tags": [

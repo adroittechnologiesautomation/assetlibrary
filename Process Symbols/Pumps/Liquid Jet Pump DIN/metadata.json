@@ -1,7 +1,7 @@
 {
   "id": "97af5334-09af-464f-97a7-46c67dd8c470",
   "name": "Liquid Jet Pump DIN",
-  "description": "A Liquid Jet Pump DIN.",
+  "description": "Liquid Jet Pump DIN.",
   "author": "Adroit Technologies",
   "category": "Process Symbols/Pumps",
   "version": "0.0.1",
@@ -15,8 +15,8 @@
   "currency": "ZAR",
   "documentation": "",
   "industries": [
-    "Water \u0026 Wastewater",
-    "Oil \u0026 Gas",
+    "Water & Wastewater",
+    "Oil & Gas",
     "Manufacturing"
   ],
   "tags": [

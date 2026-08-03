@@ -1,7 +1,7 @@
 {
   "id": "ebfc8179-216e-4ee8-9f93-86361e7575c4",
   "name": "Sump Pump",
-  "description": "A Sump Pump.",
+  "description": "Sump Pump.",
   "author": "Adroit Technologies",
   "category": "Process Symbols/Pumps",
   "version": "0.0.1",
@@ -15,8 +15,8 @@
   "currency": "ZAR",
   "documentation": "",
   "industries": [
-    "Water \u0026 Wastewater",
-    "Oil \u0026 Gas",
+    "Water & Wastewater",
+    "Oil & Gas",
     "Manufacturing"
   ],
   "tags": [

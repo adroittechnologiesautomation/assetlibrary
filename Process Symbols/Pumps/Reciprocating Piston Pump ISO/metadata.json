@@ -1,7 +1,7 @@
 {
   "id": "fd6f7b8d-18c7-4a4f-9fa5-5e818a7f2c95",
   "name": "Reciprocating Piston Pump ISO",
-  "description": "A Reciprocating Piston Pump ISO.",
+  "description": "Reciprocating Piston Pump ISO.",
   "author": "Adroit Technologies",
   "category": "Process Symbols/Pumps",
   "version": "0.0.1",
@@ -15,8 +15,8 @@
   "currency": "ZAR",
   "documentation": "",
   "industries": [
-    "Water \u0026 Wastewater",
-    "Oil \u0026 Gas",
+    "Water & Wastewater",
+    "Oil & Gas",
     "Manufacturing"
   ],
   "tags": [

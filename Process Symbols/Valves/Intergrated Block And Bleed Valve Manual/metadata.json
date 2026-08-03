@@ -1,7 +1,7 @@
 {
   "id": "95087ceb-0d4a-4f39-af1b-345a8f966316",
   "name": "Intergrated Block And Bleed Valve Manual",
-  "description": "A Intergrated Block And Bleed Valve Manual.",
+  "description": "Intergrated Block And Bleed Valve Manual.",
   "author": "Adroit Technologies",
   "category": "Process Symbols/Valves",
   "version": "0.0.1",
@@ -15,8 +15,8 @@
   "currency": "ZAR",
   "documentation": "",
   "industries": [
-    "Water \u0026 Wastewater",
-    "Oil \u0026 Gas",
+    "Water & Wastewater",
+    "Oil & Gas",
     "Power Generation"
   ],
   "tags": [

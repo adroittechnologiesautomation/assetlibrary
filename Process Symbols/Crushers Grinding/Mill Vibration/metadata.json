@@ -1,7 +1,7 @@
 {
   "id": "7bc3ca58-3f3c-427c-aea6-e8afdba6f610",
   "name": "Mill Vibration",
-  "description": "A Mill Vibration.",
+  "description": "Mill Vibration.",
   "author": "Adroit Technologies",
   "category": "Process Symbols/Crushers Grinding",
   "version": "0.0.1",
@@ -16,8 +16,8 @@
   "documentation": "",
   "industries": [
     "Mining",
-    "Metals \u0026 Steel",
-    "Pulp \u0026 Paper"
+    "Metals & Steel",
+    "Pulp & Paper"
   ],
   "tags": [
     "Mill"

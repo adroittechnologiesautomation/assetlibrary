@@ -1,7 +1,7 @@
 {
   "id": "2aa7b5a5-a571-491b-89f0-9fa8dc8e794f",
   "name": "Gate Valve Double Acting Cylinder",
-  "description": "A Gate Valve Double Acting Cylinder.",
+  "description": "Gate Valve Double Acting Cylinder.",
   "author": "Adroit Technologies",
   "category": "Process Symbols/Valves",
   "version": "0.0.1",
@@ -15,8 +15,8 @@
   "currency": "ZAR",
   "documentation": "",
   "industries": [
-    "Water \u0026 Wastewater",
-    "Oil \u0026 Gas",
+    "Water & Wastewater",
+    "Oil & Gas",
     "Power Generation"
   ],
   "tags": [

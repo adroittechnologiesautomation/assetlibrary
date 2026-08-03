@@ -1,7 +1,7 @@
 {
   "id": "7af97a67-94da-4fbc-a67d-913d266c7fed",
   "name": "Plug Valve",
-  "description": "A Plug Valve.",
+  "description": "Plug Valve.",
   "author": "Adroit Technologies",
   "category": "Process Symbols/Valves",
   "version": "0.0.1",
@@ -15,8 +15,8 @@
   "currency": "ZAR",
   "documentation": "",
   "industries": [
-    "Water \u0026 Wastewater",
-    "Oil \u0026 Gas",
+    "Water & Wastewater",
+    "Oil & Gas",
     "Power Generation"
   ],
   "tags": [

@@ -1,7 +1,7 @@
 {
   "id": "7fe1c10a-d5db-4874-b0aa-8f7dfeaefdb0",
   "name": "Progressive Cavity Pump ISO",
-  "description": "A Progressive Cavity Pump ISO.",
+  "description": "Progressive Cavity Pump ISO.",
   "author": "Adroit Technologies",
   "category": "Process Symbols/Pumps",
   "version": "0.0.1",
@@ -15,8 +15,8 @@
   "currency": "ZAR",
   "documentation": "",
   "industries": [
-    "Water \u0026 Wastewater",
-    "Oil \u0026 Gas",
+    "Water & Wastewater",
+    "Oil & Gas",
     "Manufacturing"
   ],
   "tags": [

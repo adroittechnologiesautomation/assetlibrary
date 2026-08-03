@@ -1,7 +1,7 @@
 {
   "id": "598cf4a6-4ad9-4933-b7d1-e50fb90f59bb",
   "name": "Ball Valve",
-  "description": "A Ball Valve.",
+  "description": "Ball Valve.",
   "author": "Adroit Technologies",
   "category": "Process Symbols/Valves",
   "version": "0.0.1",
@@ -15,8 +15,8 @@
   "currency": "ZAR",
   "documentation": "",
   "industries": [
-    "Water \u0026 Wastewater",
-    "Oil \u0026 Gas",
+    "Water & Wastewater",
+    "Oil & Gas",
     "Power Generation"
   ],
   "tags": [

@@ -1,7 +1,7 @@
 {
   "id": "8cdf6ca7-3a2e-4bdc-80c5-cc27edd3a24e",
   "name": "Centrifugal Compressor Turbine Driven",
-  "description": "A Centrifugal Compressor Turbine Driven.",
+  "description": "Centrifugal Compressor Turbine Driven.",
   "author": "Adroit Technologies",
   "category": "Process Symbols/Compressors",
   "version": "0.0.1",
@@ -15,7 +15,7 @@
   "currency": "ZAR",
   "documentation": "",
   "industries": [
-    "Oil \u0026 Gas",
+    "Oil & Gas",
     "Petrochemical",
     "Manufacturing"
   ],

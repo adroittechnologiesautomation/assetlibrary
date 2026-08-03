@@ -1,7 +1,7 @@
 {
   "id": "0dd166da-4ef6-48ae-bf7d-79ebc27ebb4f",
   "name": "Compressor Rotary ISO",
-  "description": "A Compressor Rotary ISO.",
+  "description": "Compressor Rotary ISO.",
   "author": "Adroit Technologies",
   "category": "Process Symbols/Compressors",
   "version": "0.0.1",
@@ -15,7 +15,7 @@
   "currency": "ZAR",
   "documentation": "",
   "industries": [
-    "Oil \u0026 Gas",
+    "Oil & Gas",
     "Petrochemical",
     "Manufacturing"
   ],

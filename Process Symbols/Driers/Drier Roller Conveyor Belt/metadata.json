@@ -1,7 +1,7 @@
 {
   "id": "69c0b3ad-f753-42ab-ae9c-afc193b30077",
   "name": "Drier Roller Conveyor Belt",
-  "description": "A Drier Roller Conveyor Belt.",
+  "description": "Drier Roller Conveyor Belt.",
   "author": "Adroit Technologies",
   "category": "Process Symbols/Driers",
   "version": "0.0.1",
@@ -17,7 +17,7 @@
   "industries": [
     "Mining",
     "Manufacturing",
-    "Logistics \u0026 Warehousing"
+    "Logistics & Warehousing"
   ],
   "tags": [
     "Conveyor",

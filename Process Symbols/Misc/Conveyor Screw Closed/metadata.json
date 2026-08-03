@@ -1,7 +1,7 @@
 {
   "id": "2afe639d-03c9-4cd6-a73e-672e31ed7610",
   "name": "Conveyor Screw Closed",
-  "description": "A Conveyor Screw Closed.",
+  "description": "Conveyor Screw Closed.",
   "author": "Adroit Technologies",
   "category": "Process Symbols/Misc",
   "version": "0.0.1",
@@ -17,7 +17,7 @@
   "industries": [
     "Mining",
     "Manufacturing",
-    "Logistics \u0026 Warehousing"
+    "Logistics & Warehousing"
   ],
   "tags": [
     "Conveyor",

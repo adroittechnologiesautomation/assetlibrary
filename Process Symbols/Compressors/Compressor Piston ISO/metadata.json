@@ -1,7 +1,7 @@
 {
   "id": "9b5bb9d0-dfbc-4279-87b0-465b9987fba4",
   "name": "Compressor Piston ISO",
-  "description": "A Compressor Piston ISO.",
+  "description": "Compressor Piston ISO.",
   "author": "Adroit Technologies",
   "category": "Process Symbols/Compressors",
   "version": "0.0.1",
@@ -15,7 +15,7 @@
   "currency": "ZAR",
   "documentation": "",
   "industries": [
-    "Oil \u0026 Gas",
+    "Oil & Gas",
     "Petrochemical",
     "Manufacturing"
   ],

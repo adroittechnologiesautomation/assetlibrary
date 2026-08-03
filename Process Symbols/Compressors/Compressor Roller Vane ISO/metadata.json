@@ -1,7 +1,7 @@
 {
   "id": "280395cb-09eb-47b5-8c4d-237a3d64f82b",
   "name": "Compressor Roller Vane ISO",
-  "description": "A Compressor Roller Vane ISO.",
+  "description": "Compressor Roller Vane ISO.",
   "author": "Adroit Technologies",
   "category": "Process Symbols/Compressors",
   "version": "0.0.1",
@@ -15,7 +15,7 @@
   "currency": "ZAR",
   "documentation": "",
   "industries": [
-    "Oil \u0026 Gas",
+    "Oil & Gas",
     "Petrochemical",
     "Manufacturing"
   ],

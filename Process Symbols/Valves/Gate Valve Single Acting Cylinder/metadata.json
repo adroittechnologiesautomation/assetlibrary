@@ -1,7 +1,7 @@
 {
   "id": "c0bc76f8-5239-4981-9ec2-3bfb031a61e3",
   "name": "Gate Valve Single Acting Cylinder",
-  "description": "A Gate Valve Single Acting Cylinder.",
+  "description": "Gate Valve Single Acting Cylinder.",
   "author": "Adroit Technologies",
   "category": "Process Symbols/Valves",
   "version": "0.0.1",
@@ -15,8 +15,8 @@
   "currency": "ZAR",
   "documentation": "",
   "industries": [
-    "Water \u0026 Wastewater",
-    "Oil \u0026 Gas",
+    "Water & Wastewater",
+    "Oil & Gas",
     "Power Generation"
   ],
   "tags": [

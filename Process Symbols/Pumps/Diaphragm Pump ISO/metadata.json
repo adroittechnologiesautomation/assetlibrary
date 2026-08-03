@@ -1,7 +1,7 @@
 {
   "id": "78a5bc09-9743-4fd1-9155-74d0d8ed55ed",
   "name": "Diaphragm Pump ISO",
-  "description": "A Diaphragm Pump ISO.",
+  "description": "Diaphragm Pump ISO.",
   "author": "Adroit Technologies",
   "category": "Process Symbols/Pumps",
   "version": "0.0.1",
@@ -15,8 +15,8 @@
   "currency": "ZAR",
   "documentation": "",
   "industries": [
-    "Water \u0026 Wastewater",
-    "Oil \u0026 Gas",
+    "Water & Wastewater",
+    "Oil & Gas",
     "Manufacturing"
   ],
   "tags": [

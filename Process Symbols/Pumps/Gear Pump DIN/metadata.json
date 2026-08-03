@@ -1,7 +1,7 @@
 {
   "id": "569174d1-de61-430a-8308-78f73a035bf0",
   "name": "Gear Pump DIN",
-  "description": "A Gear Pump DIN.",
+  "description": "Gear Pump DIN.",
   "author": "Adroit Technologies",
   "category": "Process Symbols/Pumps",
   "version": "0.0.1",
@@ -15,8 +15,8 @@
   "currency": "ZAR",
   "documentation": "",
   "industries": [
-    "Water \u0026 Wastewater",
-    "Oil \u0026 Gas",
+    "Water & Wastewater",
+    "Oil & Gas",
     "Manufacturing"
   ],
   "tags": [

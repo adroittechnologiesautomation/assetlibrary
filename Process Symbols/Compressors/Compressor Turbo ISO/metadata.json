@@ -1,7 +1,7 @@
 {
   "id": "57bbea12-23b2-489b-a102-2e3eda215345",
   "name": "Compressor Turbo ISO",
-  "description": "A Compressor Turbo ISO.",
+  "description": "Compressor Turbo ISO.",
   "author": "Adroit Technologies",
   "category": "Process Symbols/Compressors",
   "version": "0.0.1",
@@ -15,7 +15,7 @@
   "currency": "ZAR",
   "documentation": "",
   "industries": [
-    "Oil \u0026 Gas",
+    "Oil & Gas",
     "Petrochemical",
     "Manufacturing"
   ],

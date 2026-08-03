@@ -1,7 +1,7 @@
 {
   "id": "8fedf041-939e-41f2-913d-f1b4dd11596b",
   "name": "Electromagnetic Pump DIN",
-  "description": "A Electromagnetic Pump DIN.",
+  "description": "Electromagnetic Pump DIN.",
   "author": "Adroit Technologies",
   "category": "Process Symbols/Pumps",
   "version": "0.0.1",
@@ -15,8 +15,8 @@
   "currency": "ZAR",
   "documentation": "",
   "industries": [
-    "Water \u0026 Wastewater",
-    "Oil \u0026 Gas",
+    "Water & Wastewater",
+    "Oil & Gas",
     "Manufacturing"
   ],
   "tags": [

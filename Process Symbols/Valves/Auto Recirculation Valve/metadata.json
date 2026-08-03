@@ -1,7 +1,7 @@
 {
   "id": "41938ce8-c384-47c8-ae8a-58f8c8872df3",
   "name": "Auto Recirculation Valve",
-  "description": "A Auto Recirculation Valve.",
+  "description": "Auto Recirculation Valve.",
   "author": "Adroit Technologies",
   "category": "Process Symbols/Valves",
   "version": "0.0.1",
@@ -15,8 +15,8 @@
   "currency": "ZAR",
   "documentation": "",
   "industries": [
-    "Water \u0026 Wastewater",
-    "Oil \u0026 Gas",
+    "Water & Wastewater",
+    "Oil & Gas",
     "Power Generation"
   ],
   "tags": [

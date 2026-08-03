@@ -1,7 +1,7 @@
 {
   "id": "77864a47-0e2e-40ae-91d3-08a060d0dcbb",
   "name": "Liquid Jet Pump ISO",
-  "description": "A Liquid Jet Pump ISO.",
+  "description": "Liquid Jet Pump ISO.",
   "author": "Adroit Technologies",
   "category": "Process Symbols/Pumps",
   "version": "0.0.1",
@@ -15,8 +15,8 @@
   "currency": "ZAR",
   "documentation": "",
   "industries": [
-    "Water \u0026 Wastewater",
-    "Oil \u0026 Gas",
+    "Water & Wastewater",
+    "Oil & Gas",
     "Manufacturing"
   ],
   "tags": [

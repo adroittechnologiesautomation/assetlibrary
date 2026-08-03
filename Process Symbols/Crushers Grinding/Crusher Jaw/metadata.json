@@ -1,7 +1,7 @@
 {
   "id": "aa42f916-56e6-4851-8d14-95312eaa4eb8",
   "name": "Crusher Jaw",
-  "description": "A Crusher Jaw.",
+  "description": "Crusher Jaw.",
   "author": "Adroit Technologies",
   "category": "Process Symbols/Crushers Grinding",
   "version": "0.0.1",
@@ -16,8 +16,8 @@
   "documentation": "",
   "industries": [
     "Mining",
-    "Cement \u0026 Lime",
-    "Metals \u0026 Steel"
+    "Cement & Lime",
+    "Metals & Steel"
   ],
   "tags": [
     "Crusher",

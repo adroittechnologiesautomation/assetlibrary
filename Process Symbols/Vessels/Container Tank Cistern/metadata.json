@@ -1,7 +1,7 @@
 {
   "id": "2bcb4571-accc-4f62-b92c-4a4fca726d3a",
   "name": "Container Tank Cistern",
-  "description": "A Container Tank Cistern.",
+  "description": "Container Tank Cistern.",
   "author": "Adroit Technologies",
   "category": "Process Symbols/Vessels",
   "version": "0.0.1",
@@ -15,9 +15,9 @@
   "currency": "ZAR",
   "documentation": "",
   "industries": [
-    "Water \u0026 Wastewater",
-    "Oil \u0026 Gas",
-    "Food \u0026 Beverage"
+    "Water & Wastewater",
+    "Oil & Gas",
+    "Food & Beverage"
   ],
   "tags": [
     "Tank"

@@ -1,7 +1,7 @@
 {
   "id": "b0627f05-1075-4852-801c-e807f0ada191",
   "name": "Tank Vessel",
-  "description": "A Tank Vessel.",
+  "description": "Tank Vessel.",
   "author": "Adroit Technologies",
   "category": "Process Symbols/Vessels",
   "version": "0.0.1",
@@ -15,9 +15,9 @@
   "currency": "ZAR",
   "documentation": "",
   "industries": [
-    "Water \u0026 Wastewater",
-    "Oil \u0026 Gas",
-    "Food \u0026 Beverage"
+    "Water & Wastewater",
+    "Oil & Gas",
+    "Food & Beverage"
   ],
   "tags": [
     "Tank"

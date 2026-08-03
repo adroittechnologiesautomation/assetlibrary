@@ -1,7 +1,7 @@
 {
   "id": "4fee568b-2fc6-4f57-8be6-fc39d08cc1eb",
   "name": "Compressor Vacuum Pump ISO",
-  "description": "A Compressor Vacuum Pump ISO.",
+  "description": "Compressor Vacuum Pump ISO.",
   "author": "Adroit Technologies",
   "category": "Process Symbols/Compressors",
   "version": "0.0.1",
@@ -15,8 +15,8 @@
   "currency": "ZAR",
   "documentation": "",
   "industries": [
-    "Water \u0026 Wastewater",
-    "Oil \u0026 Gas",
+    "Water & Wastewater",
+    "Oil & Gas",
     "Manufacturing"
   ],
   "tags": [

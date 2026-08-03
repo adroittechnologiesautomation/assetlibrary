@@ -1,7 +1,7 @@
 {
   "id": "148e7a45-5182-4a90-b32f-c8c59c7d0872",
   "name": "Conveyor 2",
-  "description": "A Conveyor 2.",
+  "description": "Conveyor 2.",
   "author": "Adroit Technologies",
   "category": "Process Symbols/Misc",
   "version": "0.0.1",
@@ -17,7 +17,7 @@
   "industries": [
     "Mining",
     "Manufacturing",
-    "Logistics \u0026 Warehousing"
+    "Logistics & Warehousing"
   ],
   "tags": [
     "Conveyor"

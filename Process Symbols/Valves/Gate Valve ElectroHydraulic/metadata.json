@@ -1,7 +1,7 @@
 {
   "id": "68151648-a549-4c2d-b14d-5453fc4afc40",
   "name": "Gate Valve ElectroHydraulic",
-  "description": "A Gate Valve ElectroHydraulic.",
+  "description": "Gate Valve ElectroHydraulic.",
   "author": "Adroit Technologies",
   "category": "Process Symbols/Valves",
   "version": "0.0.1",
@@ -15,8 +15,8 @@
   "currency": "ZAR",
   "documentation": "",
   "industries": [
-    "Water \u0026 Wastewater",
-    "Oil \u0026 Gas",
+    "Water & Wastewater",
+    "Oil & Gas",
     "Power Generation"
   ],
   "tags": [

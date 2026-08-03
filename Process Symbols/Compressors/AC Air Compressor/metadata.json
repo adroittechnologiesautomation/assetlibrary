@@ -1,7 +1,7 @@
 {
   "id": "306f723b-f91b-4301-aa3f-3b4e6f5733cd",
   "name": "AC Air Compressor",
-  "description": "A AC Air Compressor.",
+  "description": "AC Air Compressor.",
   "author": "Adroit Technologies",
   "category": "Process Symbols/Compressors",
   "version": "0.0.1",
@@ -15,7 +15,7 @@
   "currency": "ZAR",
   "documentation": "",
   "industries": [
-    "Oil \u0026 Gas",
+    "Oil & Gas",
     "Petrochemical",
     "Manufacturing"
   ],

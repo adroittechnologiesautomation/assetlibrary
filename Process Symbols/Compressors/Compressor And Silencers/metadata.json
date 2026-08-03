@@ -1,7 +1,7 @@
 {
   "id": "713142b5-f1b3-45f1-afde-6010c818fa1d",
   "name": "Compressor And Silencers",
-  "description": "A Compressor And Silencers.",
+  "description": "Compressor And Silencers.",
   "author": "Adroit Technologies",
   "category": "Process Symbols/Compressors",
   "version": "0.0.1",
@@ -15,7 +15,7 @@
   "currency": "ZAR",
   "documentation": "",
   "industries": [
-    "Oil \u0026 Gas",
+    "Oil & Gas",
     "Petrochemical",
     "Manufacturing"
   ],

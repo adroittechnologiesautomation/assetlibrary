@@ -1,7 +1,7 @@
 {
   "id": "7bd72624-9453-4768-81bb-8458a21f1b06",
   "name": "Vertical Pump",
-  "description": "A Vertical Pump.",
+  "description": "Vertical Pump.",
   "author": "Adroit Technologies",
   "category": "Process Symbols/Pumps",
   "version": "0.0.1",
@@ -15,8 +15,8 @@
   "currency": "ZAR",
   "documentation": "",
   "industries": [
-    "Water \u0026 Wastewater",
-    "Oil \u0026 Gas",
+    "Water & Wastewater",
+    "Oil & Gas",
     "Manufacturing"
   ],
   "tags": [

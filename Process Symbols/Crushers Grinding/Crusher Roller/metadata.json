@@ -1,7 +1,7 @@
 {
   "id": "ce58e8f3-dffd-4923-8258-b6182129ad3e",
   "name": "Crusher Roller",
-  "description": "A Crusher Roller.",
+  "description": "Crusher Roller.",
   "author": "Adroit Technologies",
   "category": "Process Symbols/Crushers Grinding",
   "version": "0.0.1",
@@ -16,8 +16,8 @@
   "documentation": "",
   "industries": [
     "Mining",
-    "Cement \u0026 Lime",
-    "Metals \u0026 Steel"
+    "Cement & Lime",
+    "Metals & Steel"
   ],
   "tags": [
     "Crusher",

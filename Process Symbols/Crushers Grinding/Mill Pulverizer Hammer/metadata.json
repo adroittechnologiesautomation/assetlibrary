@@ -1,7 +1,7 @@
 {
   "id": "13829fbc-8379-47cd-abb5-b22b7a85f6e6",
   "name": "Mill Pulverizer Hammer",
-  "description": "A Mill Pulverizer Hammer.",
+  "description": "Mill Pulverizer Hammer.",
   "author": "Adroit Technologies",
   "category": "Process Symbols/Crushers Grinding",
   "version": "0.0.1",
@@ -16,8 +16,8 @@
   "documentation": "",
   "industries": [
     "Mining",
-    "Metals \u0026 Steel",
-    "Pulp \u0026 Paper"
+    "Metals & Steel",
+    "Pulp & Paper"
   ],
   "tags": [
     "Mill",

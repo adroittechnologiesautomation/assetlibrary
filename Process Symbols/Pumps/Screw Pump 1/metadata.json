@@ -1,7 +1,7 @@
 {
   "id": "2ea20b2c-1a70-4e1f-8a75-81b567aae5fa",
   "name": "Screw Pump 1",
-  "description": "A Screw Pump 1.",
+  "description": "Screw Pump 1.",
   "author": "Adroit Technologies",
   "category": "Process Symbols/Pumps",
   "version": "0.0.1",
@@ -15,8 +15,8 @@
   "currency": "ZAR",
   "documentation": "",
   "industries": [
-    "Water \u0026 Wastewater",
-    "Oil \u0026 Gas",
+    "Water & Wastewater",
+    "Oil & Gas",
     "Manufacturing"
   ],
   "tags": [

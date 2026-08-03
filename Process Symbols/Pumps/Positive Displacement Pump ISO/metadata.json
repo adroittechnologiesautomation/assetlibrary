@@ -1,7 +1,7 @@
 {
   "id": "461b3dea-e981-43bc-9d67-090234d07de4",
   "name": "Positive Displacement Pump ISO",
-  "description": "A Positive Displacement Pump ISO.",
+  "description": "Positive Displacement Pump ISO.",
   "author": "Adroit Technologies",
   "category": "Process Symbols/Pumps",
   "version": "0.0.1",
@@ -15,8 +15,8 @@
   "currency": "ZAR",
   "documentation": "",
   "industries": [
-    "Water \u0026 Wastewater",
-    "Oil \u0026 Gas",
+    "Water & Wastewater",
+    "Oil & Gas",
     "Manufacturing"
   ],
   "tags": [

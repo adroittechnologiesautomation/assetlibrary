@@ -1,7 +1,7 @@
 {
   "id": "ecb8a446-dd74-4d3c-af88-a743bb47cb97",
   "name": "Tank Conical Bottom",
-  "description": "A Tank Conical Bottom.",
+  "description": "Tank Conical Bottom.",
   "author": "Adroit Technologies",
   "category": "Process Symbols/Vessels",
   "version": "0.0.1",
@@ -15,9 +15,9 @@
   "currency": "ZAR",
   "documentation": "",
   "industries": [
-    "Water \u0026 Wastewater",
-    "Oil \u0026 Gas",
-    "Food \u0026 Beverage"
+    "Water & Wastewater",
+    "Oil & Gas",
+    "Food & Beverage"
   ],
   "tags": [
     "Tank"

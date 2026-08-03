@@ -1,7 +1,7 @@
 {
   "id": "4553b87f-1b07-4025-a460-3691df4fac0b",
   "name": "Container Tank Cistern Legs",
-  "description": "A Container Tank Cistern Legs.",
+  "description": "Container Tank Cistern Legs.",
   "author": "Adroit Technologies",
   "category": "Process Symbols/Vessels",
   "version": "0.0.1",
@@ -15,9 +15,9 @@
   "currency": "ZAR",
   "documentation": "",
   "industries": [
-    "Water \u0026 Wastewater",
-    "Oil \u0026 Gas",
-    "Food \u0026 Beverage"
+    "Water & Wastewater",
+    "Oil & Gas",
+    "Food & Beverage"
   ],
   "tags": [
     "Tank"

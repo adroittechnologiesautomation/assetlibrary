@@ -1,7 +1,7 @@
 {
   "id": "48ac8248-8dff-4cbc-a2fc-115c0738600d",
   "name": "Liquid Ring Compressor",
-  "description": "A Liquid Ring Compressor.",
+  "description": "Liquid Ring Compressor.",
   "author": "Adroit Technologies",
   "category": "Process Symbols/Compressors",
   "version": "0.0.1",
@@ -15,7 +15,7 @@
   "currency": "ZAR",
   "documentation": "",
   "industries": [
-    "Oil \u0026 Gas",
+    "Oil & Gas",
     "Petrochemical",
     "Manufacturing"
   ],

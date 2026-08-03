@@ -1,7 +1,7 @@
 {
   "id": "3789514f-7394-49c2-a36c-d919de22648c",
   "name": "Tank Concrete Base",
-  "description": "A Tank Concrete Base.",
+  "description": "Tank Concrete Base.",
   "author": "Adroit Technologies",
   "category": "Process Symbols/Vessels",
   "version": "0.0.1",
@@ -15,9 +15,9 @@
   "currency": "ZAR",
   "documentation": "",
   "industries": [
-    "Water \u0026 Wastewater",
-    "Oil \u0026 Gas",
-    "Food \u0026 Beverage"
+    "Water & Wastewater",
+    "Oil & Gas",
+    "Food & Beverage"
   ],
   "tags": [
     "Tank"

@@ -1,7 +1,7 @@
 {
   "id": "969a936c-ba07-4cdd-a774-f4337a22ad2f",
   "name": "Three Way Valve Manual",
-  "description": "A Three Way Valve Manual.",
+  "description": "Three Way Valve Manual.",
   "author": "Adroit Technologies",
   "category": "Process Symbols/Valves",
   "version": "0.0.1",
@@ -15,8 +15,8 @@
   "currency": "ZAR",
   "documentation": "",
   "industries": [
-    "Water \u0026 Wastewater",
-    "Oil \u0026 Gas",
+    "Water & Wastewater",
+    "Oil & Gas",
     "Power Generation"
   ],
   "tags": [

@@ -1,7 +1,7 @@
 {
   "id": "2f3898d4-efa6-42df-99c1-60c1a9ad5b52",
   "name": "Centrifugal Pump 3",
-  "description": "A Centrifugal Pump 3.",
+  "description": "Centrifugal Pump 3.",
   "author": "Adroit Technologies",
   "category": "Process Symbols/Pumps",
   "version": "0.0.1",
@@ -15,8 +15,8 @@
   "currency": "ZAR",
   "documentation": "",
   "industries": [
-    "Water \u0026 Wastewater",
-    "Oil \u0026 Gas",
+    "Water & Wastewater",
+    "Oil & Gas",
     "Manufacturing"
   ],
   "tags": [

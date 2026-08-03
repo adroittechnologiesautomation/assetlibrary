@@ -1,7 +1,7 @@
 {
   "id": "f9b6b51e-5525-4724-bb6e-07f930bce100",
   "name": "Gate Valve Pilot",
-  "description": "A Gate Valve Pilot.",
+  "description": "Gate Valve Pilot.",
   "author": "Adroit Technologies",
   "category": "Process Symbols/Valves",
   "version": "0.0.1",
@@ -15,8 +15,8 @@
   "currency": "ZAR",
   "documentation": "",
   "industries": [
-    "Water \u0026 Wastewater",
-    "Oil \u0026 Gas",
+    "Water & Wastewater",
+    "Oil & Gas",
     "Power Generation"
   ],
   "tags": [

@@ -1,7 +1,7 @@
 {
   "id": "354e7856-7559-41a7-af5c-ae2633d678b4",
   "name": "Gate Valve Balanced Diaphragm",
-  "description": "A Gate Valve Balanced Diaphragm.",
+  "description": "Gate Valve Balanced Diaphragm.",
   "author": "Adroit Technologies",
   "category": "Process Symbols/Valves",
   "version": "0.0.1",
@@ -15,8 +15,8 @@
   "currency": "ZAR",
   "documentation": "",
   "industries": [
-    "Water \u0026 Wastewater",
-    "Oil \u0026 Gas",
+    "Water & Wastewater",
+    "Oil & Gas",
     "Power Generation"
   ],
   "tags": [

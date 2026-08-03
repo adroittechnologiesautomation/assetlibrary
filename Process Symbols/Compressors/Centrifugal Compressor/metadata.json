@@ -1,7 +1,7 @@
 {
   "id": "ea749014-ddb1-4cea-a358-6fc700b3740d",
   "name": "Centrifugal Compressor",
-  "description": "A Centrifugal Compressor.",
+  "description": "Centrifugal Compressor.",
   "author": "Adroit Technologies",
   "category": "Process Symbols/Compressors",
   "version": "0.0.1",
@@ -15,7 +15,7 @@
   "currency": "ZAR",
   "documentation": "",
   "industries": [
-    "Oil \u0026 Gas",
+    "Oil & Gas",
     "Petrochemical",
     "Manufacturing"
   ],

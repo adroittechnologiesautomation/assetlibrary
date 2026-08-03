@@ -1,7 +1,7 @@
 {
   "id": "d61f3b00-e8c3-4024-83d7-ce6baa84c76c",
   "name": "Cavity Pump",
-  "description": "A Cavity Pump.",
+  "description": "Cavity Pump.",
   "author": "Adroit Technologies",
   "category": "Process Symbols/Pumps",
   "version": "0.0.1",
@@ -15,8 +15,8 @@
   "currency": "ZAR",
   "documentation": "",
   "industries": [
-    "Water \u0026 Wastewater",
-    "Oil \u0026 Gas",
+    "Water & Wastewater",
+    "Oil & Gas",
     "Manufacturing"
   ],
   "tags": [

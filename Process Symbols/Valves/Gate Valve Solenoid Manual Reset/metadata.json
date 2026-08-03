@@ -1,7 +1,7 @@
 {
   "id": "55e80547-d886-4b48-b634-95fe55eb37b4",
   "name": "Gate Valve Solenoid Manual Reset",
-  "description": "A Gate Valve Solenoid Manual Reset.",
+  "description": "Gate Valve Solenoid Manual Reset.",
   "author": "Adroit Technologies",
   "category": "Process Symbols/Valves",
   "version": "0.0.1",
@@ -15,8 +15,8 @@
   "currency": "ZAR",
   "documentation": "",
   "industries": [
-    "Water \u0026 Wastewater",
-    "Oil \u0026 Gas",
+    "Water & Wastewater",
+    "Oil & Gas",
     "Power Generation"
   ],
   "tags": [

@@ -1,7 +1,7 @@
 {
   "id": "66309bfc-ef9f-4979-974b-c7d7ee2a1030",
   "name": "Tank Floating Roof Boot",
-  "description": "A Tank Floating Roof Boot.",
+  "description": "Tank Floating Roof Boot.",
   "author": "Adroit Technologies",
   "category": "Process Symbols/Vessels",
   "version": "0.0.1",
@@ -15,9 +15,9 @@
   "currency": "ZAR",
   "documentation": "",
   "industries": [
-    "Water \u0026 Wastewater",
-    "Oil \u0026 Gas",
-    "Food \u0026 Beverage"
+    "Water & Wastewater",
+    "Oil & Gas",
+    "Food & Beverage"
   ],
   "tags": [
     "Tank",

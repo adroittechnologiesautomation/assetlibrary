@@ -1,7 +1,7 @@
 {
   "id": "31785ec2-eeb7-44b3-afc4-fac79ee53131",
   "name": "Rotary Piston Pump DIN",
-  "description": "A Rotary Piston Pump DIN.",
+  "description": "Rotary Piston Pump DIN.",
   "author": "Adroit Technologies",
   "category": "Process Symbols/Pumps",
   "version": "0.0.1",
@@ -15,8 +15,8 @@
   "currency": "ZAR",
   "documentation": "",
   "industries": [
-    "Water \u0026 Wastewater",
-    "Oil \u0026 Gas",
+    "Water & Wastewater",
+    "Oil & Gas",
     "Manufacturing"
   ],
   "tags": [

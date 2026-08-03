@@ -1,7 +1,7 @@
 {
   "id": "9548e203-6cae-4eb6-9d48-d4fbc08ed7e0",
   "name": "Butterfly Valve",
-  "description": "A Butterfly Valve.",
+  "description": "Butterfly Valve.",
   "author": "Adroit Technologies",
   "category": "Process Symbols/Valves",
   "version": "0.0.1",
@@ -15,8 +15,8 @@
   "currency": "ZAR",
   "documentation": "",
   "industries": [
-    "Water \u0026 Wastewater",
-    "Oil \u0026 Gas",
+    "Water & Wastewater",
+    "Oil & Gas",
     "Power Generation"
   ],
   "tags": [

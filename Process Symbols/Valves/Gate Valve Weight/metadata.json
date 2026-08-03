@@ -1,7 +1,7 @@
 {
   "id": "32634953-3f0e-44b1-a235-834abee2b96a",
   "name": "Gate Valve Weight",
-  "description": "A Gate Valve Weight.",
+  "description": "Gate Valve Weight.",
   "author": "Adroit Technologies",
   "category": "Process Symbols/Valves",
   "version": "0.0.1",
@@ -15,8 +15,8 @@
   "currency": "ZAR",
   "documentation": "",
   "industries": [
-    "Water \u0026 Wastewater",
-    "Oil \u0026 Gas",
+    "Water & Wastewater",
+    "Oil & Gas",
     "Power Generation"
   ],
   "tags": [

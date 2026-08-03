@@ -1,7 +1,7 @@
 {
   "id": "325495ba-b8b8-45a7-a3b8-71c5f5636d41",
   "name": "Hydraulic Pump DIN",
-  "description": "A Hydraulic Pump DIN.",
+  "description": "Hydraulic Pump DIN.",
   "author": "Adroit Technologies",
   "category": "Process Symbols/Pumps",
   "version": "0.0.1",
@@ -15,8 +15,8 @@
   "currency": "ZAR",
   "documentation": "",
   "industries": [
-    "Water \u0026 Wastewater",
-    "Oil \u0026 Gas",
+    "Water & Wastewater",
+    "Oil & Gas",
     "Manufacturing"
   ],
   "tags": [

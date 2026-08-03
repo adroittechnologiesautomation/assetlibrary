@@ -1,7 +1,7 @@
 {
   "id": "3a7658c4-fedc-48be-b2c4-43661cd9801b",
   "name": "Screw Pump ISO",
-  "description": "A Screw Pump ISO.",
+  "description": "Screw Pump ISO.",
   "author": "Adroit Technologies",
   "category": "Process Symbols/Pumps",
   "version": "0.0.1",
@@ -15,8 +15,8 @@
   "currency": "ZAR",
   "documentation": "",
   "industries": [
-    "Water \u0026 Wastewater",
-    "Oil \u0026 Gas",
+    "Water & Wastewater",
+    "Oil & Gas",
     "Manufacturing"
   ],
   "tags": [

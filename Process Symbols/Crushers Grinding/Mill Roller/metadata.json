@@ -1,7 +1,7 @@
 {
   "id": "5f9dd08b-1423-4054-8ad9-176d9bcde12c",
   "name": "Mill Roller",
-  "description": "A Mill Roller.",
+  "description": "Mill Roller.",
   "author": "Adroit Technologies",
   "category": "Process Symbols/Crushers Grinding",
   "version": "0.0.1",
@@ -16,8 +16,8 @@
   "documentation": "",
   "industries": [
     "Mining",
-    "Metals \u0026 Steel",
-    "Pulp \u0026 Paper"
+    "Metals & Steel",
+    "Pulp & Paper"
   ],
   "tags": [
     "Mill",

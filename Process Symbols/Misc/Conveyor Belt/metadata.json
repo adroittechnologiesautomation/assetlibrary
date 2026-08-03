@@ -1,7 +1,7 @@
 {
   "id": "ee446bd6-0b65-4f92-8446-604d6e017c90",
   "name": "Conveyor Belt",
-  "description": "A Conveyor Belt.",
+  "description": "Conveyor Belt.",
   "author": "Adroit Technologies",
   "category": "Process Symbols/Misc",
   "version": "0.0.1",
@@ -17,7 +17,7 @@
   "industries": [
     "Mining",
     "Manufacturing",
-    "Logistics \u0026 Warehousing"
+    "Logistics & Warehousing"
   ],
   "tags": [
     "Conveyor"

@@ -1,7 +1,7 @@
 {
   "id": "dd443fa7-ca8a-441a-ad8d-750b32efc35d",
   "name": "Gate Valve",
-  "description": "A Gate Valve.",
+  "description": "Gate Valve.",
   "author": "Adroit Technologies",
   "category": "Process Symbols/Valves",
   "version": "0.0.1",
@@ -15,8 +15,8 @@
   "currency": "ZAR",
   "documentation": "",
   "industries": [
-    "Water \u0026 Wastewater",
-    "Oil \u0026 Gas",
+    "Water & Wastewater",
+    "Oil & Gas",
     "Power Generation"
   ],
   "tags": [

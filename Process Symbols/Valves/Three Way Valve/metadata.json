@@ -1,7 +1,7 @@
 {
   "id": "2093e1bd-3cd9-451d-b7d7-b48a81f0e60e",
   "name": "Three Way Valve",
-  "description": "A Three Way Valve.",
+  "description": "Three Way Valve.",
   "author": "Adroit Technologies",
   "category": "Process Symbols/Valves",
   "version": "0.0.1",
@@ -15,8 +15,8 @@
   "currency": "ZAR",
   "documentation": "",
   "industries": [
-    "Water \u0026 Wastewater",
-    "Oil \u0026 Gas",
+    "Water & Wastewater",
+    "Oil & Gas",
     "Power Generation"
   ],
   "tags": [

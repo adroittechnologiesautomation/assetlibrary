@@ -1,7 +1,7 @@
 {
   "id": "1cebeb9e-60e8-46d0-ad54-ce37924c559a",
   "name": "Tank Car",
-  "description": "A Tank Car.",
+  "description": "Tank Car.",
   "author": "Adroit Technologies",
   "category": "Process Symbols/Misc",
   "version": "0.0.1",
@@ -15,9 +15,9 @@
   "currency": "ZAR",
   "documentation": "",
   "industries": [
-    "Water \u0026 Wastewater",
-    "Oil \u0026 Gas",
-    "Food \u0026 Beverage"
+    "Water & Wastewater",
+    "Oil & Gas",
+    "Food & Beverage"
   ],
   "tags": [
     "Tank"

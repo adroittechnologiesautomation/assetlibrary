@@ -1,7 +1,7 @@
 {
   "id": "30f1d6b4-c9ef-4998-8616-fc61ddf427ac",
   "name": "Compressor",
-  "description": "A Compressor.",
+  "description": "Compressor.",
   "author": "Adroit Technologies",
   "category": "Process Symbols/Compressors",
   "version": "0.0.1",
@@ -15,7 +15,7 @@
   "currency": "ZAR",
   "documentation": "",
   "industries": [
-    "Oil \u0026 Gas",
+    "Oil & Gas",
     "Petrochemical",
     "Manufacturing"
   ],

@@ -1,7 +1,7 @@
 {
   "id": "64b3211d-613e-4420-93c1-2b22c620ed62",
   "name": "Gate Valve Diaphragm",
-  "description": "A Gate Valve Diaphragm.",
+  "description": "Gate Valve Diaphragm.",
   "author": "Adroit Technologies",
   "category": "Process Symbols/Valves",
   "version": "0.0.1",
@@ -15,8 +15,8 @@
   "currency": "ZAR",
   "documentation": "",
   "industries": [
-    "Water \u0026 Wastewater",
-    "Oil \u0026 Gas",
+    "Water & Wastewater",
+    "Oil & Gas",
     "Power Generation"
   ],
   "tags": [

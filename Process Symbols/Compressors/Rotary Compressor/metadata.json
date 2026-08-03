@@ -1,7 +1,7 @@
 {
   "id": "887d1cb9-cd6f-416c-80c4-4468448b670f",
   "name": "Rotary Compressor",
-  "description": "A Rotary Compressor.",
+  "description": "Rotary Compressor.",
   "author": "Adroit Technologies",
   "category": "Process Symbols/Compressors",
   "version": "0.0.1",
@@ -15,7 +15,7 @@
   "currency": "ZAR",
   "documentation": "",
   "industries": [
-    "Oil \u0026 Gas",
+    "Oil & Gas",
     "Petrochemical",
     "Manufacturing"
   ],

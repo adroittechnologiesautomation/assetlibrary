@@ -1,7 +1,7 @@
 {
   "id": "3c6df987-dcda-4bce-a293-ad952e06d34f",
   "name": "Tank Covered",
-  "description": "A Tank Covered.",
+  "description": "Tank Covered.",
   "author": "Adroit Technologies",
   "category": "Process Symbols/Vessels",
   "version": "0.0.1",
@@ -15,9 +15,9 @@
   "currency": "ZAR",
   "documentation": "",
   "industries": [
-    "Water \u0026 Wastewater",
-    "Oil \u0026 Gas",
-    "Food \u0026 Beverage"
+    "Water & Wastewater",
+    "Oil & Gas",
+    "Food & Beverage"
   ],
   "tags": [
     "Tank"
