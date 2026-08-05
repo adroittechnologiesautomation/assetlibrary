@@ -1,0 +1,29 @@
+{
+  "id": "e04339be-2c41-4942-88ed-2cefa757ceca",
+  "name": "Biometric Enrollment",
+  "description": "Use this form to enroll new user fingerprints and to manage existing user fingerprints.",
+  "author": "Adroit Technologies",
+  "category": "Tools",
+  "version": "0.0.1",
+  "fileName": "Biometric Enrollment.viz",
+  "fileType": "Tool",
+  "previewImages": [
+    "fingerprint.png",
+    "Biometric Enrollment.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [
+    "General"
+  ],
+  "tags": [
+    "Biometric",
+    "Fingerprint",
+    "Enrollment"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}
