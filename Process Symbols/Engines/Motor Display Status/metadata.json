@@ -3,13 +3,13 @@
   "name": "Motor Display Status",
   "description": "An object template for Motor Display Status.",
   "author": "Adroit Technologies",
-  "category": "Process Symbols/Engine",
+  "category": "Process Symbols/Engines",
   "version": "0.0.1",
   "fileName": "Motor Display Status.vizt",
   "fileType": "Object",
   "previewImages": [
     "wzd_Motor_Display_Status_Light.png",
-    "wzd_Motor_Display_Status_Dark.png",
+    "wzd_Motor_Display_Status_Dark.png"
   ],
   "ownerType": "official",
   "licenseType": "free",
