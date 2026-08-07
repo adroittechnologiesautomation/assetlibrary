@@ -1,0 +1,28 @@
+{
+  "id": "0e73287c-40af-4ec9-9a6f-74d642694ac3",
+  "name": "Server Management",
+  "description": "This template graphic form helps to monitor and manage your Adroit Agent and Smart UI servers.",
+  "author": "Adroit Technologies",
+  "category": "Tools",
+  "version": "0.0.1",
+  "fileName": "ServerInformation.viz",
+  "fileType": "Tool",
+  "previewImages": [
+    "ServerInformation.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [
+    "General"
+  ],
+  "tags": [
+    "Server",
+    "Management",
+    "Monitoring"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

@@ -1,0 +1,28 @@
+{
+  "id": "fc363538-bc30-4978-90ed-f3d4f084e306",
+  "name": "Audit Report",
+  "description": "This graphic form shows how to use the DataGridView control to visualize existing audit entries constrained by a user, start date and end date.",
+  "author": "Adroit Technologies",
+  "category": "Tools",
+  "version": "0.0.1",
+  "fileName": "Audit Report.viz",
+  "fileType": "Tool",
+  "previewImages": [
+    "Audit Report.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [
+    "General"
+  ],
+  "tags": [
+    "Audit",
+    "Report",
+    "Compliance"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}
