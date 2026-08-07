@@ -1,0 +1,28 @@
+{
+  "id": "d89eb6c4-db72-400f-b6d2-3c1f1fbac900",
+  "name": "Find & Replace Utility",
+  "description": "This graphic form below provides a way to export a graphic form’s components to XML, for manual or automatic find/replace purposes.",
+  "author": "Adroit Technologies",
+  "category": "Tools",
+  "version": "0.0.1",
+  "fileName": "Find & Replace Utility.viz",
+  "fileType": "Tool",
+  "previewImages": [
+    "Find & Replace Utility.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [
+    "General"
+  ],
+  "tags": [
+    "Find",
+    "Replace",
+    "XML"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

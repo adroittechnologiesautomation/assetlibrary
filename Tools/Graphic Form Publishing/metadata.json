@@ -1,0 +1,28 @@
+{
+  "id": "20c6186f-2737-42c0-ae59-ab9b1513b9ad",
+  "name": "Graphic Form Publishing",
+  "description": "This graphic form provides a way to publish graphic forms in runtime to images manually or automatically via scheduler.",
+  "author": "Adroit Technologies",
+  "category": "Tools",
+  "version": "0.0.1",
+  "fileName": "Graphic Form Publishing.viz",
+  "fileType": "Tool",
+  "previewImages": [
+    "Graphic Form Publishing.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [
+    "General"
+  ],
+  "tags": [
+    "Graphic Form",
+    "Publishing",
+    "Images"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}
