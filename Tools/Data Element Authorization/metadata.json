@@ -1,7 +1,7 @@
 {
   "id": "a6a39bb9-fea6-44d2-ae56-9ef914adc8a9",
   "name": "Data Element Authorization",
-  "description": "This graphic form helps to visualize data element writes that have been deferred pending their authorization.",
+  "description": "Use this graphic form to help visualize data element writes that have been deferred pending their authorization.",
   "author": "Adroit Technologies",
   "category": "Tools",
   "version": "0.0.1",

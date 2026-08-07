@@ -1,7 +1,7 @@
 {
   "id": "fc363538-bc30-4978-90ed-f3d4f084e306",
   "name": "Audit Report",
-  "description": "This graphic form helps to visualize existing audit entries constrained by a user, start date and end date.",
+  "description": "Use this graphic form to help visualize existing audit entries constrained by a user, start date and end date.",
   "author": "Adroit Technologies",
   "category": "Tools",
   "version": "0.0.1",

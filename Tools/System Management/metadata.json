@@ -1,7 +1,7 @@
 {
   "id": "1f6e1583-cf7c-4d75-99a4-23db9405defb",
   "name": "System Management",
-  "description": "This graphic form helps to monitor and manage your SCADA System and its associated components.",
+  "description": "Use this graphic form to help monitor and manage your SCADA System and its associated components.",
   "author": "Adroit Technologies",
   "category": "Tools",
   "version": "0.0.1",
