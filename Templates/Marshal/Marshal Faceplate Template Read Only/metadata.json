@@ -1,0 +1,25 @@
+{
+  "id": "297fe1b8-2b0b-42cc-81e0-e852d08a32a5",
+  "name": "Marshal Faceplate Template Read Only",
+  "description": "A Marshal Faceplate Template Read Only.",
+  "author": "Adroit Technologies",
+  "category": "Templates/Marshal",
+  "version": "0.0.1",
+  "fileName": "Marshal Faceplate Template Read Only.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Marshal Faceplate Template Read Only.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [],
+  "tags": [
+    "Plate",
+    "Faceplate"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

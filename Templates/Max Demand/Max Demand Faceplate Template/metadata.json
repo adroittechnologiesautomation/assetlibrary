@@ -1,0 +1,25 @@
+{
+  "id": "d8990960-05bf-4ecd-be76-2d93fd9fc2ef",
+  "name": "Max Demand Faceplate Template",
+  "description": "A Max Demand Faceplate Template.",
+  "author": "Adroit Technologies",
+  "category": "Templates/Max Demand",
+  "version": "0.0.1",
+  "fileName": "Max Demand Faceplate Template.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Max Demand Faceplate Template.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [],
+  "tags": [
+    "Plate",
+    "Faceplate"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}
