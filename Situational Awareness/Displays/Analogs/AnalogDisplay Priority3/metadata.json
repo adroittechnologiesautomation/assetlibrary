@@ -1,14 +1,14 @@
 {
-  "id": "92ee7f54-c434-4e0a-b43d-affc28c7fd40",
-  "name": "AnalogueDisplay NoPriority",
-  "description": "A AnalogueDisplay NoPriority.",
+  "id": "e193125f-31d2-43cd-8260-63d084263eb3",
+  "name": "AnalogDisplay Priority3",
+  "description": "A AnalogDisplay Priority3.",
   "author": "Adroit Technologies",
-  "category": "Situational Awareness/Displays/Analogues",
+  "category": "Situational Awareness/Displays/Analogs",
   "version": "0.0.1",
-  "fileName": "AnalogueDisplay NoPriority.vizw",
+  "fileName": "AnalogDisplay Priority3.vizw",
   "fileType": "Wizard",
   "previewImages": [
-    "AnalogueDisplay NoPriority.png"
+    "AnalogDisplay Priority3.png"
   ],
   "ownerType": "official",
   "licenseType": "free",
