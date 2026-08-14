@@ -1,0 +1,29 @@
+{
+  "id": "9f991e25-c789-4b0e-82de-eafeb460b569",
+  "name": "Placeholder Instrument",
+  "description": "Placeholder Instrument.",
+  "author": "Adroit Technologies",
+  "category": "Instrumentation/Condition Monitoring/FAG",
+  "version": "0.0.1",
+  "fileName": "Placeholder Instrument.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Placeholder Instrument.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [
+    "Water & Wastewater",
+    "Oil & Gas",
+    "Manufacturing"
+  ],
+  "tags": [
+    "Placeholder",
+    "Instrument"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

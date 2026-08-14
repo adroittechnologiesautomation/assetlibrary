@@ -1,0 +1,29 @@
+{
+  "id": "fad668f2-1670-4814-9053-689b82a70025",
+  "name": "Placeholder Symbol",
+  "description": "Placeholder Symbol.",
+  "author": "Adroit Technologies",
+  "category": "General Symbols",
+  "version": "0.0.1",
+  "fileName": "Placeholder Symbol.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Placeholder Symbol.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [
+    "Water & Wastewater",
+    "Oil & Gas",
+    "Manufacturing"
+  ],
+  "tags": [
+    "Placeholder",
+    "Symbol"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

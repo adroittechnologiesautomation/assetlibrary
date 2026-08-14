@@ -1,0 +1,29 @@
+{
+  "id": "100d3cd0-eac7-42d5-b372-7fe270decadc",
+  "name": "Placeholder Device",
+  "description": "Placeholder Device.",
+  "author": "Adroit Technologies",
+  "category": "Devices/PLCs/Mitsubishi",
+  "version": "0.0.1",
+  "fileName": "Placeholder Device.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Placeholder Device.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [
+    "Water & Wastewater",
+    "Oil & Gas",
+    "Manufacturing"
+  ],
+  "tags": [
+    "Placeholder",
+    "Device"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}
