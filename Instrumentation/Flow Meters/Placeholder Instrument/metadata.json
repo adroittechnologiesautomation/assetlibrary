@@ -1,14 +1,14 @@
 {
-  "id": "fad668f2-1670-4814-9053-689b82a70025",
-  "name": "Placeholder Symbol",
-  "description": "Placeholder Symbol.",
+  "id": "79e8cced-5451-4d28-b3aa-a21b3109207c",
+  "name": "Placeholder Instrument",
+  "description": "Placeholder Instrument.",
   "author": "Adroit Technologies",
-  "category": "General Symbols",
+  "category": "Instrumentation/Flow Meters",
   "version": "0.0.1",
-  "fileName": "Placeholder Symbol.viz",
+  "fileName": "Placeholder Instrument.viz",
   "fileType": "Graphic",
   "previewImages": [
-    "Placeholder Symbol.png"
+    "Placeholder Instrument.png"
   ],
   "ownerType": "official",
   "licenseType": "free",
@@ -21,7 +21,7 @@
   ],
   "tags": [
     "Placeholder",
-    "Symbol"
+    "Instrument"
   ],
   "averageRating": 0.0,
   "ratingCount": 0,
