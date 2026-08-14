@@ -1,14 +1,14 @@
 {
-  "id": "ac504337-87bb-4286-a6af-854cf7ac3626",
-  "name": "AnalogueDataLink SP Priority3",
-  "description": "A AnalogueDataLink SP Priority3.",
+  "id": "f7c0cdba-78d6-439d-b240-67b0ec11c7c0",
+  "name": "AnalogDataLink Priority5",
+  "description": "A AnalogDataLink Priority5.",
   "author": "Adroit Technologies",
-  "category": "Situational Awareness/Data Links/Analogues",
+  "category": "Situational Awareness/Data Links/Analogs",
   "version": "0.0.1",
-  "fileName": "AnalogueDataLink SP Priority3.vizw",
+  "fileName": "AnalogDataLink Priority5.vizw",
   "fileType": "Wizard",
   "previewImages": [
-    "AnalogueDataLink SP Priority3.png"
+    "AnalogDataLink Priority5.png"
   ],
   "ownerType": "official",
   "licenseType": "free",

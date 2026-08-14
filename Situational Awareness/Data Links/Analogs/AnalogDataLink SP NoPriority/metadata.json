@@ -1,14 +1,14 @@
 {
   "id": "bf2429a5-6382-4db6-a441-41a77be1ed55",
-  "name": "AnalogueDataLink SP NoPriority",
-  "description": "A AnalogueDataLink SP NoPriority.",
+  "name": "AnalogDataLink SP NoPriority",
+  "description": "A AnalogDataLink SP NoPriority.",
   "author": "Adroit Technologies",
-  "category": "Situational Awareness/Data Links/Analogues",
+  "category": "Situational Awareness/Data Links/Analogs",
   "version": "0.0.1",
-  "fileName": "AnalogueDataLink SP NoPriority.vizw",
+  "fileName": "AnalogDataLink SP NoPriority.vizw",
   "fileType": "Wizard",
   "previewImages": [
-    "AnalogueDataLink SP NoPriority.png"
+    "AnalogDataLink SP NoPriority.png"
   ],
   "ownerType": "official",
   "licenseType": "free",
