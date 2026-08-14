@@ -1,14 +1,14 @@
 {
-  "id": "ef4f39b8-bf4b-4745-945b-82c04c4ace20",
-  "name": "Counter Faceplate Template",
-  "description": "A Counter Faceplate Template.",
+  "id": "edbfe06d-1437-4acf-88ae-4dae08bae31f",
+  "name": "Digital Faceplate Template",
+  "description": "A Digital Faceplate Template.",
   "author": "Adroit Technologies",
-  "category": "Templates/Counter",
+  "category": "Templates/Digitals",
   "version": "0.0.1",
-  "fileName": "Counter Faceplate Template.viz",
+  "fileName": "Digital Faceplate Template.viz",
   "fileType": "Template",
   "previewImages": [
-    "Counter Faceplate Template.png"
+    "Digital Faceplate Template.png"
   ],
   "ownerType": "official",
   "licenseType": "free",
