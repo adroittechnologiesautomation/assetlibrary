@@ -1,0 +1,22 @@
+{
+  "id": "bc8f1c68-adb8-4a49-9cad-9878c2382391",
+  "name": "ProductionChart ShiftAgent DynamicTarget",
+  "description": "A ProductionChart ShiftAgent DynamicTarget.",
+  "author": "Adroit Technologies",
+  "category": "Situational Awareness/Production Charts",
+  "version": "0.0.1",
+  "fileName": "ProductionChart ShiftAgent DynamicTarget.vizw",
+  "fileType": "Wizard",
+  "previewImages": [
+    "ProductionChart ShiftAgent DynamicTarget.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [],
+  "tags": [],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

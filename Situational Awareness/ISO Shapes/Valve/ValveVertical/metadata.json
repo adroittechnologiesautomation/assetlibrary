@@ -1,0 +1,28 @@
+{
+  "id": "dfd0ba02-ba72-4548-be37-3f24e5634c6e",
+  "name": "ValveVertical",
+  "description": "A ValveVertical.",
+  "author": "Adroit Technologies",
+  "category": "Situational Awareness/ISO Shapes/Valve",
+  "version": "0.0.1",
+  "fileName": "ValveVertical.vizw",
+  "fileType": "Wizard",
+  "previewImages": [
+    "ValveVertical.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [
+    "Water & Wastewater",
+    "Oil & Gas",
+    "Power Generation"
+  ],
+  "tags": [
+    "Valve"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

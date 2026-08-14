@@ -1,0 +1,22 @@
+{
+  "id": "d7fa85a7-07aa-476f-8fa6-c512b79f5313",
+  "name": "ProductionChart StaticTime DynamicTarget",
+  "description": "A ProductionChart StaticTime DynamicTarget.",
+  "author": "Adroit Technologies",
+  "category": "Situational Awareness/Production Charts",
+  "version": "0.0.1",
+  "fileName": "ProductionChart StaticTime DynamicTarget.vizw",
+  "fileType": "Wizard",
+  "previewImages": [
+    "ProductionChart StaticTime DynamicTarget.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [],
+  "tags": [],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

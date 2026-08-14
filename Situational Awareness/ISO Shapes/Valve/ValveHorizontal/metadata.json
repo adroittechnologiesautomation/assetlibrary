@@ -1,0 +1,28 @@
+{
+  "id": "773d6a39-76e3-4985-8919-ff87f6dc212d",
+  "name": "ValveHorizontal",
+  "description": "A ValveHorizontal.",
+  "author": "Adroit Technologies",
+  "category": "Situational Awareness/ISO Shapes/Valve",
+  "version": "0.0.1",
+  "fileName": "ValveHorizontal.vizw",
+  "fileType": "Wizard",
+  "previewImages": [
+    "ValveHorizontal.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [
+    "Water & Wastewater",
+    "Oil & Gas",
+    "Power Generation"
+  ],
+  "tags": [
+    "Valve"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

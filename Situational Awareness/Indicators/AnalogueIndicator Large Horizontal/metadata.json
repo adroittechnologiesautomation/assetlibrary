@@ -1,0 +1,22 @@
+{
+  "id": "90637253-1f9c-4e3c-8d3c-93df5a8fd06b",
+  "name": "AnalogueIndicator Large Horizontal",
+  "description": "A AnalogueIndicator Large Horizontal.",
+  "author": "Adroit Technologies",
+  "category": "Situational Awareness/Indicators",
+  "version": "0.0.1",
+  "fileName": "AnalogueIndicator Large Horizontal.vizw",
+  "fileType": "Wizard",
+  "previewImages": [
+    "AnalogueIndicator Large Horizontal.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [],
+  "tags": [],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

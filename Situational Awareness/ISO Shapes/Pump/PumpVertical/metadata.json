@@ -1,0 +1,28 @@
+{
+  "id": "17a2cd5d-d8fa-4eda-b779-3ae1f1b3619d",
+  "name": "PumpVertical",
+  "description": "A PumpVertical.",
+  "author": "Adroit Technologies",
+  "category": "Situational Awareness/ISO Shapes/Pump",
+  "version": "0.0.1",
+  "fileName": "PumpVertical.vizw",
+  "fileType": "Wizard",
+  "previewImages": [
+    "PumpVertical.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [
+    "Water & Wastewater",
+    "Oil & Gas",
+    "Manufacturing"
+  ],
+  "tags": [
+    "Pump"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

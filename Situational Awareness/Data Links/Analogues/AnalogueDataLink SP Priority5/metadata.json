@@ -1,0 +1,22 @@
+{
+  "id": "457f6777-1d6f-478f-9e1c-75683421f910",
+  "name": "AnalogueDataLink SP Priority5",
+  "description": "A AnalogueDataLink SP Priority5.",
+  "author": "Adroit Technologies",
+  "category": "Situational Awareness/Data Links/Analogues",
+  "version": "0.0.1",
+  "fileName": "AnalogueDataLink SP Priority5.vizw",
+  "fileType": "Wizard",
+  "previewImages": [
+    "AnalogueDataLink SP Priority5.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [],
+  "tags": [],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

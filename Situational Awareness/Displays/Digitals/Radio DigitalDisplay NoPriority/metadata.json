@@ -1,0 +1,22 @@
+{
+  "id": "1d9e7993-bba2-4031-9f7a-695df08c8119",
+  "name": "Radio DigitalDisplay NoPriority",
+  "description": "A Radio DigitalDisplay NoPriority.",
+  "author": "Adroit Technologies",
+  "category": "Situational Awareness/Displays/Digitals",
+  "version": "0.0.1",
+  "fileName": "Radio DigitalDisplay NoPriority.vizw",
+  "fileType": "Wizard",
+  "previewImages": [
+    "Radio DigitalDisplay NoPriority.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [],
+  "tags": [],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

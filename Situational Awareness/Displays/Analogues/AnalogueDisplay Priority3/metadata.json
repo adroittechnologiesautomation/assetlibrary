@@ -1,0 +1,22 @@
+{
+  "id": "e193125f-31d2-43cd-8260-63d084263eb3",
+  "name": "AnalogueDisplay Priority3",
+  "description": "A AnalogueDisplay Priority3.",
+  "author": "Adroit Technologies",
+  "category": "Situational Awareness/Displays/Analogues",
+  "version": "0.0.1",
+  "fileName": "AnalogueDisplay Priority3.vizw",
+  "fileType": "Wizard",
+  "previewImages": [
+    "AnalogueDisplay Priority3.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [],
+  "tags": [],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

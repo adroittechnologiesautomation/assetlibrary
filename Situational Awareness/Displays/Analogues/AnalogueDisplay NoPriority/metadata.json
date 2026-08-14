@@ -1,0 +1,22 @@
+{
+  "id": "92ee7f54-c434-4e0a-b43d-affc28c7fd40",
+  "name": "AnalogueDisplay NoPriority",
+  "description": "A AnalogueDisplay NoPriority.",
+  "author": "Adroit Technologies",
+  "category": "Situational Awareness/Displays/Analogues",
+  "version": "0.0.1",
+  "fileName": "AnalogueDisplay NoPriority.vizw",
+  "fileType": "Wizard",
+  "previewImages": [
+    "AnalogueDisplay NoPriority.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [],
+  "tags": [],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

@@ -1,0 +1,28 @@
+{
+  "id": "ffe0ee78-d844-43f9-afa5-670b680bff85",
+  "name": "PumpHorizontal",
+  "description": "A PumpHorizontal.",
+  "author": "Adroit Technologies",
+  "category": "Situational Awareness/ISO Shapes/Pump",
+  "version": "0.0.1",
+  "fileName": "PumpHorizontal.vizw",
+  "fileType": "Wizard",
+  "previewImages": [
+    "PumpHorizontal.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [
+    "Water & Wastewater",
+    "Oil & Gas",
+    "Manufacturing"
+  ],
+  "tags": [
+    "Pump"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

@@ -1,0 +1,22 @@
+{
+  "id": "a7b7e644-565d-4144-9013-6b1b39cc3e8d",
+  "name": "AnalogueIndicator Medium Horizontal",
+  "description": "A AnalogueIndicator Medium Horizontal.",
+  "author": "Adroit Technologies",
+  "category": "Situational Awareness/Indicators",
+  "version": "0.0.1",
+  "fileName": "AnalogueIndicator Medium Horizontal.vizw",
+  "fileType": "Wizard",
+  "previewImages": [
+    "AnalogueIndicator Medium Horizontal.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [],
+  "tags": [],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

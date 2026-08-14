@@ -1,0 +1,22 @@
+{
+  "id": "a1f869c2-116e-4c4f-aef3-bd9bb15a93c4",
+  "name": "DigitalDataLink Priority3",
+  "description": "A DigitalDataLink Priority3.",
+  "author": "Adroit Technologies",
+  "category": "Situational Awareness/Data Links/Digitals",
+  "version": "0.0.1",
+  "fileName": "DigitalDataLink Priority3.vizw",
+  "fileType": "Wizard",
+  "previewImages": [
+    "DigitalDataLink Priority3.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [],
+  "tags": [],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

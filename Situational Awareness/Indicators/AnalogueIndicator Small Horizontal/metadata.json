@@ -1,0 +1,22 @@
+{
+  "id": "f7e7242b-c532-4ba7-aa5a-bfe92f36c878",
+  "name": "AnalogueIndicator Small Horizontal",
+  "description": "A AnalogueIndicator Small Horizontal.",
+  "author": "Adroit Technologies",
+  "category": "Situational Awareness/Indicators",
+  "version": "0.0.1",
+  "fileName": "AnalogueIndicator Small Horizontal.vizw",
+  "fileType": "Wizard",
+  "previewImages": [
+    "AnalogueIndicator Small Horizontal.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [],
+  "tags": [],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

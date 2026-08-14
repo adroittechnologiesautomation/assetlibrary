@@ -1,0 +1,29 @@
+{
+  "id": "66cdc91d-b312-4748-b879-ee5463be3436",
+  "name": "MotorVertical",
+  "description": "A MotorVertical.",
+  "author": "Adroit Technologies",
+  "category": "Situational Awareness/ISO Shapes/Motors",
+  "version": "0.0.1",
+  "fileName": "MotorVertical.vizw",
+  "fileType": "Wizard",
+  "previewImages": [
+    "MotorVertical.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [
+    "Manufacturing",
+    "Mining",
+    "Power Generation"
+  ],
+  "tags": [
+    "Motor",
+    "Motorized"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

@@ -1,0 +1,22 @@
+{
+  "id": "d84a8d6e-6847-4306-8a54-bde1c5af01ed",
+  "name": "Radio DigitalDisplay Priority3",
+  "description": "A Radio DigitalDisplay Priority3.",
+  "author": "Adroit Technologies",
+  "category": "Situational Awareness/Displays/Digitals",
+  "version": "0.0.1",
+  "fileName": "Radio DigitalDisplay Priority3.vizw",
+  "fileType": "Wizard",
+  "previewImages": [
+    "Radio DigitalDisplay Priority3.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [],
+  "tags": [],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

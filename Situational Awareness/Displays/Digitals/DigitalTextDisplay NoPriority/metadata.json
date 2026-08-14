@@ -1,0 +1,22 @@
+{
+  "id": "91819699-16ea-4b09-8ac0-294ed5c6e441",
+  "name": "DigitalTextDisplay NoPriority",
+  "description": "A DigitalTextDisplay NoPriority.",
+  "author": "Adroit Technologies",
+  "category": "Situational Awareness/Displays/Digitals",
+  "version": "0.0.1",
+  "fileName": "DigitalTextDisplay NoPriority.vizw",
+  "fileType": "Wizard",
+  "previewImages": [
+    "DigitalTextDisplay NoPriority.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [],
+  "tags": [],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

@@ -1,0 +1,22 @@
+{
+  "id": "52f518d9-693a-4599-a30c-f97a192a7362",
+  "name": "SparkLine",
+  "description": "A SparkLine.",
+  "author": "Adroit Technologies",
+  "category": "Situational Awareness/Spark Lines",
+  "version": "0.0.1",
+  "fileName": "SparkLine.vizw",
+  "fileType": "Wizard",
+  "previewImages": [
+    "SparkLine.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [],
+  "tags": [],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}
