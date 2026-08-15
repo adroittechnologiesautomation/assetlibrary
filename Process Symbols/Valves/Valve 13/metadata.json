@@ -1,0 +1,28 @@
+{
+  "id": "3def4bf4-2502-4f6f-bb72-826875af3c4a",
+  "name": "Valve 13",
+  "description": "Valve 13.",
+  "author": "Adroit Technologies",
+  "category": "Process Symbols/Valves",
+  "version": "0.0.1",
+  "fileName": "Valve 13.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Valve 13.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [
+    "Water & Wastewater",
+    "Oil & Gas",
+    "Power Generation"
+  ],
+  "tags": [
+    "Valve"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

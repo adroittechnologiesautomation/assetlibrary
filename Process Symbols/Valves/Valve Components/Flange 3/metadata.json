@@ -1,0 +1,22 @@
+{
+  "id": "b61f0a53-1e37-4b08-b917-fa04c19cd203",
+  "name": "Flange 3",
+  "description": "Flange 3.",
+  "author": "Adroit Technologies",
+  "category": "Process Symbols/Valves/Valve Components",
+  "version": "0.0.1",
+  "fileName": "Flange 3.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Flange 3.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [],
+  "tags": [],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

@@ -1,0 +1,28 @@
+{
+  "id": "cefdc0f8-8729-4752-9311-dd0a6f30123a",
+  "name": "Valve 14",
+  "description": "Valve 14.",
+  "author": "Adroit Technologies",
+  "category": "Process Symbols/Valves",
+  "version": "0.0.1",
+  "fileName": "Valve 14.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Valve 14.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [
+    "Water & Wastewater",
+    "Oil & Gas",
+    "Power Generation"
+  ],
+  "tags": [
+    "Valve"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

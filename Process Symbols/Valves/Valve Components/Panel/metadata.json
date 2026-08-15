@@ -1,0 +1,22 @@
+{
+  "id": "9740d102-b44d-4d27-8ba4-2300ab8e661b",
+  "name": "Panel",
+  "description": "Panel.",
+  "author": "Adroit Technologies",
+  "category": "Process Symbols/Valves/Valve Components",
+  "version": "0.0.1",
+  "fileName": "Panel.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Panel.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [],
+  "tags": [],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

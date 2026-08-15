@@ -1,0 +1,28 @@
+{
+  "id": "20b970d2-3313-4417-8fb9-0013d6e5d3b6",
+  "name": "Valve 11",
+  "description": "Valve 11.",
+  "author": "Adroit Technologies",
+  "category": "Process Symbols/Valves",
+  "version": "0.0.1",
+  "fileName": "Valve 11.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Valve 11.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [
+    "Water & Wastewater",
+    "Oil & Gas",
+    "Power Generation"
+  ],
+  "tags": [
+    "Valve"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

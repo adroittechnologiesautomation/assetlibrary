@@ -1,0 +1,28 @@
+{
+  "id": "c37f5a3c-de3b-4a3d-876a-dea42ad4f6fd",
+  "name": "Valve 10",
+  "description": "Valve 10.",
+  "author": "Adroit Technologies",
+  "category": "Process Symbols/Valves",
+  "version": "0.0.1",
+  "fileName": "Valve 10.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Valve 10.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [
+    "Water & Wastewater",
+    "Oil & Gas",
+    "Power Generation"
+  ],
+  "tags": [
+    "Valve"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

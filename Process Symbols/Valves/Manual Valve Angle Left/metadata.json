@@ -1,0 +1,29 @@
+{
+  "id": "4e0822b5-f58f-490d-8f74-77fcc92ce916",
+  "name": "Manual Valve Angle Left",
+  "description": "Manual Valve Angle Left.",
+  "author": "Adroit Technologies",
+  "category": "Process Symbols/Valves",
+  "version": "0.0.1",
+  "fileName": "Manual Valve Angle Left.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Manual Valve Angle Left.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [
+    "Water & Wastewater",
+    "Oil & Gas",
+    "Power Generation"
+  ],
+  "tags": [
+    "Valve",
+    "Manual"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

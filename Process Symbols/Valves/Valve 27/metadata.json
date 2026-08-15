@@ -1,0 +1,28 @@
+{
+  "id": "8c7b7a23-15be-4867-9df1-29db1c73fb7c",
+  "name": "Valve 27",
+  "description": "Valve 27.",
+  "author": "Adroit Technologies",
+  "category": "Process Symbols/Valves",
+  "version": "0.0.1",
+  "fileName": "Valve 27.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Valve 27.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [
+    "Water & Wastewater",
+    "Oil & Gas",
+    "Power Generation"
+  ],
+  "tags": [
+    "Valve"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

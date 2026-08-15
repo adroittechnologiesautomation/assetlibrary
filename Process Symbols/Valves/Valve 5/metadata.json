@@ -1,0 +1,28 @@
+{
+  "id": "c0bd8c1b-a9b4-4a2f-8aec-8896f6524eaf",
+  "name": "Valve 5",
+  "description": "Valve 5.",
+  "author": "Adroit Technologies",
+  "category": "Process Symbols/Valves",
+  "version": "0.0.1",
+  "fileName": "Valve 5.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Valve 5.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [
+    "Water & Wastewater",
+    "Oil & Gas",
+    "Power Generation"
+  ],
+  "tags": [
+    "Valve"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

@@ -1,0 +1,28 @@
+{
+  "id": "140ae26a-9ef8-4559-a402-47965684c0b1",
+  "name": "Valve 16",
+  "description": "Valve 16.",
+  "author": "Adroit Technologies",
+  "category": "Process Symbols/Valves",
+  "version": "0.0.1",
+  "fileName": "Valve 16.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Valve 16.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [
+    "Water & Wastewater",
+    "Oil & Gas",
+    "Power Generation"
+  ],
+  "tags": [
+    "Valve"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

@@ -1,0 +1,28 @@
+{
+  "id": "cb70d62e-4464-4d28-b696-007277ebcfc0",
+  "name": "Valve 28",
+  "description": "Valve 28.",
+  "author": "Adroit Technologies",
+  "category": "Process Symbols/Valves",
+  "version": "0.0.1",
+  "fileName": "Valve 28.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Valve 28.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [
+    "Water & Wastewater",
+    "Oil & Gas",
+    "Power Generation"
+  ],
+  "tags": [
+    "Valve"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

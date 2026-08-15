@@ -1,0 +1,28 @@
+{
+  "id": "f06d051b-5a08-4eda-b211-6025522319bb",
+  "name": "Standard Pump Side View",
+  "description": "Standard Pump Side View.",
+  "author": "Adroit Technologies",
+  "category": "Process Symbols/Pumps",
+  "version": "0.0.1",
+  "fileName": "Standard Pump Side View.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Standard Pump Side View.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [
+    "Water & Wastewater",
+    "Oil & Gas",
+    "Manufacturing"
+  ],
+  "tags": [
+    "Pump"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

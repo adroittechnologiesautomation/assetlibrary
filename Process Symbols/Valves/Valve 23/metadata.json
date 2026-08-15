@@ -1,0 +1,28 @@
+{
+  "id": "15dd810e-cfc0-4d28-ad8d-88a2b4907850",
+  "name": "Valve 23",
+  "description": "Valve 23.",
+  "author": "Adroit Technologies",
+  "category": "Process Symbols/Valves",
+  "version": "0.0.1",
+  "fileName": "Valve 23.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Valve 23.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [
+    "Water & Wastewater",
+    "Oil & Gas",
+    "Power Generation"
+  ],
+  "tags": [
+    "Valve"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

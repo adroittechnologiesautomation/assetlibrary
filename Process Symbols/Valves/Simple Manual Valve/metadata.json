@@ -1,0 +1,29 @@
+{
+  "id": "a932950e-4750-4c42-a5ae-8443a2b449af",
+  "name": "Simple Manual Valve",
+  "description": "Simple Manual Valve.",
+  "author": "Adroit Technologies",
+  "category": "Process Symbols/Valves",
+  "version": "0.0.1",
+  "fileName": "Simple Manual Valve.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Simple Manual Valve.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [
+    "Water & Wastewater",
+    "Oil & Gas",
+    "Power Generation"
+  ],
+  "tags": [
+    "Valve",
+    "Manual"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

@@ -1,0 +1,29 @@
+{
+  "id": "4b6645fa-a743-4f8b-b6a5-fb14fc7159b6",
+  "name": "Motor 5",
+  "description": "Motor 5.",
+  "author": "Adroit Technologies",
+  "category": "Process Symbols/Engines",
+  "version": "0.0.1",
+  "fileName": "Motor 5.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Motor 5.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [
+    "Manufacturing",
+    "Mining",
+    "Power Generation"
+  ],
+  "tags": [
+    "Motor",
+    "Motorized"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

@@ -1,0 +1,28 @@
+{
+  "id": "0066ac3e-d6b2-4183-85e0-df476243cfde",
+  "name": "Valve 18",
+  "description": "Valve 18.",
+  "author": "Adroit Technologies",
+  "category": "Process Symbols/Valves",
+  "version": "0.0.1",
+  "fileName": "Valve 18.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Valve 18.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [
+    "Water & Wastewater",
+    "Oil & Gas",
+    "Power Generation"
+  ],
+  "tags": [
+    "Valve"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

@@ -1,0 +1,28 @@
+{
+  "id": "f62d34af-a4a1-4bfa-bbb5-875a6d6b4161",
+  "name": "Valve 20",
+  "description": "Valve 20.",
+  "author": "Adroit Technologies",
+  "category": "Process Symbols/Valves",
+  "version": "0.0.1",
+  "fileName": "Valve 20.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Valve 20.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [
+    "Water & Wastewater",
+    "Oil & Gas",
+    "Power Generation"
+  ],
+  "tags": [
+    "Valve"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

@@ -1,0 +1,24 @@
+{
+  "id": "350edd3e-51d2-44fa-87b7-539f96f6bb99",
+  "name": "Switch",
+  "description": "Switch.",
+  "author": "Adroit Technologies",
+  "category": "Process Symbols/Valves/Valve Components",
+  "version": "0.0.1",
+  "fileName": "Switch.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Switch.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [],
+  "tags": [
+    "Switch"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

@@ -1,0 +1,22 @@
+{
+  "id": "61035139-dee2-4c91-9be5-409cc9085bec",
+  "name": "Vent",
+  "description": "Vent.",
+  "author": "Adroit Technologies",
+  "category": "Process Symbols/Valves/Valve Components",
+  "version": "0.0.1",
+  "fileName": "Vent.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Vent.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [],
+  "tags": [],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

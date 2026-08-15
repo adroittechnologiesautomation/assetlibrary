@@ -1,0 +1,29 @@
+{
+  "id": "a013cd2c-cce0-4b63-b801-c3b17f2b06ed",
+  "name": "Standard Pump Without Motor",
+  "description": "Standard Pump Without Motor.",
+  "author": "Adroit Technologies",
+  "category": "Process Symbols/Pumps",
+  "version": "0.0.1",
+  "fileName": "Standard Pump Without Motor.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Standard Pump Without Motor.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [
+    "Water & Wastewater",
+    "Oil & Gas",
+    "Manufacturing"
+  ],
+  "tags": [
+    "Pump",
+    "Motorized"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

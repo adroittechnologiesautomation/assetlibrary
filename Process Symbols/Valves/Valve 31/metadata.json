@@ -1,0 +1,28 @@
+{
+  "id": "03cd1b90-aa36-4600-b91c-84c64ecdfff9",
+  "name": "Valve 31",
+  "description": "Valve 31.",
+  "author": "Adroit Technologies",
+  "category": "Process Symbols/Valves",
+  "version": "0.0.1",
+  "fileName": "Valve 31.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Valve 31.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [
+    "Water & Wastewater",
+    "Oil & Gas",
+    "Power Generation"
+  ],
+  "tags": [
+    "Valve"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

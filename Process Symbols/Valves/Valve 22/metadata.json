@@ -1,0 +1,28 @@
+{
+  "id": "4b660850-e686-44f7-948f-d605c7a4287c",
+  "name": "Valve 22",
+  "description": "Valve 22.",
+  "author": "Adroit Technologies",
+  "category": "Process Symbols/Valves",
+  "version": "0.0.1",
+  "fileName": "Valve 22.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Valve 22.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [
+    "Water & Wastewater",
+    "Oil & Gas",
+    "Power Generation"
+  ],
+  "tags": [
+    "Valve"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

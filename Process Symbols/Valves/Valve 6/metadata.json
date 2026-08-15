@@ -1,0 +1,28 @@
+{
+  "id": "5a54febd-5e92-4820-a704-6139e1e960c7",
+  "name": "Valve 6",
+  "description": "Valve 6.",
+  "author": "Adroit Technologies",
+  "category": "Process Symbols/Valves",
+  "version": "0.0.1",
+  "fileName": "Valve 6.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Valve 6.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [
+    "Water & Wastewater",
+    "Oil & Gas",
+    "Power Generation"
+  ],
+  "tags": [
+    "Valve"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

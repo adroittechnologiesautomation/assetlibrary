@@ -1,0 +1,29 @@
+{
+  "id": "9f7f5380-41ab-473e-a6ff-a17450c22f42",
+  "name": "Blue Horizontal Mounted Motor",
+  "description": "Blue Horizontal Mounted Motor.",
+  "author": "Adroit Technologies",
+  "category": "Process Symbols/Engines",
+  "version": "0.0.1",
+  "fileName": "Blue Horizontal Mounted Motor.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Blue Horizontal Mounted Motor.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [
+    "Manufacturing",
+    "Mining",
+    "Power Generation"
+  ],
+  "tags": [
+    "Motor",
+    "Motorized"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

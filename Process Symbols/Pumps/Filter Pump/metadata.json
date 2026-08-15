@@ -1,0 +1,28 @@
+{
+  "id": "77afeda0-bba3-4ed1-8168-1dba55e61bc9",
+  "name": "Filter Pump",
+  "description": "Filter Pump.",
+  "author": "Adroit Technologies",
+  "category": "Process Symbols/Pumps",
+  "version": "0.0.1",
+  "fileName": "Filter Pump.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Filter Pump.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [
+    "Water & Wastewater",
+    "Oil & Gas",
+    "Manufacturing"
+  ],
+  "tags": [
+    "Pump"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

@@ -1,0 +1,22 @@
+{
+  "id": "366e561e-94f2-4d7c-8059-85d7addc19c6",
+  "name": "Flange 1",
+  "description": "Flange 1.",
+  "author": "Adroit Technologies",
+  "category": "Process Symbols/Valves/Valve Components",
+  "version": "0.0.1",
+  "fileName": "Flange 1.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Flange 1.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [],
+  "tags": [],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

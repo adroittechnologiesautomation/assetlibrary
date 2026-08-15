@@ -1,0 +1,29 @@
+{
+  "id": "4b3b9288-ab7b-4e17-b8d1-7d2cc31c482c",
+  "name": "Filter Pump Without Motor",
+  "description": "Filter Pump Without Motor.",
+  "author": "Adroit Technologies",
+  "category": "Process Symbols/Pumps",
+  "version": "0.0.1",
+  "fileName": "Filter Pump Without Motor.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Filter Pump Without Motor.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [
+    "Water & Wastewater",
+    "Oil & Gas",
+    "Manufacturing"
+  ],
+  "tags": [
+    "Pump",
+    "Motorized"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

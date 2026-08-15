@@ -1,0 +1,29 @@
+{
+  "id": "9ec2c365-d937-4b7d-87ab-ffc21f0002c9",
+  "name": "Chrome Submersible Pump",
+  "description": "Chrome Submersible Pump.",
+  "author": "Adroit Technologies",
+  "category": "Process Symbols/Pumps",
+  "version": "0.0.1",
+  "fileName": "Chrome Submersible Pump.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Chrome Submersible Pump.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [
+    "Water & Wastewater",
+    "Oil & Gas",
+    "Manufacturing"
+  ],
+  "tags": [
+    "Pump",
+    "Submersible"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

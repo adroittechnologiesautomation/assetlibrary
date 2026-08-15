@@ -1,0 +1,29 @@
+{
+  "id": "16a7bf5e-cff4-4f2d-9917-602a5f010505",
+  "name": "Motor 6",
+  "description": "Motor 6.",
+  "author": "Adroit Technologies",
+  "category": "Process Symbols/Engines",
+  "version": "0.0.1",
+  "fileName": "Motor 6.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Motor 6.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [
+    "Manufacturing",
+    "Mining",
+    "Power Generation"
+  ],
+  "tags": [
+    "Motor",
+    "Motorized"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

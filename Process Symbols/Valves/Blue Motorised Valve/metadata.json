@@ -1,0 +1,29 @@
+{
+  "id": "c681e1b7-9ff9-49e0-a07f-34f3db24d910",
+  "name": "Blue Motorised Valve",
+  "description": "Blue Motorised Valve.",
+  "author": "Adroit Technologies",
+  "category": "Process Symbols/Valves",
+  "version": "0.0.1",
+  "fileName": "Blue Motorised Valve.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Blue Motorised Valve.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [
+    "Water & Wastewater",
+    "Oil & Gas",
+    "Power Generation"
+  ],
+  "tags": [
+    "Valve",
+    "Motorized"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

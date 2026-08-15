@@ -1,0 +1,28 @@
+{
+  "id": "b75c104b-0ce4-4127-8cb6-4eac1d4a70d8",
+  "name": "Valve 24",
+  "description": "Valve 24.",
+  "author": "Adroit Technologies",
+  "category": "Process Symbols/Valves",
+  "version": "0.0.1",
+  "fileName": "Valve 24.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Valve 24.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [
+    "Water & Wastewater",
+    "Oil & Gas",
+    "Power Generation"
+  ],
+  "tags": [
+    "Valve"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

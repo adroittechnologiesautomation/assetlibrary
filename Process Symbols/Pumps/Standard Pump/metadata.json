@@ -1,0 +1,28 @@
+{
+  "id": "b767b71a-0821-465c-8e83-ae4c2a4841f7",
+  "name": "Standard Pump",
+  "description": "Standard Pump.",
+  "author": "Adroit Technologies",
+  "category": "Process Symbols/Pumps",
+  "version": "0.0.1",
+  "fileName": "Standard Pump.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Standard Pump.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [
+    "Water & Wastewater",
+    "Oil & Gas",
+    "Manufacturing"
+  ],
+  "tags": [
+    "Pump"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

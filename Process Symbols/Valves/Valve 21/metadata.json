@@ -1,0 +1,28 @@
+{
+  "id": "c1bb7f8a-d4c5-4b2e-a110-c32e65679cd2",
+  "name": "Valve 21",
+  "description": "Valve 21.",
+  "author": "Adroit Technologies",
+  "category": "Process Symbols/Valves",
+  "version": "0.0.1",
+  "fileName": "Valve 21.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Valve 21.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [
+    "Water & Wastewater",
+    "Oil & Gas",
+    "Power Generation"
+  ],
+  "tags": [
+    "Valve"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

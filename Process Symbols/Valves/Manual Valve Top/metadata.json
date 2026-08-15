@@ -1,0 +1,29 @@
+{
+  "id": "0aad6f1c-c539-4db9-b21c-fba9f772199e",
+  "name": "Manual Valve Top",
+  "description": "Manual Valve Top.",
+  "author": "Adroit Technologies",
+  "category": "Process Symbols/Valves",
+  "version": "0.0.1",
+  "fileName": "Manual Valve Top.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Manual Valve Top.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [
+    "Water & Wastewater",
+    "Oil & Gas",
+    "Power Generation"
+  ],
+  "tags": [
+    "Valve",
+    "Manual"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

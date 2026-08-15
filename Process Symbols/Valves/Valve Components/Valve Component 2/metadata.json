@@ -1,0 +1,28 @@
+{
+  "id": "69763306-0385-4014-9f4c-015dc3ba975b",
+  "name": "Valve Component 2",
+  "description": "Valve Component 2.",
+  "author": "Adroit Technologies",
+  "category": "Process Symbols/Valves/Valve Components",
+  "version": "0.0.1",
+  "fileName": "Valve Component 2.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Valve Component 2.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [
+    "Water & Wastewater",
+    "Oil & Gas",
+    "Power Generation"
+  ],
+  "tags": [
+    "Valve"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

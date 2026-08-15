@@ -1,0 +1,29 @@
+{
+  "id": "b370ce75-db31-4db9-9add-1265f6de638e",
+  "name": "Blue Vertical Flange Motor",
+  "description": "Blue Vertical Flange Motor.",
+  "author": "Adroit Technologies",
+  "category": "Process Symbols/Engines",
+  "version": "0.0.1",
+  "fileName": "Blue Vertical Flange Motor.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Blue Vertical Flange Motor.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [
+    "Manufacturing",
+    "Mining",
+    "Power Generation"
+  ],
+  "tags": [
+    "Motor",
+    "Motorized"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

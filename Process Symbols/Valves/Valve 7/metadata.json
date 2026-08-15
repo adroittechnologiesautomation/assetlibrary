@@ -1,0 +1,28 @@
+{
+  "id": "c25e62ed-face-49ef-941c-0ce210741274",
+  "name": "Valve 7",
+  "description": "Valve 7.",
+  "author": "Adroit Technologies",
+  "category": "Process Symbols/Valves",
+  "version": "0.0.1",
+  "fileName": "Valve 7.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Valve 7.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [
+    "Water & Wastewater",
+    "Oil & Gas",
+    "Power Generation"
+  ],
+  "tags": [
+    "Valve"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

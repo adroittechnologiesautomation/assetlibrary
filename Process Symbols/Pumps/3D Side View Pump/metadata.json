@@ -1,0 +1,29 @@
+{
+  "id": "7f9cbe93-65ad-478f-aeab-3a1dac46838e",
+  "name": "3D Side View Pump",
+  "description": "3D Side View Pump.",
+  "author": "Adroit Technologies",
+  "category": "Process Symbols/Pumps",
+  "version": "0.0.1",
+  "fileName": "3D Side View Pump.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "3D Side View Pump.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [
+    "Water & Wastewater",
+    "Oil & Gas",
+    "Manufacturing"
+  ],
+  "tags": [
+    "Pump",
+    "3D"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

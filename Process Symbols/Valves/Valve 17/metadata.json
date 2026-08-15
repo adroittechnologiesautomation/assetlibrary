@@ -1,0 +1,28 @@
+{
+  "id": "995e77c9-1db6-481f-bece-7c42f7b35714",
+  "name": "Valve 17",
+  "description": "Valve 17.",
+  "author": "Adroit Technologies",
+  "category": "Process Symbols/Valves",
+  "version": "0.0.1",
+  "fileName": "Valve 17.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Valve 17.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [
+    "Water & Wastewater",
+    "Oil & Gas",
+    "Power Generation"
+  ],
+  "tags": [
+    "Valve"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

@@ -1,0 +1,28 @@
+{
+  "id": "bc58b3fc-554f-4cc2-9be3-b6a5836b1242",
+  "name": "Valve 1",
+  "description": "Valve 1.",
+  "author": "Adroit Technologies",
+  "category": "Process Symbols/Valves",
+  "version": "0.0.1",
+  "fileName": "Valve 1.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Valve 1.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [
+    "Water & Wastewater",
+    "Oil & Gas",
+    "Power Generation"
+  ],
+  "tags": [
+    "Valve"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

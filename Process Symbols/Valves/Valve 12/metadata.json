@@ -1,0 +1,28 @@
+{
+  "id": "d4525ad8-b907-493d-b915-9cbe5299beb3",
+  "name": "Valve 12",
+  "description": "Valve 12.",
+  "author": "Adroit Technologies",
+  "category": "Process Symbols/Valves",
+  "version": "0.0.1",
+  "fileName": "Valve 12.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Valve 12.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [
+    "Water & Wastewater",
+    "Oil & Gas",
+    "Power Generation"
+  ],
+  "tags": [
+    "Valve"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

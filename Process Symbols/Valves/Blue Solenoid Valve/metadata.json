@@ -1,0 +1,29 @@
+{
+  "id": "f237b288-2437-46d1-9e9f-f8f5d5f2ea91",
+  "name": "Blue Solenoid Valve",
+  "description": "Blue Solenoid Valve.",
+  "author": "Adroit Technologies",
+  "category": "Process Symbols/Valves",
+  "version": "0.0.1",
+  "fileName": "Blue Solenoid Valve.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Blue Solenoid Valve.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [
+    "Water & Wastewater",
+    "Oil & Gas",
+    "Power Generation"
+  ],
+  "tags": [
+    "Valve",
+    "Solenoid"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

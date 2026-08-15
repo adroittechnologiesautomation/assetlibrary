@@ -1,0 +1,28 @@
+{
+  "id": "de71d63f-d129-42d9-bd5c-410e1dc06b27",
+  "name": "Valve 4",
+  "description": "Valve 4.",
+  "author": "Adroit Technologies",
+  "category": "Process Symbols/Valves",
+  "version": "0.0.1",
+  "fileName": "Valve 4.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Valve 4.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [
+    "Water & Wastewater",
+    "Oil & Gas",
+    "Power Generation"
+  ],
+  "tags": [
+    "Valve"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

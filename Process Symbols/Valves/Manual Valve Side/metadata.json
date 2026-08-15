@@ -1,0 +1,29 @@
+{
+  "id": "8ac7164a-4e04-4a6e-bca1-d11663cbca6e",
+  "name": "Manual Valve Side",
+  "description": "Manual Valve Side.",
+  "author": "Adroit Technologies",
+  "category": "Process Symbols/Valves",
+  "version": "0.0.1",
+  "fileName": "Manual Valve Side.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Manual Valve Side.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [
+    "Water & Wastewater",
+    "Oil & Gas",
+    "Power Generation"
+  ],
+  "tags": [
+    "Valve",
+    "Manual"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

@@ -1,0 +1,29 @@
+{
+  "id": "da06025d-4923-4ab7-bb63-da95124a3531",
+  "name": "Blue Submersible Pump",
+  "description": "Blue Submersible Pump.",
+  "author": "Adroit Technologies",
+  "category": "Process Symbols/Pumps",
+  "version": "0.0.1",
+  "fileName": "Blue Submersible Pump.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Blue Submersible Pump.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [
+    "Water & Wastewater",
+    "Oil & Gas",
+    "Manufacturing"
+  ],
+  "tags": [
+    "Pump",
+    "Submersible"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

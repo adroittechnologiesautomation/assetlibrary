@@ -1,0 +1,28 @@
+{
+  "id": "89e89aa4-7d2d-4a32-860f-8f986f540d19",
+  "name": "Valve 15",
+  "description": "Valve 15.",
+  "author": "Adroit Technologies",
+  "category": "Process Symbols/Valves",
+  "version": "0.0.1",
+  "fileName": "Valve 15.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Valve 15.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [
+    "Water & Wastewater",
+    "Oil & Gas",
+    "Power Generation"
+  ],
+  "tags": [
+    "Valve"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}
