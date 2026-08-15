@@ -1,7 +1,7 @@
 {
   "id": "7bce98e3-939e-4e35-9989-17c28fdf762d",
   "name": "Pipe Set 1 Horizontal",
-  "description": "A Pipe Set 1 Horizontal.",
+  "description": "Pipe Set 1 Horizontal.",
   "author": "Adroit Technologies",
   "category": "Pipes/Pipe Set 1",
   "version": "0.0.1",
@@ -15,7 +15,7 @@
   "currency": "ZAR",
   "documentation": "",
   "industries": [],
-  "tags": [],
+  "tags": ["Pipe","Horizontal"],
   "averageRating": 0.0,
   "ratingCount": 0,
   "downloadCount": 0

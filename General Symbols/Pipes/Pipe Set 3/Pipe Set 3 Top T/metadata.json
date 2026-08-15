@@ -1,7 +1,7 @@
 {
   "id": "ec2fd679-a4fd-465e-9e3a-23c4f54f4985",
   "name": "Pipe Set 3 Top T",
-  "description": "A Pipe Set 3 Top T.",
+  "description": "Pipe Set 3 Top T.",
   "author": "Adroit Technologies",
   "category": "Pipes/Pipe Set 3",
   "version": "0.0.1",
@@ -15,7 +15,7 @@
   "currency": "ZAR",
   "documentation": "",
   "industries": [],
-  "tags": [],
+  "tags": ["Pipe","Top","T"],
   "averageRating": 0.0,
   "ratingCount": 0,
   "downloadCount": 0

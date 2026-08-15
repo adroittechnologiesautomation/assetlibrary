@@ -1,7 +1,7 @@
 {
   "id": "a6873d3e-1e58-436f-95e0-79ff92ea76e3",
   "name": "Pipe Set 3 Flange Horizontal",
-  "description": "A Pipe Set 3 Flange Horizontal.",
+  "description": "Pipe Set 3 Flange Horizontal.",
   "author": "Adroit Technologies",
   "category": "Pipes/Pipe Set 3",
   "version": "0.0.1",
@@ -15,7 +15,7 @@
   "currency": "ZAR",
   "documentation": "",
   "industries": [],
-  "tags": [],
+  "tags": ["Pipe","Flange","Horizontal"],
   "averageRating": 0.0,
   "ratingCount": 0,
   "downloadCount": 0

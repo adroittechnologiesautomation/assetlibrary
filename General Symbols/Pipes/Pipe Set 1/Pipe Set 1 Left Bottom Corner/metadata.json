@@ -1,7 +1,7 @@
 {
   "id": "d9598e5c-7805-4cee-a2bb-0cba9a20885b",
   "name": "Pipe Set 1 Left Bottom Corner",
-  "description": "A Pipe Set 1 Left Bottom Corner.",
+  "description": "Pipe Set 1 Left Bottom Corner.",
   "author": "Adroit Technologies",
   "category": "Pipes/Pipe Set 1",
   "version": "0.0.1",
@@ -15,7 +15,7 @@
   "currency": "ZAR",
   "documentation": "",
   "industries": [],
-  "tags": [],
+  "tags": ["Pipe","Left Bottom","Corner"],
   "averageRating": 0.0,
   "ratingCount": 0,
   "downloadCount": 0

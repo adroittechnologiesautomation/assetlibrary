@@ -1,7 +1,7 @@
 {
   "id": "c816b764-8a16-44cd-a448-e58004281809",
   "name": "Pipe Set 1 Left T",
-  "description": "A Pipe Set 1 Left T.",
+  "description": "Pipe Set 1 Left T.",
   "author": "Adroit Technologies",
   "category": "Pipes/Pipe Set 1",
   "version": "0.0.1",
@@ -15,7 +15,7 @@
   "currency": "ZAR",
   "documentation": "",
   "industries": [],
-  "tags": [],
+  "tags": ["Pipe","Left","T"],
   "averageRating": 0.0,
   "ratingCount": 0,
   "downloadCount": 0

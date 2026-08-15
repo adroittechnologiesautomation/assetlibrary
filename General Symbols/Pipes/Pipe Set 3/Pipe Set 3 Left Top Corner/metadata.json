@@ -1,7 +1,7 @@
 {
   "id": "56888eb9-c3a1-4d15-844e-c929e00df9af",
   "name": "Pipe Set 3 Left Top Corner",
-  "description": "A Pipe Set 3 Left Top Corner.",
+  "description": "Pipe Set 3 Left Top Corner.",
   "author": "Adroit Technologies",
   "category": "Pipes/Pipe Set 3",
   "version": "0.0.1",
@@ -15,7 +15,7 @@
   "currency": "ZAR",
   "documentation": "",
   "industries": [],
-  "tags": [],
+  "tags": ["Pipe","Left Top","Corner"],
   "averageRating": 0.0,
   "ratingCount": 0,
   "downloadCount": 0

@@ -1,7 +1,7 @@
 {
   "id": "7ff5cfff-a9ad-468a-8974-8508e5b70fe4",
   "name": "Pipe Set 1 Flange Vertical",
-  "description": "A Pipe Set 1 Flange Vertical.",
+  "description": "Pipe Set 1 Flange Vertical.",
   "author": "Adroit Technologies",
   "category": "Pipes/Pipe Set 1",
   "version": "0.0.1",
@@ -15,7 +15,7 @@
   "currency": "ZAR",
   "documentation": "",
   "industries": [],
-  "tags": [],
+  "tags": ["Pipe","Flange","Vertical"],
   "averageRating": 0.0,
   "ratingCount": 0,
   "downloadCount": 0

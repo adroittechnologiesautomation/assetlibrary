@@ -1,7 +1,7 @@
 {
   "id": "02f7e36b-9d97-450f-880e-561ec34a1ee9",
   "name": "Pipe Set 2 Right T",
-  "description": "A Pipe Set 2 Right T.",
+  "description": "Pipe Set 2 Right T.",
   "author": "Adroit Technologies",
   "category": "Pipes/Pipe Set 2",
   "version": "0.0.1",
@@ -15,7 +15,7 @@
   "currency": "ZAR",
   "documentation": "",
   "industries": [],
-  "tags": [],
+  "tags": ["Pipe","Right","T"],
   "averageRating": 0.0,
   "ratingCount": 0,
   "downloadCount": 0

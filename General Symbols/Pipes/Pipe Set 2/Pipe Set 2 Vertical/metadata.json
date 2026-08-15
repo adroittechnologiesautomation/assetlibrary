@@ -1,7 +1,7 @@
 {
   "id": "f9aa8513-3255-41fa-8d03-728ba31c3c97",
   "name": "Pipe Set 2 Vertical",
-  "description": "A Pipe Set 2 Vertical.",
+  "description": "Pipe Set 2 Vertical.",
   "author": "Adroit Technologies",
   "category": "Pipes/Pipe Set 2",
   "version": "0.0.1",
@@ -15,7 +15,7 @@
   "currency": "ZAR",
   "documentation": "",
   "industries": [],
-  "tags": [],
+  "tags": ["Pipe","Vertical"],
   "averageRating": 0.0,
   "ratingCount": 0,
   "downloadCount": 0
