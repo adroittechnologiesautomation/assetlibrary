@@ -15,7 +15,9 @@
   "currency": "ZAR",
   "documentation": "",
   "industries": [],
-  "tags": [],
+  "tags": ["Arrow",
+    "Left"
+  ],
   "averageRating": 0.0,
   "ratingCount": 0,
   "downloadCount": 0

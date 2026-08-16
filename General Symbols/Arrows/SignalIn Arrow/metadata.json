@@ -15,7 +15,8 @@
   "currency": "ZAR",
   "documentation": "",
   "industries": [],
-  "tags": [],
+  "tags": ["Arrow",
+    "SignalIn"],
   "averageRating": 0.0,
   "ratingCount": 0,
   "downloadCount": 0
