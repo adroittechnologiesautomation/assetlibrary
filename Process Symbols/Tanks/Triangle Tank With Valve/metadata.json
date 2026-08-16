@@ -20,7 +20,9 @@
     "Power Generation"
   ],
   "tags": [
-    "Valve"
+    "Tank",
+    "Valve",
+    "2D"
   ],
   "averageRating": 0.0,
   "ratingCount": 0,
