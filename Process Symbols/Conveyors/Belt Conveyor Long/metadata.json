@@ -1,0 +1,28 @@
+{
+  "id": "b977d700-8e5a-447c-9a00-154974ec022f",
+  "name": "Belt Conveyor Long",
+  "description": "Belt Conveyor Long.",
+  "author": "Adroit Technologies",
+  "category": "Process Symbols/Conveyors",
+  "version": "0.0.1",
+  "fileName": "Belt Conveyor Long.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Belt Conveyor Long.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [
+    "Mining",
+    "Manufacturing",
+    "Logistics & Warehousing"
+  ],
+  "tags": [
+    "Conveyor"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

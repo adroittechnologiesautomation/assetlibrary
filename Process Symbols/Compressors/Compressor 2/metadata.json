@@ -1,0 +1,28 @@
+{
+  "id": "1c7f5cd9-f0d7-432a-98ff-2ae1b864e4d4",
+  "name": "Compressor 2",
+  "description": "Compressor 2.",
+  "author": "Adroit Technologies",
+  "category": "Process Symbols/Compressors",
+  "version": "0.0.1",
+  "fileName": "Compressor 2.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Compressor 2.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [
+    "Oil & Gas",
+    "Petrochemical",
+    "Manufacturing"
+  ],
+  "tags": [
+    "Compressor"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

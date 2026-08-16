@@ -1,0 +1,28 @@
+{
+  "id": "fee489e3-2853-4b25-84e5-02009f4c0770",
+  "name": "Cylinder Tank 2",
+  "description": "Cylinder Tank 2.",
+  "author": "Adroit Technologies",
+  "category": "Process Symbols/Tanks",
+  "version": "0.0.1",
+  "fileName": "Cylinder Tank 2.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Cylinder Tank 2.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [
+    "Water & Wastewater",
+    "Oil & Gas",
+    "Food & Beverage"
+  ],
+  "tags": [
+    "Tank"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

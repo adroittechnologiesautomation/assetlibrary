@@ -1,0 +1,22 @@
+{
+  "id": "561c74f5-5026-402c-af84-bcb365904262",
+  "name": "Water Reservoir",
+  "description": "Water Reservoir.",
+  "author": "Adroit Technologies",
+  "category": "Process Symbols/Tanks",
+  "version": "0.0.1",
+  "fileName": "Water Reservoir.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Water Reservoir.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [],
+  "tags": [],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

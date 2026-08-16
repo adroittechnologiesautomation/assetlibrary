@@ -1,0 +1,28 @@
+{
+  "id": "43aba048-aa12-4c7c-8514-86824a82a7bc",
+  "name": "Mill 2",
+  "description": "Mill 2.",
+  "author": "Adroit Technologies",
+  "category": "Process Symbols/Crushers Grinding",
+  "version": "0.0.1",
+  "fileName": "Mill 2.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Mill 2.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [
+    "Mining",
+    "Metals & Steel",
+    "Pulp & Paper"
+  ],
+  "tags": [
+    "Mill"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

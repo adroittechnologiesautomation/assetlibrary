@@ -1,0 +1,29 @@
+{
+  "id": "8ee18b22-0610-48ed-ae47-3f7ce0a06673",
+  "name": "3D Tank 1",
+  "description": "3D Tank 1.",
+  "author": "Adroit Technologies",
+  "category": "Process Symbols/Tanks",
+  "version": "0.0.1",
+  "fileName": "3D Tank 1.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "3D Tank 1.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [
+    "Water & Wastewater",
+    "Oil & Gas",
+    "Food & Beverage"
+  ],
+  "tags": [
+    "Tank",
+    "3D"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

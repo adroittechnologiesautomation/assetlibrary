@@ -1,0 +1,30 @@
+{
+  "id": "cc7a44eb-dd91-40b7-834b-d970b939fec9",
+  "name": "Screw Conveyor Motor Left",
+  "description": "Screw Conveyor Motor Left.",
+  "author": "Adroit Technologies",
+  "category": "Process Symbols/Conveyors",
+  "version": "0.0.1",
+  "fileName": "Screw Conveyor Motor Left.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Screw Conveyor Motor Left.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [
+    "Mining",
+    "Manufacturing",
+    "Logistics & Warehousing"
+  ],
+  "tags": [
+    "Conveyor",
+    "Screw",
+    "Motorized"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

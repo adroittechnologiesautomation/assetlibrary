@@ -1,0 +1,24 @@
+{
+  "id": "8aa76f95-aa33-4983-8d93-1ea7055f854e",
+  "name": "Horizontal Axis Agitator",
+  "description": "Horizontal Axis Agitator.",
+  "author": "Adroit Technologies",
+  "category": "Process Symbols/Agitators",
+  "version": "0.0.1",
+  "fileName": "Horizontal Axis Agitator.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Horizontal Axis Agitator.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [],
+  "tags": [
+    "Agitator"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

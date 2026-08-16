@@ -1,0 +1,28 @@
+{
+  "id": "487d68bc-c0be-4ef0-9ada-762df6dad08e",
+  "name": "Belt Conveyor Short Down",
+  "description": "Belt Conveyor Short Down.",
+  "author": "Adroit Technologies",
+  "category": "Process Symbols/Conveyors",
+  "version": "0.0.1",
+  "fileName": "Belt Conveyor Short Down.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Belt Conveyor Short Down.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [
+    "Mining",
+    "Manufacturing",
+    "Logistics & Warehousing"
+  ],
+  "tags": [
+    "Conveyor"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

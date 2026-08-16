@@ -1,0 +1,29 @@
+{
+  "id": "d4acf305-1452-44bf-81e1-824e6ba099ef",
+  "name": "3D Tank 8",
+  "description": "3D Tank 8.",
+  "author": "Adroit Technologies",
+  "category": "Process Symbols/Tanks",
+  "version": "0.0.1",
+  "fileName": "3D Tank 8.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "3D Tank 8.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [
+    "Water & Wastewater",
+    "Oil & Gas",
+    "Food & Beverage"
+  ],
+  "tags": [
+    "Tank",
+    "3D"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

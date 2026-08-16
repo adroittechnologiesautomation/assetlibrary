@@ -1,0 +1,28 @@
+{
+  "id": "cca8f119-8c64-4215-a8d9-4ad08bbe48b6",
+  "name": "Water Tower Tank 2",
+  "description": "Water Tower Tank 2.",
+  "author": "Adroit Technologies",
+  "category": "Process Symbols/Tanks",
+  "version": "0.0.1",
+  "fileName": "Water Tower Tank 2.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Water Tower Tank 2.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [
+    "Water & Wastewater",
+    "Oil & Gas",
+    "Food & Beverage"
+  ],
+  "tags": [
+    "Tank"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

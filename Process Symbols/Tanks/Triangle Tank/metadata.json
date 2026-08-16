@@ -1,0 +1,28 @@
+{
+  "id": "2bd97e36-9cc0-457f-ba9b-def95c8ae3a6",
+  "name": "Triangle Tank",
+  "description": "Triangle Tank.",
+  "author": "Adroit Technologies",
+  "category": "Process Symbols/Tanks",
+  "version": "0.0.1",
+  "fileName": "Triangle Tank.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Triangle Tank.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [
+    "Water & Wastewater",
+    "Oil & Gas",
+    "Food & Beverage"
+  ],
+  "tags": [
+    "Tank"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

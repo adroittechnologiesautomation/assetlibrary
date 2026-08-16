@@ -1,0 +1,29 @@
+{
+  "id": "e8993d14-4eb8-438c-901e-c151a28a5017",
+  "name": "Holding Tank 2",
+  "description": "Holding Tank 2.",
+  "author": "Adroit Technologies",
+  "category": "Process Symbols/Tanks",
+  "version": "0.0.1",
+  "fileName": "Holding Tank 2.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Holding Tank 2.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [
+    "Water & Wastewater",
+    "Oil & Gas",
+    "Food & Beverage"
+  ],
+  "tags": [
+    "Tank",
+    "DIN"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

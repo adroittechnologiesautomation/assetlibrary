@@ -1,0 +1,28 @@
+{
+  "id": "4d2081ff-8d80-403d-a967-339cf7e56525",
+  "name": "Water Reservoir Tank",
+  "description": "Water Reservoir Tank.",
+  "author": "Adroit Technologies",
+  "category": "Process Symbols/Tanks",
+  "version": "0.0.1",
+  "fileName": "Water Reservoir Tank.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Water Reservoir Tank.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [
+    "Water & Wastewater",
+    "Oil & Gas",
+    "Food & Beverage"
+  ],
+  "tags": [
+    "Tank"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

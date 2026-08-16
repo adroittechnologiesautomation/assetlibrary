@@ -1,0 +1,30 @@
+{
+  "id": "ac4ea575-02c3-4999-bfd4-d80ada52d2a9",
+  "name": "Screw Conveyor Motor Right",
+  "description": "Screw Conveyor Motor Right.",
+  "author": "Adroit Technologies",
+  "category": "Process Symbols/Conveyors",
+  "version": "0.0.1",
+  "fileName": "Screw Conveyor Motor Right.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Screw Conveyor Motor Right.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [
+    "Mining",
+    "Manufacturing",
+    "Logistics & Warehousing"
+  ],
+  "tags": [
+    "Conveyor",
+    "Screw",
+    "Motorized"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

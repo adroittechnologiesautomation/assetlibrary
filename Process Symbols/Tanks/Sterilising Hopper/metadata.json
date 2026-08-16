@@ -1,0 +1,22 @@
+{
+  "id": "9c7bc7fb-6a2d-472e-91d6-3b5c8299a4c1",
+  "name": "Sterilising Hopper",
+  "description": "Sterilising Hopper.",
+  "author": "Adroit Technologies",
+  "category": "Process Symbols/Tanks",
+  "version": "0.0.1",
+  "fileName": "Sterilising Hopper.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Sterilising Hopper.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [],
+  "tags": [],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

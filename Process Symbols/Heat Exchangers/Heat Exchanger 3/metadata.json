@@ -1,0 +1,24 @@
+{
+  "id": "f27a4984-9e5a-4088-866a-67fbbfe165b7",
+  "name": "Heat Exchanger 3",
+  "description": "Heat Exchanger 3.",
+  "author": "Adroit Technologies",
+  "category": "Process Symbols/Heat Exchangers",
+  "version": "0.0.1",
+  "fileName": "Heat Exchanger 3.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Heat Exchanger 3.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [],
+  "tags": [
+    "Heat Exchanger"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

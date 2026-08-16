@@ -1,0 +1,28 @@
+{
+  "id": "cac74a43-f5be-41d8-93e9-5b1b4eef8388",
+  "name": "Raised Tank",
+  "description": "Raised Tank.",
+  "author": "Adroit Technologies",
+  "category": "Process Symbols/Tanks",
+  "version": "0.0.1",
+  "fileName": "Raised Tank.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Raised Tank.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [
+    "Water & Wastewater",
+    "Oil & Gas",
+    "Food & Beverage"
+  ],
+  "tags": [
+    "Tank"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

@@ -1,0 +1,28 @@
+{
+  "id": "32eea220-831a-4ac5-8e08-bf0c66bb0df7",
+  "name": "Belt Conveyor Long Up",
+  "description": "Belt Conveyor Long Up.",
+  "author": "Adroit Technologies",
+  "category": "Process Symbols/Conveyors",
+  "version": "0.0.1",
+  "fileName": "Belt Conveyor Long Up.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Belt Conveyor Long Up.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [
+    "Mining",
+    "Manufacturing",
+    "Logistics & Warehousing"
+  ],
+  "tags": [
+    "Conveyor"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

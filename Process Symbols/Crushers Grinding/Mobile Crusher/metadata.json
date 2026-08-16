@@ -1,0 +1,28 @@
+{
+  "id": "cca4d2e7-3cd8-4bd0-8417-dc3b69e31964",
+  "name": "Mobile Crusher",
+  "description": "Mobile Crusher.",
+  "author": "Adroit Technologies",
+  "category": "Process Symbols/Crushers Grinding",
+  "version": "0.0.1",
+  "fileName": "Mobile Crusher.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Mobile Crusher.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [
+    "Mining",
+    "Cement & Lime",
+    "Metals & Steel"
+  ],
+  "tags": [
+    "Crusher"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

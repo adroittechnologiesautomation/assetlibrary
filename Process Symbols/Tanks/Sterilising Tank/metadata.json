@@ -1,0 +1,28 @@
+{
+  "id": "db95ea1f-6044-4bcf-9e68-d41fda58bccb",
+  "name": "Sterilising Tank",
+  "description": "Sterilising Tank.",
+  "author": "Adroit Technologies",
+  "category": "Process Symbols/Tanks",
+  "version": "0.0.1",
+  "fileName": "Sterilising Tank.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Sterilising Tank.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [
+    "Water & Wastewater",
+    "Oil & Gas",
+    "Food & Beverage"
+  ],
+  "tags": [
+    "Tank"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

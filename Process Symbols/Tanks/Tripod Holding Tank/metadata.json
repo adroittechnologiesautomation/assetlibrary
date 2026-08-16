@@ -1,0 +1,29 @@
+{
+  "id": "ab3ac5db-d455-4410-9b9b-8db41aa800e6",
+  "name": "Tripod Holding Tank",
+  "description": "Tripod Holding Tank.",
+  "author": "Adroit Technologies",
+  "category": "Process Symbols/Tanks",
+  "version": "0.0.1",
+  "fileName": "Tripod Holding Tank.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Tripod Holding Tank.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [
+    "Water & Wastewater",
+    "Oil & Gas",
+    "Food & Beverage"
+  ],
+  "tags": [
+    "Tank",
+    "DIN"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

@@ -1,0 +1,22 @@
+{
+  "id": "9bbba0ee-97b7-410c-b9b5-36831468af70",
+  "name": "Load Hopper",
+  "description": "Load Hopper.",
+  "author": "Adroit Technologies",
+  "category": "Process Symbols/Tanks",
+  "version": "0.0.1",
+  "fileName": "Load Hopper.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Load Hopper.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [],
+  "tags": [],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

@@ -1,0 +1,28 @@
+{
+  "id": "0f40972f-8239-4a4a-bbaa-30b9a9efb542",
+  "name": "Belt Conveyor Long Wheels",
+  "description": "Belt Conveyor Long Wheels.",
+  "author": "Adroit Technologies",
+  "category": "Process Symbols/Conveyors",
+  "version": "0.0.1",
+  "fileName": "Belt Conveyor Long Wheels.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Belt Conveyor Long Wheels.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [
+    "Mining",
+    "Manufacturing",
+    "Logistics & Warehousing"
+  ],
+  "tags": [
+    "Conveyor"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

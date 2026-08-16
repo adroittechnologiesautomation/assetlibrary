@@ -1,0 +1,22 @@
+{
+  "id": "a92aa980-0544-4249-b0bc-00d51c0613ee",
+  "name": "Feed Hopper",
+  "description": "Feed Hopper.",
+  "author": "Adroit Technologies",
+  "category": "Process Symbols/Tanks",
+  "version": "0.0.1",
+  "fileName": "Feed Hopper.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Feed Hopper.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [],
+  "tags": [],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}
