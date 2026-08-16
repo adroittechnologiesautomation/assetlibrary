@@ -1,0 +1,22 @@
+{
+  "id": "80a8b390-be70-4fb6-98bb-5b01a50e628d",
+  "name": "Pie",
+  "description": "Pie.",
+  "author": "Adroit Technologies",
+  "category": "General Symbols/Shapes",
+  "version": "0.0.1",
+  "fileName": "Pie.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Pie.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [],
+  "tags": [],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

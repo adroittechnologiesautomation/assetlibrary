@@ -1,0 +1,22 @@
+{
+  "id": "a7ed8d45-655b-42cf-a591-90e68d5d8fb0",
+  "name": "Star",
+  "description": "Star.",
+  "author": "Adroit Technologies",
+  "category": "General Symbols/Shapes",
+  "version": "0.0.1",
+  "fileName": "Star.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Star.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [],
+  "tags": [],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

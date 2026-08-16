@@ -1,0 +1,22 @@
+{
+  "id": "d10550c5-999a-40e8-a924-2ec9bb0f1d90",
+  "name": "Hexagon",
+  "description": "Hexagon.",
+  "author": "Adroit Technologies",
+  "category": "General Symbols/Shapes",
+  "version": "0.0.1",
+  "fileName": "Hexagon.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Hexagon.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [],
+  "tags": [],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

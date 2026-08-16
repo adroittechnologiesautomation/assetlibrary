@@ -1,0 +1,22 @@
+{
+  "id": "020a2e20-2f9d-4243-9e22-f58e5c9cadd6",
+  "name": "Diamond",
+  "description": "Diamond.",
+  "author": "Adroit Technologies",
+  "category": "General Symbols/Shapes",
+  "version": "0.0.1",
+  "fileName": "Diamond.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Diamond.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [],
+  "tags": [],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}
