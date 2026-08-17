@@ -1,0 +1,22 @@
+{
+  "id": "28ce472a-c898-471d-9906-1bda172da814",
+  "name": "Belt",
+  "description": "Belt.",
+  "author": "Adroit Technologies",
+  "category": "Process Symbols/Misc",
+  "version": "0.0.1",
+  "fileName": "Belt.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Belt.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [],
+  "tags": [],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

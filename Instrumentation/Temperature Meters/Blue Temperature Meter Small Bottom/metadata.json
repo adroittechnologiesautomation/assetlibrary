@@ -1,0 +1,24 @@
+{
+  "id": "04216beb-5f62-44b0-bb8e-3a1a751c9e92",
+  "name": "Blue Temperature Meter Small Bottom",
+  "description": "Blue Temperature Meter Small Bottom.",
+  "author": "Adroit Technologies",
+  "category": "Instrumentation/Temperature Meters",
+  "version": "0.0.1",
+  "fileName": "Blue Temperature Meter Small Bottom.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Blue Temperature Meter Small Bottom.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [],
+  "tags": [
+    "Temperature Instrument"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

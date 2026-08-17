@@ -1,0 +1,24 @@
+{
+  "id": "d8b05467-ed9e-48e7-8f10-3075b107c3fe",
+  "name": "Chrome Pressure Meter Small Bottom",
+  "description": "Chrome Pressure Meter Small Bottom.",
+  "author": "Adroit Technologies",
+  "category": "Instrumentation/Pressure Meters",
+  "version": "0.0.1",
+  "fileName": "Chrome Pressure Meter Small Bottom.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Chrome Pressure Meter Small Bottom.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [],
+  "tags": [
+    "Pressure Instrument"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

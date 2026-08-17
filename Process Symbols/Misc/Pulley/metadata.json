@@ -1,0 +1,22 @@
+{
+  "id": "a5389a59-c6c9-421a-898e-4be0c3d59089",
+  "name": "Pulley",
+  "description": "Pulley.",
+  "author": "Adroit Technologies",
+  "category": "Process Symbols/Misc",
+  "version": "0.0.1",
+  "fileName": "Pulley.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Pulley.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [],
+  "tags": [],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

@@ -1,0 +1,24 @@
+{
+  "id": "443844e4-d705-481b-89b0-5b952719447e",
+  "name": "Chrome Temperature Meter Large Bottom",
+  "description": "Chrome Temperature Meter Large Bottom.",
+  "author": "Adroit Technologies",
+  "category": "Instrumentation/Temperature Meters",
+  "version": "0.0.1",
+  "fileName": "Chrome Temperature Meter Large Bottom.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Chrome Temperature Meter Large Bottom.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [],
+  "tags": [
+    "Temperature Instrument"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

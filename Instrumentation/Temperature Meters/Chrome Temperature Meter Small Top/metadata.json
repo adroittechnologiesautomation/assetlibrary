@@ -1,0 +1,24 @@
+{
+  "id": "5e534c67-d407-4b21-a84c-df3bfc6439d4",
+  "name": "Chrome Temperature Meter Small Top",
+  "description": "Chrome Temperature Meter Small Top.",
+  "author": "Adroit Technologies",
+  "category": "Instrumentation/Temperature Meters",
+  "version": "0.0.1",
+  "fileName": "Chrome Temperature Meter Small Top.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Chrome Temperature Meter Small Top.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [],
+  "tags": [
+    "Temperature Instrument"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

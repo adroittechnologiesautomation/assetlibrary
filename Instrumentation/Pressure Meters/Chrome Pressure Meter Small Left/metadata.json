@@ -1,0 +1,24 @@
+{
+  "id": "0154c81f-97a3-487c-90ed-a23fb2013012",
+  "name": "Chrome Pressure Meter Small Left",
+  "description": "Chrome Pressure Meter Small Left.",
+  "author": "Adroit Technologies",
+  "category": "Instrumentation/Pressure Meters",
+  "version": "0.0.1",
+  "fileName": "Chrome Pressure Meter Small Left.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Chrome Pressure Meter Small Left.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [],
+  "tags": [
+    "Pressure Instrument"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

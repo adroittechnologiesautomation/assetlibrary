@@ -1,0 +1,24 @@
+{
+  "id": "3415ec9f-3c98-47e0-aabc-3b69af7fb3df",
+  "name": "Blue Flow Meter Small Top",
+  "description": "Blue Flow Meter Small Top.",
+  "author": "Adroit Technologies",
+  "category": "Instrumentation/Flow Meters",
+  "version": "0.0.1",
+  "fileName": "Blue Flow Meter Small Top.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Blue Flow Meter Small Top.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [],
+  "tags": [
+    "Flow Meter"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

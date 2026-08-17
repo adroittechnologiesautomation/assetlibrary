@@ -1,0 +1,24 @@
+{
+  "id": "da4eb1bc-5bf0-4fa7-843b-693dfde925f4",
+  "name": "Blue Pressure Meter Large Right",
+  "description": "Blue Pressure Meter Large Right.",
+  "author": "Adroit Technologies",
+  "category": "Instrumentation/Pressure Meters",
+  "version": "0.0.1",
+  "fileName": "Blue Pressure Meter Large Right.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Blue Pressure Meter Large Right.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [],
+  "tags": [
+    "Pressure Instrument"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

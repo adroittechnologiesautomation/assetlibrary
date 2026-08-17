@@ -1,0 +1,24 @@
+{
+  "id": "2428e036-795d-4533-8e84-093890d7dd4f",
+  "name": "Chrome Flow Meter Small Bottom",
+  "description": "Chrome Flow Meter Small Bottom.",
+  "author": "Adroit Technologies",
+  "category": "Instrumentation/Flow Meters",
+  "version": "0.0.1",
+  "fileName": "Chrome Flow Meter Small Bottom.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Chrome Flow Meter Small Bottom.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [],
+  "tags": [
+    "Flow Meter"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

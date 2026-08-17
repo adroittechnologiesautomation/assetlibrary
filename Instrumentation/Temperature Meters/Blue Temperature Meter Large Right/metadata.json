@@ -1,0 +1,24 @@
+{
+  "id": "13d12b3d-3871-4583-a8ba-f7a54658195c",
+  "name": "Blue Temperature Meter Large Right",
+  "description": "Blue Temperature Meter Large Right.",
+  "author": "Adroit Technologies",
+  "category": "Instrumentation/Temperature Meters",
+  "version": "0.0.1",
+  "fileName": "Blue Temperature Meter Large Right.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Blue Temperature Meter Large Right.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [],
+  "tags": [
+    "Temperature Instrument"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

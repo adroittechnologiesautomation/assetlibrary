@@ -1,0 +1,24 @@
+{
+  "id": "a69afea5-9046-4a6d-9aa7-12d39ed55ec4",
+  "name": "Blue Flow Meter Small Bottom",
+  "description": "Blue Flow Meter Small Bottom.",
+  "author": "Adroit Technologies",
+  "category": "Instrumentation/Flow Meters",
+  "version": "0.0.1",
+  "fileName": "Blue Flow Meter Small Bottom.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Blue Flow Meter Small Bottom.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [],
+  "tags": [
+    "Flow Meter"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

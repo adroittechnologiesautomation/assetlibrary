@@ -1,27 +1,22 @@
 {
-  "id": "79e8cced-5451-4d28-b3aa-a21b3109207c",
-  "name": "Placeholder Instrument",
-  "description": "Placeholder Instrument.",
+  "id": "2ad9af6f-c425-4f10-be0f-7e7ab128220c",
+  "name": "Blue Flow Meter Large Right",
+  "description": "Blue Flow Meter Large Right.",
   "author": "Adroit Technologies",
   "category": "Instrumentation/Flow Meters",
   "version": "0.0.1",
-  "fileName": "Placeholder Instrument.viz",
+  "fileName": "Blue Flow Meter Large Right.viz",
   "fileType": "Graphic",
   "previewImages": [
-    "Placeholder Instrument.png"
+    "Blue Flow Meter Large Right.png"
   ],
   "ownerType": "official",
   "licenseType": "free",
   "currency": "ZAR",
   "documentation": "",
-  "industries": [
-    "Water & Wastewater",
-    "Oil & Gas",
-    "Manufacturing"
-  ],
+  "industries": [],
   "tags": [
-    "Placeholder",
-    "Instrument"
+    "Flow Meter"
   ],
   "averageRating": 0.0,
   "ratingCount": 0,

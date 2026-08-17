@@ -1,0 +1,24 @@
+{
+  "id": "6a3203a9-d983-4ef1-a478-e27713674c8c",
+  "name": "Blue Flow Meter Large Top",
+  "description": "Blue Flow Meter Large Top.",
+  "author": "Adroit Technologies",
+  "category": "Instrumentation/Flow Meters",
+  "version": "0.0.1",
+  "fileName": "Blue Flow Meter Large Top.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Blue Flow Meter Large Top.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [],
+  "tags": [
+    "Flow Meter"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

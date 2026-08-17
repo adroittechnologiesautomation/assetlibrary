@@ -1,0 +1,24 @@
+{
+  "id": "537b4451-8046-4059-b7d5-a7658646129b",
+  "name": "Chrome Pressure Meter Large Left",
+  "description": "Chrome Pressure Meter Large Left.",
+  "author": "Adroit Technologies",
+  "category": "Instrumentation/Pressure Meters",
+  "version": "0.0.1",
+  "fileName": "Chrome Pressure Meter Large Left.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Chrome Pressure Meter Large Left.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [],
+  "tags": [
+    "Pressure Instrument"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

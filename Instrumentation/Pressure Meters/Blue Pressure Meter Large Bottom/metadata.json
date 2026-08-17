@@ -1,0 +1,24 @@
+{
+  "id": "df734cba-eafd-4c28-9671-29ab9449311d",
+  "name": "Blue Pressure Meter Large Bottom",
+  "description": "Blue Pressure Meter Large Bottom.",
+  "author": "Adroit Technologies",
+  "category": "Instrumentation/Pressure Meters",
+  "version": "0.0.1",
+  "fileName": "Blue Pressure Meter Large Bottom.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Blue Pressure Meter Large Bottom.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [],
+  "tags": [
+    "Pressure Instrument"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

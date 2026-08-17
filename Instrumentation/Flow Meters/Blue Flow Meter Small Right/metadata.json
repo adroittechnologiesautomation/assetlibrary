@@ -1,0 +1,24 @@
+{
+  "id": "15a1ada7-f81a-4325-9f48-ca61899fd351",
+  "name": "Blue Flow Meter Small Right",
+  "description": "Blue Flow Meter Small Right.",
+  "author": "Adroit Technologies",
+  "category": "Instrumentation/Flow Meters",
+  "version": "0.0.1",
+  "fileName": "Blue Flow Meter Small Right.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Blue Flow Meter Small Right.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [],
+  "tags": [
+    "Flow Meter"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

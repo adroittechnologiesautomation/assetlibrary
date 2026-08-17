@@ -1,0 +1,24 @@
+{
+  "id": "ee437e2a-f33a-490d-95a2-0fa95a55b356",
+  "name": "Chrome Flow Meter Large Right",
+  "description": "Chrome Flow Meter Large Right.",
+  "author": "Adroit Technologies",
+  "category": "Instrumentation/Flow Meters",
+  "version": "0.0.1",
+  "fileName": "Chrome Flow Meter Large Right.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Chrome Flow Meter Large Right.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [],
+  "tags": [
+    "Flow Meter"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

@@ -1,0 +1,24 @@
+{
+  "id": "c231a682-9582-4369-b3ab-5fbef44564b6",
+  "name": "Chrome Temperature Meter Small Bottom",
+  "description": "Chrome Temperature Meter Small Bottom.",
+  "author": "Adroit Technologies",
+  "category": "Instrumentation/Temperature Meters",
+  "version": "0.0.1",
+  "fileName": "Chrome Temperature Meter Small Bottom.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Chrome Temperature Meter Small Bottom.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [],
+  "tags": [
+    "Temperature Instrument"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

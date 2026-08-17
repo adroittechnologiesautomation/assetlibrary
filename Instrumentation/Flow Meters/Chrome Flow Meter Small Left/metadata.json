@@ -1,0 +1,24 @@
+{
+  "id": "93ae8b35-f0e1-4395-ac5a-f3087d2517c4",
+  "name": "Chrome Flow Meter Small Left",
+  "description": "Chrome Flow Meter Small Left.",
+  "author": "Adroit Technologies",
+  "category": "Instrumentation/Flow Meters",
+  "version": "0.0.1",
+  "fileName": "Chrome Flow Meter Small Left.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Chrome Flow Meter Small Left.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [],
+  "tags": [
+    "Flow Meter"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

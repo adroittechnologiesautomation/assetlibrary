@@ -1,0 +1,24 @@
+{
+  "id": "f67189da-80df-43ec-8d0a-442d9eb3b6de",
+  "name": "Chrome Temperature Meter Large Right",
+  "description": "Chrome Temperature Meter Large Right.",
+  "author": "Adroit Technologies",
+  "category": "Instrumentation/Temperature Meters",
+  "version": "0.0.1",
+  "fileName": "Chrome Temperature Meter Large Right.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Chrome Temperature Meter Large Right.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [],
+  "tags": [
+    "Temperature Instrument"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

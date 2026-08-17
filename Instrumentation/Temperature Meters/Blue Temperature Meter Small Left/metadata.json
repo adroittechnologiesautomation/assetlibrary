@@ -1,0 +1,24 @@
+{
+  "id": "5c9187e6-13b9-4c9b-913a-ac8eae856105",
+  "name": "Blue Temperature Meter Small Left",
+  "description": "Blue Temperature Meter Small Left.",
+  "author": "Adroit Technologies",
+  "category": "Instrumentation/Temperature Meters",
+  "version": "0.0.1",
+  "fileName": "Blue Temperature Meter Small Left.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Blue Temperature Meter Small Left.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [],
+  "tags": [
+    "Temperature Instrument"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

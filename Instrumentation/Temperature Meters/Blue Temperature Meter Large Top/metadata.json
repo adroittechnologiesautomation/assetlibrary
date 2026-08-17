@@ -1,0 +1,24 @@
+{
+  "id": "ede13bee-5863-4536-99cb-2cebca830d50",
+  "name": "Blue Temperature Meter Large Top",
+  "description": "Blue Temperature Meter Large Top.",
+  "author": "Adroit Technologies",
+  "category": "Instrumentation/Temperature Meters",
+  "version": "0.0.1",
+  "fileName": "Blue Temperature Meter Large Top.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Blue Temperature Meter Large Top.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [],
+  "tags": [
+    "Temperature Instrument"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}
