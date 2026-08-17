@@ -1,0 +1,29 @@
+{
+  "id": "88acb77f-24f7-4a9a-929c-da539cf8db9f",
+  "name": "Electric Motor",
+  "description": "Electric Motor.",
+  "author": "Adroit Technologies",
+  "category": "Process Symbols/Motors",
+  "version": "0.0.1",
+  "fileName": "Electric Motor.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Electric Motor.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [
+    "Manufacturing",
+    "Mining",
+    "Power Generation"
+  ],
+  "tags": [
+    "Motor",
+    "Motorized"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

@@ -1,0 +1,30 @@
+{
+  "id": "da64152c-61db-4a3e-9b45-710a3d0eb3b3",
+  "name": "Chrome Horizontal Mounted Motor",
+  "description": "Chrome Horizontal Mounted Motor.",
+  "author": "Adroit Technologies",
+  "category": "Process Symbols/Motors",
+  "version": "0.0.1",
+  "fileName": "Chrome Horizontal Mounted Motor.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Chrome Horizontal Mounted Motor.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [
+    "Manufacturing",
+    "Mining",
+    "Power Generation"
+  ],
+  "tags": [
+    "Motor",
+    "Chrome",
+    "2D"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

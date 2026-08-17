@@ -1,0 +1,30 @@
+{
+  "id": "cd87eb74-eae1-4d18-be1a-055b0cd6e539",
+  "name": "Motor 2",
+  "description": "Motor 2.",
+  "author": "Adroit Technologies",
+  "category": "Process Symbols/Motors",
+  "version": "0.0.1",
+  "fileName": "Motor 2.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Motor 2.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [
+    "Manufacturing",
+    "Mining",
+    "Power Generation"
+  ],
+  "tags": [
+    "Motor",
+    "Motorized",
+    "2D"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

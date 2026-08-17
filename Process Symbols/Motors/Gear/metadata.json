@@ -1,0 +1,24 @@
+{
+  "id": "2f1a9be4-3e21-4443-bb25-94637fb71b38",
+  "name": "Gear",
+  "description": "Gear.",
+  "author": "Adroit Technologies",
+  "category": "Process Symbols/Motors",
+  "version": "0.0.1",
+  "fileName": "Gear.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Gear.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [],
+  "tags": [
+    "Gear"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}
