@@ -1,0 +1,22 @@
+{
+  "id": "008489d4-ea88-4b55-847b-c4e81d81900d",
+  "name": "Mitsubishi FX 1N",
+  "description": "Mitsubishi FX 1N.",
+  "author": "Adroit Technologies",
+  "category": "Devices/PLCs/Mitsubishi",
+  "version": "0.0.1",
+  "fileName": "Mitsubishi FX 1N.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Mitsubishi FX 1N.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [],
+  "tags": [],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

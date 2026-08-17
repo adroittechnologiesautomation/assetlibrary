@@ -1,0 +1,22 @@
+{
+  "id": "db8d7b14-b99c-49fe-ab5b-b391847c086a",
+  "name": "Mitsubishi GOT1000",
+  "description": "Mitsubishi GOT1000.",
+  "author": "Adroit Technologies",
+  "category": "Devices/GOTs/Mitsubishi",
+  "version": "0.0.1",
+  "fileName": "Mitsubishi GOT1000.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Mitsubishi GOT1000.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [],
+  "tags": [],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

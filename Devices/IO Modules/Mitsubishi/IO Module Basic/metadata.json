@@ -1,0 +1,22 @@
+{
+  "id": "ea9f87a7-d0a3-415a-a421-c2d250fbf13d",
+  "name": "IO Module Basic",
+  "description": "IO Module Basic.",
+  "author": "Adroit Technologies",
+  "category": "Devices/IO Modules/Mitsubishi",
+  "version": "0.0.1",
+  "fileName": "IO Module Basic.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "IO Module Basic.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [],
+  "tags": [],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

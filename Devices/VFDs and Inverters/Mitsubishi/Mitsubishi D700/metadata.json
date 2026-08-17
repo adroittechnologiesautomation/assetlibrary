@@ -1,0 +1,22 @@
+{
+  "id": "e24485d8-7a14-4408-b67c-cd7442f1fa35",
+  "name": "Mitsubishi D700",
+  "description": "Mitsubishi D700.",
+  "author": "Adroit Technologies",
+  "category": "Devices/VFDs and Inverters/Mitsubishi",
+  "version": "0.0.1",
+  "fileName": "Mitsubishi D700.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Mitsubishi D700.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [],
+  "tags": [],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

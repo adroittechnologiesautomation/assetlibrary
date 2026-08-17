@@ -1,0 +1,22 @@
+{
+  "id": "65ddee21-7571-48f7-bcdf-dfe391880d3d",
+  "name": "IO Module Input",
+  "description": "IO Module Input.",
+  "author": "Adroit Technologies",
+  "category": "Devices/IO Modules/Mitsubishi",
+  "version": "0.0.1",
+  "fileName": "IO Module Input.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "IO Module Input.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [],
+  "tags": [],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

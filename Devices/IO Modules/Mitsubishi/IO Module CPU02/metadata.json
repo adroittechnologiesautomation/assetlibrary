@@ -1,0 +1,22 @@
+{
+  "id": "bcf44c6f-193c-49cb-b718-716762974426",
+  "name": "IO Module CPU02",
+  "description": "IO Module CPU02.",
+  "author": "Adroit Technologies",
+  "category": "Devices/IO Modules/Mitsubishi",
+  "version": "0.0.1",
+  "fileName": "IO Module CPU02.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "IO Module CPU02.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [],
+  "tags": [],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}
