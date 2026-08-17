@@ -1,7 +1,7 @@
 {
   "id": "a8f52107-19db-46a4-a85d-8106d8245ed2",
   "name": "RadarPlot 3",
-  "description": "A RadarPlot 3.",
+  "description": "RadarPlot 3.",
   "author": "Adroit Technologies",
   "category": "Situational Awareness/Radar Plots",
   "version": "0.0.1",
@@ -15,7 +15,7 @@
   "currency": "ZAR",
   "documentation": "",
   "industries": [],
-  "tags": [],
+  "tags": ["RadarPlot"],
   "averageRating": 0.0,
   "ratingCount": 0,
   "downloadCount": 0

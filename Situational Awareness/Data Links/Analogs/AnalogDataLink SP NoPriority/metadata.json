@@ -1,7 +1,7 @@
 {
   "id": "bf2429a5-6382-4db6-a441-41a77be1ed55",
   "name": "AnalogDataLink SP NoPriority",
-  "description": "A AnalogDataLink SP NoPriority.",
+  "description": "AnalogDataLink SP NoPriority.",
   "author": "Adroit Technologies",
   "category": "Situational Awareness/Data Links/Analogs",
   "version": "0.0.1",

@@ -1,14 +1,14 @@
 {
   "id": "d7ea097e-797e-4ff7-8243-ff0e4f9fe241",
-  "name": "MotorHorizontal",
-  "description": "A MotorHorizontal.",
+  "name": "Motor Horizontal",
+  "description": "Motor Horizontal.",
   "author": "Adroit Technologies",
   "category": "Situational Awareness/ISO Shapes/Motors",
   "version": "0.0.1",
-  "fileName": "MotorHorizontal.vizw",
+  "fileName": "Motor Horizontal.vizw",
   "fileType": "Wizard",
   "previewImages": [
-    "MotorHorizontal.png"
+    "Motor Horizontal.png"
   ],
   "ownerType": "official",
   "licenseType": "free",
@@ -21,7 +21,8 @@
   ],
   "tags": [
     "Motor",
-    "Motorized"
+    "Horizontal",
+    "ISO"
   ],
   "averageRating": 0.0,
   "ratingCount": 0,

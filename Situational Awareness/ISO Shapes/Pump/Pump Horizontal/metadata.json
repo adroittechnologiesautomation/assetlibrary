@@ -1,14 +1,14 @@
 {
   "id": "ffe0ee78-d844-43f9-afa5-670b680bff85",
-  "name": "PumpHorizontal",
-  "description": "A PumpHorizontal.",
+  "name": "Pump Horizontal",
+  "description": "Pump Horizontal.",
   "author": "Adroit Technologies",
   "category": "Situational Awareness/ISO Shapes/Pump",
   "version": "0.0.1",
-  "fileName": "PumpHorizontal.vizw",
+  "fileName": "Pump Horizontal.vizw",
   "fileType": "Wizard",
   "previewImages": [
-    "PumpHorizontal.png"
+    "Pump Horizontal.png"
   ],
   "ownerType": "official",
   "licenseType": "free",
@@ -20,7 +20,9 @@
     "Manufacturing"
   ],
   "tags": [
-    "Pump"
+    "Pump",
+    "Horizontal",
+    "ISO"
   ],
   "averageRating": 0.0,
   "ratingCount": 0,

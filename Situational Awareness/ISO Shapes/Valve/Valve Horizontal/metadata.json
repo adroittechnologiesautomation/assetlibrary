@@ -1,27 +1,27 @@
 {
-  "id": "66cdc91d-b312-4748-b879-ee5463be3436",
-  "name": "MotorVertical",
-  "description": "A MotorVertical.",
+  "id": "773d6a39-76e3-4985-8919-ff87f6dc212d",
+  "name": "Valve Horizontal",
+  "description": "Valve Horizontal.",
   "author": "Adroit Technologies",
-  "category": "Situational Awareness/ISO Shapes/Motors",
+  "category": "Situational Awareness/ISO Shapes/Valve",
   "version": "0.0.1",
-  "fileName": "MotorVertical.vizw",
+  "fileName": "Valve Horizontal.vizw",
   "fileType": "Wizard",
   "previewImages": [
-    "MotorVertical.png"
+    "Valve Horizontal.png"
   ],
   "ownerType": "official",
   "licenseType": "free",
   "currency": "ZAR",
   "documentation": "",
   "industries": [
-    "Manufacturing",
-    "Mining",
+    "Water & Wastewater",
+    "Oil & Gas",
     "Power Generation"
   ],
   "tags": [
-    "Motor",
-    "Motorized"
+    "Valve",
+    "Horizontal","ISO"
   ],
   "averageRating": 0.0,
   "ratingCount": 0,

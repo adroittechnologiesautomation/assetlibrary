@@ -1,14 +1,14 @@
 {
-  "id": "773d6a39-76e3-4985-8919-ff87f6dc212d",
-  "name": "ValveHorizontal",
-  "description": "A ValveHorizontal.",
+  "id": "17a2cd5d-d8fa-4eda-b779-3ae1f1b3619d",
+  "name": "Pump Vertical",
+  "description": "Pump Vertical.",
   "author": "Adroit Technologies",
-  "category": "Situational Awareness/ISO Shapes/Valve",
+  "category": "Situational Awareness/ISO Shapes/Pump",
   "version": "0.0.1",
-  "fileName": "ValveHorizontal.vizw",
+  "fileName": "Pump Vertical.vizw",
   "fileType": "Wizard",
   "previewImages": [
-    "ValveHorizontal.png"
+    "Pump Vertical.png"
   ],
   "ownerType": "official",
   "licenseType": "free",
@@ -17,10 +17,12 @@
   "industries": [
     "Water & Wastewater",
     "Oil & Gas",
-    "Power Generation"
+    "Manufacturing"
   ],
   "tags": [
-    "Valve"
+    "Pump",
+    "Vertical",
+    "ISO"
   ],
   "averageRating": 0.0,
   "ratingCount": 0,

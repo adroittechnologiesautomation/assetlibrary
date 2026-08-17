@@ -1,7 +1,7 @@
 {
   "id": "f9861d36-5ba4-4222-a02e-fe7597cd4570",
   "name": "RadarPlot 6",
-  "description": "A RadarPlot 6.",
+  "description": "RadarPlot 6.",
   "author": "Adroit Technologies",
   "category": "Situational Awareness/Radar Plots",
   "version": "0.0.1",
@@ -15,7 +15,7 @@
   "currency": "ZAR",
   "documentation": "",
   "industries": [],
-  "tags": [],
+  "tags": ["RadarPlot"],
   "averageRating": 0.0,
   "ratingCount": 0,
   "downloadCount": 0
