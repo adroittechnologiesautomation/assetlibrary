@@ -1,0 +1,24 @@
+{
+  "id": "b5d544ba-3fe3-4b2c-92d0-945e69b904a7",
+  "name": "Agitator Helical",
+  "description": "Agitator Helical.",
+  "author": "Adroit Technologies",
+  "category": "Process Symbols/Mixers",
+  "version": "0.0.1",
+  "fileName": "Agitator Helical.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Agitator Helical.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [],
+  "tags": [
+    "Agitator"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

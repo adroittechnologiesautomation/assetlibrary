@@ -1,0 +1,28 @@
+{
+  "id": "da3cd145-fdd2-4b40-9687-df2ab15c4e1b",
+  "name": "Fine Crusher",
+  "description": "Fine Crusher.",
+  "author": "Adroit Technologies",
+  "category": "Process Symbols/Crushers Grinding",
+  "version": "0.0.1",
+  "fileName": "Fine Crusher.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Fine Crusher.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [
+    "Mining",
+    "Cement & Lime",
+    "Metals & Steel"
+  ],
+  "tags": [
+    "Crusher"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

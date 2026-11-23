@@ -1,0 +1,28 @@
+{
+  "id": "fe13b07b-c3c1-4756-80f8-a24817a68d3b",
+  "name": "Medium Crusher",
+  "description": "Medium Crusher.",
+  "author": "Adroit Technologies",
+  "category": "Process Symbols/Crushers Grinding",
+  "version": "0.0.1",
+  "fileName": "Medium Crusher.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Medium Crusher.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [
+    "Mining",
+    "Cement & Lime",
+    "Metals & Steel"
+  ],
+  "tags": [
+    "Crusher"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

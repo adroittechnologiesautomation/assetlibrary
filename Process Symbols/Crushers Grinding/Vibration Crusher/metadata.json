@@ -1,0 +1,28 @@
+{
+  "id": "527be004-9dbc-484d-8acc-86522cb249a9",
+  "name": "Vibration Crusher",
+  "description": "Vibration Crusher.",
+  "author": "Adroit Technologies",
+  "category": "Process Symbols/Crushers Grinding",
+  "version": "0.0.1",
+  "fileName": "Vibration Crusher.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Vibration Crusher.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [
+    "Mining",
+    "Cement & Lime",
+    "Metals & Steel"
+  ],
+  "tags": [
+    "Crusher"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

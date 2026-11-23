@@ -1,0 +1,25 @@
+{
+  "id": "ccca3a42-3330-484f-a045-500e1b6bd3e1",
+  "name": "Roller Conveyer Belt Dryer",
+  "description": "Roller Conveyer Belt Dryer.",
+  "author": "Adroit Technologies",
+  "category": "Process Symbols/Driers",
+  "version": "0.0.1",
+  "fileName": "Roller Conveyer Belt Dryer.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Roller Conveyer Belt Dryer.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [],
+  "tags": [
+    "Dryer",
+    "Roller"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

@@ -1,0 +1,24 @@
+{
+  "id": "d2de25d1-ded4-493f-aa88-669c5fb77004",
+  "name": "InLine Mixer",
+  "description": "InLine Mixer.",
+  "author": "Adroit Technologies",
+  "category": "Process Symbols/Mixers",
+  "version": "0.0.1",
+  "fileName": "InLine Mixer.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "InLine Mixer.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [],
+  "tags": [
+    "Mixer"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

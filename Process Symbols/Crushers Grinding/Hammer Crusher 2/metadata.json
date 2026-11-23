@@ -1,0 +1,29 @@
+{
+  "id": "e45a04d5-a2e5-4b75-a9f2-1b6071e17a02",
+  "name": "Hammer Crusher 2",
+  "description": "Hammer Crusher 2.",
+  "author": "Adroit Technologies",
+  "category": "Process Symbols/Crushers Grinding",
+  "version": "0.0.1",
+  "fileName": "Hammer Crusher 2.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Hammer Crusher 2.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [
+    "Mining",
+    "Cement & Lime",
+    "Metals & Steel"
+  ],
+  "tags": [
+    "Crusher",
+    "Hammer"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

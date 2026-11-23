@@ -1,0 +1,24 @@
+{
+  "id": "61fb416d-a411-4806-9f3e-e51ee2006fca",
+  "name": "Agitator Anchor",
+  "description": "Agitator Anchor.",
+  "author": "Adroit Technologies",
+  "category": "Process Symbols/Mixers",
+  "version": "0.0.1",
+  "fileName": "Agitator Anchor.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Agitator Anchor.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [],
+  "tags": [
+    "Agitator"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

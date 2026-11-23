@@ -1,0 +1,29 @@
+{
+  "id": "4d1eaf26-5be3-44de-8a40-f153e68ebc5b",
+  "name": "Roller Crusher",
+  "description": "Roller Crusher.",
+  "author": "Adroit Technologies",
+  "category": "Process Symbols/Crushers Grinding",
+  "version": "0.0.1",
+  "fileName": "Roller Crusher.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Roller Crusher.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [
+    "Mining",
+    "Cement & Lime",
+    "Metals & Steel"
+  ],
+  "tags": [
+    "Crusher",
+    "Roller"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

@@ -1,0 +1,24 @@
+{
+  "id": "69c6408b-5587-4647-9795-a06fb164b460",
+  "name": "Various Mixers",
+  "description": "Various Mixers.",
+  "author": "Adroit Technologies",
+  "category": "Process Symbols/Mixers",
+  "version": "0.0.1",
+  "fileName": "Various Mixers.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Various Mixers.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [],
+  "tags": [
+    "Mixer"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

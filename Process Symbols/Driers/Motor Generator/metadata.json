@@ -1,0 +1,29 @@
+{
+  "id": "10989da9-0023-453d-831b-df25458122ae",
+  "name": "Motor Generator",
+  "description": "Motor Generator.",
+  "author": "Adroit Technologies",
+  "category": "Process Symbols/Driers",
+  "version": "0.0.1",
+  "fileName": "Motor Generator.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Motor Generator.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [
+    "Manufacturing",
+    "Mining",
+    "Power Generation"
+  ],
+  "tags": [
+    "Motor",
+    "Motorized"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

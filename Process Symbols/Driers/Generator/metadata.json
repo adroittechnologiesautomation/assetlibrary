@@ -1,0 +1,24 @@
+{
+  "id": "115b62e4-4739-427b-a2f4-e785ce7ab798",
+  "name": "Generator",
+  "description": "Generator.",
+  "author": "Adroit Technologies",
+  "category": "Process Symbols/Driers",
+  "version": "0.0.1",
+  "fileName": "Generator.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Generator.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [],
+  "tags": [
+    "Generator"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

@@ -1,0 +1,24 @@
+{
+  "id": "793b1be2-f223-41ba-a87a-348aed47270f",
+  "name": "Agitator Stirrer",
+  "description": "Agitator Stirrer.",
+  "author": "Adroit Technologies",
+  "category": "Process Symbols/Mixers",
+  "version": "0.0.1",
+  "fileName": "Agitator Stirrer.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Agitator Stirrer.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [],
+  "tags": [
+    "Agitator"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

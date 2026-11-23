@@ -1,0 +1,28 @@
+{
+  "id": "ae16d449-7084-4d48-b3a5-c3902363555f",
+  "name": "Various Crushers",
+  "description": "Various Crushers.",
+  "author": "Adroit Technologies",
+  "category": "Process Symbols/Crushers Grinding",
+  "version": "0.0.1",
+  "fileName": "Various Crushers.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Various Crushers.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [
+    "Mining",
+    "Cement & Lime",
+    "Metals & Steel"
+  ],
+  "tags": [
+    "Crusher"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

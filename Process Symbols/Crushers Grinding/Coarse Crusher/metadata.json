@@ -1,0 +1,28 @@
+{
+  "id": "ecc311e7-0e0a-474b-aa75-5030acb0a1aa",
+  "name": "Coarse Crusher",
+  "description": "Coarse Crusher.",
+  "author": "Adroit Technologies",
+  "category": "Process Symbols/Crushers Grinding",
+  "version": "0.0.1",
+  "fileName": "Coarse Crusher.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Coarse Crusher.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [
+    "Mining",
+    "Cement & Lime",
+    "Metals & Steel"
+  ],
+  "tags": [
+    "Crusher"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}
