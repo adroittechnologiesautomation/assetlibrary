@@ -1,0 +1,22 @@
+{
+  "id": "79d1607d-c938-4be6-bb86-1f0f5ac13bf9",
+  "name": "Bus 1",
+  "description": "Bus 1.",
+  "author": "Adroit Technologies",
+  "category": "General Symbols/Network",
+  "version": "0.0.1",
+  "fileName": "Bus 1.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Bus 1.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [],
+  "tags": [],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

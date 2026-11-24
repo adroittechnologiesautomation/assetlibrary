@@ -1,0 +1,24 @@
+{
+  "id": "4e069eb8-68b6-4229-9dc6-6c93f7540a44",
+  "name": "Radio Tower",
+  "description": "Radio Tower.",
+  "author": "Adroit Technologies",
+  "category": "General Symbols/Network",
+  "version": "0.0.1",
+  "fileName": "Radio Tower.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Radio Tower.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [],
+  "tags": [
+    "Tower"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}
