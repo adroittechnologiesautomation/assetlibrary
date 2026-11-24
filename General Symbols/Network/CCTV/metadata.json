@@ -1,0 +1,22 @@
+{
+  "id": "a019d317-41cf-4c68-a208-90930a50c5ea",
+  "name": "CCTV",
+  "description": "CCTV.",
+  "author": "Adroit Technologies",
+  "category": "General Symbols/Network",
+  "version": "0.0.1",
+  "fileName": "CCTV.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "CCTV.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [],
+  "tags": [],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

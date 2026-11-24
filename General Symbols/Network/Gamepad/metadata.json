@@ -1,0 +1,22 @@
+{
+  "id": "f6a2d49d-8ea3-4ffb-87d7-bcf5e8a67605",
+  "name": "Gamepad",
+  "description": "Gamepad.",
+  "author": "Adroit Technologies",
+  "category": "General Symbols/Network",
+  "version": "0.0.1",
+  "fileName": "Gamepad.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Gamepad.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [],
+  "tags": [],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

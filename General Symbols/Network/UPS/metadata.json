@@ -1,0 +1,22 @@
+{
+  "id": "1c49d119-490f-4343-a79f-35482d2567c7",
+  "name": "UPS",
+  "description": "UPS.",
+  "author": "Adroit Technologies",
+  "category": "General Symbols/Network",
+  "version": "0.0.1",
+  "fileName": "UPS.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "UPS.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [],
+  "tags": [],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

@@ -1,0 +1,24 @@
+{
+  "id": "ace8d89f-596e-46a4-bf0e-6f41af973b49",
+  "name": "Globe",
+  "description": "Globe.",
+  "author": "Adroit Technologies",
+  "category": "General Symbols/Network",
+  "version": "0.0.1",
+  "fileName": "Globe.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Globe.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [],
+  "tags": [
+    "Globe"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

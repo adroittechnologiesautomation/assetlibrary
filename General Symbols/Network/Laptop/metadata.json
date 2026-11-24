@@ -1,0 +1,22 @@
+{
+  "id": "0dfb3f36-43e9-43c3-b64a-72e72d991337",
+  "name": "Laptop",
+  "description": "Laptop.",
+  "author": "Adroit Technologies",
+  "category": "General Symbols/Network",
+  "version": "0.0.1",
+  "fileName": "Laptop.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Laptop.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [],
+  "tags": [],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

@@ -1,0 +1,22 @@
+{
+  "id": "9add6180-0dbb-4c03-979a-3ba786bae7a6",
+  "name": "Monitor",
+  "description": "Monitor.",
+  "author": "Adroit Technologies",
+  "category": "General Symbols/Network",
+  "version": "0.0.1",
+  "fileName": "Monitor.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Monitor.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [],
+  "tags": [],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

@@ -1,0 +1,22 @@
+{
+  "id": "12f3ea5f-04fb-4bd0-987f-808d465120c2",
+  "name": "Threat",
+  "description": "Threat.",
+  "author": "Adroit Technologies",
+  "category": "General Symbols/Network",
+  "version": "0.0.1",
+  "fileName": "Threat.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Threat.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [],
+  "tags": [],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

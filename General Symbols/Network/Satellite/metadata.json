@@ -1,0 +1,22 @@
+{
+  "id": "9d2570d8-6fef-43ae-96e8-9dcb350e7ebc",
+  "name": "Satellite",
+  "description": "Satellite.",
+  "author": "Adroit Technologies",
+  "category": "General Symbols/Network",
+  "version": "0.0.1",
+  "fileName": "Satellite.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Satellite.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [],
+  "tags": [],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

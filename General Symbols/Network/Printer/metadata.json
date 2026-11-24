@@ -1,0 +1,22 @@
+{
+  "id": "6b87e077-6531-4aed-9f19-222156cf424e",
+  "name": "Printer",
+  "description": "Printer.",
+  "author": "Adroit Technologies",
+  "category": "General Symbols/Network",
+  "version": "0.0.1",
+  "fileName": "Printer.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Printer.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [],
+  "tags": [],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

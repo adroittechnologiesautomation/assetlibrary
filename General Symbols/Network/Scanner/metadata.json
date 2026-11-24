@@ -1,0 +1,22 @@
+{
+  "id": "ce4d46ec-ce63-422b-b3e8-981bcaa9a984",
+  "name": "Scanner",
+  "description": "Scanner.",
+  "author": "Adroit Technologies",
+  "category": "General Symbols/Network",
+  "version": "0.0.1",
+  "fileName": "Scanner.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Scanner.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [],
+  "tags": [],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

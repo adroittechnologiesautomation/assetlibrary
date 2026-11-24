@@ -1,0 +1,22 @@
+{
+  "id": "572a06b3-02fc-47df-b2d8-48ec8fba0a4c",
+  "name": "Phone",
+  "description": "Phone.",
+  "author": "Adroit Technologies",
+  "category": "General Symbols/Network",
+  "version": "0.0.1",
+  "fileName": "Phone.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Phone.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [],
+  "tags": [],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}
