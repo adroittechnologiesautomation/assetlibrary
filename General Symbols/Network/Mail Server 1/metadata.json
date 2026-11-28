@@ -1,0 +1,22 @@
+{
+  "id": "c721556e-b6fe-4b3f-a8ca-628af5d78a04",
+  "name": "Mail Server 1",
+  "description": "Mail Server 1.",
+  "author": "Adroit Technologies",
+  "category": "General Symbols/Network",
+  "version": "0.0.1",
+  "fileName": "Mail Server 1.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Mail Server 1.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [],
+  "tags": [],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

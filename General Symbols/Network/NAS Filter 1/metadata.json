@@ -1,0 +1,24 @@
+{
+  "id": "d73c073c-935d-48c3-b543-482cd4840e88",
+  "name": "NAS Filter 1",
+  "description": "NAS Filter 1.",
+  "author": "Adroit Technologies",
+  "category": "General Symbols/Network",
+  "version": "0.0.1",
+  "fileName": "NAS Filter 1.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "NAS Filter 1.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [],
+  "tags": [
+    "Filter"
+  ],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}

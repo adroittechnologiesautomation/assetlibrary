@@ -1,0 +1,22 @@
+{
+  "id": "1629b823-b1a8-456c-8548-ecaf82fb42db",
+  "name": "Tablet 1",
+  "description": "Tablet 1.",
+  "author": "Adroit Technologies",
+  "category": "General Symbols/Network",
+  "version": "0.0.1",
+  "fileName": "Tablet 1.viz",
+  "fileType": "Graphic",
+  "previewImages": [
+    "Tablet 1.png"
+  ],
+  "ownerType": "official",
+  "licenseType": "free",
+  "currency": "ZAR",
+  "documentation": "",
+  "industries": [],
+  "tags": [],
+  "averageRating": 0.0,
+  "ratingCount": 0,
+  "downloadCount": 0
+}
